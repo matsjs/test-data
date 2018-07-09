@@ -1,0 +1,9 @@
+Norsk Tillitsmann ASA
+10.2.1
+The Issuer may in its discretion redeem the entire Bond Issue (but not only a part thereof) with settlement date at any time from the Issue Date to, but not included, the Maturity Date (the "Call Option") at a price (the "Call Option Price") equivalent to the sum of:
+(a) the present value on the relevant record date of 100% of the Face Value due on the Maturity Date;
+(b) the present value on the relevant record date of the remaining coupon payments (less any accrued but unpaid interest) through and including the Maturity Date; and
+(c) accrued but unpaid interest on the redeemed amount.
+Both (a) and (b) above shall be calculated by using a discount rate of 50 basis points over the comparable Norwegian Treasury Rate (i.e. comparable to the remaining duration of the Bonds until the Maturity Date) and where "relevant record date" shall mean a date agreed upon between the Trustee, the Paying Agent, VPS and the Issuer in connection with such redemption.
+Norwegian Treasury Rate means, with respect to any relevant record date, the yield to maturity as of such relevant calculation date o f Norwegian government bonds or treasury bills denominated in Norwegian kroner with a fixed maturity falling on, or as close as possible to, the Maturity Date; provided, however, that if the period from such relevant calculation date to the Maturity Date is less than one year, the weekly average yield on Norwegian government bonds or treasury bills denominated in Norwegian kroner adjusted to a fixed maturity of one year shall be used.
+10.2.2 Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty Business Days prior to the settlement date of the Call Option.

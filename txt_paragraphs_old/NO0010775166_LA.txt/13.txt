@@ -1,0 +1,9 @@
+"Listing Failure Event" means that the Bonds have not been admitted to listing on an Exchange in accordance with Clause 3.1.
+(a) the present value on the Make Whole Calculation Date of the Face Value of the redeemed Bonds, assuming such amount to be a payment due on the First Call Date (and at the then applicable redemption price); and
+(b) the present value on the Make Whole Calculation Date of the remaining scheduled payments of interest on the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds up to (but excluding) the First Call Date in respect of the Bonds,
+where the present value shall be calculated by using a discount rate of 50 basis points over the comparable Bund Rate (i.e. comparable to the remaining duration of the Bonds until the First Call Date) (plus accrued interest on redeemed amount), and where the interest rate applied for the remaining interest payments shall equal the interpolated EUR mid-swap rate for this period plus the Margin.
+"Make-Whole Calculation Date" means the first Business Day after the day the Issuer has sent the notice for exercising the Call Option.
+"Managers" means the managers for the Bond Issue, being Arctic Securities AS, DNB Markets, a part of DNB Bank ASA and Nordea Bank Norge ASA, Nordea Markets.
+"Margin" means 700 basis points (7.00%) per annum.
+"Material Adverse Effect" means a material adverse effect on (a) the Issuer's ability to perform and comply with its obligations under any of the Finance Documents; or (b) the validity or enforceability of any of the Finance Documents.
+"Maturity Date" means 4 October 2021. Any adjustment will be made according to the Business Day Convention.

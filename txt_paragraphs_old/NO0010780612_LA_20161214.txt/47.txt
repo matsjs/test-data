@@ -1,0 +1,9 @@
+"Tax Event Repayment Date" means the date set out in a notice from the Issuer to the Bondholders pursuant to Clause 10.4 {Early redemption option due to a tax event).
+"Total Net Debt" means the aggregate interest bearing Financial Indebtedness of the Operating Group plus (a) (without double counting) any Vendor Loans and, (b) for the avoidance of doubt Financial Indebtedness referred to under section (b) and (c) in "Group Reorganisation", and excluding
+(a) Shareholder Loans,
+(b) interest bearing debt borrowed from a 100% owned Operating Group Company to another 100% owned Operating Group Company;
+(c) the Nominal Amount of any Issuer's Bonds,
+-
+less (i) cash and cash equivalents of the Operating Group in accordance with GAAP, (ii) for the avoidance of doubt, funds held on the Escrow Account, and (iii) (in respect of the period ending 31 December 2017 only) the principal amount of the PPP Loans.
+"Transaction Security" means the Security created or expressed to be created in favour of the Security Agent (on behalf of the Secured Parties) pursuant to the Transaction Security Documents.
+"Transaction Security Documents" means, collectively, the Escrow Accounts Pledge and all of the documents which shall be executed or delivered pursuant to Clause 2.5 {Transaction Security) expressed to create any Security by the relevant grantor thereof in respect of the Issuer's obligations under any of the Finance Documents.

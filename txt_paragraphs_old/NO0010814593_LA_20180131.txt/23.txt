@@ -1,0 +1,9 @@
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation).
+"Management Agreements" means the Commercial Management Agreements and the Technical Management Agreements.
+"Mandatory Prepayment" means prepayment of bonds made in accordance with Clause 10.7 (Mandatory redemption - Permitted Disposal, Total Loss and Piracy Event).
+"Market Value" means the fair market value of the Vessels and, if relevant, of any Cure Vessel in USD, determined as the arithmetic mean of independent valuations of the Vessels obtained from two Approved Shipbrokers. Such valuation shall be made on the basis of a sale for prompt delivery for cash at arm's length on normal commercial terms as between a willing seller and willing buyer, on an "as is where is" basis, free of any existing charters or other contracts for employment. The cost of such determination shall be for the account of the Issuer. The valuation shall be made semi-annually, or following an Event of Default, upon the request of the Bond Trustee.
+"Material Adverse Effect" means a material adverse effect on:
+(a) the Obligors' ability to perform and comply with its obligations under any of the Finance Documents; or
+(b) the validity or enforceability of any of the Finance Documents.
+13 (68)
+"Maturity Date" means 2 February 2023, adjusted according to the Business Day Convention.

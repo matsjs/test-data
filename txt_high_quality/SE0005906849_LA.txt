@@ -1,0 +1,1433 @@
+EXECUTION VERSION
+TERMS AND CONDITIONS FOR ARISE AB (PUBL) SEK 1,100,000,000
+SENIOR SECURED GREEN FLOATING RATE NOTES 2014/2019 ISIN: SE0005906849
+No action is being taken that would or is intended to permit a public offering o f the Notes or the possession, circulation or distribution o f this document or any other material relating to the Issuer or the Notes in any jurisdiction other than Sweden, where actionfor that purpose is required. Persons into whose possession this document comes are required by the Issuer to inform themselves about, and to observe, any applicable restrictions.
+till MANNHEIMER SWARTLING w w w .m a n n h e im e r s w a r t l in g .se
+
+EXECUTION VERSION 2(39)
+TABLE OF CONTENTS
+1. DEFINITIONS AND CONSTRUCTION.................................................................................... 1 2. STATUS OF THE NOTES.......................................................................................................... 13 3. USE OF PROCEEDS................................................................................................................... 14 4. CONDITIONS FOR DISBURSEMENT..................................................................................... 14 5. CONDITIONS SUBSEQUENT.................................................................................................. 15 6. NOTES IN BOOK-ENTRY FORM............................................................................................ 15 7. RIGHT TO ACT ON BEHALF OF A NOTEHOLDER............................................................. 15 8. PAYMENTS IN RESPECT OF THE NOTES........................................................................... 16 9. INTEREST................................................................................................................................... 16 10. REDEMPTION AND REPURCHASE OF THE NOTES........................................................... 17 11. TRANSACTION SECURITY AND GUARANTEE.................................................................20 12. INFORMATION TO NOTEHOLDERS....................................................................................20 13. GENERAL UNDERTAKINGS.................................................................................................. 22 14. FINANCIAL UNDERTAKINGS................................................................................................25 15. ACCELERATION OF THE NOTES.........................................................................................25 16. DISTRIBUTION OF PROCEEDS..............................................................................................27 17. DECISIONS BY NOTEHOLDERS............................................................................................28 18. NOTEHOLDERS' MEETING....................................................................................................31 19. WRITTEN PROCEDURE...........................................................................................................31 20. AMENDMENTS AND WAIVERS.............................................................................................32 21. APPOINTMENT AND REPLACEMENT OF THE AGENT.....................................................33 22. APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT................................... 36 23. NO DIRECT ACTIONS BY NOTEHOLDERS..........................................................................36 24. PRESCRIPTION..........................................................................................................................36 25. NOTICES AND PRESS RELEASES..........................................................................................37 26. FORCE MAJEURE AND LIMITATION OF LIABILITY........................................................37 27. GOVERNING LAW AND JURISDICTION..............................................................................38
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 1(39)
+
+1.
+
+DEFINITIONS AND CONSTRUCTION
+
+1.1
+
+Definitions
+
+In these terms and conditions (the "Terms and Conditions"):
+
+"2012/2015 Unsecured Notes" means the SEK 350,000,000 unsecured notes 2012/2015 issued by the Issuer under ISIN: SE0004518769.
+
+"Account Bank" means DNB Bank ASA, filial Sverige.
+
+"Account Operator" means a bank or other party duly authorised to operate as an account operator pursuant to the Financial Instruments Accounts Act and through which a Noteholder has opened a Securities Account in respect of its Notes.
+
+"Accounting Principles" means international financial reporting standards (IFRS) within the meaning of Regulation 1606/2002/EC (or as otherwise adopted or amended from time to time).
+
+"Adjusted Nominal Amount" means the Total Nominal Amount less the Nominal Amount of all Notes owned by a Group Company or an Affiliate, irrespective of whether such person is directly registered as owner of such Notes.
+
+"Affiliate" means (i) an entity controlling or under common control with the Issuer, other than a Group Company, and (ii) any other person or entity owning any Notes (irrespective of whether such person is directly registered as owner of such Notes) that has undertaken towards a Group Company or an entity referred to in item (i) to vote for such Notes in accordance with the instructions given by a Group Company or an entity referred to in item (i). For the purposes of this definition, "control" means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of an entity, whether through ownership of voting securities, by agreement or otherwise.
+
+"Agency Agreement" means the agency agreement entered into on or before the Issue Date, between the Issuer and the Agent, or any replacement agency agreement entered into after the Issue Date between the Issuer and an agent.
+
+"Agent" means Nordic Trustee & Agency AB (publ), Swedish Reg. No. 556882-1879, or another party replacing it, as Agent, in accordance with these Terms and Conditions.
+
+"Annual Redemption Amount" has the meaning set forth in Clause 10.1.1.
+
+"Applicable Premium" means an amount equal to:
+
+(a) 3.00 per cent. of the Nominal Amount; plus
+
+(b) all remaining scheduled Interest payments (assuming that the Interest Rate for the period from the relevant Redemption Date to the First Call Date will be equal to the Interest Rate in effect on the date on which the applicable notice of redemption is given) on the Notes until the First Call Date (but excluding accrued but unpaid Interest up to the relevant Redemption Date) discounted (for the time period starting from the relevant Redemption Date to the First Call Date) using a discount rate equal to the yield of the Swedish Government Bond with a maturity date on or about the First Call Date plus 0.50 per cent.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 2(39)
+"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (midsommarafton), Christmas Eve (julafton) and New Year's Eve (nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
+"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
+"Cash" means cash in hand held by the Issuer or with a reputable bank credited to an account in the name of the Issuer and in each case to which the Issuer is beneficially and legally entitled and which is immediately available to be applied in repayment or prepayment of any Financial Indebtedness of the Issuer (for the avoidance of doubt, not including e.g. any cash subject to a pledge or similar arrangement or any amount standing on client accounts).
+"Change of Control Event" means, in relation to shares of the Issuer, an event or series of events resulting in:
+(a) one person (or several persons who either (i) are, in respect of individuals, related, (ii) are, in respect of legal entities, members of the same group or (iii) who act or have agreed to act in concert), acquiring 50 per cent. or more of the shares in the Issuer or otherwise establishing control over 50 per cent. or more of the shares and/or votes in the Issuer; or
+(b) all or part of the shares in the Issuer cease to be listed on a Regulated Market.
+"Compliance Certificate" means a certificate, in form and substance satisfactory to the Agent, signed by the Issuer (i) certifying that so far as it is aware no Event of Default is continuing or, if it is aware that such event is continuing, specifying the event and steps, if any, being taken to remedy it, and (ii) if provided in connection with a Financial Report being made available or following the request of the Agent, including relevant calculations and figures, as specified in a template form attached to the Agency Agreement or as otherwise agreed between the Agent and the Issuer.
+"Crane Lease" means the lease made between Arise Kran AB as lessee and Nordea Bank AB (publ) as lessor of a crane used for erecting wind turbine generators.
+"CSD" means the Issuer's central securities depository and registrar in respect of the Notes, from time to time, initially Euroclear Sweden AB, Swedish Reg. No. 556112-8074, P.O. Box 191, 101 23 Stockholm, Sweden.
+"Debt Instruments" means bonds, notes or other debt securities (however defined), which are or are intended to be quoted, listed, traded or otherwise admitted to trading on a Regulated Market.
+"Deposit Account" means a bank account held in the name of the Issuer with the Account Bank and pledged under the Deposit Account Pledge Agreement.
+"Deposit Account Pledge Agreement" means the pledge agreement entered into by the Agent and the Issuer prior to the Issue Date pursuant to which the Issuer pledges with first ranking security the Deposit Account and all funds credited to the Deposit Account from time to time, in favour of the Secured Parties.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 3(39)
+"EBITDA" means operational earnings of the Group, before interest, taxes, depreciation and amortisation (without double counting) for any 12 months period ending on the last day of each Financial Quarter calculated in accordance with the Accounting Principles.
+"Equity" means the sum of restricted equity (bundet eget kapital) and non-restricted equity (fritt eget kapital) of the Group, including any untaxed reserves (reduced by the applicable tax).
+"Equity Ratio" means the ratio of Equity to Total Assets.
+"Escrow Account" means a bank account held in the name of the Issuer with the Account Bank and pledged under the Escrow Account Pledge Agreement.
+"Escrow Account Pledge Agreement" means the pledge agreement entered into by the Agent and the Issuer prior to the Issue Date pursuant to which the Issuer pledges with first ranking security the Escrow Account and all funds credited to the Escrow Account from time to time, in favour of the Secured Parties.
+"Event of Default" means an event or circumstance specified in Clause 15.1.
+"Existing Financial Indebtedness" means (i) the SEK 221,000,000 facilities agreement entered into between the Issuer as sponsor, Arise Wind Farm 2 AB as parent, Arise Wind Farm 3 AB as borrower and DNB Bank ASA, Sweden branch (previously DnB NOR Bank ASA, Sweden branch) as lender and originally dated 25 January 2011, as amended 18 May 2011 and as amended and restated 8 July 2011, (ii) the SEK 103,000,000 facilities agreement entered into between the Issuer as sponsor, Arise Wind Farm 2 AB as parent, Arise Wind Farm 5 AB as borrower and DNB Bank ASA, Sweden branch as lender and dated 5 July 2011, (iii) the SEK 230,000,000 facilities agreement entered into between the Issuer as sponsor, Arise Wind Farm 2 AB as parent, Arise Wind Farm 6 AB as borrower and DNB Bank ASA, Sweden branch as lender and dated 8 July 2011, (iv) the SEK 132,000,000 facilities agreement entered into between Arise Wind Farm 4 AB as borrower and Nordea Bank AB (publ) as lender and originally dated 25 January 2011 (as amended), (v) the SEK 657,000,000 facilities agreement entered into between Arise Wind Farm 1 AB as borrower and Swedbank AB (publ) as lender and dated 27 May 2008, and (vi) SEK 174,000,000 facilities agreement entered into between Arise Wind Farm 1 AB (initially Arise Wind Farm 2 AB) as borrower and Swedbank AB (publ) as lender and dated 18 June 2010.
+"Final Maturity Date" means the date falling five (5) years after the Issue Date.
+"Finance Documents" means these Terms and Conditions, the Security Documents, the Agency Agreement, any Compliance Certificate and any other document designated by the Issuer and the Agent as a Finance Document.
+"Financial Indebtedness" means:
+(a) moneys borrowed (including under any bank financing);
+(b) the amount of any liability under any finance leases (a lease which in accordance with the Accounting Principles is treated as an asset and a corresponding liability);
+(c) receivables sold or discounted (other than on a non-recourse basis, provided that the requirements for de-recognition under the Accounting Principles are met);
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 4(39)
+(d) any amount raised pursuant to any note purchase facility or the issue of any bond or note or similar instrument;
+(e) any other transaction (including the obligation to pay deferred purchase price) having the commercial effect of a borrowing or otherwise being classified as borrowing under the Accounting Principles;
+(f) the marked-to-market value of derivative transactions entered into in connection with protection against or benefit from fluctuation in any rate or price (if any actual amount is due as a result of a termination or a close-out, such amount shall be used instead);
+(g) counter-indemnity obligations in respect of guarantees or other instruments issued by a bank or financial institution; and
+(h) liabilities under guarantees or indemnities for any of the obligations referred to in paragraphs (a) to (g) above.
+"Financial Instruments Accounts Act" means the Swedish Financial Instruments Accounts Act (lag (1998:1479) om kontoforing av finansiella instrument).
+"Financial Net Payable" means, on a Group consolidated basis, the aggregate of all financial expenses for any 12 months period ending on the last day of each Financial Quarter:
+(a) minus all financial income;
+(b) minus/plus unrealised losses/gains on currency fluctuations, derivative instruments and financial instruments (in each case in relation to financial items), other than any derivative instruments which are accounted for on a hedge accounting basis; and
+(c) excluding any non-cash effect of unwinding interest rate hedges (made by the Restricted Companies) in connection with the refinancing of the Existing Financial Indebtedness.
+"Financial Quarter" means the period commencing on the date of one Quarter Date and ending on the next Quarter Date.
+"Financial Report" means (i) the annual audited consolidated financial statements of the Group, (ii) the annual audited unconsolidated financial statements of the Issuer, (iii) the annual audited consolidated financial statements of the Restricted Group, (iv) the quarterly interim unaudited consolidated reports of the Group, (v) the quarterly interim unaudited unconsolidated reports of the Issuer, and (vi) the quarterly interim unaudited consolidated reports of the Restricted Group.
+"Financial Year" means the current annual accounting period of the Group.
+"First Call Date" means the date falling thirty-six (36) months after the Issue Date.
+"Force Majeure Event" has the meaning set forth in Clause 26.1.
+"Green Assets" means the wind farms owned by the Restricted Companies.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 5(39)
+"Group" means the Issuer and its Subsidiaries from time to time (each a "Group Company").
+"Group Assets" means, at any time, the value of all fixed assets (anläggningstillgångar) of the Group as set out in the balance sheet forming part of the relevant Financial Reports, calculated in accordance with the Accounting Principles.
+"Group Debt to Assets Ratio" means the ratio of Group Net Debt to Group Assets.
+"Group Net Debt" means, on a Group consolidated basis, (i) the aggregate amount of all interest-bearing obligations (including financial lease obligations which according to the Accounting Principles shall be treated as debt, however, not including current or future leases, which as of the date hereof are considered as not being financial leases) less (ii) cash in hand, immediately available funds, and any other liquid and marketable instruments, securities and other short term investments equivalent to cash.
+"Guarantee" means the irrevocable and unconditional guarantee granted by the Parent under each Restricted Company Share Pledge Agreement as for its own debt (proprieborgen) for the Guaranteed Obligations, in favour of the Secured Parties.
+"Guaranteed Obligations" means all present and future obligations and liabilities owed by the Issuer under the Finance Documents.
+"Initial Nominal Amount" has the meaning set forth in Clause 2.3.
+"Insolvent" means, in respect of a relevant person, that it is deemed to be insolvent, or admits inability to pay its debts as they fall due, in each case within the meaning of Chapter 2, Sections 7-9 of the Swedish Bankruptcy Act (konkurslagen (1987:672)) (or its equivalent in any other jurisdiction), suspends making payments on any of its debts or by reason of actual financial difficulties commences negotiations with its creditors (other than the Noteholders) with a view to rescheduling any of its indebtedness (including company reorganisation under the Swedish Company Reorganisation Act (lag (1996:764) om företagsrekonstruktion) (or its equivalent in any other jurisdiction)) or is subject to involuntary winding-up, dissolution or liquidation.
+"Interest" means the interest on the Notes calculated in accordance with Clauses 9.1 to 9.3.
+"Interest Coverage Ratio" means the ratio of EBITDA to Financial Net Payable.
+"Interest Payment Date" means 25 April, 25 July, 25 October and 25 January of each year or, to the extent such day is not a Business Day, the Business Day following from an application of the Business Day Convention. The first Interest Payment Date shall be 25 July 2014 and the last Interest Payment Date shall be the Final Maturity Date (or any Redemption Date prior thereto).
+"Interest Period" means (i) in respect of the first Interest Period, the period from (but excluding) the Issue Date to (and including) the first Interest Payment Date, and (ii) in respect of subsequent Interest Periods, the period from (but excluding) an Interest Payment Date to (and including) the next succeeding Interest Payment Date (or a shorter period if relevant).
+"Interest Rate" means STIBOR plus 3.00 per cent. per annum.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 6(39)
+"Issue Date" means the date on which the Notes are issued. The Issuing Agent shall confirm the Issue Date to the CSD and the Agent in writing at least two (2) Business Days prior to the Issue Date, and the Issuer shall publish the Issue Date in accordance with Clause 25.2 (Press releases).
+"Issuer" means Arise AB (publ), a public limited liability company incorporated under the laws of Sweden with Reg. No. 556274-6726.
+"Issuer Incurrence Test" means that:
+(a) the Equity Ratio is not less than 0.30 on the relevant testing date; and
+(b) any distribution (as further described in sub-paragraphs (ii), (iii), (iv), (v) and (vii) of the definition of Restricted Payment, a distribution) does not in aggregate during any Financial Year (including the distribution in question) exceed 50 per cent. of the Group's consolidated net cash flow for the previous Financial Year calculated in accordance with the Accounting Principles.
+"Issuing Agent" means DNB Bank ASA, filial Sverige, or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
+"Listing Failure" means that the Issuer on the date falling one hundred twenty (120) calendar days from the Issue Date has failed to ensure that the Notes are listed on the corporate bond list of NASDAQ OMX Stockholm or, if such listing is not possible to obtain, on another Regulated Market in accordance with Clause 13.12 (Listing o fNotes).
+"Material Adverse Effect" means a material adverse effect on (a) the business, financial condition or operations of the Issuer and/or the Group taken as a whole, affecting the Issuer's ability to perform and comply with its payment obligations under these Terms and Conditions, or (b) the validity or enforceability of the Finance Documents.
+"Material Group Company" means the Issuer and each of the Restricted Companies, as well as any other Group Company with earnings before interest, tax, depreciation and amortisation calculated on the same basis as EBITDA representing five (5) per cent. or more of EBITDA, or has total assets representing five (5) per cent. or more of the total assets of the Group, calculated on a consolidated basis according to the latest Financial Report.
+"Net Proceeds" means the proceeds from the issue of the Notes which, after deduction has been made for certain agreed Transaction Costs and subject to satisfaction of the conditions for disbursement set out in Clause 4 (Conditionsfor disbursement), shall be transferred to the Issuer in accordance with these Terms and Conditions and the Escrow Account Pledge Agreement.
+"Nominal Amount" means in respect of each Note the Initial Nominal Amount, less the aggregate amount by which that Note has been redeemed in part pursuant to Clause 10.1 (Scheduled redemption) or Clause 10.5 (Mandatory partial redemption).
+"Noteholder" means the person who is registered on a Securities Account as direct registered owner (ägare) or nominee förvaltare) with respect to a Note.
+"Noteholders' Meeting" means a meeting among the Noteholders held in accordance with Clause 18 (Noteholders'Meeting).
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 7(39)
+"Note" means a debt instrument (skuldförbindelse) for the Nominal Amount and of the type set forth in Chapter 1 Section 3 of the Financial Instruments Accounts Act and which are governed by and issued under these Terms and Conditions.
+"Parent" means Arise Wind HoldCo 9 AB, a limited liability company incorporated under the laws of Sweden with Reg. No. 556758-8909.
+"Parent Share Pledge Agreement" means the share pledge agreement entered into by the Agent and the Issuer prior to the release of any amount from the Escrow Account pursuant to which the Issuer pledges with first ranking security all of the shares in the Parent, in favour of the Secured Parties.
+"Permitted Financial Indebtedness" means:
+In relation to the Issuer:
+(a) Financial Indebtedness arising under the Notes, the Working Capital Financing, the 2012/2015 Unsecured Notes or any unsecured Financial Indebtedness in the maximum amount of SEK 350,000,000 incurred by the Issuer for the purpose of refinancing the 2012/2015 Unsecured Notes;
+(b) Financial Indebtedness arising in the ordinary course of business with suppliers of goods with a maximum duration of ninety (90) calendar days;
+(c) Financial Indebtedness arising under Treasury Transactions;
+(d) subject to compliance with these Terms and Conditions, Financial Indebtedness with a final maturity date occurring after the Final Maturity Date; and
+(e) Financial Indebtedness not permitted by paragraphs (a)-(d) above, provided that the aggregate amount of such indebtedness does not exceed SEK 20,000,000.
+In relation to any Restricted Company:
+(a) prior to the last Refinancing Date, the Existing Financial Indebtedness;
+(b) where a wholly owned Restricted Group Company is lending to or borrowing from another wholly owned Restricted Group Company;
+(c) Financial Indebtedness arising in the ordinary course of business with suppliers of goods with a maximum duration of ninety (90) calendar days; and
+(d) Financial Indebtedness arising under Treasury Transactions entered into by it.
+"Permitted Guarantees" means in relation to the Issuer:
+(a) any guarantee issued by the Issuer to a third party lender for the obligation of a wholly-owned Unrestricted Group Company towards such third party lender, to ensure that certain amounts will be available for maintenance and/or debt service reserves, provided however (i) that such obligation is not owed by the relevant Unrestricted Group Company to more than one third party lender per wind turbine generator and (ii) that each such guarantee is released no later than on the third anniversary of the commercial operations date of the relevant wind turbine generator;
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 8(39)
+(b) any guarantee issued by the Issuer to a third party for the obligations of a whollyowned Unrestricted Group Company owed to such third party lender under a construction or project financing credit facility entered into in connection with the financing of the construction of any new wind turbine generator project, under which guarantee the Issuer shall, as principal obligor (proprieborgen), pay any amount due to the third party lender whenever the relevant Group Company does not punctually pay any amount due to that third party lender under the relevant construction or project financing credit facility, provided, however, that such guarantee from the Issuer shall be released no later than on the commercial operations date of the relevant wind turbine generator;
+(c) any guarantee issued by the Issuer for Arise Kran AB 's due fulfilment of its obligations under the Crane Lease; and
+(d) any guarantee issued by the Issuer for any Group Company's obligations under Treasury Transactions.
+"Permitted Lease" means a lease by a Restricted Company of its wind producing and auxiliary assets (a lease) provided that:
+(a) such lease is entered into for the purpose of hedging prices for electricity produced by and green benefits deriving from that Restricted Company's wind producing assets;
+(b) the tenor of such lease is compliant with the Group's finance policy as adopted by the board of directors of the Issuer from time to time;
+(c) such lease is made on arm's-length terms, for market value consideration in cash and to an unrelated party, either (1) directly or (2) indirectly through the Issuer or the Parent, provided that:
+(i) the terms of the head lease between the owning Restricted Company (the head lessor) and the Issuer or the Parent (the intermediary lessor) and the sub lease between the intermediary lessor and the unrelated party (the lessee) are identical and back-to-back; and
+(ii) all payments made by the lessee under the sub lease are made directly to the head lessor,
+(d) such lease is made in compliance with all relevant laws and regulations; and
+(e) all authorisations, approvals, consents, licences and other matters required in connection with the entry into, performance, validity and enforceability of the lease and the transactions contemplated thereby have been obtained or effected by each of the head lessor, the intermediary lessor and the lessee and are in full force and effect.
+"Permitted Partial Divestment" has the meaning set forth in Clause 13.7.1.
+"Permitted Security" means:
+(a) Security provided in accordance with the Finance Documents;
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 9(39)
+(b) prior to the last Refinancing Date, Security provided for the Existing Financial Indebtedness;
+(c) Security provided by the Issuer over its shares in any Unrestricted Group Company or over any assets owned by a Unrestricted Group Company;
+(d) Security provided by the Issuer over shareholder loans to any Unrestricted Group Company;
+(e) any netting or set-off arrangement entered into by any Group Company in the ordinary course of its banking arrangements for the purpose of netting debit and credit balances;
+(f) any close-out netting or set-off arrangement in respect of Treasury Transactions;
+(g) any lien arising by operation of law and in the ordinary course of trading and not as a result of any default or omission by any Group Company;
+(h) in relation to a Restricted Company (other than the Parent), cash collateral or any other form of Security provided to a governmental authority for its decommissioning obligations; or
+(i) in relation to the Issuer, any Security or preferential arrangement not permitted by paragraphs (a)-(h) above, securing indebtedness the principal amount of which does not in aggregate exceed SEK 20,000,000.
+"Post-Closing Reorganisation" means a reorganisation of the Restricted Companies whereby the shares in Arise Wind Farm 3 AB, Arise Wind Farm 5 AB, Arise Wind Farm 6 AB and Arise Wind Farm 16 AB are transferred from the ownership of Arise Wind Farm 2 AB and Arise Wind HoldCo 3 AB, respectively, to the direct ownership of the Parent.
+"Prepayment Amount" has the meaning set forth in Clause 10.5.1.
+"Quarter Date" means each of 31 March, 30 June, 30 September and 31 December.
+"Quotation Day" means, in relation to any period for which an interest rate is to be determined, two (2) Business Days before the first day of that period.
+"Record Date" means the fifth (5) Business Day prior to (i) an Interest Payment Date, (ii) a Redemption Date, (iii) a date on which a payment to the Noteholders is to be made under Clause 16 (Distribution ofproceeds), (iv) the date of a Noteholders' Meeting, or (v) another relevant date, or in each case such other Business Day falling prior to a relevant date if generally applicable on the Swedish bond market.
+"Redemption Date" means the date on which the relevant Notes are to be redeemed or repurchased in accordance with Clause 10 (Redemption and repurchase o f the Notes).
+"Refinancing Date" means any date when the Existing Financial Indebtedness of one or more of the Restricted Companies is refinanced.
+"Regulated Market" means any regulated market (as defined in Directive 2004/39/EC on markets in financial instruments).
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 10(39)
+"Relevant Period" means each 12 month period ending on or about the last day of a Financial Year or a Financial Quarter, or such shorter period as the context may require.
+"Restricted Companies" means, as of completion of the Post-Closing Reorganisation, the Parent, Arise Wind Farm 1 AB, Reg. No. 556732-8942, Arise Wind Farm 3 AB, Reg. No. 556758-9105, Arise Wind Farm 4 AB, Reg. No. 556758-8933, Arise Wind Farm 5 AB, Reg. No. 556758-8982, Arise Wind Farm 6 AB, Reg. No. 556758-8974, and Arise Wind Farm 16 AB, Reg. No. 556875-7230, each a limited liability company incorporated under the laws of Sweden (as of completion of the Post-Closing Reorganisation, each a "Restricted Company" and all together the "Restricted Companies" or the "Restricted Group").
+"Restricted Group Assets" means, at any time, the value of all fixed assets (anläggningstillgångar) of the Restricted Group as set out in the balance sheet forming part of the relevant Financial Reports, calculated in accordance with the Accounting Principles.
+"Restricted Group Debt to Assets Ratio" means the ratio of Restricted Group Net Debt to Restricted Group Assets.
+"Restricted Group Incurrence Test" means that:
+(a) the ratio of (A) operational earnings of the Restricted Group, before interest, taxes and depreciation (without double counting) ("Restricted Group EBITDA") for any 12 months period ending on the last day of each Financial Quarter calculated in accordance with the Accounting Principles to (B) (i) the servicing of all financial expenses pertaining to the Notes for any 12 months period ending on the last day of each Financial Quarter plus/minus (ii) the Financial Net Payable (calculated on a Restricted Group consolidated basis but excluding any Existing Financial Indebtedness, provided that such Existing Financial Indebtedness has been refinanced), is not less than 1.2:1 on the relevant testing date; and
+(b) the Restricted Payments do not in aggregate (including the Restricted Payment in question) exceed 100 per cent. of the Restricted Group's consolidated net cash flow for each Financial Year following and aggregated from the Issue Date, calculated in accordance with the Accounting Principles.
+When calculating the ratio set out under paragraph (a) above anytime during the first 12 month period following the Issue Date:
+(1) Restricted Group EBITDA will include (by way of aggregation) the actual consolidated results of the all Restricted Companies for the relevant period prior to the Issue Date, even though they were not then a part of the Restricted Group; and
+(2) Financial Net Payable (calculated on a Restricted Group consolidated basis but excluding any Existing Financial Indebtedness, provided that such Existing Financial Indebtedness has been refinanced) for the period from the Issue Date to the relevant calculation date will be annualised on the entire 12 month period.
+"Restricted Group Net Debt" means (A), in relation to all Restricted Companies, (i) the aggregate amount of all interest-bearing obligations (including financial lease obligations which according to the Accounting Principles shall be treated as debt, however, not including current or future leases, which as of the date hereof are considered as not being financial leases) less (ii) cash in hand, immediately available funds, and any other liquid and marketable instruments, securities and other short term investments equivalent to cash,
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 11(39)
+plus (B) the Nominal Amount of all outstanding Notes together with any accrued but unpaid interest.
+"Restricted Payment" has the meaning set forth in Clause 13.3 (Distributions and other transactions).
+"Restricted Company Share Pledge Agreement" means the share pledge agreement(s) entered into by the Agent and the Parent prior to the release of an amount from the Escrow Account on the relevant Refinancing Date necessary to refinance the Existing Financial Indebtedness of the Restricted Company which shares are being pledged, pursuant to which the Parent pledges with first ranking security all of the shares in the relevant Restricted Company, in favour of the Secured Parties.
+"Scheduled Redemption Dates" has the meaning set forth in Clause 10.1.1.
+"Secured Obligations" means all present and future obligations and liabilities owed by the Issuer under the Finance Documents.
+"Secured Parties" means the Agent (including in its capacity as Agent) and the Noteholders.
+"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Financial Instruments Accounts Act in which (i) an owner of such security is directly registered or (ii) an owner's holding of securities is registered in the name of a nominee.
+"Security" means a mortgage, charge, pledge, lien, security assignment or other security interest securing any obligation of any person, or any other agreement or arrangement having a similar effect.
+"Security Documents" means the Deposit Account Pledge Agreement, the Escrow Account Pledge Agreement, the Parent Share Pledge Agreement and each Restricted Company Share Pledge Agreement.
+"STIBOR" means:
+(a) the applicable percentage rate per annum displayed on NASDAQ OMX's website for STIBOR fixing (or through another website replacing it) as of or around 11.00 a.m. on the Quotation Day for the offering of deposits in Swedish Kronor and for a period comparable to the relevant Interest Period; or
+(b) if no rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by DNB Bank ASA, filial Sverige, Nordea Bank AB (publ), Swedbank AB (publ) and Danske Bank A/S, Danmark, Sverige filial (or such other banks as may be appointed by the Issuing Agent in consultation with the Issuer), for deposits of SEK 100,000,000 for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Swedish Kronor offered in the Stockholm interbank market for the relevant period; and
+if any such rate is below zero, STIBOR will be deemed to be zero.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 12(39)
+
+"Subsidiary" means, in relation to any person, any Swedish or foreign legal entity (whether incorporated or not), which at the time is a subsidiary (dotterföretag) to such person, directly or indirectly, as defined in the Swedish Companies Act (aktiebolagslagen (2005:551)).
+
+"Swedish Kronor" and "SEK" means the lawful currency of Sweden.
+
+"Total Assets" means the total consolidated assets (totala tillgångar) of the Group calculated in accordance with the Accounting Principles.
+
+"Total Nominal Amount" means the total aggregate Nominal Amount of the Notes outstanding at the relevant time, on the Issue Date being SEK 1,100,000,000.
+
+"Transaction Costs" means all fees, costs and expenses incurred by the Issuer and any Restricted Company in connection with the issue of the Notes, the refinancing of the Existing Financial Indebtedness and the listing of the Notes on the corporate bond list of NASDAQ OMX Stockholm (or any other Regulated Market, as applicable).
+
+"Transaction Security" means the Security provided for the Secured Obligations pursuant to the Security Documents.
+
+"Treasury Transaction" means any derivate transaction entered into in connection with protection against or benefit from fluctuation in any rate or price where such exposure arises in the ordinary course of business or in respect of payments under Permitted Financial Indebtedness or pursuant to cash management purposes (excluding for the avoidance of doubt any derivative transaction which in itself is entered into for investment or speculative purposes).
+
+"Unrestricted Group" means all Group Companies (other than the Issuer) not being Restricted Companies (each an "Unrestricted Group Company" and all together the "Unrestricted Group").
+
+"Working Capital Financing" means any revolving, overdraft, leasing or guarantee credit facility incurred by the Issuer in an aggregate amount not exceeding SEK 50,000,000.
+
+"Written Procedure" means the written or electronic procedure for decision making among the Noteholders in accordance with Clause 19 (Written Procedure).
+
+1.2
+
+Construction
+
+1.2.1
+
+Unless a contrary indication appears, any reference in these Terms and Conditions to:
+
+(a) "assets" includes present and future properties, revenues and rights of every description;
+
+(b) any agreement or instrument is a reference to that agreement or instrument as supplemented, amended, novated, extended, restated or replaced from time to time;
+
+(c) a "regulation" includes any regulation, rule or official directive, request or guideline (whether or not having the force of law) of any governmental, intergovernmental or supranational body, agency, department or regulatory, self regulatory or other authority or organisation;
+
+(d) an Event of Default is continuing if it has not been remedied or waived;
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 13(39)
+
+1.2.2
+1.2.3 1.2.4 2. 2.1 2.2 2.3 2.4 2.5
+2.6
+
+(e) a provision of law is a reference to that provision as amended or re-enacted; and
+(f) a time of day is a reference to Stockholm time.
+When ascertaining whether a limit or threshold specified in Swedish Kronor has been attained or broken, an amount in another currency shall be counted on the basis of the rate of exchange for such currency against Swedish Kronor for the previous Business Day, as published by the Swedish Central Bank (Riksbanken) on its website (www.riksbank.se). If no such rate is available, the most recently published rate shall be used instead.
+A notice shall be deemed to be sent by way of press release if it is made available to the public within Sweden promptly and in a non-discriminatory manner.
+No delay or omission of the Agent or of any Noteholder to exercise any right or remedy under the Finance Documents shall impair or operate as a waiver of any such right or remedy.
+STATUS OF THE NOTES
+The Notes are denominated in Swedish Kronor and each Note is constituted by these Terms and Conditions. The Issuer undertakes to make payments in relation to the Notes and to comply with these Terms and Conditions.
+By subscribing for Notes, each initial Noteholder agrees that the Notes shall benefit from and be subject to the Finance Documents and by acquiring Notes, each subsequent Noteholder confirms such agreement.
+The initial nominal amount of each Note is SEK 1,000,000 (the "Initial Nominal Amount"). All Notes are issued on a fully paid basis at an issue price of 100 per cent. of the Nominal Amount.
+The Notes constitute direct, unconditional, unsubordinated and secured obligations of the Issuer and shall at all times rank pari passu and without any preference among them.
+The Notes are freely transferable but the Noteholders may be subject to purchase or transfer restrictions with regard to the Notes, as applicable, under local laws to which a Noteholder may be subject (due to e.g. its nationality, residency, registered address or place(s) of business). Each Noteholder must ensure compliance with such restrictions at its own cost and expense.
+No action is being taken in any jurisdiction that would or is intended to permit a public offering of the Notes or the possession, circulation or distribution of any document or other material relating to the Issuer or the Notes in any jurisdiction other than Sweden, where action for that purpose is required. Each Noteholder must inform itself about, and observe, any applicable restrictions to the transfer of material relating to the Issuer or the Notes.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 14(39)
+
+3.
+
+USE OF PROCEEDS
+
+Upon fulfilment of the conditions for disbursement set out in Clause 4 (Conditionsfor disbursement), the Issuer shall apply the Net Proceeds towards the provision of unconditional shareholder contributions (ovillkorade aktieagartillskott) to the Parent and from the Parent to the other Restricted Companies for the purpose of enabling these companies to refinance the Existing Financial Indebtedness in relation to the Green Assets on the Refinancing Dates.
+
+4.
+
+CONDITIONS FOR DISBURSEMENT
+
+4.1
+
+Following the issue of the Notes on the Issue Date, the Net Proceeds shall be transferred by
+
+the Agent to the Escrow Account. The Agent's approval of disbursement from the Escrow
+
+Account of part of the Net Proceeds, which shall be applied as set out in Clause 3 (Use of
+
+proceeds), is subject to the following documents having been received by the Agent, in
+
+form and substance satisfactory to the Agent (acting reasonably) and any further conditions
+
+set out in the Escrow Account Pledge Agreement:
+
+In relation to the first disbursement:
+
+(a) the Parent Share Pledge Agreement duly executed together with all perfection requirements being fulfilled;
+
+(b) the Deposit Account Pledge Agreement duly executed together with all perfection requirements being fulfilled; and
+
+(c) such other documents and information as is agreed between the Agent and the Issuer.
+
+In relation to each disbursement (including the first disbursement) on a Refinancing Date:
+
+(a) evidence that the Parent is or, immediately following the prepayment of the Existing Financial Indebtedness of the relevant Restricted Company, will become the owner of all shares in that Restricted Company;
+
+(b) a Restricted Company Share Pledge Agreement over the shares in the Restricted Company which Existing Financial Indebtedness being refinanced, duly executed together with all perfection requirements being fulfilled;
+
+(c) evidence that the Existing Financial Indebtedness of the relevant Restricted Company will be repaid in full on the relevant Refinancing Date and that all Security and guarantees provided for that Existing Financial Indebtedness will be simultaneously released; and
+
+(d) such other documents and information as is agreed between the Agent and the Issuer.
+
+4.2
+
+The Agent may assume that the documentation delivered to it pursuant to Clause 4.1 is
+
+accurate, correct and complete unless it has actual knowledge that this is not the case, and
+
+the Agent does not have to verify the contents of any such documentation.
+
+4.3
+
+Upon satisfaction of the conditions in Clause 4.1, the Agent shall immediately instruct the
+
+Account Bank to on the relevant Refinancing Date transfer an amount from the Escrow
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 15(39)
+
+Account enabling the relevant Restricted Company to refinance its Existing Financial Indebtedness.
+
+5.
+
+CONDITIONS SUBSEQUENT
+
+5.1
+
+The Post-Closing Reorganisation shall in relation to each Restricted Company have been
+
+completed as soon as possible after the Issue Date and in any case, no later than on the
+
+relevant Refinancing Date.
+
+5.2
+
+The Issuer shall procure that the last Refinancing Date (meaning the entire Existing
+
+Financial Indebtedness being refinanced and that the Post-Closing Reorganisation is
+
+completed) shall occur as soon as possible following the Issue Date and in no event later
+
+than three (3) months after the Issue Date.
+
+6.
+
+NOTES IN BOOK-ENTRY FORM
+
+6.1
+
+The Notes will be registered for the Noteholders on their respective Securities Accounts
+
+and no physical notes will be issued. Accordingly, the Notes will be registered in
+
+accordance with the Financial Instruments Accounts Act. Registration requests relating to
+
+the Notes shall be directed to an Account Operator.
+
+6.2
+
+Those who according to assignment, Security, the provisions of the Swedish Children and
+
+Parents Code (foraldrabalken (1949:381)), conditions of will or deed of gift or otherwise
+
+have acquired a right to receive payments in respect of a Note shall register their
+
+entitlements to receive payment in accordance with the Financial Instruments Accounts
+
+Act.
+
+6.3
+
+The Issuer (and the Agent when permitted under the CSD's applicable regulations) shall be
+
+entitled to obtain information from the debt register (skuldbok) kept by the CSD in respect
+
+of the Notes. At the request of the Agent, the Issuer shall promptly obtain such information
+
+and provide it to the Agent.
+
+6.4
+
+For the purpose of or in connection with any Noteholders' Meeting or any Written
+
+Procedure, the Issuing Agent shall be entitled to obtain information from the debt register
+
+kept by the CSD in respect of the Notes.
+
+6.5
+
+The Issuer shall issue any necessary power of attorney to such persons employed by the
+
+Agent, as notified by the Agent, in order for such individuals to independently obtain
+
+information directly from the debt register kept by the CSD in respect of the Notes. The
+
+Issuer may not revoke any such power of attorney unless directed by the Agent or unless
+
+consent thereto is given by the Noteholders.
+
+7.
+
+RIGHT TO ACT ON BEHALF OF A NOTEHOLDER
+
+7.1
+
+If any person other than a Noteholder wishes to exercise any rights under the Finance
+
+Documents, it must obtain a power of attorney or other proof of authorisation from the
+
+Noteholder or a successive, coherent chain of powers of attorney or proofs of authorisation
+
+starting with the Noteholder and authorising such person.
+
+7.2
+
+A Noteholder may issue one or several powers of attorney to third parties to represent it in
+
+relation to some or all of the Notes held by it. Any such representative may act
+
+independently under the Finance Documents in relation to the Notes for which such
+
+representative is entitled to represent the Noteholder and may further delegate its right to
+
+represent the Noteholder by way of a further power of attorney.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 16(39)
+
+7.3
+
+The Agent shall only have to examine the face of a power of attorney or other proof of
+
+authorisation that has been provided to it pursuant to Clause 7.2 and may assume that it has
+
+been duly authorised, is valid, has not been revoked or superseded and that it is in full force
+
+and effect, unless otherwise is apparent from its face.
+
+8.
+
+PAYMENTS IN RESPECT OF THE NOTES
+
+8.1
+
+Any payment or repayment under the Finance Documents, or any amount due in respect of
+
+a repurchase of any Notes, shall be made to such person who is registered as a Noteholder
+
+on the Record Date prior to an Interest Payment Date or other relevant due date, or to such
+
+other person who is registered with the CSD on such date as being entitled to receive the
+
+relevant payment, repayment or repurchase amount.
+
+8.2
+
+If a Noteholder has registered, through an Account Operator, that principal and interest
+
+shall be deposited in a certain bank account, such deposits will be effected by the CSD on
+
+the relevant payment date. In other cases, payments will be transferred by the CSD to the
+
+Noteholder at the address registered with the CSD on the Record Date. Should the CSD,
+
+due to a delay on behalf of the Issuer or some other obstacle, not be able to effect payments
+
+as aforesaid, the Issuer shall procure that such amounts are paid to the persons who are
+
+registered as Noteholders on the relevant Record Date as soon as possible after such
+
+obstacle has been removed.
+
+8.3
+
+If, due to any obstacle for the CSD, the Issuer cannot make a payment or repayment, such
+
+payment or repayment may be postponed until the obstacle has been removed. Interest
+
+shall accrue in accordance with Clause 9.4 during such postponement.
+
+8.4
+
+If payment or repayment is made in accordance with this Clause 8, the Issuer and the CSD
+
+shall be deemed to have fulfilled their obligation to pay, irrespective of whether such
+
+payment was made to a person not entitled to receive such amount.
+
+8.5
+
+The Issuer is not liable to gross-up any payments under the Finance Documents by virtue
+
+of any withholding tax, public levy or the similar.
+
+9.
+
+INTEREST
+
+9.1
+
+Each Note carries Interest at the Interest Rate from (but excluding) the Issue Date up to
+
+(and including) the relevant Redemption Date.
+
+9.2
+
+Interest accrues during an Interest Period. Payment of Interest in respect of the Notes shall
+
+be made to the Noteholders on each Interest Payment Date for the preceding Interest
+
+Period.
+
+9.3
+
+Interest on the Notes shall be calculated on the basis of the actual number of days in the
+
+Interest Period in respect of which payment is being made divided by 360 (actual/360-days
+
+basis).
+
+9.4
+
+If the Issuer fails to pay any amount payable by it on its due date, default interest shall
+
+accrue on the overdue amount from (but excluding) the due date up to (and including) the
+
+date of actual payment at a rate which is two (2) percentage units higher than the Interest
+
+Rate. Accrued default interest shall not be capitalised. No default interest shall accrue
+
+where the failure to pay was solely attributable to the Agent or the CSD, in which case the
+
+Interest Rate shall apply instead.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 17(39)
+
+10. 10.1 10.1.1 10.1.2 10.1.3 10.2 10.3 10.4 10.4.1
+10.4.2
+
+REDEMPTION AND REPURCHASE OF THE NOTES
+Scheduled redemption
+On the Interest Payment Date occurring on 25 April each year (with the first scheduled redemption occurring on 25 April 2015) (the "Scheduled Redemption Dates") the Issuer shall redeem SEK 50,000,000 of the Total Nominal Amount (the "Annual Redemption Amount").
+The Issuer shall ensure that each Annual Redemption Amount is used to partially prepay the Notes by applying the Annual Redemption Amount towards reduction of the Nominal Amount of each Note pro rata at a price equal to 100 per cent. of the Nominal Amount.
+The amount to be redeemed on each Scheduled Redemption Date shall be rounded down to the nearest SEK 1,000 per Note.
+Redemption at maturity
+The Issuer shall redeem all, but not some only, of the outstanding Notes in full on the Final Maturity Date with an amount per Note equal to the Nominal Amount together with accrued but unpaid Interest. If the Final Maturity Date is not a Business Day, then the redemption shall occur on the first following Business Day.
+Group Companies' purchase of Notes
+Each Group Company may, subject to applicable law, at any time and at any price purchase Notes on the market or in any other way. Notes held by a Group Company may at such Group Company's discretion be retained, sold, or if held by the Issuer, cancelled.
+Voluntary total redemption (call option)
+The Issuer may redeem all, but not some only, of the outstanding Notes in full:
+(a) any time prior to the First Call Date, at an amount per Note equal to 100 per cent. of the Nominal Amount together with accrued but unpaid Interest, plus the Applicable Premium;
+(b) any time from and including the First Call Date to, but excluding, the first Business Day falling forty-eight (48) months after the Issue Date at an amount per Note equal to 103 per cent. of the Nominal Amount, together with accrued but unpaid Interest;
+(c) any time from and including the first Business Day falling forty-eight (48) months after the Issue Date to, but excluding, the first Business Day falling fifty-seven (57) months after the Issue Date at an amount per Note equal to 101.5 per cent. of the Nominal Amount, together with accrued but unpaid Interest; or
+(d) any time from and including the first Business Day falling fifty-seven (57) months after the Issue Date to, but excluding, the Final Maturity Date at an amount per Note equal to 100 per cent. of the Nominal Amount, together with accrued but unpaid Interest.
+Redemption in accordance with Clause 10.4.1 shall be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Noteholders and the Agent. Any such notice
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 18(39)
+
+10.5 10.5.1
+10.5.2
+10.5.3 10.5.4 10.5.5
+10.6 10.6.1 10.6.2 10.6.3
+
+is irrevocable but may, at the Issuer's discretion, contain one or more conditions precedent. Upon expiry of such notice and the fulfilment of the conditions precedent (if any), the Issuer is bound to redeem the Notes in full at the applicable amounts.
+Mandatory partial redemption
+The Issuer shall ensure that, upon a Permitted Partial Divestment, an amount at least equal to 100 per cent. of the Existing Financial Indebtedness of the Restricted Company which shares are being disposed of (the "Prepayment Amount") is transferred to the Deposit Account. When the Prepayment Amount has been transferred to the Deposit Account, the Agent shall release the Security over the shares in the divested Restricted Company. The Prepayment Amount shall remain on the Deposit Account until the Agent instructs the Account Bank to transfer such amount for the purpose of partial prepayment of the Notes in accordance with this Clause 10.5.
+The Agent and the Issuer shall ensure that the Prepayment Amount is used to partially prepay the Notes by applying the Prepayment Amount towards reduction of the Nominal Amount of each Note pro rata at a price equal to the redemption amount specified in Clause 10.4 (Voluntary total redemption (call option)), as applicable considering when the disposal is made.
+Should any part of the Prepayment Amount remain after prepayment has been made, the Issuer may retain such part of the Prepayment Amount.
+The amount to be prepaid shall be rounded down to the nearest SEK 1,000 per Note and the requirement for the Issuer to redeem should not apply until the aggregate Prepayment Amount exceeds SEK 11,000,000.
+The prepayment of the Notes shall (i) be irrevocable, (ii) be executed on the first Interest Payment Date (taking into account the rules and regulations of the CSD) falling after the completion of the Permitted Partial Divestment, (iii) include accrued but unpaid interest and (iv) be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Noteholders and the Agent, where such notice shall state the relevant date on which the prepayment shall be made, the Prepayment Amount and the relevant Record Date.
+Early redemption due to illegality (call option)
+The Issuer may redeem all, but not some only, of the outstanding Notes at an amount per Note equal to the Nominal Amount together with accrued but unpaid Interest on a date determined by the Issuer if it is or becomes unlawful for the Issuer to perform its obligations under the Finance Documents.
+The Issuer shall give notice of any redemption pursuant to Clause 10.6.1 no later than twenty (20) Business Days after having received actual knowledge of any event specified therein (after which time period such right shall lapse).
+A notice of redemption in accordance with Clause 10.6.1 is irrevocable and, on the date specified in such notice, the Issuer is bound to redeem the Notes in full at the applicable amounts.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 19(39)
+
+10.7 10.7.1 10.7.2
+10.7.3
+10.7.4 10.7.5 10.7.6
+
+Mandatory repurchase due to a Change of Control Event or a Listing Failure (put option)
+Upon a Change of Control Event or a Listing Failure occurring, each Noteholder shall have the right to request that all, or some only, of its Notes be repurchased at a price per Note equal to 101 per cent. of the Nominal Amount together with accrued but unpaid Interest, during a period of twenty (20) Business Days following a notice from the Issuer of the Change of Control Event or Listing Failure, as applicable, pursuant to Clause 12.1.2 (after which time period such right shall lapse). However, such period may not start earlier than upon the occurrence of the Change of Control Event or Listing Failure, as applicable.
+The notice from the Issuer pursuant to Clause 12.1.2 shall specify the repurchase date and include instructions about the actions that a Noteholder needs to take if it wants Notes held by it to be repurchased. If a Noteholder has so requested, and acted in accordance with the instructions in the notice from the Issuer, the Issuer, or a person designated by the Issuer, shall repurchase the relevant Notes and the repurchase amount shall fall due on the repurchase date specified in the notice given by the Issuer pursuant to Clause 12.1.2. The repurchase date must fall no later than forty (40) Business Days after the end of the period referred to in Clause 10.7.1.
+If Noteholders representing more than eighty (80) per cent. of the Total Nominal Amount have requested that Notes held by them are repurchased pursuant to this Clause 10.7, the Issuer shall send a notice to the remaining Noteholders giving them a further opportunity to request that Notes held by them be repurchased on the same terms during a period of twenty (20) Business Days following such notice. Such notice shall specify the repurchase date and include instructions about the actions that a Noteholder needs to take if it wants Notes held by it to be repurchased. If a Noteholder has so requested, and acted in accordance with the instructions in the notice from the Issuer, the Issuer, or a person designated by the Issuer, shall repurchase the relevant Notes and the repurchase amount shall fall due on the repurchase date specified in the notice given by the Issuer pursuant to this Clause 10.7.3. The repurchase date must fall no later than forty (40) Business Days after the end of the period of twenty (20) Business Days referred to in this Clause 10.7.3.
+The Issuer shall comply with the requirements of any applicable securities laws or regulations in Sweden in connection with the repurchase of Notes. To the extent that the provisions of such laws and regulations conflict with the provisions in this Clause 10.7, the Issuer shall comply with the applicable securities laws and regulations and will not be deemed to have breached its obligations under this Clause 10.7 by virtue of the conflict.
+Any Notes repurchased by the Issuer pursuant to this Clause 10.7 may at the Issuer's discretion be retained, sold or cancelled.
+The Issuer shall not be required to repurchase any Notes pursuant to this Clause 10.7, if a third party in connection with the occurrence of a Change of Control Event or Listing Failure, as applicable, offers to purchase the Notes in the manner and on the terms set out in this Clause 10.7 (or on terms more favourable to the Noteholders) and purchases all Notes validly tendered in accordance with such offer. If the Notes tendered are not purchased within the time limits stipulated in this Clause 10.7, the Issuer shall repurchase any such Notes within five (5) Business Days after the expiry of the time limit.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 20(39)
+
+11. 11.1
+11.2 11.3
+11.4
+12. 12.1 12.1.1
+
+TRANSACTION SECURITY AND GUARANTEE
+As continuing Security for the due and punctual fulfilment of the Secured Obligations, the Issuer grants (and shall procure that the Parent grants) on or prior to the Issue Date (or, in respect of the shares pledged under each Restricted Company Share Pledge Agreement, on the relevant Refinancing Date) the Transaction Security to the Secured Parties as represented by the Agent.
+As a guarantee for the due and punctual fulfilment of the Guaranteed Obligations, the Issuer shall procure that the Parent grants on or prior to the Issue Date the Guarantee to the Secured Parties as represented by the Agent.
+The Agent shall hold the Transaction Security on behalf of the Secured Parties in accordance with the Security Documents. The Issuer shall (and shall procure that the Parent will) enter into the Security Documents and perfect the Transaction Security in accordance with the Security Documents on or before the Issue Date (or, in respect of the shares pledged under each Restricted Company Share Pledge Agreement, on the relevant Refinancing Date).
+Unless and until the Agent has received instructions from the Noteholders in accordance with Clause 17 (Decisions by Noteholders), the Agent shall (without first having to obtain the Noteholders' consent) be entitled to enter into agreements with the Issuer or a third party or take any other actions, if it is, in the Agent's opinion, necessary for the purpose of maintaining, altering, releasing or enforcing the Transaction Security and/or the Guarantee, creating further Security for the benefit of the Secured Parties or for the purpose of settling the Noteholders' or the Issuer's rights to the Transaction Security and/or the Guarantee, in each case in accordance with the terms of the Finance Documents.
+INFORMATION TO NOTEHOLDERS
+Information from the Issuer
+The Issuer shall:
+(a) prepare and make available the annual audited consolidated financial statements of the Group (including information regarding the use of the Note proceeds) and the annual audited unconsolidated financial statements of the Issuer to the Agent, by way of press release and by publication on the website of the Issuer as soon as possible but not later than four (4) months after the expiry of each Financial Year;
+(b) make available the annual audited consolidated financial statements of the Restricted Group to the Agent as soon as possible but not later than four (4) months after the expiry of each Financial Year;
+(c) prepare and make available interim unaudited consolidated reports of the Group and interim unaudited unconsolidated reports of the Issuer or the year-end report (bokslutskommunike) (as applicable and at the frequency required by the NASDAQ OMX Stockholm rulebook for issuers from time to time) to the Agent, by way of press release and by publication on the website of the Issuer as soon as possible but not later than two (2) months after the expiry of each relevant interim period;
+(d) to the extent not covered by paragraph (c) above, prepare and make available the quarterly interim unaudited consolidated reports of the Group and interim
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 21(39)
+
+12.1.2 12.1.3 12.1.4
+12.2 12.2.1
+
+unaudited unconsolidated reports of the Issuer to the Agent as soon as possible but not later than two (2) months after the expiry of each Financial Quarter;
+(e) make available the quarterly interim unaudited consolidated reports of the Restricted Group to the Agent as soon as possible but not later than two (2) months after the expiry of each Financial Quarter;
+(f) prepare each Financial Report (or ensure that such Financial Report is so prepared) in accordance with the Accounting Principles;
+(g) as soon as practicable following an acquisition or disposal of Notes by a Group Company, the aggregate Nominal Amount held by Group Companies, or the amount of Notes cancelled by the Issuer notify the Noteholders by way of press release and by publication on the website of the Issuer; and
+(h) make any other information required by the Swedish Securities Markets Act (lag (2007:582) om vardepappersmarknaden) and the rules and regulations of the Regulated Market on which the Notes are admitted to trading available to the Noteholders by way of press release and by publication on the website of the Issuer.
+The Issuer shall immediately notify the Noteholders and the Agent upon becoming aware of the occurrence of a Change of Control Event or a Listing Failure, and shall provide the Agent with such further information as the Agent may request (acting reasonably) following receipt of such notice. Such notice may be given in advance of the occurrence of a Change of Control Event, conditioned upon the occurrence of a Change of Control Event, if a definitive agreement is in place providing for a Change of Control Event.
+Together with the Financial Reports made available to the Agent or the Noteholders pursuant to Clause 12.1.1, the Issuer shall submit to the Agent a Compliance Certificate, attaching copies of any notices sent to the Regulated Market on which the Notes are admitted to trading. If the Compliance Certificate is provided to the Agent following a request by the Agent, it shall be delivered within twenty (20) calendar days from such request.
+The Issuer shall immediately notify the Agent (with full particulars) upon becoming aware of the occurrence of any event or circumstance which constitutes an Event of Default, or any event or circumstance which would (with the expiry of a grace period, the giving of notice, the making of any determination or any combination of any of the foregoing) constitute an Event of Default, and shall provide the Agent with such further information as it may reasonably request in writing following receipt of such notice. Should the Agent not receive such information, the Agent is entitled to assume that no such event or circumstance exists or can be expected to occur, provided that the Agent does not have actual knowledge of such event or circumstance.
+Information from the Agent
+Subject to the restrictions of a non-disclosure agreement entered into by the Agent in accordance with Clause 12.2.2, the Agent is entitled to disclose to the Noteholders any event or circumstance directly or indirectly relating to the Issuer or the Notes. Notwithstanding the foregoing, the Agent may if it considers it to be beneficial to the interests of the Noteholders delay disclosure or refrain from disclosing certain information other than in respect of an Event of Default that has occurred and is continuing.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 22(39)
+
+12.2.2
+12.3 12.3.1 12.3.2 13. 13.1
+13.2 13.3
+
+If a committee representing the Noteholders' interests under the Finance Documents has been appointed by the Noteholders in accordance with Clause 17 (Decisions by Noteholders), the members of such committee may agree with the Issuer not to disclose information received from the Issuer, provided that it, in the reasonable opinion of such members, is beneficial to the interests of the Noteholders. The Agent shall be a party to such agreement and receive the same information from the Issuer as the members of the committee.
+Publication of Finance Documents
+The latest version of these Terms and Conditions (including any document amending these Terms and Conditions) shall be available on the websites of the Issuer and the Agent.
+The latest versions of the Finance Documents shall be available to the Noteholders at the office of the Agent during normal business hours.
+GENERAL UNDERTAKINGS
+Compliance with laws
+The Issuer shall (and shall procure that each Group Company will) (i) comply in all material respects with all relevant laws and regulations applicable from time to time in the jurisdictions where the Group from time to time conducts businesss, and (ii) obtain, maintain, and in all material respects comply with, the terms and conditions of any authorisation, approval, licence or other permit required for the business carried out by a Group Company.
+Nature of business
+The Issuer shall procure that no material change is made to the general nature or scope of the business of it and the Group taken as a whole from that carried on as at the Issue Date.
+Distributions and other transactions
+No Group Company shall, unless permitted by the Finance Documents (i) grant any guarantees or other financial assistance, (ii) make any dividend payment, (iii) repurchase of its shares, (iv) redeem its share capital or other restricted equity with repayment to shareholders, (v) repay principal or pay interest under any shareholder loans, (vi) grant any loans or (vii) make other distributions or transfers of value to its shareholders or affiliates (items (i)-(vii) above are together and individually referred to as a "Restricted Payment"), provided however that any such Restricted Payment can be made, if such Restricted Payment is permitted by law and no Event of Default is continuing or would result from such Restricted Payment, (a) by any Unrestricted Group Company if such Restricted Payment is made to another Unrestricted Group Company (in which case also distributions to minority shareholders in such Unrestricted Group Companies shall be allowed pro rata to their shareholdings) or to the Issuer, (b) by any wholly-owned Restricted Company if such Restricted Payment is made to another wholly-owned Restricted Company, (c) by the Issuer provided that, it is a Permitted Guarantee or immediately following the making of any Restricted Payment the Issuer Incurrence Test (tested pro forma including such Restricted Payment) is met and (d) by the Parent by way of group contributions (koncernbidrag) provided that it is made to service the Issuer's payment obligations under the Notes or immediately following the making of such Restricted Payment the Restricted Group Incurrence Test (tested pro forma including such Restricted Payment) is met.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 23(39)
+
+13.4 13.5 13.6 13.7 13.7.1
+13.7.2 13.8
+
+Financial Indebtedness
+The Issuer shall not (and shall procure that no Restricted Company will) incur any new, or maintain or prolong any existing, Financial Indebtedness, provided however that the Issuer and the Restricted Companies have a right to incur, maintain and prolong Financial Indebtedness constituting Permitted Financial Indebtedness or Permitted Guarantees.
+Negative pledge
+The Issuer shall not (and shall procure that no Restricted Company will), create or allow to subsist, retain, provide, prolong or renew any guarantee or security over any of its/their present or future assets to secure any Financial Indebtedness, provided however that the Issuer and Restricted Companies have a right to retain, provide, prolong and renew any Permitted Security or Permitted Guarantees.
+Dealings with related parties
+The Issuer shall (and shall procure that each Group Company will), conduct all dealings with the management and the direct and indirect shareholders of the Group Companies (in case of any Unrestricted Group Company, excluding other Unrestricted Group Companies) and/or any affiliates of such management or direct and indirect shareholders, at arm's length terms.
+Disposal of assets
+The Issuer shall not (directly or indirectly) enter into a single transaction or a series of transactions (whether related or not) to sell or otherwise dispose of all or some of the shares in any Restricted Company unless (i) the Issuer has provided the Agent with ten (10) Business Days prior notice of such disposal and has delivered to the Agent such information regarding the disposal as the Agent may reasonably require; (ii) no Event of Default is continuing or would result from that disposal; (iii) the disposal is made on arm's-length terms, to an unrelated party and for market value consideration, and that the disposal proceeds will be received by the Issuer in immediately available funds at completion of the transaction; (iv) the value of the shares (in aggregate with any other Permitted Partial Divestment) does not represent more than 25 per cent. of the book value (bokförda värdet) of all fixed assets (anläggningstillgångar) of the Restricted Group as set out in the proforma balance sheet as per the Issue Date, calculated in accordance with the Accounting Principles; and (v) the Agent is satisfied that the net disposal proceeds can and will be utilised for (A) payment of any taxes incurred by in relation to the disposal, (B) payment of any amount due under any hedging arrangements resulting from such disposal, and (C) redemption of the Notes in an amount at least equal to the Prepayment Amount (a "Permitted Partial Divestment"). For the avoidance of doubt, the Issuer shall not (directly or indirectly) enter into a single transaction or a series of transactions (whether related or not) to sell or otherwise dispose of all or some of the shares in the Parent.
+The Issuer shall procure that no Restricted Company enter into a single transaction or a series of transactions (whether related or not) to sell, lease, transfer or otherwise dispose of any asset, except electrical power, green certificates (elcertifikat) or other related benefits for cash (including under any Permitted Lease).
+No amendments to the Finance Documents
+The Issuer shall ensure that no amendments which may have an impact on the Issuer's ability to repay or pay interest under the Notes and/or which might impair the Agent and
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 24(39)
+
+the Noteholders' security position as it is purported to be created under the Finance Documents are made to the Finance Documents without the Agent's prior written consent.
+
+13.9
+
+Maintenance, operations and management of the assets
+
+The Issuer shall procure (and shall ensure that the Group Companies procure) that its assets are kept in a state of good and safe condition and state of repair consistent with good industry standard and law.
+
+13.10 Insurance
+
+The Issuer shall (and shall procure that each Group Company will) maintain adequate risk protection through insurances (including business interruption and third party risk insurance) on and in relation to its business and assets to the extent reasonably required on the basis of good business practice, taking into account, inter alia, the financial position of the Group and the nature of its operations. All insurances that are not in the form of self insurance must be with reputable independent insurance companies or underwriters.
+
+13.11 Treasury Transactions
+
+The Issuer shall ensure that all Treasury Transactions entered into by any Group Company are implemented in accordance with the terms of the Group's finance policy as adopted by the board of directors of the Issuer from time to time.
+
+13.12 Listing of Notes
+
+13.12.1
+
+The Issuer shall use its best efforts to ensure that within sixty (60) calendar days after the Issue Date, the loan constituted by these Terms and Conditions and evidenced by the Notes is listed on the corporate bond list of NASDAQ OMX Stockholm or, if such admission to trading is not possible to obtain or maintain, admitted to trading on another Regulated Market.
+
+13.12.2
+
+Following an admission to trading on the corporate bond list of NASDAQ OMX Stockholm (or any other Regulated Market, as applicable), the Issuer shall take all actions on its part to maintain the admission as long as any Notes are outstanding (however, taking into account the rules and regulations of NASDAQ OMX Stockholm (or any other Regulated Market, as applicable) and the CSD (as amended from time to time) preventing trading in the Notes in close connection to the redemption of the Notes).
+
+13.13 Merger and de-mergers
+
+13.13.1
+
+The Issuer shall not carry out any merger or other business combination or corporate reorganisation involving consolidating assets and obligations, other than where the Issuer is the surviving entity.
+
+13.13.2 The Issuer shall procure that no Restricted Company will (excluding as a result of a Permitted Partial Divestment):
+
+(a) carry out any merger or other business combination or corporate reorganisation involving consolidating assets and obligations, other than (1) with another Restricted Company or (2) a solvent reorganisation of any Restricted Company; or
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 25(39)
+
+(b) carry out any de-merger or other corporate reorganisation involving splitting any of the Restricted Companies, provided in each case that the Parent is the surviving entity.
+
+13.14 Undertakings relating to the Agency Agreement
+
+13.14.1 The Issuer shall, in accordance with the Agency Agreement:
+
+(a) pay fees to the Agent;
+
+(b) indemnify the Agent for costs, losses and liabilities;
+
+(c) furnish to the Agent all information requested by or otherwise required to be delivered to the Agent; and
+
+(d) not act in a way which would give the Agent a legal or contractual right to terminate the Agency Agreement.
+
+13.14.2
+
+The Issuer and the Agent shall not agree to amend any provisions of the Agency Agreement without the prior consent of the Noteholders if the amendment would be detrimental to the interests of the Noteholders.
+
+14.
+
+FINANCIAL UNDERTAKINGS
+
+14.1
+
+Interest Coverage Ratio
+
+14.1.1
+
+The Issuer shall ensure that the Interest Coverage Ratio for the Relevant Period ending on each Quarter Date is not less than 1.25:1.
+
+14.1.2
+
+In the event that the Interest Coverage Ratio is less than (i) 1.50:1 for any Relevant Period ending on a Quarter Date occurring on or before the third anniversary of the Issue Date and (ii) 1.75:1 for any Relevant Period ending on a Quarter Date thereafter (each being a "Trigger Level") and until the Interest Coverage Ratio is equal to or exceeds the relevant Trigger Level, the Issuer shall procure that it will not incur any capital expenditure (other than operating and maintenance expenditure) or make any Restricted Payment unless the amount of Cash (calculated pro forma as if such expenditure or Restricted Payment being made) is equal to or exceed the aggregate amount of all the Issuer's interest-bearing obligations in relation to Financial Indebtedness which are due and payable during the immediately following 12 month period.
+
+14.2
+
+Debt to Assets
+
+14.2.1
+
+The Issuer shall on each Quarter Date ensure that the Group Debt to Assets Ratio is not greater than 0.75.
+
+14.2.2
+
+The Issuer shall on each Quarter Date ensure that the Restricted Group Debt to Assets Ratio is not greater than 0.75.
+
+15.
+
+ACCELERATION OF THE NOTES
+
+15.1
+
+The Agent is entitled to, and shall following a demand in writing from a Noteholder (or
+
+Noteholders) representing at least fifty (50) per cent. of the Adjusted Nominal Amount
+
+(such demand may only be validly made by a person who is a Noteholder on the Business
+
+Day immediately following the day on which the demand is received by the Agent and
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 26(39)
+shall, if made by several Noteholders, be made by them jointly) or following an instruction given pursuant to Clause 15.4, on behalf of the Noteholders (i) by notice to the Issuer, declare all, but not some only, of the outstanding Notes due and payable together with any other amounts payable under the Finance Documents, immediately or at such later date as the Agent determines, and (ii) exercise any or all of its rights, remedies, powers and discretions under the Finance Documents, if:
+(a) the Issuer does not pay on the due date any amount payable by it under the Finance Documents, unless the non-payment:
+(i) is caused by technical or administrative error; and
+(ii) is remedied within five (5) Business Days from the due date;
+(b) any of the financial undertakings set out in Clause 14 (Financial undertakings) is not complied with;
+(c) Any Group Company does not comply with any terms or conditions of the Finance Documents to which it is a party (other than those terms referred to in paragraphs (a)-(b) above), unless the non-compliance:
+(i) is capable of remedy; and
+(ii) is remedied within thirty (30) Business Days of the earlier of the Agent giving notice and the Issuer becoming aware of the non-compliance;
+(d) any Financial Indebtedness of a Material Group Company is not paid when due, or is declared to be or otherwise becomes due and payable prior to its specified maturity as a result of an event of default (however described), provided that no Event of Default will occur under this paragraph (d) if the aggregate amount of Financial Indebtedness referred to herein is less than SEK 10,000,000;
+(e) any Finance Document becomes invalid, ineffective or varied (other than in accordance with the provisions of the Finance Documents), or the Security created thereby is varied, and such invalidity, ineffectiveness or variation has a detrimental effect (directly or indirectly) on the interests of the Secured Parties;
+(f) any Material Group Company is, or is deemed for the purposes of any applicable law to be, Insolvent;
+(g) any corporate action, legal proceedings or other procedures are taken (other than proceedings or petitions which are being disputed in good faith and are discharged, stayed or dismissed within thirty (30) calendar days of commencement or, if earlier, the date on which it is advertised) in relation to (i) the suspension of payments, winding-up, dissolution, administration or reorganisation (foretagsrekonstruktion) (by way of voluntary agreement, scheme of arrangement or otherwise) of any Material Group Company; (ii) the appointment of a liquidator, receiver, administrator, administrative receiver, compulsory manager or other similar officer in respect of any Material Group Company or any of its assets; or (iii) any analogous procedure or step is taken in any jurisdiction;
+(h) any expropriation, attachment, sequestration, distress or execution or any analogous process in any jurisdiction affects any asset or assets of any Material
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 27(39)
+
+Group Company having an aggregate value exceeding SEK 5,000,000 and is not discharged within thirty (30) calendar days;
+
+(i) an environmental permit or any other authorisation relevant for the Issuer or any Restricted Company is limited (to the extent that the limitation has a material negative impact on the interests of the Noteholders), revoked or terminated in part or in full;
+
+(j) the Issuer or any Restricted Company suspends or ceases (or threatens to suspend or cease) to carry on all or substantially all of its business;
+
+(k) any of the conditions subsequent set out in Clause 5 (Conditions subsequent) is not satisfied during the time frame set out in the Finance Documents; or
+
+(l) any other event or series of events occurs other than as set out in paragraphs (a)-(k) above which is likely to have a Material Adverse Effect on the Issuer or the Group.
+
+15.2
+
+The Agent may not accelerate the Notes in accordance with Clause 15.1 by reference to a
+
+specific Event of Default if it is no longer continuing or if it has been decided, on a
+
+Noteholders Meeting or by way of a Written Procedure, to waive such Event of Default
+
+(temporarily or permanently).
+
+15.3
+
+The Agent shall notify the Noteholders of an Event of Default within five (5) Business
+
+Days of the date on which the Agent received actual knowledge of that an Event of Default
+
+has occurred and is continuing. The Agent shall, within twenty (20) Business Days of the
+
+date on which the Agent received actual knowledge of that an Event of Default has
+
+occurred and is continuing, decide if the Notes shall be so accelerated. If the Agent decides
+
+not to accelerate the Notes, the Agent shall promptly seek instructions from the
+
+Noteholders in accordance with Clause 17 (Decisions by Noteholders). The Agent shall
+
+always be entitled to take the time necessary to consider whether an occurred event
+
+constitutes an Event of Default.
+
+15.4
+
+If the Noteholders instruct the Agent to accelerate the Notes, the Agent shall promptly
+
+declare the Notes due and payable and take such actions as may, in the opinion of the
+
+Agent, be necessary or desirable to enforce the rights of the Noteholders under the Finance
+
+Documents, unless the relevant Event of Default is no longer continuing.
+
+15.5
+
+If the right to accelerate the Notes is based upon a decision of a court of law or a
+
+government authority, it is not necessary that the decision has become enforceable under
+
+law or that the period of appeal has expired in order for cause of acceleration to be deemed
+
+to exist.
+
+15.6
+
+In the event of an acceleration of the Notes in accordance with this Clause 14, the Issuer
+
+shall redeem all Notes at an amount per Note equal to the redemption amount specified in
+
+Clause 10.4 (Voluntary total redemption (call option)).
+
+16.
+
+DISTRIBUTION OF PROCEEDS
+
+16.1
+
+All payments by the Issuer relating to the Notes and the Finance Documents following an
+
+acceleration of the Notes in accordance with Clause 15 (Acceleration of the Notes) and any
+
+proceeds received from an enforcement of the Transaction Security and/or the Guarantee
+
+shall be distributed in the following order of priority, in accordance with the instructions of
+
+the Agent:
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 28(39)
+
+(a) first, in or towards payment pro rata of (i) all unpaid fees, costs, expenses and indemnities payable by the Issuer to the Agent in accordance with the Agency Agreement (other than any indemnity given for liability against the Noteholders), (ii) other costs, expenses and indemnities relating to the acceleration of the Notes, the enforcement of the Transaction Security and/or the Guarantee or the protection of the Noteholders' rights as may have been incurred by the Agent, (iii) any costs incurred by the Agent for external experts that have not been reimbursed by the Issuer in accordance with Clause 21.2.5, and (iv) any costs and expenses incurred by the Agent in relation to a Noteholders' Meeting or a Written Procedure that have not been reimbursed by the Issuer in accordance with Clause 17.13;
+
+(b) secondly, in or towards payment pro rata of accrued but unpaid Interest under the Notes (Interest due on an earlier Interest Payment Date to be paid before any Interest due on a later Interest Payment Date);
+
+(c) thirdly, in or towards payment pro rata of any unpaid principal under the Notes; and
+
+(d) fourthly, in or towards payment pro rata of any other costs or outstanding amounts unpaid under the Finance Documents.
+
+Any excess funds after the application of proceeds in accordance with paragraphs (a)-(d) above shall be paid to the Issuer.
+
+16.2
+
+If a Noteholder or another party has paid any fees, costs, expenses or indemnities referred
+
+to in Clause 16.1(a), such Noteholder or other party shall be entitled to reimbursement by
+
+way of a corresponding distribution in accordance with Clause 16.1(a).
+
+16.3
+
+Funds that the Agent receives (directly or indirectly) in connection with the acceleration of
+
+the Notes or the enforcement of the Transaction Security and/or the Guarantee constitute
+
+escrow funds (redovisningsmedel) and must be held on a separate interest-bearing account
+
+on behalf of the Noteholders and the other interested parties. The Agent shall arrange for
+
+payments of such funds in accordance with this Clause 16 as soon as reasonably
+
+practicable.
+
+16.4
+
+If the Issuer or the Agent shall make any payment under this Clause 16, the Issuer or the
+
+Agent, as applicable, shall notify the Noteholders of any such payment at least fifteen (15)
+
+Business Days before the payment is made. Such notice shall specify the Record Date, the
+
+payment date and the amount to be paid. Notwithstanding the foregoing, for any Interest
+
+due but unpaid the Record Date specified in Clause 8.1 shall apply and for any partial
+
+redemption in accordance with Clause 10.5 (Mandatory partial redemption) due but not
+
+made, the Record Date specified in Clause 10.5.5 shall apply.
+
+17.
+
+DECISIONS BY NOTEHOLDERS
+
+17.1
+
+A request by the Agent for a decision by the Noteholders on a matter relating to the
+
+Finance Documents shall (at the option of the Agent) be dealt with at a Noteholders'
+
+Meeting or by way of a Written Procedure.
+
+17.2
+
+Any request from the Issuer or a Noteholder (or Noteholders) representing at least ten
+
+(10) per cent. of the Adjusted Nominal Amount (such request may only be validly made by
+
+a person who is a Noteholder on the Business Day immediately following the day on which
+
+the request is received by the Agent and shall, if made by several Noteholders, be made by
+
+them jointly) for a decision by the Noteholders on a matter relating to the Finance
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 29(39)
+
+Documents shall be directed to the Agent and dealt with at a Noteholders' Meeting or by way a Written Procedure, as determined by the Agent. The person requesting the decision may suggest the form for decision making, but if it is in the Agent's opinion more appropriate that a matter is dealt with at a Noteholders' Meeting than by way of a Written Procedure, it shall be dealt with at a Noteholders' Meeting.
+
+17.3
+
+The Agent may refrain from convening a Noteholders' Meeting or instigating a Written
+
+Procedure if (i) the suggested decision must be approved by any person in addition to the
+
+Noteholders and such person has informed the Agent that an approval will not be given, or
+
+(ii) the suggested decision is not in accordance with applicable laws.
+
+17.4
+
+Only a person who is, or who has been provided with a power of attorney pursuant to
+
+Clause 7 (Right to act on behalf o f a Noteholder) from a person who is, registered as a
+
+Noteholder:
+
+(a) on the Record Date prior to the date of the Noteholders' Meeting, in respect of a Noteholders' Meeting, or
+
+(b) on the Business Day specified in the communication pursuant to Clause 19.3, in respect of a Written Procedure,
+
+may exercise voting rights as a Noteholder at such Noteholders' Meeting or in such Written Procedure, provided that the relevant Notes are included in the definition of Adjusted Nominal Amount.
+
+17.5
+
+The following matters shall require the consent of Noteholders representing at least eighty
+
+(80) per cent. of the Adjusted Nominal Amount for which Noteholders are voting at a
+
+Noteholders' Meeting or for which Noteholders reply in a Written Procedure in accordance
+
+with the instructions given pursuant to Clause 19.3:
+
+(a) the issue of any Notes after the Issue Date, if the total nominal amount of the Notes exceeds, or if such issue would cause the total nominal amount of the Notes to at any time exceed, SEK 1,100,000,000 (for the avoidance of doubt, for which consent shall be required at each occasion such Notes are issued);
+
+(b) a change to the terms of any of Clause 2.1, and Clauses 2.4 to 2.6;
+
+(c) a reduction of the premium payable upon the redemption or repurchase of any Note pursuant to Clause 10 (Redemption and repurchase o f the Notes);
+
+(d) a change to the Interest Rate or the Nominal Amount (other than as a result of an application of Clause 10.1 (Scheduled redemption) or Clause 10.5 (Mandatory partial redemption));
+
+(e) a change to the terms for the distribution of proceeds set out in Clause 16 (Distribution ofproceeds);
+
+(f) a change to the terms dealing with the requirements for Noteholders' consent set out in this Clause 17;
+
+(g) a change of issuer, an extension of the tenor of the Notes or any delay of the due date for payment of any principal or interest on the Notes;
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 30(39)
+
+17.6
+17.7
+17.8 17.9 17.10 17.11 17.12
+
+(h) a release of the Transaction Security or the Guarantee, except in accordance with the terms of the Finance Documents;
+(i) a mandatory exchange of the Notes for other securities; and
+(j) early redemption of the Notes, other than upon an acceleration of the Notes pursuant to Clause 15 (Acceleration o f the Notes) or as otherwise permitted or required by these Terms and Conditions.
+Any matter not covered by Clause 17.5 shall require the consent of Noteholders representing more than 50 per cent. of the Adjusted Nominal Amount for which Noteholders are voting at a Noteholders' Meeting or for which Noteholders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 19.3. This includes, but is not limited to, any amendment to, or waiver of, the terms of any Finance Document that does not require a higher majority (other than an amendment permitted pursuant to Clause 20.1(a) or (b)), an acceleration of the Notes or the enforcement of any Transaction Security or the Guarantee.
+Quorum at a Noteholders' Meeting or in respect of a Written Procedure only exists if a Noteholder (or Noteholders) representing at least fifty (50) per cent. of the Adjusted Nominal Amount in case of a matter pursuant to Clause 17.5, and otherwise twenty (20) per cent. of the Adjusted Nominal Amount:
+(a) if at a Noteholders' Meeting, attend the meeting in person or by telephone conference (or appear through duly authorised representatives); or
+(b) if in respect of a Written Procedure, reply to the request.
+If a quorum does not exist at a Noteholders' Meeting or in respect of a Written Procedure, the Agent or the Issuer shall convene a second Noteholders' Meeting (in accordance with Clause 18.1) or initiate a second Written Procedure (in accordance with Clause 19.1), as the case may be, provided that the relevant proposal has not been withdrawn by the person(s) who initiated the procedure for Noteholders' consent. The quorum requirement in Clause 17.7 shall not apply to such second Noteholders' Meeting or Written Procedure.
+Any decision which extends or increases the obligations of the Issuer or the Agent, or limits, reduces or extinguishes the rights or benefits of the Issuer or the Agent, under the Finance Documents shall be subject to the Issuer's or the Agent's consent, as appropriate.
+A Noteholder holding more than one Note need not use all its votes or cast all the votes to which it is entitled in the same way and may in its discretion use or cast some of its votes only.
+The Issuer may not, directly or indirectly, pay or cause to be paid any consideration to or for the benefit of any Noteholder for or as inducement to any consent under these Terms and Conditions, unless such consideration is offered to all Noteholders that consent at the relevant Noteholders' Meeeting or in a Written Procedure within the time period stipulated for the consideration to be payable or the time period for replies in the Written Procedure, as the case may be.
+A matter decided at a duly convened and held Noteholders' Meeting or by way of Written Procedure is binding on all Noteholders, irrespective of them being present or represented at the Noteholders' Meeting or responding in the Written Procedure. The Noteholders that
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 31(39)
+
+17.13 17.14
+17.15
+18. 18.1 18.2
+18.3
+18.4 18.5 19. 19.1
+
+have not adopted or voted for a decision shall not be liable for any damages that this may cause other Noteholders.
+All costs and expenses incurred by the Issuer or the Agent for the purpose of convening a Noteholders' Meeting or for the purpose of carrying out a Written Procedure, including reasonable fees to the Agent, shall be paid by the Issuer.
+If a decision shall be taken by the Noteholders on a matter relating to the Finance Documents, the Issuer shall promptly at the request of the Agent provide the Agent with a certificate specifying the number of Notes owned by Group Companies or (to the knowledge of the Issuer) Affiliates, irrespective of whether such person is directly registered as owner of such Notes. The Agent shall not be responsible for the accuracy of such certificate or otherwise be responsible to determine whether a Note is owned by a Group Company or an Affiliate.
+Information about decisions taken at a Noteholders' Meeting or by way of a Written Procedure shall promptly be sent by notice to the Noteholders and published on the websites of the Issuer and the Agent, provided that a failure to do so shall not invalidate any decision made or voting result achieved. The minutes from the relevant Noteholders' Meeting or Written Procedure shall at the request of a Noteholder be sent to it by the Issuer or the Agent, as applicable.
+NOTEHOLDERS' MEETING
+The Agent shall convene a Noteholders' Meeting by sending a notice thereof to each Noteholder no later than five (5) Business Days after receipt of a request from the Issuer or the Noteholder(s) (or such later date as may be necessary for technical or administrative reasons).
+Should the Issuer want to replace the Agent, it may convene a Noteholders' Meeting in accordance with Clause 18.1 with a copy to the Agent. After a request from the Noteholders pursuant to Clause 21.4.3, the Issuer shall no later than five (5) Business Days after receipt of such request (or such later date as may be necessary for technical or administrative reasons) convene a Noteholders' Meeting in accordance with Clause 18.1.
+The notice pursuant to Clause 18.1 shall include (i) time for the meeting, (ii) place for the meeting, (iii) agenda for the meeting (including each request for a decision by the Noteholders) and (iv) a form of power of attorney. Only matters that have been included in the notice may be resolved upon at the Noteholders' Meeting. Should prior notification by the Noteholders be required in order to attend the Noteholders' Meeting, such requirement shall be included in the notice.
+The Noteholders' Meeting shall be held no earlier than fifteen (15) Business Days and no later than thirty (30) Business Days from the notice.
+Without amending or varying these Terms and Conditions, the Agent may prescribe such further regulations regarding the convening and holding of a Noteholders' Meeting as the Agent may deem appropriate. Such regulations may include a possibility for Noteholders to vote without attending the meeting in person.
+WRITTEN PROCEDURE
+The Agent shall instigate a Written Procedure no later than five (5) Business Days after receipt of a request from the Issuer or the Noteholder(s) (or such later date as may be
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 32(39)
+
+necessary for technical or administrative reasons) by sending a communication to each such person who is registered as a Noteholder on the Business Day prior to the date on which the communication is sent.
+
+19.2
+
+Should the Issuer want to replace the Agent, it may send a communication in accordance
+
+with Clause 19.1 to each Noteholder with a copy to the Agent.
+
+19.3
+
+A communication pursuant to Clause 19.1 shall include (i) each request for a decision by
+
+the Noteholders, (ii) a description of the reasons for each request, (iii) a specification of the
+
+Business Day on which a person must be registered as a Noteholder in order to be entitled
+
+to exercise voting rights, (iv) instructions and directions on where to receive a form for
+
+replying to the request (such form to include an option to vote yes or no for each request)
+
+as well as a form of power of attorney, and (v) the stipulated time period within which the
+
+Noteholder must reply to the request (such time period to last at least fifteen (15) Business
+
+Days from the communication pursuant to Clause 19.1, for avoidance of doubt the three (3)
+
+Business Days set out in Clause 25.1.2 shall be deemed to be included in the required
+
+minimum fifteen (15) Business Days). If the voting shall be made electronically,
+
+instructions for such voting shall be included in the communication.
+
+19.4
+
+When the requisite majority consents of the total Adjusted Nominal Amount pursuant to
+
+Clauses 17.5 and 17.6 have been received in a Written Procedure, the relevant decision
+
+shall be deemed to be adopted pursuant to Clause 17.5 or 17.6, as the case may be, even if
+
+the time period for replies in the Written Procedure has not yet expired.
+
+20.
+
+AMENDMENTS AND WAIVERS
+
+20.1
+
+The Issuer and the Agent (acting on behalf of the Noteholders) may agree to amend the
+
+Finance Documents or waive any provision in a Finance Document, provided that:
+
+(a) such amendment or waiver is not detrimental to the interest of the Noteholders, or is made solely for the purpose of rectifying obvious errors and mistakes;
+
+(b) such amendment or waiver is required by applicable law, a court ruling or a decision by a relevant authority; or
+
+(c) such amendment or waiver has been duly approved by the Noteholders in accordance with Clause 17 (Decisions by Noteholders).
+
+20.2
+
+The consent of the Noteholders is not necessary to approve the particular form of any
+
+amendment to the Finance Documents. It is sufficient if such consent approves the
+
+substance of the amendment.
+
+20.3
+
+The Agent shall promptly notify the Noteholders of any amendments or waivers made in
+
+accordance with Clause 20.1, setting out the date from which the amendment or waiver
+
+will be effective, and ensure that any amendments to the Finance Documents are published
+
+in the manner stipulated in Clause 12.3 (Publication o f Finance Documents). The Issuer
+
+shall ensure that any amendments to the Finance Documents are duly registered with the
+
+CSD and each other relevant organisation or authority.
+
+20.4
+
+An amendment to the Finance Documents shall take effect on the date determined by the
+
+Noteholders Meeting, in the Written Procedure or by the Agent, as the case may be.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 33(39)
+
+21. 21.1 21.1.1
+21.1.2
+21.1.3 21.1.4 21.1.5 21.2 21.2.1 21.2.2 21.2.3 21.2.4 21.2.5
+
+APPOINTMENT AND REPLACEMENT OF THE AGENT
+Appointment of Agent
+By subscribing for Notes, each initial Noteholder appoints the Agent to act as its agent in all matters relating to the Notes and the Finance Documents, and authorises the Agent to act on its behalf (without first having to obtain its consent, unless such consent is specifically required by these Terms and Conditions) in any legal or arbitration proceedings relating to the Notes held by such Noteholder including any legal or arbitration proceeding relating to the perfection, preservation, protection or enforcement of the Transaction Security and/or the Guarantee. By acquiring Notes, each subsequent Noteholder confirms such appointment and authorisation for the Agent to act on its behalf.
+Each Noteholder shall immediately upon request provide the Agent with any such documents, including a written power of attorney (in form and substance satisfactory to the Agent), that the Agent deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents. The Agent is under no obligation to represent a Noteholder which does not comply with such request.
+The Issuer shall promptly upon request provide the Agent with any documents and other assistance (in form and substance satisfactory to the Agent), that the Agent deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents.
+The Agent is entitled to fees for its work and to be indemnified for costs, losses and liabilities on the terms set out in the Finance Documents and the Agency Agreement and the Agent's obligations as Agent under the Finance Documents are conditioned upon the due payment of such fees and indemnifications.
+The Agent may act as agent or trustee for several issues of securities issued by or relating to the Issuer and other Group Companies notwithstanding potential conflicts of interest.
+Duties of the Agent
+The Agent shall represent the Noteholders in accordance with the Finance Documents, including, inter alia, holding the Transaction Security pursuant to the Security Documents on behalf of the Noteholders and, where relevant, enforcing the Transaction Security or the Guarantee on behalf of the Noteholders.
+When acting in accordance with the Finance Documents, the Agent is always acting with binding effect on behalf of the Noteholders. The Agent shall carry out its duties under the Finance Documents in a reasonable, proficient and professional manner, with reasonable care and skill.
+The Agent is entitled to delegate its duties to other professional parties, but the Agent shall remain liable for the actions of such parties under the Finance Documents.
+The Agent shall treat all Noteholders equally and, when acting pursuant to the Finance Documents, act with regard only to the interests of the Noteholders and shall not be required to have regard to the interests or to act upon or comply with any direction or request of any other person, other than as explicitly stated in the Finance Documents.
+The Agent is entitled to engage external experts when carrying out its duties under the Finance Documents. The Issuer shall on demand by the Agent pay all costs for external
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 34(39)
+
+21.2.6 21.2.7
+21.2.8 21.3 21.3.1 21.3.2
+21.3.3
+21.3.4 21.3.5
+
+experts engaged after the occurrence of an Event of Default, or for the purpose of investigating or considering (i) an event which the Agent reasonably believes is or may lead to an Event of Default or (ii) a matter relating to the Issuer, any Restricted Company, the Transaction Security or the Guarantee which the Agent reasonably believes may be detrimental to the interests of the Noteholders under the Finance Documents. Any compensation for damages or other recoveries received by the Agent from external experts engaged by it for the purpose of carrying out its duties under the Finance Documents shall be distributed in accordance with Clause 16 (Distribution o fproceeds).
+Notwithstanding any other provision of the Finance Documents to the contrary, the Agent is not obliged to do or omit to do anything if it would or might in its reasonable opinion constitute a breach of any law or regulation.
+If in the Agent's reasonable opinion the cost, loss or liability which it may incur (including reasonable fees to the Agent) in complying with instructions of the Noteholders, or taking any action at its own initiative, will not be covered by the Issuer, the Agent may refrain from acting in accordance with such instructions, or taking such action, until it has received such funding or indemnities (or adequate Security has been provided therefore) as it may reasonably require.
+The Agent shall give a notice to the Noteholders (i) before it ceases to perform its obligations under the Finance Documents by reason of the non-payment by the Issuer of any fee or indemnity due to the Agent under the Finance Documents or the Agency Agreement or (ii) if it refrains from acting for any reason described in Clause 21.2.7.
+Limited liability for the Agent
+The Agent will not be liable to the Noteholders for damage or loss caused by any action taken or omitted by it under or in connection with any Finance Document, unless directly caused by its negligence or wilful misconduct. The Agent shall never be responsible for indirect loss.
+The Agent shall not be considered to have acted negligently if it has acted in accordance with advice from or opinions of reputable external experts engaged by the Agent or if the Agent has acted with reasonable care in a situation when the Agent considers that it is detrimental to the interests of the Noteholders to delay the action in order to first obtain instructions from the Noteholders.
+The Agent shall not be liable for any delay (or any related consequences) in crediting an account with an amount required pursuant to the Finance Documents to be paid by the Agent to the Noteholders, provided that the Agent has taken all necessary steps as soon as reasonably practicable to comply with the regulations or operating procedures of any recognised clearing or settlement system used by the Agent for that purpose.
+The Agent shall have no liability to the Noteholders for damage caused by the Agent acting in accordance with instructions of the Noteholders given in accordance with Clause 17 (Decisions by Noteholders) or a demand by Noteholders given pursuant to Clause 15.1.
+Any liability towards the Issuer which is incurred by the Agent in acting under, or in relation to, the Finance Documents shall not be subject to set-off against the obligations of the Issuer to the Noteholders under the Finance Documents.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 35(39)
+
+21.4 21.4.1 21.4.2 21.4.3
+21.4.4 21.4.5 21.4.6 21.4.7
+21.4.8
+
+Replacement of the Agent
+Subject to Clause 21.4.6, the Agent may resign by giving notice to the Issuer and the Noteholders, in which case the Noteholders shall appoint a successor Agent at a Noteholders' Meeting convened by the retiring Agent or by way of Written Procedure initiated by the retiring Agent.
+Subject to Clause 21.4.6, if the Agent is Insolvent, the Agent shall be deemed to resign as Agent and the Issuer shall within ten (10) Business Days appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+A Noteholder (or Noteholders) representing at least ten (10) per cent. of the Adjusted Nominal Amount may, by notice to the Issuer (such notice may only be validly given by a person who is a Noteholder on the Business Day immediately following the day on which the notice is received by the Issuer and shall, if given by several Noteholders, be given by them jointly), require that a Noteholders' Meeting is held for the purpose of dismissing the Agent and appointing a new Agent. The Issuer may, at a Noteholders' Meeting convened by it or by way of Written Procedure initiated by it, propose to the Noteholders that the Agent be dismissed and a new Agent appointed.
+If the Noteholders have not appointed a successor Agent within ninety (90) calendar days after (i) the earlier of the notice of resignation was given or the resignation otherwise took place or (ii) the Agent was dismissed through a decision by the Noteholders, the Issuer shall appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+The retiring Agent shall, at its own cost, make available to the successor Agent such documents and records and provide such assistance as the successor Agent may reasonably request for the purposes of performing its functions as Agent under the Finance Documents.
+The Agent's resignation or dismissal shall only take effect upon the appointment of a successor Agent and acceptance by such successor Agent of such appointment and the execution of all necessary documentation to effectively substitute the retiring Agent.
+Upon the appointment of a successor, the retiring Agent shall be discharged from any further obligation in respect of the Finance Documents but shall remain entitled to the benefit of the Finance Documents and remain liable under the Finance Documents in respect of any action which it took or failed to take whilst acting as Agent. Its successor, the Issuer and each of the Noteholders shall have the same rights and obligations amongst themselves under the Finance Documents as they would have had if such successor had been the original Agent.
+In the event that there is a change of the Agent in accordance with this Clause 21.4, the Issuer shall execute such documents and take such actions as the new Agent may reasonably require for the purpose of vesting in such new Agent the rights, powers and obligation of the Agent and releasing the retiring Agent from its further obligations under the Finance Documents and the Agency Agreement. Unless the Issuer and the new Agent agrees otherwise, the new Agent shall be entitled to the same fees and the same indemnities as the retiring Agent.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 36(39)
+
+22.
+
+APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT
+
+22.1
+
+The Issuer appoints the Issuing Agent to manage certain specified tasks under these Terms
+
+and Conditions and in accordance with the legislation, rules and regulations applicable to
+
+and/or issued by the CSD and relating to the Notes.
+
+22.2
+
+The Issuing Agent may retire from its assignment or be dismissed by the Issuer, provided
+
+that the Issuer has approved that a commercial bank or securities institution approved by
+
+the CSD accedes as new Issuing Agent at the same time as the old Issuing Agent retires or
+
+is dismissed. If the Issuing Agent is Insolvent, the Issuer shall immediately appoint a new
+
+Issuing Agent, which shall replace the old Issuing Agent as issuing agent in accordance
+
+with these Terms and Conditions.
+
+23.
+
+NO DIRECT ACTIONS BY NOTEHOLDERS
+
+23.1
+
+A Noteholder may not take any steps whatsoever against the Issuer, any Restricted
+
+Company or with respect to the Transaction Security or the Guarantee to enforce or
+
+recover any amount due or owing to it pursuant to the Finance Documents, or to initiate,
+
+support or procure the winding-up, dissolution, liquidation, company reorganisation
+
+(företagsrekonstruktion) or bankruptcy (konkurs) (or its equivalent in any other
+
+jurisdiction) of the Issuer or the Parent in relation to any of the liabilities of the Issuer or
+
+the Parent under the Finance Documents.
+
+23.2
+
+Clause 23.1 shall not apply if the Agent has been instructed by the Noteholders in
+
+accordance with the Finance Documents to take certain actions but fails for any reason to
+
+take, or is unable to take (for any reason other than a failure by a Noteholder to provide
+
+documents in accordance with Clause 21.1.2), such actions within a reasonable period of
+
+time and such failure or inability is continuing. However, if the failure to take certain
+
+actions is caused by the non-payment by the Issuer of any fee or indemnity due to the
+
+Agent under the Finance Documents or the Agency Agreement or by any reason described
+
+in Clause 21.2.7, such failure must continue for at least forty (40) Business Days after
+
+notice pursuant to Clause 21.2.8 before a Noteholder may take any action referred to in
+
+Clause 23.1.
+
+23.3
+
+The provisions of Clause 23.1 shall not in any way limit an individual Noteholder's right to
+
+claim and enforce payments which are due to it under Clause 10.7 (Mandatory repurchase
+
+due to a Change o f Control Event or a Listing Failure (put option)) or other payments
+
+which are due by the Issuer to some but not all Noteholders.
+
+24.
+
+PRESCRIPTION
+
+24.1
+
+The right to receive repayment of the principal of the Notes shall be prescribed and become
+
+void ten (10) years from the Redemption Date. The right to receive payment of interest
+
+(excluding any capitalised interest) shall be prescribed and become void three (3) years
+
+from the relevant due date for payment. The Issuer is entitled to any funds set aside for
+
+payments in respect of which the Noteholders' right to receive payment has been
+
+prescribed and has become void.
+
+24.2
+
+If a limitation period is duly interrupted in accordance with the Swedish Act on Limitations
+
+(preskriptionslag (1981:130)), a new limitation period of ten (10) years with respect to the
+
+right to receive repayment of the principal of the Notes, and of three (3) years with respect
+
+to receive payment of interest (excluding capitalised interest) will commence, in both cases
+
+calculated from the date of interruption of the limitation period, as such date is determined
+
+pursuant to the provisions of the Swedish Act on Limitations.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 37(39)
+
+25. 25.1 25.1.1
+25.1.2
+25.1.3 25.2 25.2.1 25.2.2
+26. 26.1
+
+NOTICES AND PRESS RELEASES
+Notices
+Any notice or other communication to be made under or in connection with the Finance Documents:
+(a) if to the Agent, shall be given at the address registered with the Swedish Companies Registration Office (Bolagsverket) on the Business Day prior to dispatch or by email to mail@swedishtrustee.se;
+(b) if to the Issuer, shall be given at the address registered with the Swedish Companies Registration Office on the Business Day prior to dispatch; and
+(c) if to the Noteholders, shall be given at their addresses as registered with the CSD, on the Record Date prior to dispatch, and by either courier delivery or letter for all Noteholders. A notice to the Noteholders shall also be published on the websites of the Issuer and the Agent.
+Any notice or other communication made by one person to another under or in connection with the Finance Documents shall be sent by way of courier, personal delivery or letter and will only be effective, in case of courier or personal delivery, when it has been left at the address specified in Clause 25.1.1 or, in case of letter, three (3) Business Days after being deposited postage prepaid in an envelope addressed to the address specified in Clause 25.1.1. A Compliance Certificate may be sent to the Agent by email.
+Failure to send a notice or other communication to a Noteholder or any defect in it shall not affect its sufficiency with respect to other Noteholders.
+Press releases
+Any notice that the Issuer or the Agent shall send to the Noteholders pursuant to Clauses 10.4 (Voluntary total redemption (call option)), 10.5 (Mandatory partial redemption), 10.6 (Early redemption due to illegality), 12.1.2, 15.3, 17.15, 18.1, 19.1 and 20.3 shall also be published by way of press release by the Issuer or the Agent, as applicable.
+In addition to Clause 25.2.1, if any information relating to the Notes, the Issuer or the Group contained in a notice the Agent may send to the Noteholders under these Terms and Conditions has not already been made public by way of a press release, the Agent shall before it sends such information to the Noteholders give the Issuer the opportunity to issue a press release containing such information. If the Issuer does not promptly issue a press release and the Agent considers it necessary to issue a press release containing such information before it can lawfully send a notice containing such information to the Noteholders, the Agent shall be entitled to issue such press release.
+FORCE MAJEURE AND LIMITATION OF LIABILITY
+Neither the Agent nor the Issuing Agent shall be held responsible for any damage arising out of any legal enactment, or any measure taken by a public authority, or war, strike, lockout, boycott, blockade or any other similar circumstance (a "Force Majeure Event"). The reservation in respect of strikes, lockouts, boycotts and blockades applies even if the Agent or the Issuing Agent itself takes such measures, or is subject to such measures.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 38(39)
+
+26.2
+
+The Issuing Agent shall have no liability to the Noteholders if it has observed reasonable
+
+care. The Issuing Agent shall never be responsible for indirect damage with exception of
+
+gross negligence and wilful misconduct.
+
+26.3
+
+Should a Force Majeure Event arise which prevents the Agent or the Issuing Agent from
+
+taking any action required to comply with these Terms and Conditions, such action may be
+
+postponed until the obstacle has been removed.
+
+26.4
+
+The provisions in this Clause 26 apply unless they are inconsistent with the provisions of
+
+the Financial Instruments Accounts Act which provisions shall take precedence.
+
+27.
+
+GOVERNING LAW AND JURISDICTION
+
+27.1
+
+These Terms and Conditions, and any non-contractual obligations arising out of or in
+
+connection therewith, shall be governed by and construed in accordance with the laws of
+
+Sweden.
+
+27.2
+
+The Issuer submits to the non-exclusive jurisdiction of the Swedish courts and the City
+
+Court of Stockholm (Stockholms tingsrätt) shall be the court of first instance.
+
+LEGAL#9321348v 15
+
+EXECUTION VERSION 39(39)
+We hereby certify that the above terms and conditions are binding upon ourselves. Place: Date:____April 2014 ARISE AB (PUBL) as Issuer
+Name: Peter Nygren
+We hereby undertake to act in accordance with the above terms and conditions to the extent they refer to us. Place: Stockholm Date: ____ April 2014 NORDIC TRUSTEE & AGENCY AB (PUBL) as Agent
+Name:
+
+LEGAL#9321348v 15
+
+

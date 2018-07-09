@@ -1,0 +1,512 @@
+MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target market - Solely for the purposes of the manufacturer's product approval process, the target market assessment in respect of the Notes has led
+
+<<<
+
+ to the conclusion that: (i) the target market for the Notes is eligible counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended, MiFID II); and (ii) all channels for distribution of the Notes to eligible
+
+<<<
+
+ counterparties and professional clients are appropriate. Any person subsequently offering, selling or recommending the Notes (a distributor) should take into consideration the manufacturer's target market assessment; however, a distributor
+
+<<<
+
+ subject to MiFID II is responsible for undertaking its own target market assessment in respect of the Notes (by either adopting or refining the manufacturer's target market assessment) and determining appropriate distribution channels.
+PROHIBITION
+
+<<<
+
+ OF SALES TO EEA RETAIL INVESTORS - The Notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in the European Economic Area (EEA). For these
+
+<<<
+
+ purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of Directive 2002/92/EC (IMD), where that customer would not qualify
+
+<<<
+
+ as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in Directive 2003/71/EC (as amended, the Prospectus Directive). Consequently no key information document required by
+
+<<<
+
+ Regulation (EU) No. 1286/2014 (the PRIIPs Regulation) for offering or selling the Notes or otherwise making them available to retail investors in the EEA has been prepared and therefore offering or selling the Notes or otherwise making them
+
+<<<
+
+ available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.
+
+16 March 2018
+
+Møre Boligkreditt AS
+Issue of NOK 2 500 million Floating Rate Note under the 2,500,000,000 due March 2024
+Euro Medium Term Covered Note
+
+<<<
+
+ Programme
+PART A -- CONTRACTUAL TERMS
+Terms used herein shall be deemed to be defined as such for the purposes of the Terms and Conditions of the VPS Notes set forth in the Offering Circular dated 7 March 2018 which constitute a base prospectus
+
+<<<
+
+ for the purposes of the Prospectus Directive (the Offering Circular). This document constitutes the Final Terms of the Notes described herein for the purposes of Article 5.4 of the Prospectus Directive and must be read in conjunction with the
+
+<<<
+
+ Offering Circular. Full information on the Issuer and the offer of the Notes is only available on the basis of the combination of these Final Terms and the Offering Circular. The Offering Circular is available for viewing at ww.sbm.no/mbk and
+
+<<<
+
+ copies may be obtained from the registered office of the Issuer.
+
+1.
+
+Issuer:
+
+Møre Boligkreditt AS
+
+2.
+
+(a) Series Number:
+
+13
+
+(b) Tranche Number:
+
+1
+
+(c) Date on which the Notes will be Not Applicable consolidated and form a single Series
+
+<<<
+
+:
+
+3.
+
+Specified Currency or Currencies:
+
+NOK
+
+4.
+
+Aggregate Nominal Amount:
+
+(a) Series:
+
+NOK 2,500,000,000
+
+(b) Tranche:
+
+NOK 2,500,000,000
+
+5.
+
+Issue Price:
+
+100.00 per cent, of the Aggregate Nominal Amount
+
+6.
+
+(a) Specified Denominations
+
+<<<
+
+:
+
+NOK 1,000,000
+
+(b) Calculation Amount
+
+NOK 1,000,000
+
+1
+
+(Applicable to Notes in definitive form.)
+
+7.
+
+(a) Issue Date:
+
+20 March 2018
+
+(b) Interest Commencement Date:
+
+Issue Date
+
+8.
+
+Maturity Date:
+
+Interest Payment Date falling in or
+
+<<<
+
+ nearest to March 2024.
+
+9.
+
+Extended Final Maturity Date:
+
+Interest Payment Date falling in or nearest to March 2025; in each case falling one year after the Maturity Date
+
+10. Interest Basis:
+
+3 months NIBOR +0.42 per cent. Floating Rate
+
+
+<<<
+
+
+11. Redemption/Payment Basis:
+
+Subject to any purchase and cancellation or early redemption, the Notes will be redeemed on the Maturity Date at 100 per cent, of their nominal amount.
+
+12. Change of Interest Basis:
+
+Not Applicable
+
+13. Put/Call
+
+<<<
+
+ Options:
+
+Not Applicable
+
+14. Date Board approval for issuance of Notes 16 October 2017 obtained:
+
+PROVISIONS RELATING TO INTEREST (IF ANY) PAYABLE
+
+15. Fixed Rate Note Provisions
+
+Not Applicable
+
+16. Floating Rate Note Provisions
+
+Applicable
+
+<<<
+
+
+
+(a) Specified Period(s)/Specified Interest The period beginning on (and including) the
+
+Payment Dates:
+
+Interest Commencement Date and ending on (but
+
+excluding) the first Specified Interest Payment
+
+Date, the first Interest Period, and each
+
+<<<
+
+
+
+subsequent period beginning on (and including) a
+
+Specified Interest Payment Date and ending on
+
+(but excluding) the next following Specified
+
+Interest Payment Date, herein called an "Interest
+
+Period".
+
+Interest will be paid quarterly in
+
+<<<
+
+ arrears on 20 March, 20 June, 20 September, 20 December in each year from and including 20 March 2018 (the first Specified Interest Payment date) up to and including the Maturity Date, subject to adjustment in accordance with the Modified Business
+
+<<<
+
+ Day Convention (each a "Specified Interest Payment Date").
+
+(b) Business Day Convention:
+
+Modified Following Business Day Convention, Adjusted
+
+(c)
+
+Additional Business Centre(s):
+
+Oslo
+
+(d) Manner in which the Rate of Interest and Screen Rate
+
+<<<
+
+ Determination Interest Amount is to be determined:
+
+(e)
+
+Party responsible for calculating the Rate VPS Agent
+
+of Interest and Interest Amount (if not
+
+the Agent):
+
+(f)
+
+Screen Rate Determination:
+
+·
+
+Reference Rate:
+
+3 months NIBOR
+
+·
+
+Interest
+
+<<<
+
+ Determination Date(s): Second Oslo Business Day prior to the start of
+
+2
+
+each Specified Period
+
+·
+
+Relevant Screen Page:
+
+Reuters page NIBR
+
+(g)
+
+ISDA Determination:
+
+(h) Linear Interpolation:
+
+(0
+
+Margin(s):
+
+0)
+
+Minimum Rate of Interest
+
+<<<
+
+:
+
+(k) Maximum Rate of Interest:
+
+Not Applicable Not Applicable + 0.42 per cent, per annum 0.00 per cent, per annum Not Applicable
+
+(1)
+
+Day Count Fraction:
+
+17. Zero Coupon Note Provisions
+
+Actual/360 Not Applicable
+
+PROVISIONS RELATING TO
+
+<<<
+
+ REDEMPTION
+
+18. Issuer Call:
+
+Not Applicable
+
+19. Investor Put:
+
+Not Applicable
+
+20. Final Redemption Amount:
+
+NOK 1,000,000 per Calculation Amount
+
+GENERAL PROVISIONS APPLICABLE TO THE NOTES
+
+21. Form of Notes:
+
+(a) Form:
+
+VPS Notes issued
+
+<<<
+
+ in uncertificated book entry form
+
+(b) New Global Note:
+
+No
+
+22. Additional Financial Centre(s):
+
+Oslo
+
+23. Talons for future Coupons to be attached to No Definitive Notes:
+
+THIRD PARTY INFORMATION
+
+Not Applicable
+
+Signed on bghalf of More
+
+<<<
+
+ Boligkreditt AS:
+0
+By:..... Duly authorised
+
+3
+
+PART B -- OTHER INFORMATION
+
+1.
+
+LISTING
+
+(i)
+
+Listing and Admission to trading:
+
+Application has been made by the Issuer (or on its behall) for the Notes to be admitted to trading on the Oslo
+
+<<<
+
+ Stock Exchange's Regulated Market with effect from or about the Issue Date.
+
+(ii) Estimate of total expenses related to 41,970 admission to trading:
+
+2.
+
+RATINGS
+
+Ratings:
+
+The Notes to be issued are expected to be rated Aaa on Moody's Investors
+
+<<<
+
+ Services Limited (Moody's).
+
+3.
+
+INTERESTS OF NATURAL AND LEGAL PERSONS INVOLVED
+
+IN THE ISSUE
+
+Save for any fees payable to the Dealer, so far as the Issuer is aware, no person involved in the issue of the Notes has an interest material to
+
+<<<
+
+ the offer. The Dealer and its affiliates have engaged, and may in the future engage, in investment banking and/or commercial banking transactions with, and may perform other services for, the Issuer and its affiliates in the ordinary course
+
+<<<
+
+ o f business.
+
+4.
+
+YIELD
+
+Indication of yield:
+
+Not Applicable
+
+5.
+
+OPERATIONAL INFORMATION
+
+(i)
+
+ISIN:
+
+NOOO10819543
+
+(ii) Common Code:
+
+Not Applicable
+
+(iii) Any clearing system(s) other than Verdipapirsentralen, Norway
+
+Euroclear and Clearstream
+
+<<<
+
+, VPS Identification number 985 140 421The Issuer
+
+Luxembourg and the relevant shall be entitled to obtain information from the register
+
+identification number(s):
+
+maintained by the VPS for the purposes of performing
+
+its obligations under
+
+<<<
+
+ the VPS Notes
+
+(iv) Names and addresses of additional Sparebanken Møre, Keiser Wilhelmsgate 29/33, 6003
+
+Paying Agent(s) (if any):
+
+Ålesund
+
+(v)
+
+Intended to be held in a manner No. Whilst the designation is specified as "no" at the
+
+which
+
+<<<
+
+ would allow Eurosystem date of these Final Terms, should the Eurosystem
+
+eligibility:
+
+eligibility criteria be amended in the future such that
+
+the Notes are capable of meeting them the Notes may
+
+then be deposited with one of the ICSDs as
+
+<<<
+
+ common
+
+safekeeper. Note that this does not necessarily mean
+
+that the Notes will then be recognised as eligible
+
+collateral for Eurosystem monetary policy and intra
+
+day credit operations by the Eurosystem at any time
+
+during their life. Such
+
+<<<
+
+ recognition will depend upon
+
+the ECB being satisfied that Eurosystem eligibility
+
+criteria have been met.
+
+6.
+
+TEFRA RULES
+
+Whether TEFRA D or TEFRA C rules TEFRAD applicable or TEFRA rules not applicable:
+
+7.
+
+PROHIBITION OF SALES TO EEA
+
+<<<
+
+ RETAIL INVESTORS
+
+Prohibition of sales to EEA Retail Investors: Applicable
+
+4
+
+

@@ -1,0 +1,9 @@
+(b) Capital Employed Ratio
+(c) Leverage Ratio
+on each Calculation Date maintain a Leverage Ratio not exceeding 2:1.
+(d) Testing
+The financial covenants (other than Liquidity) shall be calculated in accordance with GAAP and tested by reference to each of the Financial Reports and/or each Compliance Certificate delivered to the Bond Trustee pursuant to Clause 12.2 {Requirements as to financial reports), provided that:
+(i) with respect to any Calculation Date ending on a date that is less than 12 months after the First Oil Date with respect to any Hydrocarbon Assets, EBITDA attributable to such Hydrocarbon Asset shall be annualised by reference of to the amount of EBITDA as disclosed in the financial statement and/or Compliance Certificates. The pro forma annual EBITDA of such Hydrocarbon Assets shall be calculated by dividing the amount of EBITDA of such Hydrocarbon Assets from the relevant First Oil Date by the number of days since the relevant First Oil Date, and then multiply with 365; and
+(ii) any EBITDA attributed to a Hydrocarbon Assets disposed of during the Calculation Period shall be adjusted for when calculating the EBITDA on the relevant Calculation Date (for the avoidance of doubt, any EBITDA attribution from operation of disposed Hydrocarbon Asset shall be deducted from the EBITDA calculation, but any one-off effects from such disposal shall be included if relevant for the EBITDA calculation).
+Financial covenants will apply from and, as relevant, be tested first time on the second Calculation Date to occur after the date of the first release from the Escrow Account.
+14. EVENTS OF DEFAULT AND ACCELERATION OF THE BONDS 14.1 Events of Default

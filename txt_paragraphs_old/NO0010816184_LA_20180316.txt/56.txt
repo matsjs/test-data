@@ -1,0 +1,9 @@
+11. 11.1
+11.3 11.3.1
+the Issue Date if there is no such Interest Payment Date) up to (but excluding) the relevant Redemption Date.
+Interest accrues during an Interest Period. Payment of Interest in respect of the Notes shall be made to the Noteholders on each Interest Payment Date for the preceding Interest Period.
+Interest shall be calculated on the basis of the actual number of days in the Interest Period in respect of which payment is being made divided by 360 (actual/360-days basis)
+If the Issuer fails to pay any amount payable by it under the Finance Documents on its due date, default interest shall accrue on the overdue amount from (but excluding) the due date up to (and including) the date of actual payment at a rate which is one (1) per cent. higher than the Interest Rate. Accrued default interest shall not be capitalised. No default interest shall accrue where the failure to pay was solely attributable to the Agent or the CSD, in which case the Interest Rate shall apply instead.
+REDEMPTION AND REPURCHASE OF THE NOTES
+Redemption at maturity
+Unless redeemed earlier in accordance with this Clause 11 and the Intercreditor Agreement, the Issuer shall redeem all, but not some only, of the outstanding Notes in full on the Final Maturity Date with an amount per Note equal to the Nominal Amount together with accrued but unpaid Interest. If the Final Maturity Date is not a Business Day, then the redemption shall occur on the first following Business Day.

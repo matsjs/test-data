@@ -1,0 +1,9 @@
+(b) if no such rate as set out in item (a) above is available for the relevant Interest Period, the rate calculated by the Issuing Agent (rounded upwards to four (4) decimal places) which results from interpolating on a linear basis between (i) the applicable screen rate for the longest period (for which that screen rate is available) which is less than the Interest Period and (ii) the applicable screen rate for the shortest period (for which that screen rate is available) which exceeds that Interest Period, as of or around 11.00 a.m. on the Quotation Date; or
+(d) if no quotation is available pursuant to item (c) above, the Interest Rate which according to the reasonable assessment of the Issuing Agent best reflects the Interest Rate for deposits in EUR offered for the relevant period; and
+if any such rate is below zero (0), EURIBOR will be deemed to be zero (0).
+"Event of Default" means an event or circumstance specified in Clause 15.1.
+"Exchange Offer" has the meaning set forth in Clause 2.2. 5
+"Exchange Offer Cash Component" has the meaning set forth in Clause 2.2.
+"Existing Bond Guarantee and Security" means any guarantee or security provided by a Group Company in relation to the Existing Bonds.
+"Existing Bondholders" has the meaning set forth in the definition "Existing Bonds" below.
+"Existing Bonds" means the outstanding senior secured callable floating rate bonds 2016/2019 with ISIN SE0008964720, issued by the Issuer for the bondholders thereunder (the "Existing Bondholders") of maximum EUR 100,000,000, which shall be redeemed in full in accordance with Clause 4.2 or, at the option of each Existing Bondholder, rolled-over into Bonds in accordance with the Exchange Offer.

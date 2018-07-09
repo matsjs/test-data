@@ -1,0 +1,9 @@
+Fixed
+x Fixed Rate Day Count Fraction
+10 Maturity of the Bonds and Redemption
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 Issuer's Call Option At any time after sixty (60) trading days after Issue Date (the "Early Redemption Date"), the Issuer may redeem the Bonds in whole or in part at the Early Redemption Amount plus interest accrued to but not yet paid by the Early Redemption Date, where: Early Redemption Amount = Previous Redemption Amount x (1 + r/4)A(d/p) -AI;
+"Previous Redemption Amount" means, on any date, the Early Redemption Amount on the Interest Payment Date immediately preceding that date (or, prior to the first Interest
+15
+Payment Date, USD 1.00):

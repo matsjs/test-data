@@ -1,0 +1,9 @@
+"Interest Period" means (i) in respect of the first Interest Period, the period from (and including) the First Issue Date to (but excluding) the first Interest Payment Date, and (ii) in respect of subsequent Interest Periods, the period from (and including) an Interest Payment Date to (but excluding) the next succeeding Interest Payment Date (or a shorter period if relevant).
+"Issuer" means Forchem Oy, business identity code 2084385-7, Maanpaantie 3, 26820 Rauma, Finland, and, following a Permitted Issuer Upstream Merger, the Parent.
+"Issuing Agent" means Svenska Handelsbanken AB (publ), Branch Operation in Finland, or any other party replacing the same as Issuing Agent in accordance with the regulations of the CSD.
+"Maintenance Test" has the meaning described to such term in Clause 16.1 (Maintenance Test).
+"Make Whole Amount" means a price equivalent to the sum of:
+(a) the Outstanding Nominal Amount;
+6
+(b) the present value on the relevant record date of 102.45 per cent. of the Outstanding Nominal Amount as if such payment originally should have taken place on the Interest Payment Date falling 30 months after the First Issue Date;
+(c) the present value on the relevant record date of the remaining coupon payments, less any accrued but unpaid Interest, through and including the date falling 30 months after the First Issue Date; and

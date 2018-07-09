@@ -1,0 +1,9 @@
+14.5 The Issuer is responsible for withholding any withholding tax imposed by applicable law on any payments to the Bondholders.
+% 19
+Norsk Tillitsinann ASA
+(a) the amount of the payment due from the Issuer shall be increased to such amount which is necessary to ensure that the Bondholders receive a net amount which is (after making the required withholding) equal to the payment which would have been due if no withholding had been required; and
+(b) the Issuer shall at the request of the Bond Trustee deliver to the Bond Trustee evidence that the required tax reduction or withholding has been made.
+15 Events of Default
+15.1 The Bond Trustee may declare the Bonds to be in default upon occurrence of any of the foliowhig events:
+(a) Non-payment
+The Issuer fails to fulfil any payment obligation due under this Bond Agreement or any Finance Document when due, unless, in the opinion of the Bond Trustee, it is likely that such payment will be made in full within five Business Days following the original due date. If failure to pay has arisen as a consequence of an administrative or technical error only then such event shall not be an Event of Default unless such failure continues for a period in excess of five (5) Business Days.

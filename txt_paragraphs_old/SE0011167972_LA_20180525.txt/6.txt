@@ -1,0 +1,9 @@
+(a) the applicable percentage rate per annum displayed on Reuters screen EURIBOR01 (or through another system or website replacing it) as of or around 11.00 a.m. (Brussels time) on the Quotation Day for the offering of deposits in Euro and for a period comparable to the relevant Interest Period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Euro offered for the relevant period; and
+if any such rate is below zero, EURIBOR will be deemed to be zero.
+"Event of Default" means an event or circumstance specified in any of the Clauses 13.1 (Non-Payment) to and including Clause 13.9 (Continuation of the Business).
+4
+"Exchange Offer" means the exchange offer whereby holders of Existing Bonds were invited to exchange their Existing Bonds for Bonds in accordance with the terms of the exchange offer.
+"Existing Bonds" means the EUR 25,000,000 bonds with ISIN DE000A1X3VZ3, issued by the Issuer on 21 October 2013 and the EUR 20,000,000 bonds with ISIN DE000A2GS104, issued by the Issuer on 26 July 2017.
+"Ferratum Bank" means Ferratum Bank p.l.c., reg. no. C56251.
+"Final Maturity Date" means 25 May 2022.

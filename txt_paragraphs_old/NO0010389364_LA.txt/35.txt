@@ -1,0 +1,9 @@
+conversi.on
+share price
+If the Shares are listed at an Exchange share price is the average of the weighted average of official daily trading price on the Exchange the last three days shares are quoted including rights.
+If the Shares are not listed the Loan Trustee shall appoint two Norwegian authorised stock brokers (fondsmeglerforetak) who shall determine the market price of the Shares based on recent trading of the Shares on the OTC market and other factors they deem relevant. The share price to be used for the purpose of the above calculation shall be the average of the market price so determined by the brokers. The cost of such determination shall be for the account of the Borrower.
+Reduction of the share capital without repayment to the shareholders shall have no influence on the Conversion Price.
+14
+Norsk Tillitsmann ASA
+14.4 In the event of a bonus issue of new Shares (with the exception of shares issued in settlement of a merger offer), split or consolidation, the new Conversion Price shall be fixed as follows:
+number of shares prior to bonus issue, New conversi.on price = -s-p-l-i-t-o--r--c--o-n--s-o-l-i-d--a-t-i-o-n-------------------- x ol,d, conversio. n price

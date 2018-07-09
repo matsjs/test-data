@@ -1,0 +1,1237 @@
+EXECUTION VERSION
+TERMS AND CONDITIONS FOR E OUT INSTRUMENT AB SEK 218,250,000
+EARN-OUT DEBT INSTRUMENTS 2017/2019
+ISIN: SE0009857949
+Issue Date: 28 April 2017
+
+TABLE OF CONTENTS
+1. DEFINITIONS AND CONSTRUCTION.............................................................................................. 1 2. THE AMOUNT OF THE INSTRUMENTS AND UNDERTAKING TO MAKE PAYMENTS............ 6 3. STATUS OF THE INSTRUMENTS.....................................................................................................7 4. GUARANTEE....................................................................................................................................... 7 5. THE INSTRUMENTS AND TRANSFERABILITY..............................................................................9 6. INSTRUMENTS IN BOOK-ENTRY FORM........................................................................................ 9 7. RIGHT TO ACT ON BEHALF OF A HOLDER................................................................................. 10 8. PAYMENTS IN RESPECT OF THE INSTRUMENTS..................................................................... 10 9. REDEMPTION, REPURCHASE AND PREPAYMENT OF THE INSTRUMENTS....................... 11 10. SPECIAL UNDERTAKINGS.............................................................................................................. 11 11. TERMINATION OF THE INSTRUMENTS.........................................................................................13 12. DISTRIBUTION OF PROCEEDS...................................................................................................... 15 13. HOLDERS' REPRESENTATIVES..................................................................................................... 16 14. DECISIONS BY HOLDERS...............................................................................................................17 15. HOLDERS' MEETING........................................................................................................................ 20 16. WRITTEN PROCEDURE.................................................................................................................. 21 17. AMENDMENTS AND WAIVERS.......................................................................................................22 18. APPOINTMENT AND REPLACEMENT OF THE TRUSTEE..........................................................22 19. APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT............................................. 27 20. APPOINTMENT AND REPLACEMENT OF THE CSD................................................................... 27 21. NO DIRECT ACTIONS BY HOLDERS............................................................................................. 27 22. NOTICES AND PUBLICATION OF INFORMATION....................................................................... 28 23. FORCE MAJEURE AND LIMITATION OF LIABILITY.................................................................... 28 24. GOVERNING LAW AND JURISDICTION........................................................................................ 29
+
+TERMS AND CONDITIONS FOR E OUT INSTRUMENT AB
+SEK 218,250,000 EARN-OUT DEBT INSTRUMENTS 2017/2019 ISIN: SE0009857949
+
+1.
+
+DEFINITIONS AND CONSTRUCTION
+
+1.1
+
+Definitions
+
+In these terms and conditions (the "Terms and Conditions"):
+
+"Account Operator" means a bank or other party duly authorised to operate as an account operator pursuant to the Central Securities Depositories and Financial Instruments Accounts Act and through which a Holder has opened a Securities Account in respect of its Instruments.
+
+"Accounting Principles" means the international financial reporting standards (IFRS) within the meaning of Regulation 1606/2002/EC (or as otherwise adopted or amended from time to time).
+
+"Adjusted Nominal Amount" means the total aggregate Nominal Amount of the Instruments outstanding at the relevant time less the Nominal Amount of all Instruments owned by the Issuer, a Group Company or an Affiliate of the Issuer or a Group Company, irrespective of whether such Person is directly registered as owner of such Instruments.
+
+"Adjustment Calculation" means the calculation for determining the Purchase Price Adjustment, which shall be calculated in accordance with the following formula: (Closing Net Debt --Preliminary Net Debt) Plus (Closing Net Working Capital - Preliminary Net Working Capital).
+
+"Adjustment Statement" means the consolidated balance sheet of the Candyking Group Companies, as at the Closing Date and a statement setting forth the Closing Net Debt and the Closing Net Working Capital.
+
+"Affiliate" means any Person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified Person. For the purpose of this definition, "control" when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms "controlling" and "controlled" have meanings correlative to the foregoing.
+
+"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (Sw. midsommarafton), Christmas Eve (Sw. julafton) and New Year's Eve (Sw. nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
+
+"Business Day Convention" means the first following day that is a Business Day.
+
+1
+
+"Call Option Price" means 100 per cent, of the Nominal Amount (not subject to any adjustments) and if on or prior to the Initial Cash Payment Date, together with the Initial Cash Payment.
+"Candyking" or "Company" means Candyking Holding AB (publ), reg. no. 556738-8219, Box 6036, 171 06 Solna, Sweden.
+"Candyking Accounting Principles" means IFRS and, to the extent the same are in compliance with IFRS, the methodologies consistently applied by the Company over the last three (3) fiscal years in the preparation of its annual accounts.
+"Candyking Bonds" means the outstanding senior secured bonds 2014/2018 issued by Candyking Holding AB (publ) for the bondholders thereunder, in the outstanding amount of SEK 750,000,000, with a nominal amount of SEK 1,000,000 per bond and with the ISIN SE0005650918.
+"Candyking Group Companies" means the Company, including its Subsidiaries; Candyking UK Limited reg. no. 1726257, Candyking Ireland Limited reg. no. 494493, Candyking Norway AS reg. no. 979514743, Candyking Finland OY reg. no. 0732591-6, Lilia Fiket AB reg. no. 559016-4181, Candyking Sverige AB reg. no. 556319-6780, Pickalot AB reg. no. 556730-1857, Candyking Denmark AS reg. no. 27720390 and Candyking Poland Spa reg .no. 0000347591.
+"Central Securities Depositories and Financial Instruments Accounts Act" means the Swedish Central Securities Depositories and Financial Instruments Accounts Act (Sw. lag (1998:1479) om vdrdepapperscentraler och kontoforing avfinansiella instrument).
+"Closing Date" means the closing date for the transactions under the PA, which is dependent of the fulfilment of certain conditions under the PA.
+"Closing Net Debt" means the actual Net Debt as at the Closing Date.
+"Closing Net Working Capital" means the actual Net Working Capital as at the Closing Date.
+"Compliance Certificate" means a certificate, in form and substance set forth in Schedule 1 hereto, signed by the Issuer certifying that so far as it is aware no Event of Default is continuing or, if it is aware that such event is continuing, specifying the event and steps, if any, being taken to remedy it, such certificate shall also confirm Cloetta's estimated fair value of the Instruments based on IFRS, including a confirmation that such has been calculated in accordance with the PA, and a confirmation of the calculations from an auditor.
+"CSD" means the Issuer's central securities depository and registrar in respect of the Instruments from time to time; initially Euroclear Sweden AB, reg. no. 556112-8074, P.O. Box 191, SE-101 23 Stockholm, Sweden.
+"DS Contract" means the Candyking Group Companies's customer contract entered into between Candyking Danmark A/S and Dansk Supermarked Group headed "Samhandelsaftale" dated 24 October 2016.
+2
+
+"Earn-out Payment Approval Date" has the meaning set forth in Schedule 2.
+"Earn-out Payment" means the total nominal amount of SEK 218,250,000 and adjusted in accordance with the provisions set forth in Schedule 2.
+"Event of Default" means an event or circumstance specified in Clause 11.1.
+"Final Redemption Date" means 30 April 2019 or such earlier date which occurs ten (10) Business Days after the Eam-out Payment Approval Date. If the Earn-out Payment Approval Date has not occurred until 30 April 2019, the Issuer and the Trustee shall as a consequence thereof (acting on instruction of the Holders' Representatives) decide on a new possible Final Redemption Date and shall amend these Terms and Conditions accordingly.
+"Finance Documents" means the Terms and Conditions, including the Guarantee, the Escrow Agreement (as defined in Schedule 2), and the Trustee Agreement and any other document designated to be a Finance Document by the Issuer and the Trustee.
+"Financial Report" means the annual audited financial statements or quarterly interim unaudited reports, which shall be prepared and made available according to Clause 10.3 (i) and 10.3 (ii).
+"Force Majeure Event" has the meaning set forth in Clause 23.1.
+"Group" means Cloetta and its Subsidiaries from time to time, (including, for the avoidance of doubt the Issuer and the Candyking Group Companies) each a "Group Company".
+"Guarantee" has the meaning set forth in Clause 4.1.
+"Guaranteed Obligations" means all present and future obligations and liabilities of the Issuer and/or Cloetta to the Holders of Instruments and the Trustee (or any of them) under each Finance Document, together with all costs, charges and expenses incurred by any Holder or the Trustee in connection with the protection, preservation or enforcement of its respective rights under the Finance Documents, or any other document evidencing such liabilities.
+"Guarantor", "Parent" or "Cloetta" means Cloetta AB (publ), reg. no. 556308-8144, SE590 69 Ljungsbro, Sweden.
+"Holder" means the Person who is registered on a Securities Account as direct registered owner (Sw. ägare) or nominee (Sw.förvaltare) with respect to an Instrument.
+"Holders' Meeting" means a meeting among the Holders held in accordance with Clause 15 (Holders 'Meeting).
+"IFRS" means the international financial reporting standards within the meaning of Regulation 1606/2002/EC (or as otherwise adopted or amended from time to time).
+"Initial Cash Payment" has the meaning set forth in Clause 10.2.
+"Initial Cash Payment Date" means the date which occurs no later than twelve (12) Business Days after the Purchase Price Adjustment Approval Date.
+3
+
+"Instruments" means the earn-out debt instruments issued by the Issuer in accordance with the provisions set forth in these Terms and Conditions of the Instruments (the "Earn-out debt").
+"Issuer" means E out instrument AB, reg. no. 559094-9748, c/o Cloetta AB Kista Science Tower, 164 51 Kista, Sweden.
+"Issue Date" means 28 April 2017.
+"Issuing Agent" means Handelsbanken Capital Markets, reg. no. 502007-7862, Blasieholmstorg 11, 111 48 Stockholm, or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
+"Net Debt" means the net debt of the Candyking Group Companies (on a consolidated basis), with assets expressed as positive amounts and liabilities expressed as negative amounts, calculated and determined in accordance with Schedule 3(vn) including the adjustment for extraordinary CAPEX as set out therein.
+"Net Working Capital" means the net working capital o f the Candyking Group Companies (on a consolidated basis), with assets expressed as positive amounts and liabilities expressed as negative amounts, calculated and determined in accordance with Schedule 3fviiil:
+"Nominal Amount" has the meaning set forth in Clause 2.1.
+"Normalised Net Working Capital" means minus SEK 6,200,000, being the normalised Net Working Capital of the Candyking Group Companies.
+"PA" means the purchase agreement dated 17 February 2017 by and between inter alia Off The Shelf 10012 AB and a group of holders of Candyking Bonds and the Issuer regarding all shares in Candyking and certain instruments, including the Candyking Bonds.
+"Person" means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organisation, government, or any agency or political subdivision thereof or any other entity, whether or not having a separate legal personality.
+"Preliminary Net Debt" means the estimated Net Debt as of the Closing Date of minus SEK 31,100,000.
+"Preliminary Net Working Capital" means the estimated Net Working Capital as o f the Closing Date of SEK 11,538,000.
+"Purchaser" means the Issuer.
+"Purchase Price Adjustment" and "Purchase Price Adjustment Approval Date" have the meaning set forth in Schedule 2.
+"Record Date" means the fifth (5th) Business Day prior to (i) a Redemption Date, (ii) a date on which a payment to the Holders is to be made under Clause 12 (Distribution o fproceeds), (iii) the date of a Holders' Meeting, or (iv) another relevant date, or in each case such other
+4
+
+Business Day falling prior to a relevant date if generally applicable on the Swedish bond market.
+"Redemption Date" means the date on which the relevant Instruments are to be redeemed or repurchased in accordance with Clause 9 (Redemption, repurchase andprepayment o f the Instruments).
+"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Central Securities Depositories and Financial Instruments Accounts Act in which (i) an owner of such security is directly registered or (ii) an owner's holding of securities is registered in the name of a nominee.
+"Sold Volume" means the Group's sold volume of pick and mix confectionary and snacks in Sweden, Norway, Denmark, Finland, United Kingdom, Poland and the Baltic countries, either by way of own concepts, to merchandisers' concept or to other concepts, including paper bags and cups, but excluding seasonal/favourites as relates to confectionary and pre packed snacks under the Parrots brand, also including sold volume of pick and mix confectionary concept marketed under the Candyking brand exported to other markets where Cloetta has no sales force presence, provided that such export constitute a significant/material volume. The Sold Volume shall always be calculated and determined in accordance with Schedule Six'! and subject to adjustment (i) in accordance with the second Section in Schedule 2 under ("Sold volumes ") (if applicable) or (ii) if the Swedish Business is not acquired, or is divested due to the decision of the Competition Authority, the calculation of Sold Volume shall exclude volumes pertaining to the Group's operations in Sweden.
+"Subsidiary" means an entity from time to time o f which a person:
+(a) has direct or indirect control; or
+(b) owns directly or indirectly more than 50.0 per cent of the share capital or other right of ownership.
+"Swedish Business" means Lilia Fiket AB reg. no. 559016-4181, Candyking Sverige AB reg. no. 556319-6780, andPickalot AB reg. no. 556730-1857.
+"Third Party Auditor" means an independent well-reputed auditor with one of the big four accounting firms, appointed by the Purchaser and the Holders' Representatives jointly or, failing such appointment within twenty (20) Business Days from the date when a dispute may be referred to the Third Party Auditor, by the Stockholm Chamber of Commerce.
+"Trustee" means the Holders' agent under these Terms and Conditions and, if relevant, the other Finance Documents, from time to time; initially Nordic Trustee & Agency AB (publ) (reg.no. 556882-1879, P.O. Box 7329, SE-103 90 Stockholm, Sweden).
+"Trustee Agreement" means the fee agreement entered into before the Issue Date between the Issuer and the Trustee, or any replacement agent agreement entered into after the Issue Date between the Issuer and a Trustee.
+5
+
+1.2 1.2.1 1.2.2 2. 2.1
+2.2 2.3
+2.4 2.5 2.6 2.7
+2.8
+
+"W ritten Procedure" means the written or electronic procedure for decision making among the Holders in accordance with Clause 16 (Written Procedure).
+
+Construction
+
+An Event of Default is continuing if it has not been remedied or waived.
+
+No delay or omission of the Trustee or of any Holder to exercise any right or remedy under these Terms and Conditions shall impair or operate as a waiver of any such right or remedy.
+
+THE AMOUNT OF THE INSTRUMENTS AND UNDERTAKING TO MAKE PAYMENTS
+
+The aggregate amount of the Earn-out debt will be an amount of SEK 218,250,000 which will be represented by the Instruments, each of a nominal amount of SEK 291,000 or full multiples thereof (the "Nominal Amount"). The IS1N for the Eam-out debt is SE0009857949 and the Instruments are issued at an issue price of ninety-five (95) per cent, of the Nominal Amount.
+
+The Instruments shall be paid for in kind, Holders holding Candyking Bonds on or about the Closing Date, will for each Candyking Bond held receive one Instrument in a mandatory exchange.
+
+The Issuer undertakes to redeem the Instruments, subject to the calculation of, and in an
+
+amount corresponding to the Eam-out Payment, and to otherwise act in accordance and
+
+comply with these Terms and Conditions. For the avoidance of doubt, when the Eam-out
+
+Payment, being maximum SEK 218,250,000, irrespective of what it amounts to, has been
+
+paid (or not paid if amounting to zero) to the Holders the Eam-out debt shall be considered
+
+to have been folly redeemed.
+
+
+
+The Instruments are denominated in SEK and each Instrument is constituted by these Terms and Conditions.
+
+The Instrument shall not bear any interest.
+
+By receiving the Instrument through the mandatory exchange, each initial Holder agrees that the Instruments shall benefit from and be subject to the Finance Documents and by acquiring Instruments each subsequent Holder confirms such agreements.
+
+Any costs and expenses incurred by the Trustee in connection with the Finance Documents (and any document relating thereto) and any work fee incurred pursuant to the Trustee Agreement may be deducted from the Initial Cash Payment or the Eam-out Payment (as applicable) in accordance with terms of these Terms and Conditions.
+
+Costs and expenses which are to be deducted from the Initial Cash Payment or, as the case may be, from the Eam-out Payment (as applicable) shall be reported by the Issuer to the Trustee before the Initial Cash Payment is to be made, and shall after the Initial Cash Payment Date be reported to the Trustee on a semi-annually basis, and before the Eam-out Payment is paid (if any). The Trustee and Holder's Representatives (or any of their representatives) shall, when sending invoices to the Issuer in accordance with these Terms
+6
+
+and Conditions, specify that such costs and expenses are to be considered as deductible from either the Initial Cash Payment or the Earn-out Payment.
+
+3.
+
+STATUS OF THE INSTRUMENTS
+
+The Instruments constitute direct, general, unconditional, unsubordinated, unsecured and guaranteed obligations of the Issuer and shall at all times rank at least pari passu with all other direct, general, unconditional, unsubordinated and unsecured obligations of the Issuer and without any preference among them.
+
+4.
+
+GUARANTEE
+
+4.1
+
+The Guarantor shall unconditionally and irrevocably guarantee (Sw.proprieborgeri) to the
+
+Trustee and each Holder (as represented by the Trustee) as for its own debts (Sw. såsom for
+
+egen skuld) all obligations and liabilities of the Issuer, including the full and punctual
+
+payment by the Issuer of the Guaranteed Obligations in accordance with a guarantee issued
+
+by the Guarantor in favour of the Trustee and each Holder (as represented by the Trustee)
+
+(the "Guarantee"). The obligations and liabilities of the guarantee issued by the Guarantor
+
+under the Guarantee shall be limited if required (but only if and to the extent required) under
+
+the laws of Sweden.
+
+4.2
+
+The Issuer shall ensure that the Guarantee and all documents relating thereto are duly
+
+executed by the Guarantor in favour of the Trustee and the Holders (as represented by the
+
+Trustee) and that such documents are legally valid, perfected, enforceable and in full force
+
+and effect according to their terms. The Issuer shall execute and/or procure the execution of
+
+such further documentation as the Trustee may reasonably require in order for the Holders
+
+and the Tmstee to at all times maintain the guarantee position envisaged under the Finance
+
+Documents.
+
+4.3
+
+The Trustee shall hold the Guarantee on behalf of itself and the Holders in accordance with
+
+the Finance Documents.
+
+4.4
+
+Except if otherwise decided by the Holders according to the procedures set out in Clauses 14
+
+(Decisions by Holders), 15 (Holders'Meeting) and 16 (Written Procedure), the Tmstee is,
+
+without first having to obtain the Holders' consent, entitled to enter into binding agreements
+
+with the Group Companies or third parties if it is, in the Tmstee's sole discretion, necessary
+
+for the purpose of establishing, maintaining, altering, releasing or enforcing the Guarantee or
+
+for the purpose of settling the various Holders' relative rights to the Guarantee. The Tmstee
+
+is entitled to take all measures available to it according to the Guarantee.
+
+4.5
+
+If the Instruments are declared due and payable according to Clause 11 (Termination o f the
+
+Instruments) (or, as regards enforcement of the Guarantee, an Event of Default according to
+
+Clause 11.1 (a) (Non-payment) has occurred and is continuing), or following the Final
+
+Redemption Date, the Trustee is, without first having to obtain the Holders' consent, entitled
+
+to enforce the Guarantee in such manner and under such conditions that the Tmstee finds
+
+acceptable (if in accordance with the Guarantee).
+
+7
+
+4.6
+
+If a Holders' Meeting has been convened, or a Written Procedure has been instigated, to
+
+decide on the termination of the Instruments and/or the enforcement of the Guarantee, the
+
+Trustee is obligated to take actions in accordance with the Holders' decision regarding the
+
+Guarantee. However, if the Instruments are not terminated due to that the cause for
+
+termination has ceased or due to any other circumstance mentioned in these Terms and
+
+Conditions, the Tmstee shall not enforce the Guarantee. If the Holders, without any prior
+
+initiative from the Trustee or the Issuer, have made a decision regarding termination of the
+
+Instruments and enforcement of the Guarantee in accordance with Clause 11 (Termination o f
+
+the Instruments), the Tmstee shall promptly declare the Instruments terminated and enforce
+
+the Guarantee. The Tmstee is however not liable to take action if the Tmstee considers cause
+
+for termination and/or acceleration not to be at hand, unless the instmcting Holders in
+
+writing commit to holding the Tmstee indemnified and, at the Trustee's own discretion,
+
+grant sufficient security for the obligation.
+
+4.7
+
+Funds that the Tmstee receives (directly or indirectly) on behalf of the Holders in connection
+
+with the termination of the Instalments or the enforcement of the Guarantee constitute
+
+escrow funds (Sw. redovisningsmedel) according to the Escrow Funds Act (Sw. lag
+
+(1944:181) om redovisningsmedel) and must be held on a separate interest-bearing account
+
+on behalf of the Holders and any other interested party. The Tmstee shall promptly arrange
+
+for payments to be made to the Holders in such case. The Tmstee shall arrange for payments
+
+of such funds in accordance with Clause 12 (Distribution o fproceeds) as soon as reasonably
+
+practicable. If the Trustee deems it appropriate, it may, in accordance with Clause 4.8,
+
+instruct the CSD to arrange for payment to the Holders.
+
+4.8
+
+For the purpose of exercising the rights of the Holders and the Tmstee under these Terms
+
+and Conditions and for the purpose of distributing any funds originating from the
+
+enforcement of the Guarantee, the Issuer irrevocably authorises and empowers the Trustee to
+
+act in the name of the Issuer, and on behalf of the Issuer, to instruct the CSD to arrange for
+
+payment to the Holders in accordance with Clause 4.7. To the extent permissible by law, the
+
+powers set out in this Clause 4.8 are irrevocable and shall be valid for as long as any
+
+Instruments remain outstanding. The Issuer shall immediately upon request by the Tmstee
+
+provide the Tmstee with any such documents, including a written power of attorney (in form
+
+and substance to the Tmstee's satisfaction), which the Tmstee deems necessary for the
+
+purpose of carrying out its duties under Clause 4.7 (including as required by the CSD in
+
+order for the CSD to accept such payment instmctions). Especially, the Issuer shall, upon the
+
+Tmstee's request, provide the Trustee with a written power of attorney empowering the
+
+Tmstee to change the bank account registered with the CSD to a bank account in the name of
+
+the Tmstee and to instruct the CSD to pay out funds originating from an enforcement in
+
+accordance with Clause 4.7 to the Holders through the CSD.
+
+4.9
+
+The Tmstee shall, upon the Issuer's written request and expense, promptly release the
+
+Guarantor from its obligations under the Guarantee when the Tmstee has received evidence
+
+to its satisfaction that all the Guaranteed Obligations have been duly and irrevocably paid
+
+and discharged in full. The Tmstee may in this regard rely on information received by it
+
+from relevant third parties, unless it has actual knowledge that the information is incorrect.
+
+8
+
+5.
+
+THE INSTRUMENTS AND TRANSFERABILITY
+
+5.1
+
+Each Holder is bound by these Terms and Conditions without there being any further actions
+
+required to be taken or formalities to be complied with.
+
+5.2
+
+The Instruments are freely transferable. All Instruments transfers are subject to these Terms
+
+and Conditions and these Terms and Conditions are automatically applicable in relation to
+
+all Instruments transferees upon completed transfer.
+
+5.3
+
+Upon a transfer of Instruments, any rights and obligations under the Finance Documents,
+
+including the PA, relating to such Instruments are automatically transferred to the transferee.
+
+6.
+
+INSTRUMENTS IN BOOK-ENTRY FORM
+
+6.1
+
+The Instruments will be registered for the Holders on their respective Securities Accounts
+
+and no physical Instruments will be issued. Accordingly, the Instruments will be registered
+
+in accordance with the Central Securities Depositories and Financial Instruments Accounts
+
+Act. Registration requests relating to the Instruments shall be directed to an Account
+
+Operator.
+
+6.2
+
+Those who according to assignment, security, the provisions of the Swedish Children and
+
+Parents Code (Sw. foraldrabalken (1949:381)), conditions of will or deed of gift or
+
+otherwise have acquired a right to receive payments in respect of an Instrument shall register
+
+their entitlements to receive payment in accordance with the Central Securities Depositories
+
+and Financial Instruments Accounts Act.
+
+6.3
+
+The Issuer (and the Trustee when permitted under the CSD's applicable regulations) shall be
+
+entitled to obtain information from the debt register (Sw. skuldbok) kept by the CSD in
+
+respect of the Instruments. At the request of the Trustee, the Issuer shall promptly obtain
+
+such information and provide it to the Trustee.
+
+6.4
+
+For the purpose of or in connection with any Holders' Meeting or any Written Procedure, the
+
+Issuing Agent shall be entitled to obtain information from the debt register kept by the CSD
+
+in respect of the Instruments. If the Trustee does not otherwise obtain information from such
+
+debt register as contemplated under the Finance Documents, the Issuing Agent shall at the
+
+request o f the Trustee obtain information from the debt register and provide it to the Trustee.
+
+6.5
+
+The Issuer shall issue any necessary power of attorney to such persons employed by the
+
+Trustee, as notified by the Trustee, in order for such individuals to independently obtain
+
+information directly from the debt register kept by the CSD in respect of the Instruments.
+
+The Issuer may not revoke any such power of attorney unless directed by the Trustee or
+
+unless consent thereto is given by the Holders.
+
+6.6
+
+At the request of the Trustee, the Issuer shall promptly instruct the Issuing Agent to obtain
+
+information from the debt register kept by the CSD in respect of the Instruments and provide
+
+it to the Trustee.
+
+6.7
+
+The Issuer (and the Trustee when permitted under the CSD's applicable regulations) may use
+
+the information referred to in Clause 6.3 only for the purposes of carrying out their duties
+
+9
+
+and exercising their rights in accordance with the Finance Documents and shall not disclose such information to any Holder or third party unless necessary for such purposes.
+
+7.
+
+RIGHT TO ACT ON BEHALF OF A HOLDER
+
+7.1
+
+If any Person other than a Holder wishes to exercise any rightsunder the Finance
+
+Documents, it must obtain a power of attorney (or, if applicable, a coherent chain of powers
+
+of attorney), a certificate from the authorised nominee or other sufficient proof of
+
+authorisation for such Person.
+
+7.2
+
+A Holder may issue one or several powers of attorney to third parties to represent it in
+
+relation to some or all of the Instruments held by it. Any such representative may act
+
+independently under the Finance Documents in relation to the Instruments for which such
+
+representative is entitled to represent the Holder.
+
+7.3
+
+The Trustee shall only have to examine the face of a power of attorney or other proof of
+
+authorisation that has been provided to it pursuant to Clauses 7.1 and 7.2 and may assume
+
+that it has been duly authorised, is valid, has not been revoked or superseded and that it is in
+
+full force and effect, unless otherwise is apparent from its face.
+
+8.
+
+PAYMENTS IN RESPECT OF THE INSTRUMENTS
+
+8.1
+
+Any payment or repayment under the Finance Documents, or any amount due in respect of a
+
+repurchase of any Instrument, shall be made to such Person who is registered as a Holder on
+
+the Record Date prior to the relevant payment date, or to such other Person who is registered
+
+with the CSD on such date as being entitled to receive the relevant payment, repayment or
+
+repurchase amount.
+
+8.2
+
+If a Holder has registered, through an Account Operator, that principal and any other
+
+payment that shall be made under these Terms and Conditions shall be deposited in a certain
+
+bank account; such deposits will be effectuated by the CSD on the relevant payment date. In
+
+other cases, payments will be transferred by the CSD to the Holder at the address registered
+
+with the CSD on the Record Date. Should the CSD, due to a delay on behalf of the Issuer or
+
+some other obstacle, not be able to effectuate payments as aforesaid, the Issuer shall procure
+
+that such amounts are paid to the Persons who are registered as Holders on the relevant
+
+Record Date as soon as possible after such obstacle has been removed.
+
+8.3
+
+If, due to any obstacle for the CSD, the Issuer cannot make a payment or repayment, such
+
+payment or repayment may be postponed until the obstacle has been removed. If payment or
+
+repayment is made in accordance with this Clause 8, the Issuer and the CSD shall be deemed
+
+to have fulfilled their obligation to pay, irrespective of whether such payment was made to a
+
+Person not entitled to receive such amount, unless the Issuer or the CSD (as applicable) was
+
+aware of that the payment was being made to a Person not entitled to receive such amount,
+
+unless the Issuer or the CSD (as applicable) was aware of that the payment was being made
+
+to a Person not entitled to receive such amount.
+
+8.4
+
+The Issuer shall not be liable to reimburse any stamp duty or public fee or to gross-up any
+
+payments under these Terms and Conditions by virtue of any withholding tax.
+
+10
+
+REDEMPTION, REPURCHASE AND PREPAYMENT OF THE INSTRUMENTS Redemption at maturity The Issuer shall redeem all, but not only some, of the Instruments in full on the Final Redemption Date (or, to the extent such day is not a Business Day and if permitted under the CSD's applicable regulations, on the Business Day following from an application of the Business Day Convention) with an amount per Instrument equal to the Nominal Amount or at a reduction of the Nominal Amount, subject to the calculation of, and in an amount corresponding to, the Eam-out Payment. Redemption in accordance with Clause 9.1.1 shall be made by the Issuer giving not less than eight (8) Business Days' notice to the Holders and the Trustee. Such notice shall state the redemption amount, the Redemption Date and the relevant Record Date. The notice shall be considered to be effective the same date as it is sent, regardless of the provisions in Clause 22.1.2. The Issuer's purchase of Instruments The Issuer may at any time purchase Instruments. Instruments held by the Issuer may at the Issuer's discretion be retained, sold or, if held by the Issuer, be cancelled. If any such Instruments are cancelled, the Issuer shall immediately send a notice about the cancellation to the Trustee and the Trustee shall inform the Holders of the cancellation(s) made. Early voluntary redemption by the Issuer (call option) The Issuer may redeem all, but not only some, of the Instruments in full on any Business Day prior to the Final Redemption Date, at an amount equal to the Call Option Price. Redemption in accordance with Clause 9.3.1 shall be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Holders and the Trustee. Any such notice shall state the Redemption Date and the relevant Record Date and is irrevocable but may, at the Issuer's discretion, contain one or more conditions precedent. Upon expiry of such notice and the fulfilment of the conditions precedent (if any), the Issuer is bound to redeem the Instruments in frill at the applicable amount. SPECIAL UNDERTAKINGS So long as any Instrument remains outstanding, the Issuer undertakes to comply with the special undertakings set forth in this Clause 10.
+11
+
+Compliance with the PA
+The Issuer and Cloetta shall ensure compliance with all the provisions of the PA that refers to the Issuer and/or Cloetta and/or any of its respective Subsidiaries, including the Earn-out Payment (as further set out in Schedule 2).
+Cash payment
+The Issuer shall ensure that a cash payment in the total amount of SEK 297,438,860 (the "Initial Cash Payment"), or such lower or higher amount in accordance with the adjustments set forth in Schedule 2, is made on the Initial Cash Payment Date, such payment to be madepro rata in relation to each Instrument held by a Holder and in accordance with the provisions of the CSD. The Issuer shall send a notice to the Holders and the Trustee at least ten (10) Business Days before such payment is made and such notice shall include information of the amount to be paid, the Initial Cash Payment Date and the Record Date. The notice shall be considered to be effective the same date as it is sent, regardless of the provisions in Clause 22.1.2.
+Financial reporting etcetera
+The Issuer shall make sure and shall make sure that Cloetta (as applicable):
+(i) prepares and makes available the annual audited consolidated financial statements of Cloetta including its Subsidiaries, and the annual audited unconsolidated financial statements of Cloetta, including a profit and loss account, a balance sheet, a cash flow statement and management commentary or report from Cloetta's board of directors, on its website not later than four (4) months after the expiry of each financial year;
+(ii) prepares and makes available the quarterly interim unaudited consolidated reports of Cloetta including its Subsidiaries and the quarterly interim unaudited unconsolidated reports of Cloetta, including a condensed profit and loss account, a condensed balance sheet, a condensed cash flow statement (however only on a consolidated basis) and management commentary or report from Cloetta's board of directors, on its website not later than two (2) months after the expiry of each relevant interim period;
+(iii) includes information in its quarterly reports made available according to (ii) above about Cloetta's estimated fair value of the Instruments calculated in accordance with the Accounting Principles;
+(iv) issues a Compliance Certificate to the Trustee in connection with the publication of a Financial Report;
+(v) keeps the latest version of the Terms and Conditions available on the website of Cloetta; and
+(vi) promptly notifies the Trustee when the Issuer is or becomes aware of an Event of Default or any event or circumstance which would (with the expiry of a grace 12
+
+10.4 10.4.1
+10.4.2 10.4.3
+10.5 10.5.1 11. 11.1
+
+period, the giving of notice, the making of any determination or any combination of any of the foregoing) constitute an Event of Default, and provides the Trustee with such further information as the Trustee may request (acting reasonably) following receipt of such notice.
+Trustee Agreement
+The Issuer shall, in accordance with the Trustee Agreement:
+(a) pay fees to the Trustee;
+(b) indemnify the Trustee for costs, losses and liabilities;
+(c) furnish to the Trustee all information reasonably requested by or otherwise required to be delivered to the Trustee; and
+(d) not act in a way which would give the Trustee a legal or contractual right to terminate the Trustee Agreement.
+The Issuer and the Trustee shall not agree to amend any provisions of the Trustee Agreement without the prior consent of the Holders if the amendment would be detrimental to the interests of the Holders.
+For the avoidance of doubt, the base fee to the Trustee shall be paid by the Issuer and any additional costs, expenses or any work fee of the Trustee after the Closing Date shall be paid by the Issuer provided that the Issuer has initiated any action giving rise to such costs and shall be paid by the Holders provided that the Holders have initiated such action. Any costs and expenses incurred by the Trustee and any work fee of the Trustee shall be invoiced to and paid by the Issuer and thereafter (to the extent the Holders have initiated the action) be reimbursed by the Holders pro rata by way of deduction of the Initial Cash Payment or the Earn-out Payment (as applicable), provided however that in the event that no Earn-out Payment is payable, and if any such costs that have not been deducted from the Initial Cash Payment, exceed SEK 100,000, the Issuer shall only be obligated to pay such costs above SEK 100,000 if indemnified by any of the Holders or a party designated by the Holders.
+CSD related undertakings
+The Issuer shall keep the Instruments affiliated with a CSD and comply with all CSD regulations applicable to the Issuer from time to time.
+TERMINATION OF THE INSTRUMENTS
+The Trustee is entitled to, and shall following a demand in writing from a Holder (or Holders) representing at least fifty (50) per cent, of the Adjusted Nominal Amount (such demand may only be validly made by a person who is a Holder on the second Business Day following the day on which the demand is received by the Trustee and shall, if made by several Holders, be made by them jointly) or following an instruction or decision pursuant to Clause 11.5 or 11.6, on behalf of the Holders, terminate the Instruments and to declare all, but not only some, of the Instruments due for payment immediately or at such later date as
+13
+
+the Trustee determines (such later date not falling later than twenty (20) Business Days from the date on which the Trustee made such declaration), and exercise any and all of its rights, remedies, powers and discretions under the Finance Documents in case of:
+
+(a) Non-payment: The Issuer or the Guarantor fails to pay an amount on the date it is due in accordance with the Finance Documents (including the PA) unless its failure to pay is due to technical or administrative error and is remedied within ten (10) Business Days from the due date; or
+
+(b) Non-compliance with the provisions in Schedule 2: The Issuer or the Guarantor does not comply with the provisions set forth in Schedule 2 (attached hereto), regarding the calculation principles for the Initial Cash Payment and the Eam-out Payment, provided that the Issuer or the Guarantor has not remedied the failure within ten (10) Business Days from the earlier of the Trustee giving a remedy request and the Issuer or the Guarantor becoming aware of the non-compliance (if the failure or violation is not capable of being remedied, the Trustee may declare the Instruments payable without such grace period).
+
+11.2 The Trustee may not terminate the Instruments in accordance with Clause 11.1 by reference to a specific Event of Default if it is no longer continuing or if it has been decided, in accordance with these Terms and Conditions, to waive such Event of Default (temporarily or permanently).
+
+11.3
+
+The Issuer is obligated to inform the Trustee immediately if any circumstance of the type
+
+specified in Clause 11.1 should occur. Should the Tmstee not receive such information, the
+
+Trustee is entitled to assume that no such circumstance exists or can be expected to occur,
+
+provided that the Trustee does not have knowledge of such circumstance. The Trustee is
+
+under no obligations to make any investigations relating to the circumstances specified in
+
+Clause 11.1. The Issuer shall further, at the request of the Tmstee, provide the Tmstee with
+
+details of any circumstances referred to in Clause 11.1 and provide the Tmstee with all
+
+documents that may be of significance for the application of this Clause 11.
+
+11.4
+
+The Issuer is only obligated to inform the Tmstee according to Clause 11.3 if informing the
+
+Tmstee would not conflict with any statute or Cloetta's registration contract with Nasdaq
+
+Stockholm (or any other Regulated Market, as applicable). If such a conflict would exist
+
+pursuant to the listing contract with the relevant Regulated Market or otherwise, the Issuer
+
+shall however be obligated to either seek the approval from the relevant Regulated Market or
+
+undertake other reasonable measures, including entering into a non-disclosure agreement
+
+with the Tmstee, in order to be able to timely inform the Tmstee according to Clause 11.3.
+
+11.5
+
+If the Trustee has been notified by the Issuer or has otherwise determined that there is an
+
+Event of Default under these Terms and Conditions according to Clause 11.1, the Tmstee
+
+shall (i) notify, within five (5) Business Days of the day of notification or determination, the
+
+Holders of the Event of Default and (ii) decide, within twenty (20) Business Days of the day
+
+of notification or determination, if the Instruments shall be declared terminated. If the
+
+Tmstee has decided not to terminate the Instruments, the Tmstee shall, at the earliest
+
+possible date, notify the Holders that there exists a right of termination and obtain
+
+14
+
+instructions from the Holders according to the provisions in Clause 14 {Decisions by Holders). If the Holders vote in favour of termination and instruct the Trustee to terminate the Instruments, the Trustee shall promptly declare the Instruments terminated. However, if the cause for termination according to the Trustee's appraisal has ceased before the termination, the Trustee shall not terminate the Instruments. The Trustee shall in such case, at the earliest possible date, notify the Holders that the cause for termination has ceased. The Trustee shall always be entitled to take the time necessary to consider whether an occurred event constitutes an Event of Default.
+If the Holders, without any prior initiative to decision from the Trustee or the Issuer, have made a decision regarding termination in accordance with Clause 14 {Decisions by Holders), the Trustee shall promptly declare the Instruments terminated. The Tmstee is however not liable to take action if the Tmstee considers cause for termination not to be at hand, unless the instructing Holders agree in writing to indemnify and hold the Tmstee harmless from any loss or liability and, if requested by the Tmstee in its discretion, grant sufficient security for such indemnity.
+If the Instruments are declared due and payable in accordance with the provisions in this Clause 11, the Tmstee shall take every reasonable measure necessary to recover the amounts outstanding under the Instruments.
+For the avoidance of doubt, the Instruments cannot be terminated and become due for payment prematurely according to this Clause 11 without relevant decision by the Tmstee or following instructions from the Holders' pursuant to Clause 14 {Decisions by Holders).
+If the Instalments are declared due and payable in accordance with this Clause 11, the Issuer shall redeem all Instruments with an amount per Instrument equal to the Call Option Price.
+DISTRIBUTION OF PROCEEDS
+If the Instruments have been declared due and payable in accordance with Clause 11 {Termination o f the Instruments), all payments by the Issuer or the Guarantor (as applicable) relating to the Instruments shall be distributed in the following order of priority, in accordance with the instructions of the Tmstee and all payments by the Issuer or the Guarantor relating to the Instruments and proceeds received form enforcement shall be made and/or distributed in the following order of priority:
+(a) firstly, in or towards payment pro rata of all unpaid fees, costs, expenses and indemnities payable by the Issuer to the Tmstee in accordance with the Tmstee Agreement or the other Finance Documents, including all costs and indemnities relating to the acceleration of the Instalments, the enforcement of the Guarantee or the protection of the Holders' rights under the Finance Documents;
+(b) secondly, any costs and expenses relating to or incurred by the Holders' Representatives;
+(c) thirdly, towards paymentpro rata of the Instalments; and
+15
+
+(d) fourthly, in or towards paymentpro rata of any other costs or outstanding amounts unpaid under the Finance Documents.
+Any excess funds after the application of proceeds in accordance with (a) to (d) above shall be paid to the Issuer or the Guarantor (as applicable).
+If a Holder or another party has paid any fees, costs, expenses or indemnities referred to in Clause 12.1, such Holder or other party shall be entitled to reimbursement by way of a corresponding distribution in accordance with Clause 12.1.
+If the Issuer or the Trustee shall make any payment under this Clause 12, the Issuer or the Tmstee, as applicable, shall notify the Holders of any such payment at least fifteen (15) Business Days before the payment is made. Such notice shall specify the Record Date, the payment date and the amount to be paid.
+HOLDERS' REPRESENTATIVES
+The Holders shall establish a group of holders' representatives consisting of three members (the "Holders' Representatives"). The initial members are Peter Werleus (representing Norron AB, reg. no. 556812-4209), Carl-Fredrik Hogstedt (representing Skandia Fonder AB, reg. no.556317-2310) and Thiemo Bischoff (representing Robus Capital Management Ltd., reg. no. 07745735).
+The Holders of the Instruments (from time to time) unconditionally, irrevocably and exclusively fully authorise the Holders' Representatives to take the necessary decisions required with binding effect on all of the Holders (subject to the provisions of this Clause 13), relating to the provisions set forth in the PA which include inter alia to (i) consent to any disclosure or announcement, (ii) determine the Purchase Price Adjustment and the Earn out Payment, (iii) giving, executing and delivering any waiver or consent under, or any amendment to the PA, (iv) signing, executing and delivering any document and taking any action that may be necessary or appropriate in connection with the PA (including but not limited to any document to be signed, executed or delivered at the closing), and (v) agreeing, compromising and settling any claim.
+If any amendments are made to the PA which also result in amendments to these Terms and Conditions, the Holders' Representatives may instruct the Trustee to amend these Terms and Conditions accordingly, however always subject to and in accordance with Clause 17 (Amendments and Waivers). For the avoidance of doubt, if any such amendments could be detrimental to the interest of the Holders such amendments shall be decided upon at a Holders' Meeting or a Written Procedure (as applicable).
+The Holders' Representatives are given the discretionary right to take decisions set forth in Clause 13.2, with a quorum of at least two members and with a majority were at least two of three members vote in favour o f the decision (regardless of the provisions set forth in Clause 14 (Decisions by Holders)).
+In addition to the aforesaid, the Holders' Representatives shall always be able to instruct the Trustee to initiate a Holder's Meeting or a Written Procedure if, in the Holders'
+16
+
+Representatives opinion, the decision to be taken is more appropriate to be decided upon at a Holders' Meeting or Written Procedure.
+The Holders' Representatives shall be assisted by the Trustee and the Trustee shall participate in meetings between the Holders' Representatives. The Trustee will have an administrative function with no mandate to vote or take decisions (other than decisions explicitly set out in the provisions in these Terms and Conditions).
+If any decisions made by the Holders' Representatives, in their own discretion, constitute a material decision (other than any amendments in accordance with Clause 13.3) the Holders' Representatives shall through the Trustee inform the Holders of such decision in accordance with Clause 22.1 (Notices).
+If a member resigns from the Holders' Representatives, a new member may be elected in accordance with Clause 14 (Decisions by Holders). The initial members of the Holders' Representatives may not resign before the Initial Cash Payment Date has occurred, unless such resigning is due to circumstances which are not in the control of such member. If any of the members resign thereafter, a Holders' Meeting or a Written Procedure shall be held in order to elect any new members. Should no Holders' Representatives exist by year-end 2018, the Trustee shall initiate a Holder's Meeting or Written Procedure with the request to the Holders to vote for new members being the Holders' Representatives and with the information to the Holders that the consequence of not electing such members is that the Purchaser Earn-out Calculation will be approved with no possibilities to object to the calculations made.
+The Holders agree that the Holders' Representatives are fully discharged from any liability whatsoever when acting in accordance with this Clause 13, provided that the Holders' Representatives have not acted with gross negligence or wilful misconduct. The Holders' Representatives shall never be responsible for indirect loss.
+All costs and expenses incurred by the Holders' Representatives shall be paid by the Holders, provided that such costs and expenses have arisen due to actions initiated by the Holders, and shall be paid by the Issuer if such actions have been initiated by the Issuer. Any costs and expenses incurred by the Holders shall be invoiced to and paid by the Issuer and thereafter (to the extent the Holders have initiated the action) reimbursed by the Holders pro rata by way of deduction of the Initial Cash Payment or the Earn-out Payment (as applicable), provided however that in the event that no Earn-out Payment is payable, and if any such costs that have not been deducted from the Initial Cash Payment, exceed SEK 100,000, the Issuer shall only be obligated to pay such costs above SEK 100,000 if indemnified by any of the Holders or a party designated by the Holders.
+DECISIONS BY HOLDERS
+A request by the Trustee for a decision by the Holders on a matter relating to the Finance Documents (in this Clause 14, such term shall include the PA if applicable) shall (at the option of the Trustee) be dealt with at a Holders' Meeting or by way of a Written Procedure.
+17
+
+Any request from the Issuer or a Holder (or Holders) representing at least ten (10.00) per cent, of the Adjusted Nominal Amount (such request may only be validly made by a Person who is a Holder on the Business Day immediately following the day on which the request is received by the Trustee and shall, if made by several Holders, be made by them jointly) for a decision by the Holders on a matter relating to the Finance Documents shall be directed to the Trustee and dealt with at a Holders' Meeting or by way of a Written Procedure, as determined by the Trustee. The Person requesting the decision may suggest the form for decision making, but if it is in the Tmstee's opinion more appropriate that a matter is dealt with at a Holders' Meeting than by way of a Written Procedure, it shall be dealt with at a Holders' Meeting.
+The Trustee may refrain from convening a Holders' Meeting or instigating a Written Procedure if (a) the suggested decision must be approved by any Person in addition to the Holders and such Person has informed the Trustee that an approval will not be given, or (b) the suggested decision is not in accordance with applicable laws.
+Only a Person who is, or who has been provided with a power of attorney or other proof of authorisation pursuant to Clause 7 (Right to act on behalfo f a Holder) from a Person who is, registered as a Holder:
+(a) on the Record Date prior to the date of the Holders' Meeting, in respect of a Holders' Meeting, or
+(b) on the Business Day specified in the communication pursuant to Clause 16.3, in respect of a Written Procedure,
+may exercise voting rights as a Holder at such Holders' Meeting or in such Written Procedure, provided that the relevant Instruments are included in the definition of Adjusted Nominal Amount.
+The following matters shall require consent of Holders representing at least two thirds (2/3) of the Adjusted Nominal Amount for which Holders are voting at a Holders' Meeting or for which Holders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 16.3:
+(a) waive a breach of or amend an undertaking set out in Clause 10 (Special undertakings)',
+(b) release the Guarantee in whole or in part;
+(c) reduce the Nominal Amount, which shall be paid by the Issuer (if not in accordance with the Terms and Conditions);
+(d) amend any payment day for principal or waive any breach of a payment undertaking (if not in accordance with the Terms and Conditions), or
+(e) amend the provisions in this Clause 14.5 or 14.6.
+Any matter not covered by Clause 14.5 shall require the consent of Holders representing more than fifty (50.00) per cent, of the Adjusted Nominal Amount for which Holders are
+18
+
+14.7
+14.8
+14.9 14.10 14.11
+14.12 14.13
+
+voting at a Holders' Meeting or for which Holders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 16.3. This includes, but is not limited to, any amendment to or waiver of the terms of any Finance Document that does not require a higher majority (other than an amendment or waiver permitted pursuant to Clause 17.1(a) or (b), a termination of the Instruments or the enforcement of the Guarantee in whole or in part.
+Quorum at a Holders' Meeting or in respect of a Written Procedure only exists if a Holder (or Holders) representing at least twenty (20.00) per cent, of the Adjusted Nominal Amount;
+(a) if at a Holders' Meeting, attend the meeting in person or by telephone conference (or appear through duly authorised representatives); or
+(b) if in respect of a Written Procedure, reply to the request.
+If a quorum does not exist at a Holders' Meeting or in respect of a Written Procedure, the Trustee or the Issuer shall convene a second Holders' Meeting (in accordance with Clause 15.1) or initiate a second Written Procedure (in accordance with Clause 16.1), as the case may be, provided that the relevant proposal has not been withdrawn by the Person(s) who initiated the procedure for Holders' consent. The quorum requirement in Clause 14.7 shall not apply to such second Holders' Meeting or Written Procedure.
+Any decision which extends or increases the obligations of the Issuer or the Trustee, or limits, reduces or extinguishes the rights or benefits of the Issuer or the Trustee, under the Finance Documents shall be subject to the Issuer's or the Trustee's consent, as appropriate.
+A Holder holding more than one Instrument need not use all its votes or cast all the votes to which it is entitled in the same way and may in its discretion use or cast some of its votes only.
+The Issuer may not, directly or indirectly, pay or cause to be paid any consideration to or for the benefit of any Holder for or as inducement to any consent under these Terms and Conditions, unless such consideration is offered to all Holders that consent at the relevant Holders' Meeting or in a Written Procedure within the time period stipulated for the consideration to be payable or the time period for replies in the Written Procedure, as the case may be.
+A matter decided at a duly convened and held Holders' Meeting or by way of Written Procedure is binding on all Holders, irrespective of them being present or represented at the Holders' Meeting or responding in the Written Procedure. The Holders that have not adopted or voted for a decision shall not be liable for any damages that this may cause other Holders.
+All costs and expenses incurred by the Issuer or the Tmstee for the purpose of convening a Holders' Meeting or for the purpose of carrying out a Written Procedure, including reasonable fees to the Trustee, shall be paid by the Issuer, provided that the Issuer has initiated such Holders' Meeting or Written Procedure and shall be paid by the Holders (by reducing the Initial Cash Payment or the Eam-out Payment (as applicable) provided that the
+
+19
+
+Holders have initiated such Holders' Meeting or Written Procedure, and be invoiced the Issuer.
+If a decision shall be taken by the Holders on a matter relating to the Finance Documents, the Issuer shall promptly at the request of the Trustee provide the Tmstee with a certificate specifying the number of Instruments owned by Group Companies or (to the knowledge of the Issuer) their Affiliates, irrespective of whether such Person is directly registered as owner of such Instruments. The Trustee shall not be responsible for the accuracy of such certificate or otherwise be responsible to determine whether an Instrument is owned by a Group Company or an Affiliate of a Group Company.
+Information about decisions taken at a Holders' Meeting or by way of a Written Procedure shall promptly be sent by notice to the Holders and published on the websites of the Issuer and the Trustee, provided that a failure to do so shall not invalidate any decision made or voting result achieved. The minutes from the relevant Holders' Meeting or Written Procedure shall at the request of a Holder be sent to it by the Issuer or the Trustee, as applicable.
+HOLDERS' MEETING
+The Trustee shall convene a Holders' Meeting by sending a notice thereof to each Holder no later than five (5) Business Days after receipt of a request from the Issuer or the Holder(s) (or such later date as may be necessary for technical or administrative reasons). If the Holders' Meeting has been requested by the Holder(s), the Trustee shall send a copy of the notice to the Issuer.
+Should the Issuer want to replace the Trustee, it may convene a Holders' Meeting in accordance with Clause 15.1 with a copy to the Trustee. After a request from the Holders pursuant to Clause 18.4.3, the Issuer shall no later than five (5) Business Days after receipt of such request (or such later date as may be necessary for technical or administrative reasons) convene a Holders' Meeting in accordance with Clause 15.1.
+The notice pursuant to Clause 15.1 shall include (i) time for the meeting, (ii) place for the meeting, (iii) agenda for the meeting (including each request for a decision by the Holders) and (iv) a form of power of attorney. Only matters that have been included in the notice may be resolved upon at the Holders' Meeting. Should prior notification by the Holders be required in order to attend the Holders' Meeting, such requirement shall be included in the notice.
+The Holders' Meeting shall be held no earlier than ten (10) Business Days and no later than twenty (20) Business Days from the notice.
+If the Trustee, in breach of these Terms and Conditions, has not convened a Holders' Meeting within five (5) Business Days after having received such notice, the requesting Person may convene the Holders' Meeting itself. If the requesting Person is a Holder, the Issuer shall upon request from such Holder provide the Holder with necessary information from the register kept by the CSD and, if no Person to open the Holders' Meeting has been
+20
+
+appointed by the Trustee, the meeting shall be opened by a Person appointed by the requesting Person.
+At a Holders' Meeting, the Issuer, the Holders (or the Holders' representatives/proxies) and the Trustee may attend along with each of their representatives, counsels and assistants. Further, the directors of the board, the managing director and other officials of the Issuer and the Issuer's auditors may attend the Holders' Meeting. The Holders' Meeting may decide that further individuals may attend. If a representative/proxy shall attend the Holders' Meeting instead of the Holder, the representative/proxy shall present a duly executed proxy or other document establishing its authority to represent the Holder.
+Without amending or varying these Terms and Conditions, the Trustee may prescribe such further regulations regarding the convening and holding of a Holders' Meeting as the Trustee may deem appropriate. Such regulations may include a possibility for Holders to vote without attending the meeting in person.
+WRITTEN PROCEDURE
+The Trustee shall instigate a Written Procedure no later than five (5) Business Days after receipt of a request from the Issuer or the Holder(s) (or such later date as may be necessary for technical or administrative reasons) by sending a communication to each such Person who is registered as a Holder on the Business Day prior to the date on which the communication is sent. If the Written Procedure has been requested by the Ilolder(s), the Trustee shall send a copy of the communication to the Issuer.
+Should the Issuer want to replace the Trustee, it may send a communication in accordance with Clause 16.1 to each Holder with a copy to the Trustee.
+A communication pursuant to Clause 16.1 shall include (i) each request for a decision by the Holders, (ii) a description of the reasons for each request, (iii) a specification of the Business Day on which a Person must be registered as a Holder in order to be entitled to exercise voting rights (such Business Day not to fall earlier than the effective date of the communication pursuant to Clause 16.1), (iv) instructions and directions on where to receive a form for replying to the request (such form to include an option to vote yes or no for each request) as well as a form of power of attorney, and (v) the stipulated time period within which the Holder must reply to the request (such time period to last at least ten (10) Business Days but not more than twenty (20) Business Days from the communication pursuant to Clause 16.1). If the voting shall be made electronically, instructions for such voting shall be included in the communication.
+If the Trustee, in breach of these Terms and Conditions, has not instigated a Written Procedure within five (5) Business Days after having received such notice, the requesting Person may instigate a Written Procedure itself. If the requesting Person is a Holder, the Issuer shall upon request from such Holder provide the Holder with necessary information from the register kept by the CSD.
+When the requisite majority consents of the total Adjusted Nominal Amount pursuant to Clauses 14.5 and 14.6 have been received in a Written Procedure, the relevant decision shall
+21
+
+be deemed to be adopted pursuant to Clause 14.5 or 14.6, as the case may be, even if the time period for replies in the Written Procedure has not yet expired.
+AMENDMENTS AND WAIVERS
+The Issuer and the Trustee (acting on behalf of the Holders) may agree to amend the Finance Documents or waive any provision in a Finance Document, provided that:
+(a) the Trustee is satisfied that such amendment or waiver is not detrimental to the interest of the Holders, or is made solely for the purpose of rectifying obvious errors and mistakes; or
+(b) such amendment or waiver is required by applicable law, a court ruling or a decision by a relevant authority; or
+(c) such amendment or waiver has been duly approved by the Holders in accordance with Clause 14 (Decisions by Holders).
+For the avoidance of doubt, the Trustee and the Issuer may agree to amend the Final Redemption Date as set out in Clause 1.1, (Definitions), in accordance with the provisions in the definition.
+The consent of the Holders is not necessary to approve the particular form of any amendment or waiver to the Finance Documents. It is sufficient if such consent approves the substance of the amendment or waiver.
+The Trustee shall promptly notify the Holders of any amendments or waivers made in accordance with Clause 17.1, setting out the date from which the amendment or waiver will be effective, and ensure that any amendments to the Finance Documents are available in accordance with Clause 18.2.1. The Issuer shall ensure that any amendments to these Terms and Conditions are duly registered with the CSD and each other relevant organisation or authority.
+An amendment or waiver to the Finance Documents shall take effect on the date determined by the Holders' Meeting, in the Written Procedure or by the Trustee, as the case may be.
+APPOINTMENT AND REPLACEMENT OF THE TRUSTEE
+Appointment of Trustee
+By receiving the Instruments, each initial Holder appoints the Trustee to act as its agent in all matters relating to the Instruments and the Finance Documents, and authorises the Trustee to act on its behalf (without first having to obtain its consent, unless such consent is specifically required by these Terms and Conditions) in any legal or arbitration proceedings relating to the Instruments held by such Holder, including the winding-up, dissolution, liquidation, company reorganisation (Sw. foretagsrekonstruktiori), or bankruptcy (Sw. konkurs) (or its equivalent in any other jurisdiction) of the Issuer. By acquiring Instruments, each subsequent Holder confirms such appointment and authorisation for the Trustee to act on its behalf.
+22
+
+18.1.2
+18.1.3 18.1.4 18.1.5 18.2 18.2.1
+18.2.2
+18.2.3 18.2.4
+
+Each Holder shall immediately upon request by the Trustee provide the Trustee with any such documents, including a written power of attorney (in form and substance satisfactory to the Trustee), as the Trustee deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents. The Trustee is under no obligation to represent a Holder which does not comply with such request.
+The Issuer shall promptly upon request provide the Trustee with any documents and other assistance (in form and substance satisfactory to the Tmstee), that the Trustee deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents.
+The Trustee is entitled to fees for all its work performed in its capacity as Trustee and/or related to the Instruments and to be indemnified for costs, losses and liabilities on the terms set out in the Finance Documents and the Trustee's obligations as agent under the Finance Documents are conditioned upon the due payment of such fees and indemnifications.
+The Trustee may act as agent and/or security agent for several issues of securities issued by or relating to the Issuer and other Group Companies notwithstanding potential conflicts of interest.
+Duties of the Trustee
+The Trustee shall represent the Holders in accordance with the Finance Documents. However, the Trustee is not responsible for the due execution validity, legality or enforceability of the Finance Documents. The Trustee shall keep the latest version of these Terms and Conditions (including any document amending these Terms and Conditions) available on the website of the Trustee and shall keep the Finance Documents available for the Holders at the office o f the Trustee during normal business hours.
+The Trustee's duties under the Finance Documents are solely mechanical and administrative in nature and the Trustee only acts in accordance with the Finance Documents and upon instructions from the Holders, unless otherwise set out in the Finance Documents. In particular, the Trustee in not in any way acting as an advisor (whether legal, financial or otherwise) to the Holders.
+The Trustee is not obligated to assess or monitor the financial condition of the Issuer or the Guarantor or compliance by the Issuer or the Guarantor of the terms of the Finance Documents unless to the extent expressly set out in the Finance Documents.
+Upon request by a Holder, the Tmstee shall promptly distribute to the Holders any information from such Holder which relates to the Instalments (at the discretion of the Tmstee). The Tmstee may require that the requesting Holder reimburses any costs or expenses incurred, or to be incurred, by the Tmstee in doing so (including a reasonable fee for the work of the Tmstee) before any such information is distributed. The Tmstee shall upon request by a Holder disclose the identity of any other Holder who has consented to the Tmstee in doing so.
+
+23
+
+18.2.5 18.2.6 18.2.7 18.2.8 18.2.9
+18.2.10 18.2.11
+
+When acting in accordance with the Finance Documents, the Trustee is always acting with binding effect on behalf of the Holders. The Trustee shall carry out its duties under the Finance Documents in a reasonable, proficient and professional manner, with reasonable care and skill.
+The Trustee is always entitled to delegate its duties to other professional parties without having first obtained any consent from the Issuer and the Holders, but the Trustee shall remain liable for the actions of such parties under the Finance Documents.
+The Trustee shall treat all Holders equally and, when acting pursuant to the Finance Documents, act with regard only to the interests of the Holders and shall not be required to have regard to the interests or to act upon or comply with any direction or request of any other Person, other than as explicitly staled in the Finance Documents.
+The Trustee shall, subject to Clause 18.2.4, be entitled to disclose to the Holders any event or circumstance directly or indirectly relating to the Issuer or the Instruments. Notwithstanding the foregoing, the Trustee may if it considers it to be beneficial to the interests of the Holders delay disclosure or refrain from disclosing certain information other than in respect of an Event of Default that has occurred and is continuing.
+The Trustee is always entitled to engage external experts when carrying out its duties under the Finance Documents and/or related documents. However the Trustee shall only be reimbursed by the Issuer for its costs and expenses in doing so in the following circumstances (i) after the occurrence of an Event of Default, (ii) for the purpose of investigating or considering (A) an event which the Trustee reasonably believes is or may lead to an Event of Default or (B) a matter relating to the Issuer or the Instruments which the Trustee reasonably believes may be detrimental to the interests of the Holders under the Finance Documents, (iii) when the Trustee is to make a determination under the Finance Documents or (iv) as otherwise agreed between the Trustee and the Issuer. Any compensation for damages or other recoveries received by the Trustee from external experts engaged by it for the purpose of carrying out its duties under the Finance Documents shall be distributed in accordance with Clause 12 {Distribution o fproceeds). Any costs and expenses incurred by the Tmstee shall be invoiced to and paid by the Issuer and thereafter, provided that no Event of Default has occurred, reimbursed by the Holders pro rata by way of deduction of the Initial Cash Payment or the Earn-out Payment (as applicable), provided however that in the event that no Eam-out Payment is payable, and if any such costs that has not been deducted from the Initial Cash Payment, exceed SEK 100,000, the Issuer shall only be obligated to pay such costs above SEK 100,000 if indemnified by any of the Holders or a party designated by the Holders.
+The Tmstee shall enter into agreements with the CSD, and comply with such agreement and the CSD regulations applicable to the Tmstee, as may be necessary in order for the Tmstee to carry out its duties under the Finance Documents.
+Unless it has actual knowledge to the contrary, the Tmstee may assume that all information provided by or on behalf of the Issuer (including by its advisors) is correct, true and complete in all aspects.
+24
+
+18.2.12 18.2.13
+
+Notwithstanding any other provision of the Finance Documents to the contrary, the Trustee is not obligated to do or omit to do anything if it would or might in its reasonable opinion constitute a breach of any law or regulation.
+If in the Trustee's reasonable opinion the cost, loss or liability which it may incur (including reasonable fees to the Trustee) in complying with the Finance Documents, or taking any action at its own initiative, will not be covered by the Issuer, the Trustee may refrain from acting in accordance with such instructions, or taking such action, until it has received such funding or indemnities (or adequate security has been provided therefore) as it may reasonably require.
+
+18.2.14 18.3
+
+The Trustee shall give a notice to the Holders (i) before it ceases to perform its obligations under the Finance Documents by reason of the non-payment by the Issuer of any fee or indemnity due to the Trustee under the Finance Documents, or (ii) if it refrains from acting for any reason described in Clause 18.2.13.
+Limited liability for the Trustee
+
+18.3.1 18.3.2 18.3.3 18.3.4
+
+The Trustee will not be liable to the Holders for damage or loss caused by any action taken or omitted by it under or in connection with any Finance Document, unless directly caused by its negligence or wilful misconduct. The Trustee shall never be responsible for indirect loss.
+The Trustee shall not be considered to have acted negligently if it has acted in accordance with advice from or opinions of reputable external experts the Trustee or if the Trustee has acted with reasonable care in a situation when the Trustee considers that it is detrimental to the interests of the Holders to delay the action in order to first obtain instructions from the Holders.
+The Trustee shall not be liable for any delay (or any related consequences) in crediting an account with an amount required pursuant to the Finance Documents to be paid by the Trustee to the Holders, provided that the Trustee has taken all necessary steps as soon as reasonably practicable to comply with the regulations or operating procedures of any recognised clearing or settlement system used by the Trustee for that purpose.
+The Trustee shall have no liability to the Holders or the Issuer (or any other person) for damage caused by the Trustee when acting in accordance with instructions of the Holders given in accordance with the Finance Documents.
+
+18.3.5
+
+The Trustee is not liable for information provided to the Holders by or on behalf of the Issuer or by any other person.
+
+18.3.6
+
+Any liability towards the Issuer which is incurred by the Trustee in acting under, or in relation to, the Finance Documents shall not be subject to set-off against the obligations of the Issuer to the Holders under the Finance Documents.
+
+25
+
+18.4 18.4.1 18.4.2 18.4.3
+18.4.4 18.4.5 18.4.6 18.4.7
+18.4.8
+
+Replacement of the Trustee
+Subject to Clause 18.4.6, the Trustee may resign by giving notice to the Issuer and the Holders, in which case the Holders shall appoint a successor Trustee at a Holders' Meeting convened by the retiring Trustee or by way of Written Procedure initiated by the retiring Trustee.
+Subject to Clause 18.4.6, if the Trustee is insolvent or becomes subject to bankruptcy proceedings, the Trustee shall be deemed to resign as Trustee and the Issuer shall within ten (10) Business Days appoint a successor Trustee which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+A Holder (or Holders) representing at least ten (10.00) per cent, of the Adjusted Nominal Amount may, by notice to the Issuer (such notice may only be validly given by a Person who is a Holder on the Business Day immediately following the day on which the notice is received by the Issuer and shall, if given by several Holders, be given by them jointly), require that a Holders' Meeting is held for the purpose of dismissing the Trustee and appointing a new Trustee. The Issuer may, at a Holders' Meeting convened by it or by way of Written Procedure initiated by it, propose to the Holders that the Trustee be dismissed and a new Trustee appointed.
+If the Holders have not appointed a successor Trustee within ninety (90) calendar days after (i) the earlier of the notice of resignation was given or the resignation otherwise took place or (ii) the Trustee was dismissed through a decision by the Holders, the Issuer shall appoint a successor Trustee which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+The retiring Trustee shall, at its own cost, make available to the successor Trustee such documents and records and provide such assistance as the successor Trustee may reasonably request for the purposes of performing its functions as Trustee under the Finance Documents.
+The Trustee's resignation or dismissal shall only take effect upon the appointment o f a successor Trustee and acceptance by such successor Trustee of such appointment and the execution of all necessary documentation to effectively substitute the retiring Trustee.
+Upon the appointment of a successor, the retiring Trustee shall be discharged from any further obligation in respect of the Finance Documents but shall remain entitled to the benefit of the Finance Documents and remain liable under the Finance Documents in respect of any action which it took or failed to take whilst acting as Trustee. Its successor, the Issuer and each of the Holders shall have the same rights and obligations amongst themselves under the Finance Documents as they would have had if such successor had been the original Trustee.
+In the event that there is a change of the Trustee in accordance with this Clause 18.4, the Issuer shall execute such documents and take such actions as the new Trustee may reasonably require for the purpose of vesting in such new Trustee the rights, powers and obligation of the Tmstee and releasing the retiring Trustee from its further obligations under
+26
+
+the Finance Documents. Unless the Issuer and the new Trustee agrees otherwise, the new Trustee shall be entitled to the same fees and the same indemnities as the retiring Trustee.
+APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT
+The Issuer appoints the Issuing Agent to manage certain specified tasks under these Terms and Conditions and in accordance with the legislation, rules and regulations applicable to and/or issued by the CSD and relating to the Instruments.
+The Issuing Agent may retire from its assignment or be dismissed by the Issuer, provided that the Issuer has approved that a commercial bank or securities institution approved by the CSD accedes as new Issuing Agent at the same time as the old Issuing Agent retires or is dismissed. If the Issuing Agent is insolvent, the Issuer shall immediately appoint a new Issuing Agent, which shall replace the old Issuing Agent as issuing agent in accordance with these Terms and Conditions.
+APPOINTMENT AND REPLACEMENT OF THE CSD
+The Issuer has appointed the CSD to manage certain tasks under these Terms and Conditions and in accordance with the legislation, rules and regulations applicable to the CSD.
+The CSD may retire from its assignment or be dismissed by the Issuer, provided that the Issuer has effectively appointed a replacement CSD that accedes as CSD at the same time as the old CSD retires or is dismissed and provided also that the replacement does not have a negative effect on any Holder. The replacing CSD must be authorised to professionally conduct clearing operations pursuant to the Swedish Securities Market Act (Sw. lag (2007:528) om vardepappersmarknaden).
+NO DIRECT ACTIONS BY HOLDERS
+A Holder may not take any steps whatsoever against a Group Company to enforce or recover any amount due or owing to it pursuant to the Finance Documents, or to initiate, support or procure the winding-up, dissolution, liquidation, company reorganisation (Sw.foretagsrekonstruktiori) or bankruptcy (Sw. konkurs) (or its equivalent in any other jurisdiction) of the Group Companies in relation to any of the liabilities of such Group Company under the Finance Documents.
+Clause 21.1 shall not apply if the Trustee has been instructed by the Holders in accordance with the Finance Documents to take certain actions but fails for any reason to take, or is unable to take (for any reason other than a failure by a Holder to provide documents in accordance with Clause 18.1.2), such actions within a reasonable period of time and such failure or inability is continuing. However, if the failure to take certain actions is caused by the non-payment by the Issuer of any fee or indemnity due to the Trustee under the Finance Documents or by any reason described in Clause 18.2.13, such failure must continue for at least forty (40) Business Days after notice pursuant to Clause 18.2.14 before a Holder may take any action referred to in Clause 21.1.
+27
+
+22. 22.1 22.1.1
+22.1.2
+22.1.3 22.2 22.2.1 23. 23.1
+
+NOTICES AND PUBLICATION OF INFORMATION
+Notices
+Any notice or other communication to be made under or in connection with these Terms and Conditions:
+(a) if to the Trustee, shall be given at the address registered with the Swedish Companies Registration Office (Sw. Bolagsverket) on the Business Day prior to dispatch or, if sent by email by the Issuer, to such email address as notified by the Trustee to the Issuer from time to time;
+(b) if to the Issuer or the Guarantor, shall be given at the address registered with the Swedish Companies Registration Office on the Business Day prior to dispatch address or, if sent by email by the Trustee, to such email address as notified by the Issuer or the Guarantor to the Trustee from time to time; and
+(c) if to the Holders, shall be given at their addresses as registered with the CSD (or in relation to courier or personal delivery, if such address is a box address, the addressee reasonably assumed to be associated with such box address), on the Business Day prior to dispatch, and by either courier delivery or letter for all Holders. A notice to the Holders shall also be published on the websites of the Issuer and the Trustee.
+Any notice or other communication made by one Person to another under or in connection with these Terms and Conditions shall be sent by way of courier, personal delivery or letter (and, if between the Trustee and the Issuer or the Guarantor, by email) and will only be effective, in case of courier or personal delivery, when it has been left at the address specified in Clause 22.1.1 or, in case of letter, three (3) Business Days after being deposited postage prepaid in an envelope addressed to the address specified in Clause 22.1.1 or, in case of email to the Trustee or the Issuer or the Guarantor, when received in legible form by the email address specified in Clause 22.1.1.
+Failure to send a notice or other communication to a Holder or any defect in it shall not affect its sufficiency with respect to other Holders.
+Publication of information
+Any notice that the Issuer or the Trustee shall send to the Holders pursuant to Clauses 9.1.1, 9.3.2, 10.2, 11.5, 12.3, 14.15, 15.1, 16.1, 17.3, 18.2.14 and 18.4.1 shall also be published on the webpages of the Issuer and the Trustee, as applicable.
+FORCE MAJEURE AND LIMITATION OF LIABILITY
+Neither the Trustee nor the Issuing Agent shall be held responsible for any damage arising out of any legal enactment, or any measure taken by a public authority, or war, strike, lockout, boycott, blockade or any other similar circumstance (a "Force M ajeure Event"). The reservation in respect of strikes, lockouts, boycotts and blockades applies even if the Trustee or the Issuing Agent itself takes such measures, or is subject to such measures.
+28
+
+The Issuing Agent shall have no liability to the Holders if it has observed reasonable care. The Issuing Agent shall never be responsible for indirect damage with exception of gross negligence and wilful misconduct.
+Should a Force Majeure Event arise which prevents the Trustee or the Issuing Agent from taking any action required to comply with the Finance Documents, such action may be postponed until the obstacle has been removed.
+The provisions in this Clause 23 apply unless they are inconsistent with the provisions of the Central Securities Depositories and Financial Instruments Accounts Act which provisions shall take precedence.
+GOVERNING LAW AND JURISDICTION
+These Terms and Conditions, and any non-contractual obligations arising out of or in connection therewith, shall be governed by and construed in accordance with the laws of Sweden.
+Any dispute or claim arising in relation to these Terms and Conditions shall, subject to Clause 24.3, be determined by Swedish courts and the District Court of Stockholm shall be the court of first instance.
+The submission to the jurisdiction of the Swedish courts shall not limit the right of the Trustee (or the Holders, as applicable) to take proceedings against the Issuer in any court which may otherwise exercise jurisdiction over the Issuer or any of its assets.
+**+
+
+We hereby certify that the above Terms and Conditions are binding upon ourselves. Place and date: E OUT INSTRUMENT AB
+We hereby undertake to act in accordance with the above Terms and Conditions to the extent they refer to us. As the indirect shareholder of the Issuer, Cloetta AB (publ), (reg. no. 556308-8144) hereby unconditionally and irrevocably guarantees to the Trustee and each Holder as for its own debt (Sw. "såsomför egen skuld") all obligations and liabilities of the Issuer, including the flail and punctual payment by the Issuer of the Guaranteed Obligations.
+We hereby undertake to act in accordance with the above Terms and Conditions to the extent they refer to us. NORDIC TRUSTEE & AGENCY AB (PUBL) as Trustee
+Name: Place and date:
+
+We hereby certify that the above Terms and Conditions are binding upon ourselves. Place and date: E OUT INSTRUMENT AB as Issuer
+
+Name: Place and date:
+We hereby undertake to act in accordance with the above Terms and Conditions to the extent they refer to us. As the indirect shareholder of the Issuer, Cloetta AB (publ), (reg. no. 556308-8144) hereby unconditionally and irrevocably guarantees to the Trustee and each Holder as for its own debt (Sw. "såsomfor egen skuldI") all obligations and liabilities of the Issuer, including the full and punctual payment by the Issuer of the Guaranteed Obligations.
+CLOETTA AB (PUBL) as Guarantor
+
+Name: Place and date:
+We hereby undertake to act in accordance with the above Terms and Conditions to the extent they refer to us.
+NORDIC TRUSTEE & AGENCY AB (PUBL) as Trustee,
+
+Name/ ChristofferAndersson
+
+Place and date:
+
+VMDU/!Cb CE OU
+
+.I
+
+Schedule 1 Form of Compliance Certificate To: Nordic Trustee & Agency AB (publ) as Trustee From: E OUT INSTRUMENT AB as Issuer Date: Dear Sirs, We refer to the terms and conditions (the "Terms and Conditions") for the SEK 218,250,000 Earn-out debt Instrument issued by E out instrument AB with ISTN: SE0009857949. Capitalized terms used and not defined herein shall have the meaning ascribed to them in the Terms and Conditions. This Compliance Certificate is issued to you with reference to Clause 10.3 (iv) of the Terms and Conditions.
+(i) We hereby confirm, to the best of our knowledge that no Event of Default is continuing. (ii) We hereby confirm Cloetta's estimated fair value of the Instruments based on IFRS as set
+forth in the latest quarterly report, and confirm that such calculations: (a) have been made in accordance with the PA; and (b) have been reviewed by an auditor, confirming the calculations in accordance with the document attached hereto.
+E OUT INSTRUMENT AB
+Authorised signatory
+
+Schedule 2
+Thefollowing provisions setforth in this Schedule 2 do notpurport to be complete but to give an overview o f the applicable terms and conditions o fthe PA relating to the (i) Purchase Price Adjustment and (ii) the calculation o f the Earn-out Payment, and shall be part o f the Terms and Conditions o f the Earn-out debt.
+In case o f a conflict between the provisions in this Schedule 2 and theprovisions in the PA, the provisions in the PA shallprevail.
+General information:
+Holders of an Instrument are under the Terms and Conditions of the Eam-out debt entitled to certain payments consisting of:
+(1) the Initial Cash Payment in the total amount of SEK 297,438,860 (being 97 per cent of SEK 325,000,000 plus the Preliminary Net Debt, plus the amount with which the Preliminary Net Working Capital exceeds the Normalised Net Working Capital less SEK 5,000,000) (i.e. approximately SEK 396,585 per Instrument), subject to adjustments in accordance with the Purchase Price Adjustment, set out below; and
+(2) payment of the total Nominal Amount or a reduction thereof, subject to adjustments in accordance with the calculation of the Eam-out Payment, resulting in a maximum payment of SEK 218,250,000 (i.e. SEK 291,000 per Instrument), set out below.
+The amounts to be paid are also subject to any costs and expenses to be deducted from the Initial Cash Payment and/or the Eam-out Payment in accordance with these Terms and Conditions.
+(1) Purchase Price Adjustment
+Determination of the Purchase Price Adjustment
+The Initial Cash Payment set forth in (1) above shall be adjusted according to the Adjustment Calculation.
+As soon as reasonably practicable, but no later than fifteen (15) Business Days as from the Closing Date, the Purchaser shall cause the Company to prepare and deliver to the Holders' Representatives, Adjustment Statement. The Adjustment Statement shall be prepared in accordance with the Candyking Accounting Principles as consistently applied in the past by the Company.
+Within fifteen (15) Business Days after receipt of the Adjustment Statement the Holders' Representatives shall deliver to the Purchaser a statement whether the Holders' Representatives accepts or objects to the Adjustment Statement. The failure of the Holders' Representatives to deliver such statement within fifteen (15) Business Days after receipt of the Adjustment Statement shall be deemed as an acceptance of the Adjustment Statement and the Purchase Price Adjustment shall be deemed to be determined as from receipt by the Purchaser of such acceptance.
+
+In case of objection to the Adjustment Statement
+Should the Holders' Representatives object to the Adjustment Statement, the statement shall include the reasons for such objection as well as a specification of the adjustments that shall be made to the Adjustment Statement in order for it to comply with the provisions of the PA. The Holders' Representatives and their respective representatives shall be given access to the books and records, financial data and other documents of the Candyking Group Companies as well as to employees and representatives of the Purchaser and the Candyking Group Companies who were involved in the preparation of the Adjustment Statement, as required to determine the accuracy of the Adjustment Statement and for the Holders' Representatives to deliver its statement pursuant to the third Section under ("Determination o f the Purchase Price Adjustment").
+In the event the Holders' Representatives object to the Adjustment Statement, the Purchaser and the Holders' Representatives shall attempt, acting in good faith, to reach an agreement on the adjustments to be made to the Adjustment Statement in order for it to comply with the provisions of the PA. In the event such agreement has not been reached within ten (10) Business Days after receipt by the Purchaser of the statement pursuant to the third Section under ("Determination o f the Purchase Price Adjustment") above, then either of the Purchaser or the Holders' Representatives may refer any such matter as to which the relevant parties have disagreed to the Third Party Auditor for determination. The following principles shall apply to the Third Party Auditor procedure:
+(a) the Third Party Auditor shall without undue delay notify the relevant parties of the referral of a matter to which the relevant parties have disagreed pursuant to this Section;
+(b) each of the relevant parties shall have the right to present its respective arguments to the Third Party Auditor within five (5) Business Days after receipt of the notification pursuant to Section (a) immediately above;
+(c) the Third Party Auditor shall within twenty (20) Business Days after receipt of the arguments pursuant to Section (b) immediately above, as applicable, make the necessary adjustments to the Adjustment Statement in order for it to comply with the provisions of the PA;
+(d) the Third Party Auditor shall be given access to the books and records, financial data and other documents of the Candyking Group Companies as well as to such employees and representatives of the Purchaser and the Candyking Group Companies, who were involved in the preparation of the Adjustment Statement, required for the Third Party Auditor to determine the necessary adjustments to the Adjustment Statement in order for it to comply with the provisions of this Agreement until such adjustments have been determined by the Third Party Auditor;
+(e) the Third Party Auditor shall consider only such matters to which the relevant parties have disagreed pursuant to this Section and the decision of the Third Party Auditor shall in no event lead to a result more favourable to the Holders than as set forth in their statement pursuant to the third Section under ("Determination o fthe Purchase
+
+Price Adjustment") above or a result more favourable to the Purchaser than as set forth in the Adjustment Statement;
+(f) the decision of the Third Party Auditor shall be final and binding on the parties; and
+(g) the Purchaser on the one hand and the Holders on the other hand shall share the fees and expenses of the Third Party Auditor in proportion to which their respective calculations deviates from the Third Party Auditor's determination. Any such costs payable by the Holders shall be allocated so that the Holders pay 97 per cent, of such costs which shall be deducted from the Initial Cash Payment and payable to the Third Party Auditor. (Any such payment made by the Holders will reduce the amount of the Initial Cash Payment.)
+Acceptance of the Adjusted Statement
+Upon acceptance of the Adjustment Statement by the Holders' Representatives or the necessary adjustments to the Adjustment Statement having been agreed by the relevant parties or finally determined by the Third Party Auditor (the "Purchase Price Adjustment Approval Date"), the Initial Cash Payment shall be adjusted on a SEK for SEK basis and payable to the other relevant party (to or from the Escrow Account (as defined below) as the case may be as further set out under the heading "Payment o f the Initial Cash Payment and the Purchase Price Adjustment" below) within five (5) Business Days from the Purchase Price Adjustment Approval Date as follows:
+
+(a)
+
+if the Adjustment Calculation results in a positive amount, the Initial Cash Payment shall
+
+be increased with an amount equal to such positive amount; or
+
+(b)
+
+if the Adjustment Calculation results in a negative amount, the Initial Cash Payment shall
+
+be reduced with an amount equal to such negative amount,
+
+(a) and (b) above constitute the adjustments of the Initial Cash Payment (the "Purchase Price Adjustment")
+
+Payment of the Initial Cash Payment and the Purchase Price Adjustment
+The Purchaser shall on the Closing Date for the transaction pay a preliminary purchase price to an escrow account (the "Escrow Account") as security in favour of inter alia the Holders in accordance with an escrow agreement to be entered into inter alia between the Trustee (on behalf of the Holders), the Purchaser and the escrow agent (being Skandinaviska Enskilda Banken AB (publ)) (the "Escrow Agreement").
+
+If the Adjustment Calculation results in a positive amount, such additional amount shall also be paid to the Escrow Account and if the Adjustment Calculation results in a negative amount such amount shall be paid to the Purchaser from the Escrow Account (such payment to or from the Escrow Account as the case may be shall be made within such time as set out under the heading "Acceptance o f the Adjusted Statement' above).
+
+As soon as possible after the Purchase Price Adjustment Approval Date, the escrow agent shall, upon the joint written instruction of the Purchaser and the Trustee (acting on the written instruction of the
+
+Holders' Representatives) in the form set out in the Escrow Agreement, by wire transfer of immediately available funds transfer to the Purchaser's account affiliated with the CSD an amount equal to the Initial Cash Payment (adjusted in accordance with the Purchase Price Adjustment as set forth above) and less any costs and expenses to be deducted from the Initial Cash Payment in accordance with these Terms and Conditions, in order so that the payment of the Initial Cash Payment to the Holders can be carried out within twelve (12) Business Days after the Purchase Price Adjustment Approval Date. The Purchaser shall instruct the CSD to effectuate disbursement of the Initial Cash Payment to the Holders in accordance with these Terms and Conditions.
+
+(2) Calculation o f Earn-out Payment
+The payment of the total Nominal Amount set forth in (2) above is subject to the sold volume of pick and mix confectionary and snacks set forth below and less any costs and expenses to be deducted from the Earn-out Payment in accordance with these Terms and Conditions.
+
+Sold volumes
+The Purchaser shall, if the Sold Volume exceeds 36,413 tonnes ("Minimum Sold Volume") (or if the calculation of Sold Volume is adjusted due to that the Swedish Business is not acquired, if the Sold Volume exceeds 19,204 tonnes) pay the Earn-out Payment to the Holders adjusted in accordance with the below;
+
+(i) if the Sold Volume is equal to or exceeding 52,921 tonnes, 100 per cent, of the Earn out Payment is payable (the "Sold Volume Target"), or if the calculation of Sold Volume is adjusted due to that the Swedish Business is not acquired, if the Sold Volume is equal to or exceeding 27,910 tonnes,
+
+(ii) if the Sold Volume is less than the Sold Volume Target but exceeding the Minimum Sold Volume, a portion of the Eam-out Payment is payable as further set out in Schedule 3ex') attached hereto (and subject to an adjustment if the Swedish Business is not acquired as described in Schedule 3(xV).
+
+The calculation of the Sold Volume shall be adjusted in the following events:
+
+(a)
+
+if a part of the Group's operations are divested, closed down or otherwise cease to
+
+operate (in accordance with the terms of the PA), any reasonably estimated sold volumes
+
+attributable to such divested or wound up business or company shall be included when
+
+calculating the Sold Volume; and
+
+(b)
+
+if the Group acquires another business or company, any sold volumes attributable to such
+
+business or company shall be excluded when calculating the Sold Volume.
+
+The parties further agree that loyally seeking to achieve the Sold Volume Target is a fundamental prerequisite for the Holders to approve of the transaction, which requires the full cooperation of the Purchaser and the Group Companies, and the Purchaser accordingly undertakes not to undertake any measures with the intent to circumvent the payment of the Eam-out Payment in bad faith including, but not limited to:
+
+(i)
+
+materially alter the accounting method relevant for the calculation of Sold Volume; or
+
+(ii)
+
+divest, merge, demerge, close down or cease operation as regards all or a material part of
+
+the Group's pick and mix operations relevant for the Sold Volume (other than any intra
+
+group restructurings). (In the event any non-material part of the Group's operations is
+
+divested, merged, demerged or closed down the calculation of the Sold Volume shall be
+
+adjusted in accordance with the Section (a) immediately set forth above.
+
+Should the Purchaser divest, merge, demerge, close down or cease operations contrary to what is set forth in Section (ii) immediately set forth above, 100 per cent of the Earn-out Payment shall be payable.
+
+Determination of the Earn-out Payment
+No later than twenty (20) Business Days following the date of the Purchaser Group's press release of the year-end report (Sw. bokslutskommunike) for the Earn-out Period (being the Group's financial year 2018), the Purchaser shall deliver to the Holders' Representatives a written report setting forth the Purchaser's calculation of the Sold Volume for the Earn-out Period and the Purchaser's calculation of the Earn-out Payment (the "Purchaser Earn-out Calculation"). The Purchaser Earn-out Calculation shall be accompanied by a report from the Purchaser's auditor confirming that the Purchaser Earn-out Calculation has been carried out in accordance with the provisions of the PA.
+In case of objection of the Purchaser Earn-out Calculation
+If the Holders' Representatives disagree with the Purchaser Earn-out Calculation, the Holders' Representatives shall notify the Purchaser in writing (the "Earn-out Dispute Notice"), setting forth in reasonable detail those items and amounts contained therein with which the Holders' Representatives disagree and the basis therefore together with the Holders' Representatives calculation of the Earn-out Payment (the "Earn-out Dispute"), within twenty (20) Business Days of receiving the Purchaser Earn out Calculation. During such twenty (20) Business Days period, the Purchaser shall cause the Group Companies, to make available to the Holders' Representatives and their respective advisors, such of the Group Companies' books and records, other information and appropriate personnel as the Holders' Representatives may reasonably request in connection with the review of the Purchaser Earn-out Calculation. If no Earn-out Dispute Notice is provided, the Purchaser Eam-out Calculation shall be deemed to be final and binding upon all parties.
+In the event that the Holders' Representatives provides the Purchaser with an Eam-out Dispute Notice within the twenty (20) Business Days period referred to above, the Holders' Representatives and the Purchaser shall confer in good faith for a period of up to twenty (20) Business Days concerning the subject matter of the Eam-out Dispute in an attempt to resolve it. If the Holders' Representatives and the Purchaser cannot resolve the Eam-out Dispute within the said period, then either the Holders' Representatives or the Purchaser may initiate the appointment of and refer the Eam-out Dispute to a Third Party Auditor to resolve the Eam-out Dispute.
+The Third Party Auditor, who shall act as an expert only and not as an arbitrator, shall resolve the Eamout Dispute within thirty (30) calendar days after its appointment. The Purchaser and the Holders' Representatives shall be afforded the opportunity to present to the Third Party Auditor (with a copy to the other parties) any material related to the unresolved disputes and, if requested by the Third Party Auditor, to discuss the issues with the Third Party Auditor in a meeting where the Holders' Representatives, and their respective representatives, and representatives of the Purchaser shall attend.
+
+When resolving the Earn-out Dispute, the Third Party Auditor shall review the Purchaser Earn-out Calculation and the Holders' Representatives calculation for purposes of determining the Sold Volume for the Earn-out Period. The Third Party Auditor shall consider only those amounts and items as to which the Holders' Representatives has disagreed (pursuant to the first Section set forth under "In case o f objection o f the Purchaser Earn-out Calculation") and the decision of the Third Party Auditor shall in no event go beyond any of the disagreements of and the calculations made by the Holders' Representatives or the Purchaser (pursuant to the Section "Determination o f the Earn-out Payment" and the first Section set forth under "In case o f objection o f the Purchaser Earn-out Calculation"). The Third Party Auditor shall issue and deliver to the Purchaser and the Holders' Representatives a written statement of such resolution setting forth the Third Party Auditor's calculation of the Sold Volume for the Earn-out Period (a "Final Decision") and such calculation shall be final and binding upon all parties.
+The Purchaser on the one hand and the Holders on the other hand shall share the fees and expenses of the Third Party Auditor in proportion to which their respective calculation deviates from the Third Party Auditor's determination. Any such costs payable by the Holders shall be allocated so that the Holders pay 97 per cent, of such costs which any shall be deducted from Eam-out Payment and payable to the Third Party Auditor. It is agreed that to the extent such costs payable by the Holders are not covered by the Eam-out Payment, the Purchaser shall bear the costs not covered.
+Payment of the Earn-out Payment
+The Eam-out Payment shall be paid by the Purchaser to the Holders within ten (10) Business Days after it has been finally determined in accordance with Sections "Determination o f the Earn-out Payment" and "In case o f objection to the Purchaser Earn-out Calculation" above ("the Earn-out Payment Approval Date").
+The Eam-out Payment, being maximum SEK 218,250,000 shall be paid to the Holders through the CSD in accordance with the Terms and Conditions of the Eam-out debt.
+
+Schedule 3(vli) Net Debt
+
+The below line Items should be used to calculate the Net Debt position as at the Closing Date. For illustrative purposes, the figures as at 31 December 2016 are shown in the table below. Preliminary Net Debt is based on estimated figures as at 30 June 2017 and Closing Net Debt will be the figures as at the Closing Date. The calculation for determining the Purchase Price Adjustment, shall be calculated in accordance with the following formula, Closing Net Debt - Preliminary Net Debt
+
+Net Debt Cash and bank Credit facility Pension plan asset Pension plan provision Other interest bearing liabilities Unpaid severance payments Trapped cash Factoring1"
+H1 capex spend over budget® Income tax (net) Potential claim (PostNord)® Net Debt
+
+Account D2245, 2250 D23B3 D2138 D2344 D2350, 2380 manual adj. manual adj.
+manual adj.
+manual adj. manual adj. manual adj.
+
+Preliminary
+
+Net Debt
+
+2018-12-31 June 2017
+
+17,9
+
+3,7
+
+-
+
+(5.0)
+
+6,0
+
+6,0
+
+(6.0) (0.3) (4.6) (0.4)
+
+(6.0) (0,3)
+-
+(0,4)
+
+(36.1)
+
+(34,8)
+
+-
+
+7,8
+
+(2.1)
+
+(2,1)
+
+-
+
+-
+
+(25.6)
+
+(31.1)
+
+Closing Net Debt
+
+Note (1) Candyklng has factoring arrangements, all sold invoices as per the Closing Date with a due date as per the underlying customer contract In force as at the Closing Date (for the avoidance of doubt, not considering what is stated on the actual invoice or in any other invoicing or credit terms in any factoring/supply chain financing agreement) later than the Closing Date should be treated as debt. The factoring adjustment in the table above is illustrative and Is based on a calculation on invoicing and credit terms of 46 days. As at Closing, an adjustment should be made, that reflects the creditor balance per customer as per the below example. Example: Customer 1 has credit days of 45 days in the underlying customer contract in force as at the Closing Date (for the avoidance of doubt, not considering what is stated on the actual invoice or in any other invoicing or credit terms in any factoring agreement/supply chain financing agreement), and the invoice is sold to a factoring company. At Closing all invoicing (including VAT and sugar tax) to Customer 1, 38 days (45 days minus 7 days due to the payment terms of the factoring agreement/supply chain financing agreement (as applicable)) prior to Closing should be treated as debt, i.e. if Closing takes place on 30 June 2017, all sold invoices with invoicing date, post and including, 23 May 2017 should be treated as debt. However, always subject to that payment has been received for the sold invoice.
+
+Note (2) Candyking has budgeted capex of SEK 2.54m per month for financial year 2017. To the extent that the Company has spent more (or less) than SEK 2.54m of capex per month during the period up to Closing with consistent accounting policy, the Net Debt at closing will be adjusted for any such deviation, positive or negative. SEK 7.8m estimates capex spend over budget as per 30 June 2017. Example: if Candyking booked capex of SEK 23.0m, irrespective of whether paid or not, in the first six months of 2017 (2017-01-01 to 2017-06-30) and the budgeted capex is SEK 15.24m (6'SEK 2.54m), the Net Debt will be adjusted with +SEK 7.8m. For the avoidance of doubt, capex that has been booked but not yet paid will still be taken into account In the capex Net Debt adjustment.
+
+Note (3) In the event that the PostNord claim amounting to SEK 242,000 has not been paid, settled or withdrawn prior to the Closing Date, the SEK 242,000 claim shall be treated as a debt item.
+The credit days In the DS Contract (which is the "underlying customer contract" for the Dansk Supermarked Group) shall be assumed to be 45 days for the purpose of calculating the Closing Net Debt.
+
+D-2605574-vl
+
+The bahwr In c Kerns should be used lo calculate the Net Working C aptal position as e t Die Closing Date. For the avoidance of doubt DormiiseOon adjustments and inventory adjustment should not be Included In the th e Rems used to r a ta b le Closing N el Working Cop Sal o r PmBmfaary Net Working CapKaL
+
+The cetcufe for determining h e PreOmhary Purchase Price, shaR be c
+
+t in accordBnra with the toflovring formula:
+
+ProBmhary Net Working Capital - N orm abed Nat Working C apU t
+
+The c d a ie lio n lor determining h e Purchase Price Adjustment, ih e l be calculated In accordance with the fotkmtng formula.
+
+Closing N et Working C ap lal - Pralm hery N etw orking Capital
+
+Schedule SivUt] N etworking Capital
+
+Reported W orking c e p la l g ro u p m onthly *E K m Inventory Account receivables Account Pays ble
+Deferred Tex Assets Short Term Other Short Term RectkaW ss Other receivables Acoued Income and prepaid expenies Other RabSCfes Accrued Expenses & Prepaid Income Reported n e tw o rk in g c apital
+
+Account raiS b 2110 D23S0 2175 2213
+2200 02374 2370
+
+NW C(SEKm) LTM av erag e reported NWC Classification adjustm ents
+A ccrued interest exp easel Corporate Income tax (net One-off accruals reduedancbi NWC after d e s s . ad).
+
+Norm alised Nel W orking C a p ita l
+V 3.4
+----------------- nfr
+
+Norm alisation adjustm ents
+
+Accrued transaction fee Acceir
+
+0,1
+
+Accrual Coop N orw ay (2015] A d ju ste d JjWC
+
+$1,6
+
+Inventory a d ju stm tir Inventory ad ju stm en t lor extraordinary high tevals 0 4 201 AP adjustm ent for extraordinary high h v e b Q4 20H
+Tf eetUa lI WInvennUtoruy TtaEbSleEd ZaSfluZsEtmSeSnT----------------------------------------------
+fte tW o rk ln g C apital
+
+(6.6) 8,1 g !o '
+(v i
+
+I'n - t « fe b-18 mar-11 epr-18 meJ-18 tun-18 JuMO aug-16 aa^-18 okt-18 nov-1B dee-10 Avg .
+
+75,7
+
+68,7 7 M 64,7 87,1 74,2 71,1
+
+80.7 00fi S2JB 78.1
+
+131,1 110,4 230.3 143,1 1 3 V 120,4 137,7 142,8 185,1 1170,2 118,3 60.1 150,3 (131,0) (185,0) (188,6) (137,5) (1tSJ0) (110,0) (120,3) (120,0) (140,7) (160,0) (139,3) (121,8) (137.1)
+
+-
+
+-
+
+0.1
+
+0.1
+
+O fl
+
+0,0
+
+0,0
+
+-
+
+-
+
+-
+
+-
+
+0.0
+
+5.2 12,8
+
+5(5 12(2
+
+13.4 13J5 14.4 15(6 112 16,5 13,0 12.7
+
+0.2 12,6
+
+6.7 12.4 1 V 13.4 1 3 £ 14,4 15.8 1 W I« .* 13,6 12.7
+
+11,® 12.4 15,5 16»3 13.1 15.4 15.4 12.3 15.1 10.3 17,2 16,7 14.5
+
+(33.1) (50.0) P O ) (33,3) (31JJ) (52,3) (37.7) (58.5) (81.2) («3.8) (30,4) (48,1) (54.6)
+
+r a w r a < ) j & a . (73(3) _ e a a . r a n n s i h * > w i r a n r a a l » a > r a n ( V ) t f l (10,1) p f l f l ( I V ) (8,8) (8,7) (15.4) (5,8) (7.1) ( 3 V ) (20,8) (11,T |
+
+NWC (SEKt) Inventcry Account recahfabbe Account Payable
+Datorred Tax A ssets Short Term Other Short Term ReraiveM es Other reraf/ebtes Accrued Income e nd prepaid u p tn a e s O ther 1 Rles Accrued Expenses & Prepaid income Reported net working eapSal Classlflcelkm adjustm ents Accrued M erest expense* Corporate hcom e tax (net One-off eccrueb redundenok) Nat W orldn^S apjtal
+
+A ccount D2150 02180 B33 S i D2175 D2215
+02200 D2374 D2370
+
+Prelim inary Net
+W orking Capital 30 June
+2017
+7TW "
+132 580 -131 484
+0 14 381 14 381
+8 391 -48138 -49 838 2 948,0
+
+Closing Net W orking C apiat
+.
+-
+
+m anual ad(
+
+8 4 5 0 ,0
+
+manual .
+
+2 1 4 2 ,0
+
+m an u al edL
+
+.
+
+11138.0
+
+-
+
+lEim-out Payment
+
+Schedule 3{x) Sold Volume calculation
+3
+
+ii ^ 
+
+CandyLng total 2016 Excluding: Soasensl/Favouriles 2018 Pro-pack Parrots 2018 Swedish Business Candyktng Baseline
+Cloetta Pick & Mix 2010 Excluding Sweden w
+B atalina Volume
+
+27709
+20 842 *
+«651
+
+26 467
+(73tJ P7I
+19578
+20 B42 (14 B15)
+23 665
+
+Minimum Sold Volume Sold Volume Target
+
+75% o f Baseline Volume 109% o f Baseline Volume
+
+36 413 S2B21
+
+19 204 27 910
+
+Nota (1) HIho Swedish Bus h not acqukvd, orbs dveafarf due to the decision o f (he CompatMhn Authortiy, the calculation of Ctoetta r ø r & Mix volume should exclude any volume rj Sweden as wages voluma purchased from Ctoetia by (ha Candyktng Swedish Business
+
+Eam-gm Payment
+Sold Volume <75% of BasoSno Voluma {+) Sold Vofuma 75-95% o f BaseBne Voluma (+) Gold Volume 100-100% of BaseBne Volume
+
+18 022 krflonne 1 1 443 krflonne
+
+SBVfoMYglunw
+34 173 krflonne Over Minimum Sold Vokimo, capped lo SEK 175m 21 697 krflonno Over BaaoRno Voluma, capped to SEK 50m
+
+Example (Including Sweden) Sold Volume
+
+44 000
+
+Sold Voluma <76% of BnsoDno Volume (+) Sold Volume 75-95% of BasaKno Volume (+) Sold Voluma 100-108% of BataSna Voluma Total Earn-out Paym ent
+230
+
+Tonna 38 413
+
+6EKØS0M Volumo Erni-oi
+
+_
+
+7 587
+
+18022
+
+137
+
+-
+
+11443
+
+Taff
+
+SeMVokima
+-------EanvaUPsynwot
+
+D-2W 1U-H
+
+

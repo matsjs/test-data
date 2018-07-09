@@ -1,0 +1,9 @@
+"EURIBOR" means:
+(b) if no screen rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places), as supplied to the Issuing Agent at its request quoted by Nordea Bank AB (publ), Svenska Handelsbanken AB (publ) and Skandinaviska Enskilda Banken AB (publ) (or such other banks as may be
+4
+appointed by the Issuing Agent in consultation with the Issuer), for deposits of EUR 10,000,000 for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b) above, the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Euro offered for the relevant period; and
+if any such rate is below zero, EURIBOR will be deemed to be zero.
+"Euro" and "EUR" means the currency used by the institutions of the European Union and is the official currency of the Eurozone.
+"Event of Default" means an event or circumstance specified in Clause 15.1.
+"Existing Indebtedness" means all amounts outstanding under a facilities agreement originally dated 7 December 2010, as amended on 24 October 2011 and as amended and restated on 7 December 2012 between, among others, ED Midco and a syndicate of international banks with the Royal Bank of Scotland PLC as agent (the "Opco Facilities Agreement"), which shall be paid, repaid or acquired through or in connection with the Bond Issue and purchased ultimately by ED DH7 as well as any hedging close out costs.

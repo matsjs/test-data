@@ -1,0 +1,9 @@
+where: (a) "Average Subscription Period Price" means the average of the weighted average of official daily trading price of such Shares on the Market Place, measured during the period when the Subscription Rights may be exercised, and (b) "Average Subscription Rights Price" means either (1) if the Issuer has listed the Subscription Rights on a Market Place, the average of the weighted average of official daily trading price of such Subscription Rights on the Market Place, measured during the period when the Subscription Rights may be exercised, or (2) if the Issuer has not listed the Subscription Rights on a Market Place, the average of the trading price of the Subscription Rights calculated by a broker agreed upon by the Issuer and the Bond Trustee, measured during the period when the Subscription Rights may be exercised Days without trading are not included in the aforesaid calculations.
+13.3 Capital write-down In the event of a capital write-down of the Issuer's share capital and subsequent repayment to shareholders,
+(i) if the Shares are listed at a Market Place, a new Conversion Price be calculated as follows:
+new Conversion Price = share price less amount repaid per share x old Conversion Price Share price
+The "Share Price" is the average of the weighted average of official daily trading price on the Market Place the last three days shares are quoted including rights.
+(ii) if the Shares are not listed, the Conversion Price be reduced with an amount equal to the amount repaid per share.
+Reduction of the share capital without repayment to the shareholders shall have no influence on the Conversion Price.
+13.4 Bonus Issue of New Shares In the event of a Bonus Issue of new Shares (with the exception of shares issued in settlement of a merger offer), split or consolidation, the new Conversion Price shall be fixed as follows:
+N um ber of Shares prior to bonus issue.split

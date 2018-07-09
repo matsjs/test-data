@@ -1,0 +1,9 @@
+9.1.3 The Bond Trustee shall at each Interest Payment Date release an amount equivalent to the relevant interest payment from the Retention Account.
+9.1.5
+The day count fraction (the "Fixed R ate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "30/360", which means that the number of days in the calculation period in respect of which payment is being made divided by 360 (the number of days to be calculated on the basis of a year of 360 days with twelve 30-days months, unless (i) the last day of the calculation period is the 31st day of a month but the first day of the calculation period is a day other than the 30th or 31st day of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or (ii) the last day of the calculation period is the last day of the month of February, in which case the month of February shall not be considered to be lengthened to a 30-day month).
+9.1.6 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows ("Fixed Rate" being the Fixed Rate for the relevant calculation period in accordance with Clause 9.1.1 above expressed as a %):
+Interest = Amount
+Face Value
+x
+Fixed
+Rate

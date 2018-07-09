@@ -1,0 +1,9 @@
+Interest Paym ent Dates
+9.3 Calculation of interest payments
+(a)
+Th e relevant interest payable amount shall be calculated based on a period from, and including, the
+Issue Date to, but excluding, the next following applicable Interest Payment Date, and thereafter from,
+and including, that Interest Payment Date to, but excluding, the next following applicable Interest
+Payment Date.
+(b)
+Th e day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of the payable

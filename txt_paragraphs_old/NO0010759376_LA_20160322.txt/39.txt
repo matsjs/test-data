@@ -1,0 +1,9 @@
+Interest = Face
+Amount
+Value
+Fixed Rate
+x Fixed Rate Day Count Fraction
+10 Maturity of the Bonds and Redemption
+10.1 Maturity and extension o f the Maturity Date
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) (plus accrued interest on redeemed amount) by the Issuer.
+The Issuer may request a 6 month extension of the Maturity Date, subject to written notice to the Trustee at least 15 business days prior to the Maturity Date. Any adjustment will be made according to the Business Day Convention.

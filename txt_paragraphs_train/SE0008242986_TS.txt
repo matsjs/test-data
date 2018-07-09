@@ -1,0 +1,4174 @@
+
+
+<<<
+
+TERMS AND CONDITIONS FOR MILLICOM INTERNATIONAL CELLULAR S.A.
+SEK 2,000,000,000 SENIOR UNSECURED FLOATING RATE NOTES
+ISIN: SE0008242986
+1
+
+TABLE OF CONTENTS 1. DEFINITIONS AND CONSTRUCTION...................................................
+
+<<<
+
+.................................. 1 2. STATUS OF THE NOTES..........................................................................................................25 3. USE OF PROCEEDS......................................................
+
+<<<
+
+.............................................................26 4. CONDITIONS PRECEDENT.....................................................................................................26 5. NOTES IN BOOK-ENTRY FORM......................
+
+<<<
+
+......................................................................26 6. RIGHT TO ACT ON BEHALF OF A NOTEHOLDER.............................................................27 7. PAYMENTS IN RESPECT OF THE NOTES...........................
+
+<<<
+
+.................................................27 8. INTEREST...................................................................................................................................28 9. REDEMPTION AND REPURCHASE OF THE NOTES..
+
+<<<
+
+.........................................................28 10. INFORMATION TO NOTEHOLDERS.....................................................................................32 11. GENERAL UNDERTAKINGS......................................
+
+<<<
+
+.............................................................33 12. ACCELERATION OF THE NOTES..........................................................................................37 13. DISTRIBUTION OF PROCEEDS..........................
+
+<<<
+
+....................................................................39 14. DECISIONS BY NOTEHOLDERS............................................................................................40 15. NOTEHOLDERS' MEETING......................
+
+<<<
+
+..............................................................................42 16. WRITTEN PROCEDURE...........................................................................................................43 17. AMENDMENTS AND WAIVERS..
+
+<<<
+
+...........................................................................................44 18. APPOINTMENT AND REPLACEMENT OF THE TRUSTEE................................................ 44 19. APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT
+
+<<<
+
+................................... 47 20. APPOINTMENT AND REPLACEMENT OF THE CSD..........................................................48 21. NO DIRECT ACTIONS BY NOTEHOLDERS..............................................................
+
+<<<
+
+............48 22. PRESCRIPTION..........................................................................................................................48 23. NOTICES AND PRESS RELEASES......................................................
+
+<<<
+
+....................................48 24. FORCE MAJEURE AND LIMITATION OF LIABILITY........................................................49 25. CONTRACTS (RIGHTS OF THIRD PARTIES) ACT 1999 ................................................
+
+<<<
+
+.....49 26. GOVERNING LAW AND JURISDICTION..............................................................................50
+2
+
+1.
+
+DEFINITIONS AND CONSTRUCTION
+
+1.1
+
+Definitions
+
+In these terms and conditions (the "Terms and Conditions"):
+
+
+
+<<<
+
+"Account Operator" means a bank or other party duly authorised to operate as an account operator pursuant to the Financial Instruments Accounts Act and through which a Noteholder has opened a Securities Account in respect of its Notes.
+
+"Acquired
+
+<<<
+
+ Debt" means Financial Indebtedness of the Issuer or any of its Subsidiaries:
+
+(a) incurred and outstanding on the date on which a Subsidiary (i) was acquired by the Issuer or any of its Subsidiaries or (ii) is merged, consolidated, amalgamated
+
+<<<
+
+ or otherwise combined with (including pursuant to any acquisition of assets and assumption of related liabilities) the Issuer or its Subsidiary; or
+
+(b) incurred to provide all or part of the funds utilised to consummate the transaction or
+
+<<<
+
+ series of related transactions pursuant to which such person became a Subsidiary of the Issuer or was otherwise acquired by the Issuer or its Subsidiary;
+
+provided that, after giving pro forma effect to the transactions by which such person
+
+<<<
+
+ became a Subsidiary of the Issuer or is merged, consolidated, amalgamated or otherwise combined with the Issuer or its Subsidiary, (i) the Issuer would have been able to incur $1.00 (or its equivalent in any other currency or currencies) of
+
+<<<
+
+ additional Financial Indebtedness pursuant to clause (i) of Condition 11.3 hereof; or (ii) the Net Leverage Ratio would not be greater than such ratio before giving effect to such transactions.
+
+"Adjusted Nominal Amount" means the Total Nominal
+
+<<<
+
+ Amount less the Nominal Amount of all Notes owned by a Group Company or an Affiliate, irrespective of whether such person is directly registered as owner of such Notes.
+
+"Additional Notes" means any Notes issued after the First Issue Date on
+
+<<<
+
+ one or more occasions.
+
+"Affiliate" means (i) means, in relation to any person, a Subsidiary of that person or a Holding Company of that person or any other Subsidiary of that Holding Company, and (ii) any other person or entity owning any
+
+<<<
+
+ Notes (irrespective of whether such person is directly registered as owner of such Notes) that has undertaken towards a Group Company or an entity referred to in item (i) to vote for such Notes in accordance with the instructions given by a
+
+<<<
+
+ Group Company or an entity referred to in item (i).
+
+"Asset Disposition" means any transfer, conveyance, sale, lease or other disposition by the Issuer or any of its Subsidiaries (including a consolidation or merger or other sale of any such
+
+<<<
+
+ Subsidiary with, into or to another person in a transaction in which such Subsidiary ceases to be a Subsidiary of the Issuer of (i) shares of Capital Stock (other than directors' qualifying shares and shares to be held by third parties to satisfy
+
+<<<
+
+ applicable legal requirements) or other ownership interests of a Subsidiary of the Issuer, (ii) substantially all of the assets of the Issuer or any of its Subsidiaries representing a division or line of
+
+1
+
+business or (iii) other assets
+
+<<<
+
+ or rights of the Issuer or any of its Subsidiaries outside of the ordinary course of business; provided that the term "Asset Disposition" shall not include:
+(a) any dispositions of assets in a single transaction or series of transactions with
+
+<<<
+
+ an aggregate Fair Market Value in any calendar year of not more than the greater of (x) $25 million (or its equivalent in any other currency or currencies) and (y) 1 per cent. of Total Assets (with unused amounts in any calendar year being
+
+<<<
+
+ carried over to the next succeeding year subject to a maximum of the greater of $25 million (or its equivalent in any other currency or currencies) and 1 per cent. of Total Assets of carried over amounts for any calendar year);
+(b) any disposition
+
+<<<
+
+ of Tower Equipment, including any sale/leaseback transaction; provided that any cash or Cash Equivalents received in connection with such disposition or sale/leaseback transaction must be applied in accordance with Condition 11.5;
+(c) any Specified
+
+<<<
+
+ Subsidiary Sale;
+(d) the sale, transfer or other disposition of all of the Capital Stock of Oasis s.p.r.l., a wholly owned Subsidiary of the Company incorporated under the laws of the Democratic Republic of the Congo;
+(e) a transfer of assets
+
+<<<
+
+ between or among the Issuer and any of its Subsidiaries;
+(f) the issuance of Capital Stock by a Subsidiary to the Issuer or to another Subsidiary of the Issuer;
+(g) any disposition of Capital Stock of a Subsidiary pursuant to an agreement or
+
+<<<
+
+ other obligation with or to a person (other than the Issuer or its Subsidiary) from whom such Subsidiary was acquired or from whom such Subsidiary acquired its business and assets (having been newly formed in connection with such acquisition
+
+<<<
+
+), made as part of such acquisition and in each case comprising all or a portion of the consideration in respect of such sale or acquisition;
+(h) the sale, lease or other transfer of products, services, accounts receivable, inventory or other
+
+<<<
+
+ assets in the ordinary course of business and any sale or other disposition of damaged, surplus, worn-out or obsolete assets;
+(i) any other disposal of assets comprising in aggregate percentage value 10 per cent. or less of Total Assets, provided
+
+<<<
+
+ that at the time of such disposal, and pro forma for such disposal, the Issuer would have been able to incur $1.00 of additional Financial Indebtedness (or its equivalent in any other currency or currencies) pursuant to paragraph (a) of Condition
+
+<<<
+
+ 11.3;
+(j) disposals of assets, rights or revenue not constituting part of the Permitted Business and other disposals of non-core assets acquired in connection with any acquisition permitted under these Terms and Conditions;
+(k) licenses and
+
+<<<
+
+ sublicenses of the Issuer or any of its Subsidiaries in the ordinary course of business;
+(l) any surrender or waiver of contract rights or settlement, release, recovery on or surrender of contract, tort or other claims in the ordinary course
+
+<<<
+
+ of business; 2
+
+(m) the disposition of receivables in connection with the compromise, settlement or collection thereof in the ordinary course of business or in bankruptcy or similar proceedings;
+(n) the granting of Liens not prohibited by
+
+<<<
+
+ Condition 11.4 hereof;
+(o) a transfer or disposition of assets that is governed by the provisions of these Terms and Conditions described under Condition 11.6 hereof;
+(p) the sale or other disposition of cash or Cash Equivalents; and
+(q) the
+
+<<<
+
+ foreclosure, condemnation or any similar action with respect to any property or other assets.
+"Business Day" means a day in Luxembourg or Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (midsommarafton), Christmas
+
+<<<
+
+ Eve (julafton) and New Year's Eve (nyårsafton) and any other day on which banking institutions are closed in Luxembourg or Sweden shall for the purpose of this definition be deemed to be public holidays.
+"Business Day Convention" means the
+
+<<<
+
+ first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
+"Capital Lease Obligation" means the obligation to pay rent or other
+
+<<<
+
+ payment amounts under a lease of real or personal property of a person which is required to be classified and accounted for as a capital lease on the face of a statement of financial position of such person in accordance with IFRS. The stated
+
+<<<
+
+ maturity of such obligation shall be the date of the last payment of rent or any other amount due under such lease prior to the first date upon which such lease may be terminated by the lessee without payment of a penalty. The principal amount
+
+<<<
+
+ of Financial Indebtedness represented by such obligation shall be the capitalised amount thereof that would appear on the face of a statement of financial position of such person in accordance with IFRS.
+"Capital Stock" of any person means
+
+<<<
+
+ any and all shares, interests, participation or other equivalents (however designated) of corporate stock or other equity participation, including partnership interests, whether general or limited, of such person.
+"Cash Equivalents" means,
+
+<<<
+
+ with respect to any person:
+(a) (i) direct obligations of, or obligations guaranteed by, the United States of America for the payment of which obligations or guarantee the full faith and credit of the United States of America is pledged and
+
+<<<
+
+ which have a remaining weighted average life to maturity of not more than one year from the date of Investment therein and (ii) any direct obligations of, or obligations guaranteed by, a member of the European Union for the payment of which
+
+<<<
+
+ the full faith and credit of such member of the European Union is pledged and which have a remaining weighted average life to maturity of not more than one year from the date of Investment therein;
+(b) deposit accounts (excluding current and
+
+<<<
+
+ demand deposit accounts), certificates of deposit and Eurodollar time deposits and money market deposits, bankers' acceptances and overnight bank deposits, in each case issued by or with (i) a bank or trust company which is organised under
+
+<<<
+
+ the laws of the United States of 3
+
+America, any state thereof, Switzerland, Canada, Australia or any member state of the European Union, and which bank or trust company has capital, surplus and undivided profits aggregating in excess of US
+
+<<<
+
+$ 100,000,000 (or its equivalent in any other currency or currencies) and has outstanding debt which is rated "A -" (or such similar equivalent rating) or higher by at least one nationally recognised statistical rating organization (as defined
+
+<<<
+
+ in Rule 436 under the United States Securities Act of 1933, as amended from time to time), or (ii) any money market fund sponsored by a U.S. registered broker dealer or mutual fund distributor;
+(c) repurchase obligations with a term of not
+
+<<<
+
+ more than seven days for underlying securities of the types described in paragraphs (a) and (b) entered into with any financial institution meeting the qualifications specified in paragraph (b)(ii) above;
+(d) commercial paper having one of
+
+<<<
+
+ the two highest ratings obtainable from Fitch Ratings Ltd or Moody's Investor Services Limited and in each case maturing within 365 days after the date of acquisition;
+(e) money market funds mutual funds at least 95 per cent. of the assets
+
+<<<
+
+ of which constitute Cash Equivalents of the types described in paragraphs (a) through (d) of this definition; and
+(f) with respect to any person organised under the laws of, or having its principal business operations in, a jurisdiction outside
+
+<<<
+
+ the United States or the European Union, those investments that are of the same type as investments in paragraphs (a), (c) and (d) of this definition except that the obligor thereon is organised under the laws of the country (or any political
+
+<<<
+
+ subdivision thereof) in which such person is organised or conducting business.
+"Change of Control" means:
+(a) any person or group of persons acting in concert (other than Investment AB Kinnevik or its related parties) gaining direct or indirect
+
+<<<
+
+ control of the Issuer;
+(b) the direct or indirect sale, leasing, transfer, conveyance or other disposition (other than by way of a merger) of all or substantially all of the properties or assets of the Group Companies, whether in a single transaction
+
+<<<
+
+ or a series of related transactions; or
+(c) the adoption of a plan relating to the liquidation, winding-up or dissolution of the Issuer.
+For the purposes of this definition:
+(i) "acting in concert" means, a group of persons who, pursuant to
+
+<<<
+
+ an agreement or understanding (whether formal or informal), actively co-operate, through the acquisition directly or indirectly of shares in the Issuer by any of them, either directly or indirectly, to obtain or consolidate control of the Issuer
+
+<<<
+
+;
+(ii) "control" of the Issuer means the power (whether by way of ownership of shares, proxy, contract, agency or otherwise) to cast, or control the casting of, more than fifty (50) per cent. of the maximum number of votes that might be cast
+
+<<<
+
+ at a general meeting of the Issuer;
+4
+
+(iii) "merger" means an amalgamation, merger, consolidation of the Issuer with another person or the direct or indirect conveyance, transfer, sale, leasing or otherwise disposal by the Issuer of all or
+
+<<<
+
+ substantially all of its assets to any other person in either case other than pursuant to an amalgamation, merger, consolidation, corporate reconstruction, or reorganisation involving the Issuer where the entity formed by or surviving such
+
+<<<
+
+ amalgamation, merger, consolidation, corporate reconstruction, or reorganisation is the Issuer; and
+(iv) "related parties" means: (A) any controlling stockholder, partner or member of Investment AB Kinnevik, (B) any Subsidiary of Investment
+
+<<<
+
+ AB Kinnevik and any trust, corporation, partnership or other entity in respect of which Investment AB Kinnevik and/or the persons described in (A) and (B) above are the beneficiaries, stockholders, partners, owners or persons beneficially owning
+
+<<<
+
+ a majority or a controlling interest.
+"Change of Control Triggering Event" means the occurrence of a Change of Control and a Rating Decline.
+"Consolidated EBITDA" means, for any period, operating profit, as such amount is determined in the
+
+<<<
+
+ Issuer's consolidated income statement in accordance with IFRS, plus the sum of the following amounts, in each case, without double counting. Losses shall be added (as a positive number) and gains shall be deducted, in each case, to the extent
+
+<<<
+
+ such amounts were included in calculating operating profit:
+(a) depreciation and amortization expenses, as indicated in the Issuer's consolidated statement of cash flows;
+(b) the net loss or gain on the disposal and impairment of assets, as
+
+<<<
+
+ indicated in the Issuer's consolidated statement of cash flows;
+(c) share-based compensation expenses, as indicated in the Issuer's consolidated statement of cash flows;
+(d) at the Issuer's option, other non-cash charges reducing operating
+
+<<<
+
+ profit (provided that if any such non-cash charge represents an accrual of or reserve for potential cash charges in any future period, the cash payment in respect thereof in such future period shall reduce operating profit to such extent, and
+
+<<<
+
+ excluding amortization of a prepaid cash item that was paid in a prior period) less other non cash items of income increasing operating income (excluding any such non-cash item of income to the extent it represents (x) a receipt of cash payments
+
+<<<
+
+ in any future period, (y) the reversal of an accrual or reserve for a potential cash item that reduced operating income in any prior period and (z) any non-cash gains with respect to cash actually received in a prior period so long as such
+
+<<<
+
+ cash did not increase operating income in such prior period);
+(e) any material extraordinary, one-off, non-recurring, exceptional or unusual gain, loss, expense or charge, including any charges or reserves in respect of any restructuring, redundancy
+
+<<<
+
+, relocation, refinancing, integration or severance or other post-employment arrangements, signing, retention or completion bonuses, transaction costs, acquisition costs, disposition costs, business optimization, information technology implementation
+
+<<<
+
+ or development costs, costs related to governmental investigations and curtailments or modifications to pension or
+5
+
+postretirement benefits schemes, litigation or any asset impairment charges or the financial impacts of natural disasters
+
+<<<
+
+ (including fire, flood and storm and related events);
+(f) at the Issuer's option, the effects of adjustments in its consolidated financial statements pursuant to IFRS (including inventory, property, equipment, software, goodwill, intangible
+
+<<<
+
+ assets, in process research and development, deferred revenue and debt line items) attributable to the application of recapitalization accounting or acquisition accounting, as the case may be, in relation to any consummated acquisition or joint
+
+<<<
+
+ venture investment or the amortization or write-off or writedown of amounts thereof, net of taxes;
+(g) any reasonable expenses, charges or other costs related to any sale of Capital Stock (other than Redeemable Stock) of the Issuer or a Holding
+
+<<<
+
+ Company of the Issuer, Investment, acquisition, disposition, recapitalization or the incurrence of any Financial Indebtedness, in each case, as determined in good faith by a responsible financial or accounting officer of the Issuer;
+(h) any
+
+<<<
+
+ gains or losses on associates;
+(i) any unrealised gains or losses due to changes in the fair value of equity Investments;
+(j) any unrealised gains or losses due to changes in the fair value of Permitted Interest Rate, Currency or Commodity
+
+<<<
+
+ Price Agreements;
+(k) any unrealised gains or losses due to changes in the carrying value of put options in respect of Capital Stock of, or voting rights with respect to, any Subsidiary, joint venture or associate;
+(l) any unrealised gains
+
+<<<
+
+&&& or losses due to changes in the carrying value of call options in respect of Capital Stock of, or voting rights with respect to, any Subsidiary, joint venture or associate;
+(m) any net foreign exchange gains or losses;
+(n) at the Issuer's option
+
+<<<
+
+, any adjustments to reduce the impact of the cumulative effect of a change in accounting principles and changes as a result of the adoption or modification of accounting policies;
+(o) accruals and reserves that are established or adjusted within
+
+<<<
+
+ twelve months after the closing date of any acquisition that are so required to be established or adjusted as a result of such acquisition in accordance with IFRS;
+(p) any expenses, charges or losses to the extent covered by insurance or indemnity
+
+<<<
+
+ and actually reimbursed, or, so long as the Issuer or a Subsidiary has made a determination that there exists reasonable evidence that such amount will be reimbursed by the insurer or indemnifying party and only to the extent that such amount
+
+<<<
+
+ is in fact reimbursed within 365 days of the date of the insurable or indemnifiable event (net of any amount so added back in any prior period to the extent not so reimbursed within the applicable 365-day period);
+6
+
+(q) the amount of proceeds
+
+<<<
+
+ received from business interruption insurance and reimbursements of any expenses and charges that are covered by indemnification or other reimbursement provisions in connection with any acquisition, Investment or any sale, conveyance, transfer
+
+<<<
+
+ or other disposition of assets; and
+(r) any net gain (or loss) realised upon any sale/leaseback transaction that is not sold or otherwise disposed of in the ordinary course of business, determined in good faith by a responsible financial or
+
+<<<
+
+ accounting officer of the Issuer.
+For the purposes of calculating Consolidated EBITDA for any period, as of such date of determination:
+(i) if, since the beginning of such period the Issuer or any Subsidiary has made any Asset Disposition or
+
+<<<
+
+ disposed of any company, any business, or any group of assets constituting an operating unit of a business (any such disposition, a "Sale"), including any Sale occurring in connection with a transaction causing a calculation to be made hereunder
+
+<<<
+
+, then Consolidated EBITDA for such period will be reduced by an amount equal to the Consolidated EBITDA (if positive) attributable to the assets which are the subject of such Sale for such period or increased by an amount equal to the Consolidated
+
+<<<
+
+ EBITDA (if negative) attributable thereto for such period;
+(ii) if, since the beginning of such period the Issuer or any Subsidiary (by merger or otherwise) will have made an Investment in any person that thereby becomes a Subsidiary, or otherwise
+
+<<<
+
+ acquires any company, any business, or any group of assets constituting an operating unit of a business (any such Investment or acquisition, a "Purchase"), including any such Purchase occurring in connection with a transaction causing a calculation
+
+<<<
+
+ to be made hereunder, then Consolidated EBITDA for such period will be calculated after giving pro forma effect thereto as if such Purchase occurred on the first day of such period;
+(iii) if, since the beginning of such period any person (that
+
+<<<
+
+ became a Subsidiary or was merged with or into the Issuer or any Subsidiary since the beginning of such period) will have made any Sale or any Purchase that would have required an adjustment pursuant to paragraphs (i) or (ii) above if made
+
+<<<
+
+ by the Issuer or a Subsidiary since the beginning of such period, Consolidated EBITDA for such period will be calculated after giving pro forma effect thereto as if such Sale or Purchase occurred on the first day of such period, including anticipated
+
+<<<
+
+ synergies and cost savings as if such Sale or Purchase occurred on the first day of such period;
+(iv) whenever pro forma effect is applied, the pro forma calculations will be as determined in good faith by a responsible financial or accounting
+
+<<<
+
+ officer of the Issuer (including in respect of anticipated synergies and cost savings) as though the full effect of such synergies and cost savings were realised on the first day of the relevant period and shall also include the reasonably
+
+<<<
+
+ anticipated full run rate cost savings effect (as calculated in good faith by a responsible financial or chief accounting officer of the Issuer) of cost savings programs that have been initiated by the Issuer or its Subsidiaries as though such
+
+<<<
+
+ cost savings programs had been fully implemented on the first day of the relevant period.
+7
+
+For the purpose of calculating the Consolidated EBITDA of the Issuer, any Joint Venture Consolidated EBITDA shall be added to the amount determined
+
+<<<
+
+ in accordance with the foregoing.
+"Consolidated Net Debt" means, with respect to the Issuer as of any date of determination, the sum without duplication of:
+(a) the total amount of Financial Indebtedness of the Issuer and its Subsidiaries on
+
+<<<
+
+ a consolidated basis that would be stated on the statement of financial position of the Issuer as of such date in accordance with IFRS, minus
+(b) the sum without duplication of (i) all Financial Indebtedness outstanding under Minority Shareholder
+
+<<<
+
+ Loans, (ii) any Financial Indebtedness which is a contingent obligation of the Issuer or its Subsidiaries on such date, (iii) all Financial Indebtedness permitted by paragraph (c) of the definition of Permitted Financial Indebtedness and (iv
+
+<<<
+
+) all Financial Indebtedness permitted by paragraph (m) of the definition of Permitted Financial Indebtedness, minus
+(c) the amount of cash and Cash Equivalents (other than cash or Cash Equivalents received from the incurrence of Financial Indebtedness
+
+<<<
+
+ by the Issuer or any of its Subsidiaries to the extent such cash or Cash Equivalents has not been subsequently applied or used for any purpose not prohibited by these Terms and Conditions) of the Issuer and its Subsidiaries on a consolidated
+
+<<<
+
+ basis that would be stated on the statement of financial position of the Issuer as of such date in accordance with IFRS, excluding, for the avoidance of doubt, Restricted Cash:
+"Credit Facility" means, a debt facility, arrangement, instrument
+
+<<<
+
+, trust deed, note purchase agreement, indenture, purchase money financing, commercial paper facility or overdraft facility with banks or other institutions or investors providing for revolving credit loans, term loans, receivables financing
+
+<<<
+
+ (including through the sale of receivables to such institutions or to special purpose entities formed to borrow from such institutions against such receivables), letters of credit or other Financial Indebtedness, in each case, as amended, restated
+
+<<<
+
+, modified, renewed, refunded, replaced, restructured, refinanced, repaid, increased or extended, in whole or in part from time to time, and in each case, including all agreements, instruments and documents executed and delivered pursuant to
+
+<<<
+
+ or in connection with the foregoing (including, but not limited to, any notes and letters of credit issued pursuant thereto and any guarantee and collateral agreement, patent and trademark security agreement, mortgages or letter of credit applications
+
+<<<
+
+ and other guarantees, pledges, agreements, security agreements and collateral documents). Without limiting the generality of the foregoing, the term "Credit Facility" shall include any agreement or instrument (i) changing the maturity of any
+
+<<<
+
+ Financial Indebtedness incurred thereunder or contemplated thereby, (ii) adding Subsidiaries of the Issuer as additional borrowers or guarantors thereunder, (iii) increasing the amount of Financial Indebtedness incurred thereunder or available
+
+<<<
+
+ to be borrowed thereunder or (iv) otherwise altering the terms and conditions thereof.
+"Cross Acceleration" means any Financial Indebtedness of the Issuer or any of its Subsidiaries is cancelled, or declared to be or otherwise becomes due and
+
+<<<
+
+ payable prior to its specified maturity as a result of an event of default (however described).
+8
+
+"Cross Payment Default" means any event of default (howsoever described) arising from a failure by the Issuer or any of its Subsidiaries to
+
+<<<
+
+ pay any Financial Indebtedness when due or within any originally applicable grace period.
+"CSD" means the Issuer's central securities depository and registrar in respect of the Notes, Euroclear Sweden AB, Swedish Reg. No. 556112-8074, P.O.
+
+<<<
+
+ Box 191, 101 23 Stockholm, Sweden, or another party replacing it, as CSD, in accordance with these Terms and Conditions.
+"CSD Regulations" means the CSD's rules and regulations applicable to the Issuer, the Trustee and the Notes from time to
+
+<<<
+
+ time.
+"Default" means an Event of Default or any event or circumstance specified in Condition 12.1 which would (with the expiry of a grace period, the giving of notice, the making of any determination under the Finance Documents or any combination
+
+<<<
+
+ of any of the foregoing) be an Event of Default.
+"Event of Default" means an event or circumstance specified in Condition 12.1.
+"Excess Proceeds" has the meaning set forth in Condition 11.5.3.
+"Excess Proceeds Offer" has the meaning set forth
+
+<<<
+
+ in Condition 9.5.1.
+"Fair M arket Value" means, with respect to any asset or property, the sale value that would be obtained in an arm's length free market transaction between an informed and willing seller under no compulsion to sell and an
+
+<<<
+
+ informed and willing buyer under no compulsion to buy, as determined in good faith by the Issuer's Chief Executive Officer, Chief Financial Officer or responsible accounting or financial officer.
+"Final Maturity Date" means 17 April 2019.
+
+
+<<<
+
+"Finance Documents" means the Trust Deed (including these Terms and Conditions) and any other document designated by the Issuer and the Trustee (on behalf of the Noteholders) as a Finance Document.
+"Financial Indebtedness" means (without duplication
+
+<<<
+
+), with respect to any person, whether recourse is to all or a portion of the assets of such person and whether or not contingent:
+(a) the principal of and premium, if any, in respect of every obligation of such person for money borrowed;
+(b
+
+<<<
+
+) the principal of and premium, if any, in respect of every obligation of such person evidenced by bonds, debentures, notes or other similar instruments, including obligations incurred in connection with the acquisition of property, assets or
+
+<<<
+
+ businesses;
+(c) every reimbursement obligation of such person with respect to letters of credit, bankers' acceptances or similar facilities issued for the account of such person (but only to the extent such obligations are not reimbursed within
+
+<<<
+
+ 30 days following receipt by such person of a demand for reimbursement);
+9
+
+(d) every obligation of such person issued or assumed as the deferred purchase price of property or services (including securities repurchase agreements but excluding
+
+<<<
+
+ trade accounts payable or accrued liabilities arising in the ordinary course of business and excluding purchase price holdbacks in respect of a portion of the purchase price of an asset to satisfy warranty or other unperformed obligations of
+
+<<<
+
+ the applicable seller or, in connection with the purchase by any Group Company of any business, any post-closing payment adjustments to which the seller may become entitled to the extent such payment is determined by a final closing statement
+
+<<<
+
+ of financial position or such payment depends on the performance of such business after the closing);
+(e) every Capital Lease Obligation of such person;
+(f) all Redeemable Stock issued by such person;
+(g) the net obligation of such person under
+
+<<<
+
+ Interest Rate, Currency or Commodity Price Agreements of such person; and
+(h) every obligation of the type referred to in paragraphs (a) through (g) of another person and all dividends of another person the payment of which, in either case
+
+<<<
+
+, such person has guaranteed or is responsible or liable for, directly or indirectly, as obligor, guarantor or otherwise.
+The "amount" or "principal amount" of Financial Indebtedness at any time of determination as used herein represented by
+
+<<<
+
+ (A) any Financial Indebtedness issued at a price that is less than the principal amount at maturity thereof, shall be the amount of the liability in respect thereof determined in accordance with IFRS, and (B) any Redeemable Stock, shall be
+
+<<<
+
+ the maximum fixed redemption or repurchase price in respect thereof. Notwithstanding anything else to the contrary, for all purposes under these Terms and Conditions, the amount of Financial Indebtedness incurred, repaid, redeemed, repurchased
+
+<<<
+
+ or otherwise acquired by a Group Company shall equal the liability in respect thereof determined in accordance with IFRS and reflected on the Issuer's consolidated statement of financial position.
+The term "Financial Indebtedness" shall not
+
+<<<
+
+ include:
+(i) obligations described in paragraphs (a), (b) or (h) of the first paragraph of this definition of Financial Indebtedness that are incurred by a Group Company (the "Proceeds Recipient") and owed to a bank or other lending institution
+
+<<<
+
+ (the "OnLend Bank") to facilitate the substantially concurrent on-lending of proceeds (the "Proceeds On-Loan") from Financial Indebtedness incurred by the Issuer or any Group Company (other than the Proceeds Recipient) as permitted by Condition
+
+<<<
+
+ 11.3 to the extent (A) the principal obligations in respect of the Proceeds On-Loan are secured by security over cash granted in favour of the On-Lend Bank or any of its affiliates in an amount not less than the principal amount of the Proceeds
+
+<<<
+
+ OnLoan, (B) the Proceeds On-Loan is put in place substantially concurrently with a loan by any Group Company (other than the Proceeds Recipient) to the On-Lend Bank (the "On-Lend Bank Borrowing") pursuant to which the Proceeds Recipient is
+
+<<<
+
+ entitled to reduce the principal amount of the Proceeds On-Loan by an amount equal to the principal amount of the On-Lend Bank Borrowing if a default or acceleration occurs with respect to such On-Lend Bank Borrowing, or (C) the substantial
+
+<<<
+
+ risks and rewards of the Proceeds On-Loan are transferred, using a
+10
+
+synthetic instrument or any other arrangement or agreement, from the On-Lend Bank to any Group Company (other than the Proceeds Recipient) in exchange for an amount not
+
+<<<
+
+ less than (x) the amount of cash granted in favour of the On-Lend Bank or any of its affiliates, or (y) the outstanding amount of the On-Lend Bank Borrowing, as applicable, in each case as at the effective date of such transfer;
+(ii) any liability
+
+<<<
+
+ of the Issuer or any other Group Company (other than the Proceeds Recipient) attributable to a synthetic instrument or any other arrangement or agreement described in paragraph (i)(C) above to the extent such obligation under the relevant instrument
+
+<<<
+
+, arrangement or agreement has not come due but is classified as a financial liability in accordance with IFRS and recorded as a current liability on the Issuer's consolidated statement of financial position;
+(iii) any liability of the Issuer
+
+<<<
+
+ or any Group Company to another Group Company;
+(iv) any Restricted MFS Cash;
+(v) any liability of the Issuer attributable to the put options granted by the Issuer in respect of the put option holders' interests in Telefonica Celular S.A. de
+
+<<<
+
+ C.V. and Comunicaciones Celulares, S.A. and any liability of the Issuer attributable to a put option or similar instrument, arrangement or agreement entered into after the First Issue Date granted by the Issuer relating to an interest in any
+
+<<<
+
+ other entity, in each case to the extent such option has not been exercised or such obligation under the relevant instrument, arrangement or agreement has not come due but is classified as a financial liability in accordance with IFRS, and
+
+<<<
+
+ recorded as a current liability on the Issuer's consolidated statement of financial position; and
+(vi) any standby letter of credit, performance bond or surety bond provided by a Group Company that is customary in the Permitted Business to
+
+<<<
+
+ the extent such letters of credit or bonds are not drawn upon or, if and to the extent drawn upon, are honoured in accordance with their terms.
+"Financial Instruments Accounts Act" means the Swedish Financial Instruments Accounts Act (lag 
+
+<<<
+
+(1998:1479) om kontoforing avfinansiella instrument).
+"Financial Quarter" means the period commencing on the day after one Quarter Date and ending on the next Quarter Date.
+"Financial Year" means the annual accounting period of the Issuer ending
+
+<<<
+
+&&& on or about 31 December in each year.
+"First Call Date" means 17 April 2018.
+"First Issue Date" means 21 April 2016.
+"Fitch" has the meaning set forth in the definition "Rating Agency".
+"Force Majeure Event" has the meaning set forth in Condition
+
+<<<
+
+ 24.1.
+"Gradation" means a gradation within a Rating Category or a change to another Rating Category, which shall include: (i) "+" and "-" in the case of Fitch's current Rating Categories (e.g., a decline from BB+ to BB would constitute a decrease
+
+<<<
+
+ of one gradation), (ii) 1, 2 and 3 in the case of Moody's current Rating Categories (e.g., a decline from Ba1 to
+11
+
+Ba2 would constitute a decrease of one gradation), or (iii) the equivalent in respect of successor Rating Categories of Fitch
+
+<<<
+
+ or Moody's or Rating Categories used by Rating Agencies other than Fitch and Moody's.
+"Group" means the Issuer and its Subsidiaries from time to time (each a "Group Company").
+"Holding Company" means, in relation to a person, any other person
+
+<<<
+
+ in respect of which it is a Subsidiary.
+"IFRS" means international accounting standards within the meaning of the IAS Regulation 1606/2002 to the extent applicable to the relevant financial statements, as in effect on the First Issue Date.
+
+<<<
+
+
+"Initial Notes" means the Notes issued on the First Issue Date.
+"Insolvent" means, in respect of a relevant person, that it is deemed to be insolvent, or admits inability to pay its debts as they fall due, in each case within the meaning of
+
+<<<
+
+ Chapter 2, Sections 7-9 of the Swedish Bankruptcy Act (konkurslagen (1987:672)) (or its equivalent in any other jurisdiction), suspends making payments on any of its debts or by reason of actual financial difficulties commences negotiations
+
+<<<
+
+ with all or substantially all of its creditors (other than the Noteholders and creditors of secured debt) with a view to rescheduling any of its indebtedness (including company reorganisation under the Swedish Company Reorganisation Act (lag
+
+<<<
+
+ (1996:764) omforetagsrekonstruktion) (or its equivalent in any other jurisdiction)) or is subject to involuntary winding-up, dissolution or liquidation.
+"Interest" means the interest on the Notes calculated in accordance with Conditions 8.
+
+<<<
+
+1 to 8.3.
+"Interest Payment Date" means 17 January, 17 April, 17 July and 17 October of each year or, to the extent any such day is not a Business Day, the Business Day following from an application of the Business Day Convention. The first
+
+<<<
+
+ Interest Payment Date for the Initial Notes shall be 17 July 2016 and the last Interest Payment Date shall be the Final Maturity Date or any relevant Redemption Date prior thereto.
+"Interest Period" means (i) in respect of the first Interest
+
+<<<
+
+ Period, the period from (but excluding) the First Issue Date to (and including) the first Interest Payment Date, and (ii) in respect of subsequent Interest Periods, the period from (but excluding) an Interest Payment Date to (and including
+
+<<<
+
+) the next succeeding Interest Payment Date (or a shorter period if relevant).
+"Interest Rate" means STIBOR plus 3.30 per cent. per annum.
+"Interest Rate, Currency or Commodity Price Agreement" of any person means any forward contract, futures
+
+<<<
+
+ contract, swap, option or other financial agreement or arrangement (including, without limitation, caps, floors, collars and similar agreements) relating to, or the value of which is dependent upon, interest rates, currency exchange rates or
+
+<<<
+
+ commodity prices or indices (excluding contracts for the purchase or sale of goods in the ordinary course of business).
+"Investment" by any person means any direct or indirect loan, advance or other extension of credit or capital contribution
+
+<<<
+
+ (by means of transfers of cash or other property to others or
+12
+
+payments for property or services for the account or use of others, or otherwise) to, or purchase or acquisition of Capital Stock, bonds, notes, debentures or other securities
+
+<<<
+
+ or evidence of Financial Indebtedness issued by, any other person, including any payment on a guarantee of any obligation of such other person, together with all items that are or would be classified as Investments on a statement of financial
+
+<<<
+
+ position (excluding the footnotes thereto) prepared in accordance with IFRS, but shall not include:
+(a) trade accounts receivable in the ordinary course of business on credit terms made generally available to the customers of such person; or
+
+<<<
+
+
+(b) commission, travel, payroll, entertainment, relocation and similar advances to officers and employees and profit sharing and other employee benefit plan contributions made in the ordinary course of business.
+Except as otherwise provided
+
+<<<
+
+ in these Terms and Conditions, the amount of an Investment will be determined at the time the Investment is made and without giving effect to a subsequent change in value and, to the extent applicable, shall be determined based on the equity
+
+<<<
+
+ value of such Investment.
+"Investment Grade" means (i) BBB- or above in the case of Fitch (or its equivalent under any successor Rating Categories of Fitch), (ii) Baa3 or above, in the case of Moody's (or its equivalent under any successor
+
+<<<
+
+ Rating Categories of Moody's), and (iii) the equivalent in respect of the Rating Categories of any Rating Agencies.
+"Issuer" means Millicom International Cellular, S.A., a public limited liability company (societe anonyme) incorporated under
+
+<<<
+
+ the laws of Luxembourg with Reg. No. RCS B 40630.
+"Issuing Agent" means Nordea Bank AB (Publ), or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions and the CSD Regulations.
+"Joint Venture Consolidated
+
+<<<
+
+ EBITDA" means an amount equal to the product of (i) the Consolidated EBITDA of any joint venture (determined in good faith by a responsible financial or accounting officer of the Issuer on the same basis as provided for in the definition of
+
+<<<
+
+ "Consolidated EBITDA" (with the exception of clause (i) and the last sentence thereof) as if each reference to the "Issuer" in such definition was to such joint venture) whose financial results are not consolidated with those of the Issuer
+
+<<<
+
+ in accordance with IFRS and (ii) a percentage equal to the direct equity ownership percentage of the Issuer and/or its Subsidiaries in the Capital Stock of such joint venture and its Subsidiaries.
+"Lien" means, with respect to any property
+
+<<<
+
+ or assets, any mortgage, pledge, security interest, lien, charge, encumbrance, priority or other security agreement or preferential arrangement of any kind or nature whatsoever on or with respect to such property or assets (including, without
+
+<<<
+
+ limitation, any conditional sale or other title retention agreement having substantially the same economic effect as any of the foregoing).
+"Listing Failure Event" means (i) that the Note Loan is not admitted to trading on a Regulated Market
+
+<<<
+
+ within sixty (60) days following the First Issuing Date, or (ii) in the case of a successful admission, that a period of sixty (60) days has elapsed since the Note Loan ceased to be listed on a Regulated Market.
+"Material Company" means:
+1
+
+<<<
+
+3
+
+(a) the Issuer;
+(b) a Significant Subsidiary; or
+(c) any other Subsidiaries which are not Significant Subsidiaries but where taken together, account for more than 10 per cent. of the Consolidated EBITDA of the Group or consolidated revenues
+
+<<<
+
+ of the Group, or whose assets, taken together, represent more than 10 per cent. of the assets of the Group.
+"Minority Shareholder Loan" means Financial Indebtedness of a Subsidiary of the Issuer that is issued to and held by an equity owner
+
+<<<
+
+ of such Subsidiary, other than the Issuer or a subsidiary of the Issuer.
+"Moody's" has the meaning set forth in the definition "Rating Agency".
+"Net Available Proceeds" from any Asset Disposition means cash or readily marketable cash equivalents
+
+<<<
+
+ received (including by way of sale or discounting of a note, installment receivable or other receivable, but excluding any assets described in clauses (iv) and (v) of Condition 11.5.1(c) and other consideration received in the form of assumption
+
+<<<
+
+ by the acquiror of Financial Indebtedness or other obligations relating to such properties or assets) therefrom by the Issuer or any of its Subsidiaries, net of:
+(a) all legal, title and recording tax expenses, commissions and other fees and
+
+<<<
+
+ expenses incurred, including, without limitation, legal, consultant, accounting and investment banking fees, sales commissions, discounts and brokerage costs, and all federal, state, provincial, foreign and local taxes required to be accrued
+
+<<<
+
+ as a liability as a consequence of such Asset Disposition;
+(b) all payments made by the Issuer or any of its Subsidiaries, on any Financial Indebtedness which is secured by such assets in accordance with the terms of any Lien upon or with respect
+
+<<<
+
+ to such assets or which must by the terms of such Financial Indebtedness or Lien, or in order to obtain a necessary consent to such Asset Disposition or by applicable law, be repaid out of the proceeds from such Asset Disposition;
+(c) all distributions
+
+<<<
+
+ and other payments made to other equity holders in the Issuer's Subsidiaries or joint ventures as a result of such Asset Disposition; and
+(d) appropriate amounts to be provided by the Issuer or any of its Subsidiaries, as the case may be, as
+
+<<<
+
+ a reserve in accordance with IFRS, against any liabilities associated with such assets and retained by the Issuer or any of its Subsidiaries, as the case may be, after such Asset Disposition, including, without limitation, liabilities under
+
+<<<
+
+ any indemnification obligations, relocation costs and severance and other employee termination costs associated with such Asset Disposition, in each case as determined by the Issuer's board of directors, in its reasonable good faith judgment
+
+<<<
+
+.
+"Net Leverage Ratio" means, with respect to the Issuer, the ratio of (a) the Consolidated Net Debt (excluding Financial Indebtedness consisting of Permitted Interest Rate, Currency or Commodity Price Agreements) to (b) the Consolidated EBITDA
+
+<<<
+
+ of the Issuer for the four most recent Financial Quarters ending immediately prior to such date for which consolidated financial statements are available, determined on a pro forma basis as
+14
+
+if any such Financial Indebtedness had been incurred
+
+<<<
+
+, or such other Financial Indebtedness had been repaid, redeemed or repurchased, as applicable, at the beginning of such four Financial Quarter period. For the avoidance of doubt, in determining Net Leverage Ratio, no cash or Cash Equivalents
+
+<<<
+
+ shall be included that are the proceeds of Financial Indebtedness in respect of which the pro forma calculation is to be made.
+"Net Proceeds" means the gross proceeds from the offering of the relevant Notes, minus (i) in respect of the Initial
+
+<<<
+
+ Notes, the costs incurred by the Issuer in conjunction with the issuance and listing on NASDAQ Stockholm (or any other Regulated Market, as applicable) thereof, and (ii) in respect of any Additional Notes, the costs incurred by the Issuer in
+
+<<<
+
+ conjunction with the issuance and listing on NASDAQ Stockholm (or any other Regulated Market, as applicable) thereof.
+"Nominal Amount" has the meaning set forth in Condition 2.3.
+"Noteholder" means a person who is registered on a Securities
+
+<<<
+
+ Account as direct registered owner (ägare) or nominee (förvaltare) with respect to a Note.
+"Noteholders' Meeting" means a meeting among the Noteholders held in accordance with Condition 15 (Noteholders'Meeting).
+"Note Loan" means the loan constituted
+
+<<<
+
+ by these Terms and Conditions and evidenced by the Notes.
+"Notes" means the SEK Senior Unsecured Floating Rate Notes due 2019, ISIN: SE0008242986 (including the Initial Notes and any Additional Notes), being debt instruments (skuldförbindelser
+
+<<<
+
+) for the Nominal Amount and of the type set forth in Chapter 1 Section 3 of the Financial Instruments Accounts Act and which are issued on the terms set out in these Terms and Conditions and constituted by, are subject to and have the benefit
+
+<<<
+
+ of, the Trust Deed,.
+"Offer Amount" has the meaning set forth in Condition 9.5.3.
+"Offer Period" has the meaning set forth in Condition 9.5.3.
+"Pari Passu Financial Indebtedness" means any Financial Indebtedness of the Issuer that ranks pari
+
+<<<
+
+ passu in right of payment with the Notes.
+"Permitted Asset Swap" means the concurrent purchase and sale or exchange of related business assets or a combination of related business assets, cash and Cash Equivalents between the Issuer or any
+
+<<<
+
+ of its Subsidiaries and another person.
+"Permitted Business" means:
+(a) any business, services or activities engaged in by the Issuer or any Group Company on the First Issue Date; and
+(b) any business, services and activities that are related
+
+<<<
+
+, complementary, incidental, ancillary or similar to any of the foregoing, or are extensions or developments thereof, including, without limitation, broadband internet, network-related services, cable television, broadcast content, network neutral
+
+<<<
+
+ services, electronic transactional, financial and commercial services related to provision of telephony or internet services. 15
+
+"Permitted Discontinuance of Property Maintenance" means the discontinuance of the operation or maintenance of
+
+<<<
+
+ the properties of any Group Company which is, in the Issuer's judgment, desirable in the conduct of its business or the business of such other Group Company (as applicable), and which will not materially adversely affect the Noteholders.
+"Permitted
+
+<<<
+
+ Financial Indebtedness" means:
+(a) the incurrence by the Issuer of Financial Indebtedness pursuant to the Notes (other than Additional Notes);
+(b) any Financial Indebtedness of the Issuer or any of its Subsidiaries outstanding on the First
+
+<<<
+
+ Issue Date after giving effect to the use of proceeds of the Notes;
+(c) Pari Passu Financial Indebtedness and Financial Indebtedness of its Subsidiaries under Credit Facilities in an aggregate principal amount at any one time outstanding that
+
+<<<
+
+ does not exceed an amount equal to the greater of (x) $500 million (or its equivalent in any other currency or currencies) and (y) 8 per cent. of Total Assets and any Financial Indebtedness incurred in the refinancing of any Financial Indebtedness
+
+<<<
+
+ which on the date it was incurred was permitted to be incurred pursuant to this paragraph (c), plus, (A) any accrual or accretion of interest that increases the principal amount of Financial Indebtedness under Credit Facilities and (B) in the
+
+<<<
+
+ case of any refinancing of Financial Indebtedness permitted under this clause (c) or any portion thereof, the aggregate amount of fees, underwriting discounts, premiums and other costs and expenses incurred in connection with such refinancing
+
+<<<
+
+;
+(d) Financial Indebtedness owed by the Issuer to any of its Subsidiaries or Financial Indebtedness owed by any Subsidiary of the Issuer to the Issuer or any other Subsidiary of the Issuer; provided, however, that (A) if the Issuer is the obligor
+
+<<<
+
+ on such Financial Indebtedness and the payee is not the Issuer, such Financial Indebtedness must be unsecured and expressly subordinated to the prior payment in full in cash of all obligations then due with respect to the Issuer's obligations
+
+<<<
+
+ under the Notes, and (B) either (x) the transfer or other disposition by the Issuer or such Subsidiary of any Financial Indebtedness so permitted to a person (other than to the Issuer or any of its Subsidiaries) or (y) such Subsidiary ceasing
+
+<<<
+
+ to be a Subsidiary of the Issuer, will at the time of such transfer or other disposition, in each case, be deemed to be an incurrence of such Financial Indebtedness not permitted by this paragraph (d);
+(e) the guarantee by the Issuer or any
+
+<<<
+
+ of its Subsidiaries of Financial Indebtedness of any of the Issuer's Subsidiaries to the extent that the guaranteed Financial Indebtedness was permitted to be incurred by another provision of this definition;
+(f) Acquired Debt;
+(g) Minority
+
+<<<
+
+ Shareholder Loans;
+(h) the incurrence by the Issuer or any of its Subsidiaries of Financial Indebtedness in exchange for, or the net proceeds of which are used to refund, replace or refinance, Financial Indebtedness incurred by it pursuant
+
+<<<
+
+ to clause (i) of Condition 11.3 and paragraphs (a), (b), (f) and (h) of this definition, as applicable, provided that:
+16
+
+(i) such Permitted Financial Indebtedness is in an aggregate principal amount (or if incurred with original issue discount
+
+<<<
+
+, an aggregate issue price) not in excess of the sum of: (A) the aggregate principal amount (or if incurred with original issue discount, the aggregate accreted value plus all accrued interest) then outstanding of the Financial Indebtedness
+
+<<<
+
+ being refinanced; and (B) an amount necessary to pay any fees and expenses, including premiums and defeasance costs, related to such refinancing;
+(ii) such Permitted Financial Indebtedness has a final maturity date that is either (A) no earlier
+
+<<<
+
+ than the final maturity date of the Financial Indebtedness being refinanced or (B) after the Final Maturity Date of the Notes; and
+(iii) if the Financial Indebtedness being refinanced is subordinated in right of payment to the Notes, such Permitted
+
+<<<
+
+ Financial Indebtedness is subordinated in right of payment to, the Notes on terms at least as favourable to the Noteholders as those contained in the documentation governing the Financial Indebtedness being refinanced; and
+(iv) if the Issuer
+
+<<<
+
+ was the obligor on the Financial Indebtedness being refinanced, such Permitted Financial Indebtedness is incurred by the Issuer;
+(i) Financial Indebtedness of the Issuer or any of its Subsidiaries represented by letters of credit in order to
+
+<<<
+
+ provide security for workers' compensation claims, health, disability or other employee benefits, payment obligations in connection with self insurance or similar requirements of the Issuer or any of its Subsidiaries in the ordinary course
+
+<<<
+
+ of business;
+(j) customary indemnification, adjustment of purchase price or similar obligations, in each case, incurred in connection with the disposition of any assets of the Issuer or any of its Subsidiaries, and earn-out provisions or contingent
+
+<<<
+
+ payments in respect of purchase price or adjustment of purchase price or similar obligations in acquisition agreements other than guarantees of Financial Indebtedness incurred by any person acquiring all or any portion of such assets for the
+
+<<<
+
+ purpose of financing such acquisition; provided that the maximum aggregate liability in respect of each such incurrence of such Financial Indebtedness will at no time exceed the gross proceeds actually received by the Issuer or any of its Subsidiaries
+
+<<<
+
+ in connection with the related disposition;
+(k) obligations in respect of (i) customs, VAT or other tax guarantees, (ii) bid, performance, completion, guarantee, surety and similar bonds, including guarantees or obligations of the Issuer or
+
+<<<
+
+ any of its Subsidiaries with respect to letters of credit supporting such obligations, and (iii) the financing of insurance premiums, in each case in the ordinary course of business and not related to Financial Indebtedness for borrowed money
+
+<<<
+
+;
+(l) Financial Indebtedness of the Issuer or any of its Subsidiaries arising from the honouring by a bank or other financial institution of a cheque, draft or similar instrument including, but not limited to, electronic transfers, wire transfers
+
+<<<
+
+, netting services and commercial card payments, drawn against insufficient funds;
+17
+
+provided that such Financial Indebtedness is extinguished within 30 days of incurrence; and
+(m) the incurrence by the Issuer or any of its Subsidiaries of
+
+<<<
+
+ Financial Indebtedness not otherwise permitted to be incurred pursuant to paragraphs (a) through (l) above, which, together with any other outstanding Financial Indebtedness incurred pursuant to this paragraph (m), has an aggregate principal
+
+<<<
+
+ amount at any time outstanding not in excess of the greater of $250 million (or its equivalent in any other currency or currencies) and 4 per cent. of Total Assets, and any Financial Indebtedness incurred in the refinancing of any Financial
+
+<<<
+
+ Indebtedness which on the date it was incurred was permitted to be incurred pursuant to this paragraph (m), plus, in the case of any refinancing of Financial Indebtedness permitted under this paragraph (m) or any portion thereof, the aggregate
+
+<<<
+
+ amount of fees, underwriting discounts, premiums and other costs and expenses incurred in connection with such refinancing.
+In the event that an item of Financial Indebtedness meets the criteria of more than one of the types of Permitted Financial
+
+<<<
+
+ Indebtedness or is entitled to be incurred pursuant to paragraph (a) of this definition, the Issuer in its sole discretion may classify and from time to time reclassify such item of Financial Indebtedness or any portion thereof and only be
+
+<<<
+
+ required to include the amount of such Financial Indebtedness as one of such types.
+"Permitted Interest Rate, Currency or Commodity Price Agreement" means any Interest Rate, Currency or Commodity Price Agreement entered into with one or more
+
+<<<
+
+ financial institutions in the ordinary course of business that is designed to protect against fluctuations in interest rates or currency exchange rates and which shall have a notional amount no greater than the payments due with respect to
+
+<<<
+
+ the Financial Indebtedness being hedged thereby, or in the case of currency or commodity protection agreements against currency exchange or commodity price fluctuations in the ordinary course of business relating to the then existing financial
+
+<<<
+
+ obligations and not for purposes of speculation.
+"Permitted Lien" means:
+(a) Liens for taxes, assessments or governmental charges, or levies on the property of any Group Company if the same shall not at the time be delinquent or thereafter
+
+<<<
+
+ can be paid without penalty, or are being contested in good faith and by appropriate proceeds promptly instituted and diligently concluded, provided that any reserve or other appropriate provision that shall be required in conformity with IFRS
+
+<<<
+
+ shall have been made therefor;
+(b) Liens imposed by law, such as statutory Liens of landlords', carriers', materialmen's, repairmen's, construction, warehousemen's and mechanics' Liens and other similar Liens, on the property of any Group Company
+
+<<<
+
+ arising in the ordinary course of trading or Liens arising solely by virtue of any statutory or common law provisions relating to attorneys' liens or bankers' liens, rights of set off or similar rights and remedies as to deposit accounts or
+
+<<<
+
+ other funds maintained with a creditor depositary institution;
+(c) Liens on the property of any Group Company incurred in the ordinary course of business to secure performance of obligations with respect to statutory or regulatory requirements
+
+<<<
+
+, performance bids, trade contracts, letters of credit, performance or return-of-money bonds, surety bonds or other obligations of a like
+18
+
+nature and incurred in a manner consistent with industry practice, in each case which are not incurred
+
+<<<
+
+ in connection with the borrowing of money, the obtaining of advances or credit or the payment of the deferred purchase price of property and which do not in the aggregate impair in any material respect the use of property in the operation of
+
+<<<
+
+ the business of the Group taken as a whole;
+(d) Liens on property at the time a Group Company acquired such property incurred in anticipation of or in connection with the transaction or series of transactions pursuant to which such property
+
+<<<
+
+ was acquired by a Group Company, provided that any such Lien may not extend to any other property of a Group Company;
+(e) Liens on the property of a person at the time such person becomes a Group Company; provided, however, that any such Lien
+
+<<<
+
+ may not extend to any other property of the Issuer or any Subsidiary that is not a direct Subsidiary of such person; provided further, however, that any such Lien was not incurred in anticipation of or in connection with the transaction or
+
+<<<
+
+ series of transactions pursuant to which such person became a Group Company;
+(f) pledges or deposits by any Group Company under workmen's compensation laws, unemployment insurance laws or similar legislation, or good faith deposits in connection
+
+<<<
+
+ with bids, tenders, contracts (other than for the payment of Financial Indebtedness) or leases to which any Group Company is party, or deposits to secure public or statutory obligations of a Group Company or deposits for the payment of rent
+
+<<<
+
+, in each case incurred in the ordinary course of business;
+(g) utility easements, building restrictions and such other encumbrances or charges against real property as are of a nature generally existing with respect to properties of a similar
+
+<<<
+
+ character;
+(h) any provision for the retention of title to any property by the vendor or transferor of such property which property is acquired by a Group Company in a transaction entered into in the ordinary course of business of the relevant
+
+<<<
+
+ Group Company and for which kind of transaction it is customary market practice for such retention of title provision to be included;
+(i) Liens arising by means of any judgment, decree or order of any court, to the extent not otherwise resulting
+
+<<<
+
+ in a Default, so long as any appropriate legal proceedings which may have been duly initiated for the review of such judgment, decree or order have not been fully terminated or the period within which such proceedings may be initiated has not
+
+<<<
+
+ expired and any Liens that are required to protect or enforce rights in any administrative, arbitration or other court proceeding in the ordinary course of business;
+(j) any Lien securing Financial Indebtedness incurred under any Permitted
+
+<<<
+
+ Interest Rate, Currency or Commodity Price Agreement;
+(k) mortgages, liens, security interests, restrictions, encumbrances or any other matters of record that have been placed by any developer, landlord or other third party on property over
+
+<<<
+
+ which a Group Company has easement rights or on any real property leased by any Group Company or similar agreements relating thereto, and any condemnation or eminent domain proceedings or compulsory purchase order affecting real property;
+
+
+<<<
+
+19
+
+(l) Liens existing on the First Issue Date and disclosed in writing to the Trustee prior to the First Issue Date;
+(m) Liens in favour of the Issuer;
+(n) Liens on insurance policies and the proceeds thereof, or other deposits, to secure
+
+<<<
+
+ insurance premium financings in respect of the Group;
+(o) Liens arising from financing statement filings (or other similar filings in any applicable jurisdiction) regarding operating leases entered into by any Group Company in the ordinary
+
+<<<
+
+ course of business;
+(p) Liens on goods (and the proceeds thereof) and documents of title and the property covered thereby securing Financial Indebtedness in respect of commercial letters of credit issued to facilitate the purchase, shipment
+
+<<<
+
+ or storage of such inventory or other goods;
+(q) Liens on property of any Subsidiary of the Issuer to secure Financial Indebtedness incurred by such Subsidiary pursuant to Condition 11.3 or paragraphs (i), (j), (k), (l) or (m) of the definition
+
+<<<
+
+ of Permitted Financial Indebtedness;
+(r) Liens for the purpose of securing the payment of all or a part of the purchase price of Capital Lease Obligations or payments incurred by the Issuer or its Subsidiaries to finance the acquisition, improvement
+
+<<<
+
+ or construction of, assets or property acquired or constructed in the ordinary course of business; provided that such Liens do not encumber any other assets or property of the Issuer or its Subsidiaries other than such assets or property and
+
+<<<
+
+ assets affixed or appurtenant thereto;
+(s) Liens on the property of a Group Company to replace in whole or in part, any Lien described in the foregoing paragraphs (a) through (p); provided that any such Lien is limited to all or part of the
+
+<<<
+
+ same property or assets (plus improvements, accessions, proceeds or dividends or distributions in respect thereof) that secured (or, under the written arrangements under which the original Lien arose, could secure) the Financial Indebtedness
+
+<<<
+
+ being refinanced or in respect of property that is the security for a Permitted Lien hereunder;
+(t) Any interest or title of a lessor under any Capital Lease Obligation or operating lease;
+(u) Liens on any escrow account used in connection
+
+<<<
+
+ with pre-funding a refinancing of Financial Indebtedness otherwise permitted under these Terms and Conditions;
+(v) Liens on any Group Company's deposits in favour of financial institutions arising from any netting or set-off arrangement substantially
+
+<<<
+
+ consistent with its current practice for the purpose of netting debt and credit balances substantially consistent with the Group's existing cash pooling arrangements;
+(w) Liens incurred in the ordinary course of business of any Group Company
+
+<<<
+
+ with respect to obligations that do not exceed the greater of US$ 250,000,000 (or its equivalent in any other currency or currencies) or 4 per cent. of Total Assets at any one time outstanding and that do not in the aggregate materially detract
+
+<<<
+
+ from the value of the property of the Issuer, or materially impair the use thereof in the operation of business by the Group; 20
+
+(x) Liens over cash or other assets that secure collateralised obligations incurred as Permitted Financial Indebtedness
+
+<<<
+
+; provided that the amount of cash collateral does not exceed the principal amount of the Proceeds On-Loan;
+(y) Liens over cash or other assets that secure letters of credit, bankers' acceptances or similar facilities; and
+(z) Liens on Restricted
+
+<<<
+
+ MFS Cash in favour of the customers or dealers of, or third parties in relation to, one or more Group Company engaged in the provision of mobile financial services, in each case who provided such Restricted MFS Cash to the relevant Group Company
+
+<<<
+
+.
+"Proceeds On-Loan" has the meaning set forth in the definition "Financial Indebtedness".
+"Purchase Date" has the meaning set forth in Condition 9.5.3
+"Quarter Date" means each of 31 March, 30 June, 30 September and 31 December.
+"Quotation
+
+<<<
+
+ Day" means, in relation to any period for which an interest rate is to be determined, two (2) Business Days before the first day of that period.
+"Rating Agency" means (i) each of Standard & Poor's Rating Services ("S&P"), Fitch Ratings Ltd
+
+<<<
+
+ ("Fitch"), Moody's Investor Services Limited ("Moody's") or (ii) if any of S&P, Fitch or Moody's are not making ratings of the Notes publicly available, an internationally recognised credit rating agency or agencies, as the case may be, selected
+
+<<<
+
+ by the Issuer which will be substituted for any of S&P, Fitch or Moody's.
+"Rating Category" means (i) with respect to Fitch, any of the following categories (any of which may include a "+" or "-"): AAA, AA, A, BBB, BB, B, CCC, CC, C, R, SD
+
+<<<
+
+ and D (or equivalent successor categories); (ii) with respect to Moody's, any of the following categories (any of which may include a "1", "2" or "3"): Aaa, Aa, A, Baa, Ba, B, Caa, Ca, and C (or equivalent successor categories), and (iii) the
+
+<<<
+
+ equivalent of any such categories of Fitch or Moody's used by another Rating Agency, if applicable.
+"Rating Date" means the date which is the earlier of (i) 120 days prior to the occurrence of an event specified in clauses (a), (b) or (c) of
+
+<<<
+
+ the definition of Change of Control and (ii) the date of the first public announcement of the possibility of such event.
+"Rating Decline" means the occurrence of, at any time within the earlier of (i) 90 days after the date of public notice
+
+<<<
+
+ of a Change of Control, or of the Issuer's intention or the intention of any person to effect a Change of Control and (ii) the occurrence of the Change in Control (which period shall in either event be extended so long as the rating of the
+
+<<<
+
+ Notes is under publicly announced consideration for possible downgrade by a Rating Agency), a Rating Agency withdrawal of its rating of the Notes or a decrease in the rating of the Notes by a Rating Agency as follows:
+(a) if the Notes are not
+
+<<<
+
+ rated Investment Grade by at least two of the three Rating Agencies on the Rating Date, by one or more Gradations; or
+(b) if the Notes are rated Investment Grade by at least two of the three Rating Agencies on the Rating Date, either (i) by
+
+<<<
+
+ two or more Gradations or (ii) such that the Notes are no longer rated Investment Grade.
+21
+
+provided that, when announcing the relevant decision(s) to withdraw or decrease the rating, each such Rating Agency announces publicly or confirms
+
+<<<
+
+ in writing that such decision(s) resulted, in whole or in part, from the occurrence (or expected occurrence) of the Change of Control or the Issuer's announcement of the intention to effect a Change of Control.
+"Record Date" means the fifth
+
+<<<
+
+ (5) Business Day prior to (i) an Interest Payment Date, (ii) a Redemption Date, (iii) a date on which a payment to the Noteholders is to be made under Condition 13 (Distribution o fproceeds) or (iv) another relevant date, or in each case such
+
+<<<
+
+ other Business Day falling prior to a relevant date if generally applicable on the Swedish bond market.
+"Redeemable Stock" of any person means any Capital Stock of such person that by its terms (or by the terms o f any security into which it
+
+<<<
+
+ is convertible or for which it is exchangeable) or otherwise (including upon the occurrence o f an event) matures or is required to be redeemed (pursuant to any sinking fund obligation or otherwise) or is convertible into or exchangeable for
+
+<<<
+
+ Financial Indebtedness or is redeemable at the option o fthe holder thereof, in whole or in part, at any time prior to the Final Maturity Date.
+"Redemption Date" means the date on which the relevant Notes are to be redeemed or repurchased in
+
+<<<
+
+ accordance with Condition 9 (Redemption and repurchase o f the Notes).
+"Reference Banks" means Nordea Bank AB (publ), Skandinaviska Enskilda Banken AB (publ) and DNB Bank ASA (or such other banks as may be appointed by the Issuing Agent in
+
+<<<
+
+ consultation with the Issuer).
+"Regulated Market" means any regulated market (as defined in Directive 2004/39/EC on markets in financial instruments).
+"Restricted Cash" means the sum of (a) Restricted MFS Cash, and (b) without duplication,
+
+<<<
+
+ the amount of cash that would be stated as "restricted cash" on the consolidated statement o f financial position o fthe Issuer as o f such date in accordance with IFRS.
+"Restricted MFS Cash" means, as o f any date o f determination, an amount
+
+<<<
+
+ equal to any cash paid in or deposited by or held on behalfo f any customer or dealer of, or any other third party in relation to, one or more Group Company engaged in the provision o f mobile financial services and designated as "restricted
+
+<<<
+
+ cash" on the consolidated statement of financial position o fthe Issuer, together with any interest thereon.
+"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Financial Instruments Accounts
+
+<<<
+
+ Act in which (i) an owner of such security is directly registered or (ii) an owner's holding of securities is registered in the name of a nominee.
+"Significant Subsidiary" means a Subsidiary of the Issuer:
+(a) which accounts for more than 
+
+<<<
+
+10 per cent. o fthe Consolidated EBITDA o fthe Group or consolidated revenues o fthe Group; or
+(b) whose assets represent more than 10 per cent. of the assets of the Group.
+"Specified Subsidiary Sale" means the sale, transfer or other disposition
+
+<<<
+
+ of all of the Capital Stock, or all of the assets or properties of, (a) any entity, the primary purpose of
+22
+
+which is to own Tower Equipment located in any market in which any Group Company operates; (b) any person which operates any Group
+
+<<<
+
+ Company's mobile financial services business; (c) Latin America Internet Holding GmbH; or (d) Africa Internet Holding GmbH.
+"STIBOR" means:
+(a) the applicable percentage rate per annum displayed on NASDAQ Stockholm's website for STIBOR fixing
+
+<<<
+
+ (or through another website replacing it) as of or around 11.00 a.m. on the Quotation Day for the offering of deposits in Swedish Kronor and for a period comparable to the relevant Interest Period (other than the first Interest Period to which
+
+<<<
+
+, notwithstanding its duration, the applicable percentage rate per annum for the offering of deposits in Swedish Kronor for a period of three months as quoted as of or around 11.00 a.m. on the relevant Quotation Day will apply); or
+(b) if no
+
+<<<
+
+ rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by the Reference Banks, for deposits of SEK 100,000,000 for
+
+<<<
+
+ the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Swedish Kronor offered in
+
+<<<
+
+ the Stockholm interbank market for the relevant period.
+"Subsidiary" means in respect of any person:
+(a) any corporation in which it or one or more of its Subsidiaries directly or indirectly owns more than 50 per cent. of the combined voting
+
+<<<
+
+ power of the outstanding voting stock; or
+(b) any other entity in which it or one or more of its Subsidiaries:
+(i) directly or indirectly has majority ownership, but only to the extent such majority ownership results in an entitlement to the
+
+<<<
+
+ majority of the profits generated by that entity; or
+(ii) has the power to direct the policies, management and affairs thereof.
+"Swedish Kronor" and "SEK" means the lawful currency of Sweden.
+"Total Assets" means the consolidated total assets
+
+<<<
+
+ of the Issuer and its Subsidiaries as shown on the Issuer's most recent consolidated statement of financial position prepared on the basis of IFRS prior to the relevant date of determination calculated to give pro forma effect to any acquisitions
+
+<<<
+
+ (including through mergers or consolidations) and dispositions that have occurred subsequent to such period, including any such acquisitions to be made with the proceeds of Financial Indebtedness giving rise to the need to calculate Total Assets
+
+<<<
+
+.
+"Total Nominal Amount" means the total aggregate Nominal Amount of the Notes outstanding at the relevant time.
+23
+
+"Tower Equipment" means passive infrastructure related to telecommunications services, excluding telecommunications equipment
+
+<<<
+
+, but including, without limitation, towers (including tower lights and lightning rods), power breakers, deep cycle batteries, generators, voltage regulators, main AC power, rooftop masts, cable ladders, grounding, walls and fences, access roads
+
+<<<
+
+, shelters, air conditioners and BTS batteries owned by any Group Company.
+
+"Trust Deed" means the trust deed entered into on or prior to the First Issue Date, between the Issuer and the Trustee, or any replacement or supplemental trust deed
+
+<<<
+
+ entered into between the Issuer and the Trustee thereafter.
+
+"Trustee" means Intertrust CN (Sweden) AB, Swedish Reg. No. 556625-5476, or another party replacing it, as Trustee, in accordance with these Terms and Conditions and the Trust Deed
+
+<<<
+
+.
+
+"USD", "$" and "dollars" means the lawful currency of the United States of America.
+
+"VAT" means:
+
+(a) any tax imposed in compliance with the Council Directive of 28 November 2006 on the common system of value added tax (EC Directive 200
+
+<<<
+
+6/112); and
+
+(b) any other tax of a similar nature, whether imposed in a member state of the European Union in substitution for, or levied in addition to, such tax referred to in paragraph (a) above, or imposed elsewhere.
+
+"Written Procedure
+
+<<<
+
+" means the written or electronic procedure for decision making among the Noteholders in accordance with Condition 16 (Written Procedure).
+
+1.2
+
+Construction
+
+1.2.1
+
+Unless a contrary indication appears, any reference in these Terms and Conditions
+
+<<<
+
+ to:
+
+(a) "assets" includes present and future properties, revenues and rights of every description;
+
+(b) any agreement or instrument is a reference to that agreement or instrument as supplemented, amended, novated, extended, restated or replaced
+
+<<<
+
+ from time to time;
+
+(c) a "regulation" includes any regulation, rule or official directive, request or guideline (whether or not having the force of law) of any governmental, intergovernmental or supranational body, agency, department or regulatory
+
+<<<
+
+, self regulatory or other authority or organisation;
+
+(d) a provision of law is a reference to that provision as amended or re-enacted; and
+
+(e) a time of day is a reference to Stockholm time.
+
+1.2.2 An Event of Default is continuing if it
+
+<<<
+
+ has not been remedied or waived.
+
+1.2.3
+
+When ascertaining whether a limit or threshold specified in SEK has been attained or
+
+broken, an amount in another currency shall be counted on the basis of the rate of exchange
+
+for such currency against
+
+<<<
+
+ SEK for the previous Business Day, as published by the Swedish
+
+24
+
+1.2.4 1.2.5 2. 2.1 2.2 2.3 2.4
+2.5
+2.6 2.7
+
+Central Bank (Riksbanken) on its website (www.riksbank.se). If no such rate is available, the most recently published rate shall
+
+<<<
+
+ be used instead.
+A notice shall be deemed to be sent by way of press release if it is made available to the public within Sweden promptly
+No delay or omission of the Trustee or of any Noteholder to exercise any right or remedy under the Finance
+
+<<<
+
+ Documents shall impair or operate as a waiver of any such right or remedy.
+STATUS OF THE NOTES
+The Notes are denominated in SEK and each Note is constituted by the Trust Deed and these Terms and Conditions. The Issuer undertakes to make payments
+
+<<<
+
+ in relation to the Notes and to comply with these Terms and Conditions.
+By subscribing for Notes, each initial Noteholder agrees that the Notes shall benefit from and be subject to the Finance Documents and by acquiring Notes, each subsequent
+
+<<<
+
+ Noteholder confirms such agreement.
+The nominal amount of each Initial Note is SEK 1,000,000 (the "Nominal Amount"). All Initial Notes are issued on a fully paid basis at an issue price of 100 per cent. of the Nominal Amount.
+Provided that
+
+<<<
+
+ no Event of Default is continuing or would result from such issue and subject to the terms of the Trust Deed and the satisfaction of the conditions set out in Condition 4.1, the Issuer may, from time to time, without the consent of the Noteholders
+
+<<<
+
+, issue Additional Notes having the same interest rate and ranking pari passu in all respects and so that the same shall be consolidated and form a single series with the Initial Notes and any other Additional Notes. The issue price of the Additional
+
+<<<
+
+ Notes may be set at a discount or at a premium compared to the Initial Notes. The aggregate nominal amount of Notes is not limited. Each Additional Note shall entitle its holder to Interest in accordance with Condition 8.1, and otherwise have
+
+<<<
+
+ the same rights as the Initial Notes.
+The Notes constitute direct, general, unconditional, unsubordinated and unsecured obligations of the Issuer and shall at all times rank pari passu and without any preference among them and at least pari
+
+<<<
+
+ passu with all other direct, unconditional, unsubordinated and unsecured obligations of the Issuer, except obligations which are mandatorily preferred by law.
+The Notes are freely transferable but the Noteholders may be subject to purchase
+
+<<<
+
+ or transfer restrictions with regard to the Notes, as applicable, under local laws to which a Noteholder may be subject. Each Noteholder must ensure compliance with such restrictions at its own cost and expense.
+No action is being taken in
+
+<<<
+
+ any jurisdiction that would or is intended to permit a public offering of the Notes or the possession, circulation or distribution of any document or other material relating to the Issuer or the Notes in any jurisdiction other than Sweden,
+
+<<<
+
+ where action for that purpose is required. Each Noteholder must inform itself about, and observe, any applicable restrictions to the transfer of material relating to the Issuer or the Notes.
+
+25
+
+3.
+
+USE OF PROCEEDS
+
+3.1
+
+The Issuer shall
+
+<<<
+
+ use the Net Proceeds from the issue of the Initial Notes, for the general
+
+corporate purposes of the Group.
+
+3.2
+
+The Issuer shall use the Net Proceeds from the issue of any Additional Notes, for the
+
+general corporate purposes of the Group
+
+<<<
+
+.
+
+4.
+
+CONDITIONS PRECEDENT
+
+4.1
+
+Prior to the issuance of any Additional Notes, the Issuer shall provide to the Issuing Agent
+
+the following documents and evidence, in form and substance satisfactory to the Issuing
+
+Agent (acting reasonably
+
+<<<
+
+):
+
+(a) a copy of a resolution from the board of directors of the Issuer approving the issue of the Additional Notes and resolving to enter into any documents necessary in connection therewith;
+
+(b) a certificate addressed to the Trustee, duly
+
+<<<
+
+ signed by the Issuer, evidencing for the relevant issue of Additional Notes that (i) no Event of Default is continuing or would result from such issue and (ii) in relation to such issue, the requirements of Condition 11.3 have been complied
+
+<<<
+
+ with; and
+
+(c) such other documents and information as is agreed between the Issuing Agent and the Issuer.
+
+4.2
+
+The Issuing Agent may assume that the documentation delivered to it pursuant to
+
+Condition 4.1 is accurate, correct and complete
+
+<<<
+
+ unless it has actual knowledge that this is
+
+not the case, and the Issuing Agent does not have to verify the contents of any such
+
+documentation.
+
+5.
+
+NOTES IN BOOK-ENTRY FORM
+
+5.1
+
+The Notes will be registered for the Noteholders on their
+
+<<<
+
+ respective Securities Accounts
+
+and no physical notes will be issued. Accordingly, the Notes will be registered in
+
+accordance with the Financial Instruments Accounts Act. Registration requests relating to
+
+the Notes shall be directed to an
+
+<<<
+
+ Account Operator.
+
+5.2
+
+Those who according to assignment, Lien, the provisions of the Swedish Children and
+
+Parents Code foraldrabalken (1949:381)), conditions of will or deed of gift or otherwise
+
+have acquired a right to receive payments
+
+<<<
+
+ in respect of a Note shall register their
+
+entitlements to receive payment in accordance with the Financial Instruments Accounts
+
+Act.
+
+5.3
+
+The Issuer and the Trustee shall at all times be entitled to obtain information from the debt
+
+register
+
+<<<
+
+ (skuldbok) kept by the CSD in respect of the Notes. For the purpose of carrying out
+
+any administrative procedure that arises out of the Finance Documents, the Issuing Agent
+
+shall be entitled to obtain information from the debt register kept
+
+<<<
+
+ by the CSD in respect of
+
+the Notes.
+
+5.4
+
+The Issuer shall issue any necessary power of attorney to such persons employed by the
+
+Trustee, as notified by the Trustee, in order for such individuals to independently obtain
+
+information directly
+
+<<<
+
+ from the debt register kept by the CSD in respect of the Notes. The
+
+26
+
+Issuer may not revoke any such power of attorney unless directed by the Trustee or unless consent thereto is given by the Noteholders.
+
+5.5
+
+The Issuer and the Trustee
+
+<<<
+
+ may use the information referred to in Condition 5.3 and 5.4
+
+only for the purpose of carrying out their duties and exercising their rights in accordance
+
+with the Finance Documents and shall not disclose such information to any Noteholders
+
+<<<
+
+ or
+
+third party unless necessary for such purpose.
+
+6.
+
+RIGHT TO ACT ON BEHALF OF A NOTEHOLDER
+
+6.1
+
+If any person other than a Noteholder wishes to exercise any rights of a Noteholder under
+
+the Finance Documents on behalf of such Noteholder
+
+<<<
+
+, it must obtain a power of attorney or
+
+other proof of authorisation from the Noteholder or a successive, coherent chain of powers
+
+of attorney or proofs of authorisation starting with the Noteholder and authorising such
+
+person.
+
+6.2
+
+A Noteholder
+
+<<<
+
+ may issue one or several powers of attorney to third parties to represent it in
+
+relation to some or all of the Notes held by it. Any such representative may act
+
+independently under the Finance Documents in relation to the Notes for which
+
+<<<
+
+ such
+
+representative is entitled to represent the Noteholder and may further delegate its right to
+
+represent the Noteholder by way of a further power of attorney.
+
+6.3
+
+The Trustee shall only have to examine the face of a power of attorney
+
+<<<
+
+ or other proof of
+
+authorisation that has been provided to it pursuant to Condition 6.2 and may assume that it
+
+has been duly authorised, is valid, has not been revoked or superseded and that it is in full
+
+force and effect, unless otherwise
+
+<<<
+
+ is apparent from its face or the Trustee has actual
+
+knowledge to the contrary.
+
+7.
+
+PAYMENTS IN RESPECT OF THE NOTES
+
+7.1
+
+Any payment or repayment under the Finance Documents, or any amount due in respect of
+
+a repurchase of any Notes pursuant
+
+<<<
+
+ to these Terms and Conditions, shall be made to such
+
+person who is registered as a Noteholder on the Record Date prior to an Interest Payment
+
+Date or other relevant due date, or to such other person who is registered with the CSD on
+
+such
+
+<<<
+
+ date as being entitled to receive the relevant payment, repayment or repurchase
+
+amount.
+
+7.2
+
+If a Noteholder has registered, through an Account Operator, that principal, interest or any
+
+other payment shall be deposited in a certain bank
+
+<<<
+
+ account, such deposits will be effected
+
+by the CSD or the Issuer (or its agent) on the relevant payment date. In other cases,
+
+payments will be transferred by the CSD or the Issuer (or its agent) to the Noteholder at the
+
+address registered
+
+<<<
+
+ with the CSD on the Record Date. Should the CSD, due to a delay on
+
+behalf of the Issuer or some other obstacle, not be able to effect payments as aforesaid, the
+
+Issuer shall promptly provide notice of such non-payment to the Trustee in accordance
+
+<<<
+
+
+
+with Condition 23 (Notices and Press Releases) and procure that such amounts are paid to
+
+the persons who are registered as Noteholders on the relevant Record Date as soon as
+
+possible after such obstacle has been removed.
+
+7.3
+
+If, due to
+
+<<<
+
+ any obstacle for the CSD, the Issuer cannot make a payment or repayment, such
+
+payment or repayment may be postponed until the obstacle has been removed. Interest
+
+shall accrue in accordance with Condition 8.4 during such postponement.
+
+27
+
+<<<
+
+
+
+7.4
+
+If payment or repayment is made in accordance with this Condition 7, the Issuer and the
+
+CSD shall be deemed to have fulfilled their obligation to pay, irrespective of whether such
+
+payment was made to a person not entitled to receive
+
+<<<
+
+ such amount. The Trustee shall have
+
+no obligation to ensure any payments or repayments made in accordance with this
+
+Condition 7.4 are actually received by the person entitled to such payment or repayment.
+
+7.5
+
+Neither the Issuer nor the
+
+<<<
+
+ Trustee shall be liable to gross-up any payments under the
+
+Finance Documents by virtue of any withholding tax, public levy or the similar.
+
+8.
+
+INTEREST
+
+8.1
+
+Each Initial Note shall bear Interest at the Interest Rate applied to the Nominal
+
+<<<
+
+ Amount
+
+from (but excluding) the First Issue Date up to (and including) the relevant Redemption
+
+Date. Any Additional Note will bear Interest at the Interest Rate applied to the Nominal
+
+Amount from (but excluding) the Interest Payment Date
+
+<<<
+
+ falling immediately prior to its
+
+issuance (or the First Issue Date if there is no such Interest Payment Date) up to (and
+
+including) the relevant Redemption Date.
+
+8.2
+
+Interest accrues during an Interest Period. Payment of Interest in respect
+
+<<<
+
+ of the Notes shall
+
+be made to the Noteholders on each Interest Payment Date for the preceding Interest
+
+Period in accordance with Condition 7.
+
+8.3
+
+Interest shall be calculated on the basis of the actual number of days in the Interest Period
+
+<<<
+
+
+
+in respect of which payment is being made divided by 360 (actual/360-days basis).
+
+8.4
+
+If the Issuer fails to pay any amount payable by it on its due date, default interest shall
+
+accrue on the overdue amount from (but excluding) the due
+
+<<<
+
+ date up to (and including) the
+
+date of actual payment at a rate which is one (1) per cent. higher than the Interest Rate for
+
+such Interest Period. Accrued default interest shall not be capitalised. No default interest
+
+shall accrue where
+
+<<<
+
+ the failure to pay was solely attributable to the Issuing Agent or the
+
+CSD.
+
+9.
+
+REDEMPTION AND REPURCHASE OF THE NOTES
+
+9.1
+
+Redemption at maturity
+
+The Issuer shall redeem all, but not some only, of the outstanding Notes in full on the Final
+
+<<<
+
+ Maturity Date with an amount per Note equal to the Nominal Amount together with accrued but unpaid Interest. If the Final Maturity Date is not a Business Day, then the redemption shall occur on the first Business Day following the Final Maturity
+
+<<<
+
+ Date.
+
+9.2
+
+Purchase of Notes by Group Companies
+
+Any Group Company may, subject to applicable law, at any time and at any price purchase Notes in the open market or in any other way. Notes held by a Group Company may at such Group Company
+
+<<<
+
+&&&'s discretion be retained or sold or, if held by the Issuer, cancelled by the Issuer.
+
+9.3
+
+Voluntary total redemption (call option)
+
+9.3.1
+
+At any time on or after the First Call Date, the Issuer may redeem all, but not some only, of
+
+the outstanding
+
+<<<
+
+ Notes at an amount per Note equal to 101.45 per cent. of the Nominal
+
+Amount together with accrued but unpaid Interest;
+
+28
+
+9.3.2
+
+Redemption in accordance with Condition 9.3.1 shall be made by the Issuer giving not less than fifteen (15
+
+<<<
+
+) Business Days' notice to the Noteholders and the Trustee. The notice from the Issuer shall specify the Redemption Date and the Record Date on which a person shall be registered as a Noteholder to receive the amounts due on such Redemption
+
+<<<
+
+ Date. The notice is irrevocable but may, at the Issuer's discretion, contain one or more conditions precedent. Upon fulfilment of the conditions precedent (if any), the Issuer is bound to redeem the Notes specified in the notice at the applicable
+
+<<<
+
+&&& amount on the specified Redemption Date.
+
+9.4
+
+Early redemption due to illegality (call option)
+
+9.4.1
+
+The Issuer may redeem all, but not some only, of the outstanding Notes at an amount per
+
+Note equal to the Nominal Amount together with
+
+<<<
+
+ accrued but unpaid Interest on a date
+
+determined by the Issuer if it is or becomes unlawful for the Issuer to perform its
+
+obligations under the Finance Documents.
+
+9.4.2
+
+The Issuer shall give written notice of redemption pursuant to Condition
+
+<<<
+
+ 9.4.1 no later than twenty (20) Business Days after having received actual knowledge of any event specified therein (after which time period such right shall lapse). The notice from the Issuer is irrevocable, shall specify the Redemption Date
+
+<<<
+
+ and the Record Date on which a person shall be registered as a Noteholder to receive the amounts due on such Redemption Date. The Issuer is bound to redeem the Notes in full at the applicable amount on the specified Redemption Date.
+
+9.5
+
+Repurchase
+
+<<<
+
+ with Excess Proceeds (put option)
+
+9.5.1
+
+If, in accordance with Condition 11.5, the aggregate amount of Excess Proceeds from the
+
+disposition of assets by the Issuer exceeds $75 million (or its equivalent in any other
+
+currency or currencies
+
+<<<
+
+), the Issuer shall make an offer to repurchase from the Noteholders
+
+and from the holders of any Pari Passu Financial Indebtedness, to the extent required by
+
+the terms thereof, on a pro rata basis, in accordance with this Condition 9.5 or
+
+<<<
+
+ the
+
+agreements governing any such Pari Passu Financial Indebtedness, in cash the maximum
+
+principal amount of the Notes (at an amount per Note equal to 100 per cent. of the Nominal
+
+Amount together with accrued but unpaid Interest if any to
+
+<<<
+
+ the date of purchase) and any
+
+such Pari Passu Financial Indebtedness (at a price no greater than 100 per cent. of the
+
+principal amount (or accreted value, as applicable) of such Pari Passu Financial
+
+Indebtedness together with accrued and
+
+<<<
+
+ unpaid interest if any to the date of purchase) that
+
+may be purchased with the amount of the Excess Proceeds (an "Excess Proceeds Offer").
+
+9.5.2
+
+The Issuer shall give written notice of its offer to redeem pursuant to Condition 9.5.1 no later
+
+<<<
+
+ than twenty (20) Business Days after the end of the 365 calendar day period referred to in Condition 11.5.1(c). The notice from the Issuer is irrevocable, shall specify the amount of Notes that may be repurchased, the Purchase Date and the
+
+<<<
+
+ Record Date on which a person shall be registered as a Noteholder to receive the amounts due on such Purchase Date.
+
+9.5.3
+
+Each Excess Proceeds Offer will remain open for a period of at least 20 Business Days and
+
+not more than 60 Business
+
+<<<
+
+ Days, following its commencement except to the extent that a
+
+longer period is required by applicable law (the "Offer Period"). No later than three
+
+Business Days after the termination of the Offer Period (the "Purchase Date"), the Issuer
+
+
+<<<
+
+
+will apply all Excess Proceeds, in the case of an Excess Proceeds Offer (the "Offer
+
+Amount") to the purchase of the Notes and, if applicable, such other Pari Passu Debt (on a
+
+29
+
+pro rata basis based on the principal amount of the Notes
+
+<<<
+
+ and such other Pari Passu Debt surrendered, if applicable or, if less than the Offer Amount has been tendered, all Notes tendered and, if applicable, other Financial Indebtedness tendered in response to the Excess Proceeds Offer).
+
+9.5.4
+
+If
+
+<<<
+
+ the Purchase Date is on or after a record date for the payment of interest and on or before the related payment date, any accrued and unpaid interest, if any, will be paid to the person in whose name a Note is registered at the close of business
+
+<<<
+
+ on such record date, and no additional interest will be payable to Noteholders who tender Notes pursuant to the Excess Proceeds Offer.
+
+9.5.5
+
+Upon the commencement of an Excess Proceeds Offer, the Issuer will send, by first class
+
+mail, a
+
+<<<
+
+ notice to the Trustee and each of the Noteholders with a copy to the Trustee. The
+
+notice will contain all instructions and materials necessary to enable such Noteholders to
+
+tender Notes pursuant to the Excess Proceeds Offer. The notice, which
+
+<<<
+
+ will govern the
+
+terms of the Excess Proceeds Offer, will state:
+
+(a) that the Excess Proceeds Offer is being made pursuant to this Condition 9.5 the length of time the Excess Proceeds Offer will remain open;
+
+(b) the Offer Amount, the purchase
+
+<<<
+
+ price and the Purchase Date;
+
+(c) that any Note not tendered or accepted for payment will continue to accrue interest;
+
+(d) that, unless the Issuer defaults in making such payment, any Note accepted for payment pursuant to the Excess Proceeds
+
+<<<
+
+ Offer will cease to accrue interest after the Purchase Date;
+
+(e) that Notes purchased pursuant to the Excess Proceeds Offer will be purchased in a minimum amount of SEK 1,000,000;
+
+(f) the manner in which Noteholders electing to have a Note
+
+<<<
+
+ purchased pursuant to any Excess Proceeds Offer will be required to transfer such Note to the Issuer or its agent before the Purchase Date;
+
+(g) the circumstances under which Noteholders will be entitled to withdraw their election prior to
+
+<<<
+
+ the expiration of the Offer Period and the procedures required in relation to such withdrawal; and
+
+(h) that, if the aggregate principal amount of Notes and other Pari Passu Debt surrendered by holders thereof exceeds the Offer Amount, the
+
+<<<
+
+ Issuer (or its agent) will randomly select the Notes and other Pari Passu Debt to be purchased on a pro rata basis based on the principal amount of Notes and such other Pari Passu Debt surrendered (provided that Notes will be purchased in a
+
+<<<
+
+ minimum amount of SEK 1,000,000).
+
+9.5.6
+
+On or before the Purchase Date, the Issuer will, to the extent lawful, accept for repurchase, the Offer Amount of Notes tendered pursuant to the Excess Proceeds Offer (which Notes shall be randomly
+
+<<<
+
+ selected by the Issuer or its agent if more than the Offer Amount has been tendered), or if less than the Offer Amount has been tendered, all Notes tendered. The Issuer will pay each tendering holder an amount equal to the purchase price of
+
+<<<
+
+ the
+
+30
+
+9.5.7 9.6 9.6.1 9.6.2 9.6.3
+9.6.4
+
+Notes tendered by such Noteholder and accepted by the Issuer for purchase. Any purchase pursuant to this Condition 9.5 shall not be subject to conditions precedent.
+To the extent that the amount
+
+<<<
+
+ of Notes and any such Pari Passu Financial Indebtedness purchased pursuant to this Condition 9.5 is less than the aggregate amount of Excess Proceeds, the Issuer may use the amount of such Excess Proceeds not used to purchase Notes and such
+
+<<<
+
+ Pari Passu Financial Indebtedness for purposes that are not otherwise prohibited by these Terms and Conditions. Upon completion of each redemption, the amount of Excess Proceeds will be reset to zero.
+Mandatory repurchase due to a Change of
+
+<<<
+
+ Control Triggering Event or a Listing Failure Event (put option)
+Upon the occurrence of a Change of Control Triggering Event or a Listing Failure Event, each Noteholder shall during a period of twenty (20) Business Days from the effective date
+
+<<<
+
+ of a notice from the Issuer of the Change of Control Triggering Event or Listing Failure Event, as applicable, pursuant to Condition 10.1.2 (after which time period such right shall lapse), have the right to request that all, or some only,
+
+<<<
+
+ of its Notes be repurchased at a price per Note equal to 101 per cent. of the Nominal Amount together with accrued but unpaid Interest. However, such period may not start earlier than upon the occurrence of the Change of Control Triggering
+
+<<<
+
+ Event or Listing Failure Event, as applicable.
+The notice from the Issuer pursuant to Condition 10.1.2 shall specify the Record Date on which a person shall be registered as a Noteholder to receive interest and principal, the Redemption Date
+
+<<<
+
+ and include instructions about the actions that a Noteholder needs to take if it wants Notes held by it to be repurchased. If a Noteholder has so requested, and acted in accordance with the instructions in the notice from the Issuer, the Issuer
+
+<<<
+
+ shall repurchase the relevant Notes and the repurchase amount shall fall due on the Redemption Date specified in the notice given by the Issuer pursuant to Condition 10.1.2. The Redemption Date must fall no later than forty (40) Business Days
+
+<<<
+
+ after the end of the period referred to in Condition 9.6.1.
+If Noteholders representing more than 75 per cent. of the Adjusted Nominal Amount have requested that Notes held by them are repurchased pursuant to this Condition 9.6, the Issuer
+
+<<<
+
+ shall, no later than five (5) Business Days after the end of the period referred to in Condition 9.6.1, send a notice to the remaining Noteholders, if any, giving them a further opportunity to request that Notes held by them be repurchased
+
+<<<
+
+ on the same terms during a period of twenty (20) Business Days from the date such notice is effective. Such notice shall specify the Redemption Date, the Record Date on which a person shall be registered as a Noteholder to receive the amounts
+
+<<<
+
+ due on such Redemption Date and also include instructions about the actions that a Noteholder needs to take if it wants Notes held by it to be repurchased. If a Noteholder has so requested, and acted in accordance with the instructions in the
+
+<<<
+
+ notice from the Issuer, the Issuer shall repurchase the relevant Notes and the repurchase amount shall fall due on the Redemption Date specified in the notice given by the Issuer pursuant to this Condition 9.6.3. The Redemption Date must fall
+
+<<<
+
+ no later than forty (40) Business Days after the end of the period of twenty (20) Business Days referred to in this Condition 9.6.3.
+The Issuer shall comply with the requirements of any applicable securities laws or regulations in connection
+
+<<<
+
+ with the repurchase of Notes. To the extent that the provisions of such laws and regulations conflict with the provisions in this Condition 9.6, the Issuer shall
+
+31
+
+9.6.5 9.6.6 10. 10.1 10.1.1
+10.1.2 10.1.3
+
+comply with the applicable securities
+
+<<<
+
+ laws and regulations and will not be deemed to have breached its obligations under this Condition 9.6 by virtue of the conflict.
+The Issuer shall not be required to repurchase any Notes pursuant to this Condition 9.6, if a third party in connection
+
+<<<
+
+ with the occurrence of a Change of Control Triggering Event or a Listing Failure Event offers to purchase the Notes in the manner and on the terms set out in this Condition 9.6 (or on terms more favourable to the Noteholders) and purchases
+
+<<<
+
+ all Notes validly tendered in accordance with such offer. If Notes tendered are not purchased within the time limits stipulated in this Condition 9.6, the Issuer shall repurchase any such Notes within five (5) Business Days after the expiry
+
+<<<
+
+&&& of the time limit.
+No repurchase of Notes pursuant to this Condition 9.6 shall be required if the Issuer has given notice of a redemption pursuant to Condition 9.3 (Voluntary total redemption (call option)), provided that such redemption is
+
+<<<
+
+ duly exercised.
+INFORMATION TO NOTEHOLDERS
+Information from the Issuer
+The Issuer shall provide the following information to the Trustee and make the same available to the Noteholders by way of press release and by publication on the website
+
+<<<
+
+ of the Issuer:
+(i) as soon as the same become available, but in any event within four (4) months after the end of each financial year, its audited consolidated financial statements for that financial year prepared in accordance with IFRS;
+
+
+<<<
+
+(j) as soon as the same become available, but in any event within two (2) months after the end of each quarter of its financial year, its consolidated financial statements or the year-end report (bokslutskommunike) (as applicable) for such period
+
+<<<
+
+ prepared in accordance with IFRS;
+(k) as soon as practicable following an acquisition or disposal of Notes by a Group Company, the aggregate Nominal Amount held by Group Companies, or the amount of Notes cancelled by the Issuer; and
+(l) any
+
+<<<
+
+ other information required by the Swedish Securities Markets Act (lag (2007:582) om vardepappersmarknaden), Regulation No 596/2014 on market abuse (Market Abuse Regulation), as applicable, and the rules and regulations of the Regulated Market
+
+<<<
+
+ on which the Notes are admitted to trading.
+The Issuer shall promptly notify the Noteholders and the Trustee in writing upon becoming aware of the occurrence of a Change of Control Triggering Event or a Listing Failure Event. Such notice may
+
+<<<
+
+ be given in advance of the occurrence of a Change of Control and conditioned upon the occurrence of a Change of Control Triggering Event, if a definitive agreement is in place providing for a Change of Control.
+When the financial statements
+
+<<<
+
+ and other information are made available to the Noteholders pursuant to Condition 10.1.1, the Issuer shall send copies of such financial statements and other information to the Trustee. Together with the annual financial statements, the Issuer
+
+<<<
+
+ shall submit to the Trustee a compliance certificate in a form agreed between the Issuer and the Trustee containing a confirmation that no Default or Event of Default has occurred (or if a Default or an Event of Default has occurred, what steps
+
+<<<
+
+ have been taken to remedy it).
+32
+
+10.1.4
+10.1.5
+10.2 10.2.1
+10.2.2
+10.3 10.3.1 10.3.2 11. 11.1
+
+The Issuer shall promptly notify the Trustee in writing (with full particulars) upon becoming aware of the occurrence of any event or circumstance
+
+<<<
+
+ which constitutes a Default or an Event of Default, and shall provide the Trustee with such further information as the Trustee may reasonably request in writing following receipt of such notice. Should the Trustee not receive such information
+
+<<<
+
+, the Trustee is entitled to assume that no such event or circumstance exists or can be expected to occur, provided that the Trustee does not have actual knowledge by way of written notice of such event or circumstance.
+The Issuer is only obliged
+
+<<<
+
+ to inform the Trustee as set out in this Condition 10 if informing the Trustee would not conflict with any applicable laws or, when the Notes are listed, the Issuer's registration contract with the Regulated Market. If such a conflict would
+
+<<<
+
+ exist pursuant to the listing contract with the Regulated Market or otherwise, the Issuer shall however be obliged to either seek approval from the Regulated Market or undertake other reasonable measures, including entering into a non-disclosure
+
+<<<
+
+ agreement with the Trustee, in order to be able to timely inform the Trustee as set out in this Condition 10.
+Information from the Trustee
+Subject to the restrictions of a non-disclosure agreement entered into by the Trustee in accordance with
+
+<<<
+
+ this Condition 10.2.1 and applicable law, the Trustee is entitled to disclose to the Noteholders any event or circumstance directly or indirectly relating to the Issuer or the Notes. Notwithstanding the foregoing, the Trustee may if it considers
+
+<<<
+
+ it to be beneficial to the interests of the Noteholders delay disclosure or refrain from disclosing certain information other than in respect of an Event of Default that has occurred and is continuing.
+If a committee representing the Noteholders
+
+<<<
+
+' interests under the Finance Documents has been appointed by the Noteholders pursuant to Condition 14 (Decisions by Noteholders), the members of such committee may agree with the Issuer not to disclose information received from the Issuer,
+
+<<<
+
+ provided that it, in the reasonable opinion of such members, is beneficial to the interests of the Noteholders. The Trustee shall be a party to such agreement and receive the same information from the Issuer as the members of the committee
+
+<<<
+
+.
+Publication of Finance Documents
+The latest version of these Terms and Conditions (including any document amending these Terms and Conditions) shall be available on the websites of the Issuer and the Trustee.
+The latest versions of the Finance
+
+<<<
+
+ Documents shall be available to the Noteholders at the office of the Trustee during normal business hours.
+GENERAL UNDERTAKINGS
+Change of Business
+The Issuer shall ensure that no substantial change is made to the general nature of the business
+
+<<<
+
+ of the Issuer or the Group from that carried on at the First Issue Date, provided that this Condition shall not prevent the Issuer from engaging in any Permitted Business.
+
+33
+
+11.2
+11.3 11.4
+11.5 11.5.1
+
+Preservation of properties
+Subject
+
+<<<
+
+ to Permitted Discontinuance of Property Maintenance, the Issuer shall (and shall ensure that each other Group Company will) maintain in good repair, working order and condition (ordinary wear and tear excepted) all of its material properties
+
+<<<
+
+ necessary or desirable in the conduct of its business, all in accordance with the judgment of the Issuer (acting reasonably).
+Financial Indebtedness
+The Issuer may not (and the Issuer shall ensure that no other Group Company will), directly
+
+<<<
+
+ or indirectly incur any Financial Indebtedness, unless:
+(a) at the time of such incurrence or immediately following the incurrence of such Financial Indebtedness and the application of the proceeds thereof, on a pro forma basis, the Net Leverage
+
+<<<
+
+ Ratio is less than 3.0 to 1.0; or
+(b) the Financial Indebtedness is Permitted Financial Indebtedness.
+Negative pledge
+The Issuer shall not (and shall ensure that no other Group Company will), directly or indirectly,
+(a) create or permit to
+
+<<<
+
+ subsist any Lien over any of its assets; or
+(b) (i) sell, transfer or otherwise dispose of any of its assets on terms whereby they are or may be leased to or re-acquired by the Issuer or any other Group Company; (ii) sell, transfer or otherwise
+
+<<<
+
+ dispose of any of its receivables on recourse terms; (iii) enter into any arrangement under which money or the benefit of a bank or other account may be applied, set-off or made subject to a combination of accounts; or (iv) enter into any other
+
+<<<
+
+ preferential arrangement having a similar effect (each of paragraphs (i)-(iv) being a "Quasi-Security"), in circumstances where the arrangement or transaction is entered into primarily as a method of raising Financial Indebtedness or of financing
+
+<<<
+
+ the acquisition of an asset,
+unless the Lien or Quasi-Security is a Permitted Lien.
+Disposal of Assets
+The Issuer shall not (and shall ensure that no other Group Company will), make any Asset Disposition in one or more related transactions
+
+<<<
+
+ unless:
+(a) the consideration the Issuer or such Subsidiary receives for such Asset Disposition is not less than the Fair Market Value of the assets sold (as determined by the Issuer's senior management or board of directors); and
+(b) (other
+
+<<<
+
+ than where the Asset Disposition is a Permitted Asset Swap) at least 75 per cent. of the consideration the Issuer or such Subsidiary receives in respect of such Asset Disposition consists of:
+(i) cash or Cash Equivalents;
+
+34
+
+(ii) the assumption
+
+<<<
+
+ of the Issuer's or any of its Subsidiaries' Financial Indebtedness or other liabilities (other than contingent liabilities or Financial Indebtedness or liabilities that are subordinated to the Notes) or Financial Indebtedness or other liabilities
+
+<<<
+
+ of such Subsidiary relating to such assets and, in each case, the Issuer or the Subsidiary, as applicable, is released from all liability on the Financial Indebtedness assumed;
+(iii) any Capital Stock or assets of the kind referred to in paragraphs
+
+<<<
+
+ (c)(iv) or (c)(v) of Condition 11.5.1(c);
+(iv) a combination of the consideration specified in Conditions (i) to (iii) (inclusive) of this Condition 11.5.1(b); and
+(c) within 365 calendar days of such Asset Disposition, the Net Available Proceeds
+
+<<<
+
+ are applied (at the Issuer or applicable Subsidiary's option):
+(i) to repay, redeem, retire or cancel outstanding Financial Indebtedness secured by Lien over the assets of any Group Company;
+(ii) first, to redeem Notes or purchase Notes pursuant
+
+<<<
+
+ to an offer to all Noteholders at a purchase price equal to at least 100 per cent. of the principal amount thereof, plus accrued and unpaid interest and second, to the extent any Net Available Proceeds from such Asset Disposition remain, to
+
+<<<
+
+ any other use as determined by the Issuer or the applicable Subsidiary that is not otherwise prohibited by these Terms and Conditions;
+(iii) to repurchase, prepay, redeem or repay any Pari Passu Financial Indebtedness; provided that the Issuer
+
+<<<
+
+ makes an offer to all Noteholders on a pro rata basis to purchase their Notes in accordance with Condition 9.5 (Repurchase with Excess Proceeds (put option));
+(iv) to acquire all or substantially all of the assets of, or any Capital Stock of
+
+<<<
+
+, another Permitted Business, if, after giving effect to any such acquisition of Capital Stock, the Permitted Business is or becomes a Subsidiary of the Issuer;
+(v) to make a capital expenditure or acquire other assets (other than Capital Stock
+
+<<<
+
+ and cash or Cash Equivalents), rights (contractual or otherwise) and properties, whether tangible or intangible (including ownership interests) that are used or intended for use in connection with a Permitted Business;
+(vi) to the extent permitted
+
+<<<
+
+&&&, to redeem Notes as provided under Condition 9.3 (Voluntary total redemption (call option))hereof;
+(vii) any combination of the foregoing paragraphs (i) to (vi) (inclusive) of this Condition 11.5.1(c); or
+enter into a binding commitment to
+
+<<<
+
+ apply the Net Available Proceeds pursuant to paragraphs (iv) or (v) of this Condition 11.5.1(c) (which will be deemed to constitute a permitted application of the Net Available Proceeds from the date of such commitment until the earlier of
+
+<<<
+
+ (X) the date on which such acquisition or expenditure is consummated and (Y) the 180th day following the expiration of the initial 365-day period).
+35
+
+11.5.2 11.5.3 11.6
+11.7 11.7.1 11.7.2
+
+For purposes of Condition 11.5.1(c), any securities
+
+<<<
+
+, notes or other obligations received by the Issuer or any such Subsidiary from such transferee that are promptly converted by the recipient thereof into cash, Cash Equivalents or readily marketable securities (to the extent of the cash, Cash
+
+<<<
+
+ Equivalents or readily marketable securities received in that conversion), shall be deemed cash.
+The amount of such Net Available Proceeds not applied pursuant to Condition 11.5.1(c) will constitute "Excess Proceeds". Pending the final application
+
+<<<
+
+ of any such Net Available Proceeds, the Issuer may temporarily use such Net Available Proceeds in any manner that is not prohibited by the terms of these Terms and Conditions.
+Merger
+The Issuer may not, in a single transaction or a series of
+
+<<<
+
+ related transactions, (i) consolidate with or merge into any other person, or (ii) directly or indirectly, convey, transfer, sell, lease or otherwise dispose of all or substantially all of its assets to any other person, unless:
+(a) the Issuer
+
+<<<
+
+ is the surviving corporation;
+(b) immediately after giving effect to such transaction, no Default or Event of Default shall have occurred and be continuing
+(c) immediately after giving effect to such transaction and treating any Financial Indebtedness
+
+<<<
+
+ which becomes the Issuer's or any of its Subsidiaries' obligation, as applicable, as a result of such transaction as having been incurred at the time of the transaction, (x) the Issuer could incur at least $1.00 (or its equivalent in any other
+
+<<<
+
+ currency or currencies) of additional Financial Indebtedness pursuant to Condition 11.3 hereof or (y) the Net Leverage Ratio would not be greater than such ratio before giving effect to such transactions; provided that this paragraph (c) will
+
+<<<
+
+ not apply if, in the good faith determination of the Issuer's board of directors the principal purpose of such transaction is to change the Issuer's jurisdiction of incorporation; and
+(d) the Issuer delivers to the Trustee a certificate stating
+
+<<<
+
+ that such consolidation, merger or transfer complies with this Condition 11.6.
+Admission to trading
+The Issuer shall use all reasonable efforts to ensure that within sixty (60) calendar days after the First Issue Date, the Note Loan is admitted
+
+<<<
+
+ to trading on the corporate bond list of NASDAQ Stockholm or, if such admission to trading is not possible to obtain or maintain, admitted to trading on another Regulated Market.
+Following an admission to trading on the corporate bond list
+
+<<<
+
+ of NASDAQ Stockholm (or any other Regulated Market, as applicable), the Issuer shall use all reasonable efforts to ensure that the Notes continue being listed thereon (however, taking into account the rules and regulations of NASDAQ Stockholm
+
+<<<
+
+ (or any other Regulated Market, as applicable) and the CSD (as amended from time to time) preventing trading in the Notes in close connection to the redemption of the Notes).
+
+36
+
+11.8
+
+Suspension of certain covenants
+
+If on any date following
+
+<<<
+
+ the First Issue Date, the Notes are assigned an external credit rating of at least BBB- (or equivalent) by two Rating Agencies and no Event of Default is continuing then the Issuer shall notify the Trustee in writing of these events and beginning
+
+<<<
+
+ on that date and until such time as the Notes cease to have an external credit rating of at least BBB- (or equivalent) by either Rating Agency, Conditions 11.3 (Financial Indebtedness), 11.5 (Disposal o f assets), and paragraph (c) of Condition
+
+<<<
+
+ 11.6 (Merger) shall not apply. Any action taken by a Group Company during any such covenant suspension that would otherwise give rise to a breach of the aforementioned Conditions upon such covenant suspension ceasing to be in effect shall be
+
+<<<
+
+ deemed not to be a breach of these Terms and Conditions.
+
+12.
+
+ACCELERATION OF THE NOTES
+
+12.1
+
+Subject to Condition 12.2, the Trustee at its discretion may, and shall following an
+
+instruction in writing from a Noteholder (or Noteholders)
+
+<<<
+
+ representing at least twenty-five
+
+(25) per cent. of the Adjusted Nominal Amount (such instruction may only be validly made
+
+by a person who is a Noteholder on the Business Day immediately following the day on
+
+which the instruction is received
+
+<<<
+
+ by the Trustee) and in both instances, the Noteholder or
+
+Noteholders (as applicable) have offered an indemnity and/or security and/or pre-funding
+
+satisfactory to the Trustee (i) by notice to the Issuer, declare all, but not some only, of
+
+<<<
+
+ the
+
+outstanding Notes immediately due and repayable at their Total Nominal Amount together
+
+with any other amounts payable under the Trust Deed (including, without limitation,
+
+pursuant to Condition 12.5) immediately or at such later date
+
+<<<
+
+ as the Trustee determines,
+
+and (ii) exercise any or all of its rights, remedies, powers and discretions under the Finance
+
+Documents if any of the following events occurs and is continuing:
+
+(a) the Issuer does not pay on the due date any
+
+<<<
+
+ principal of, or (if any) premium on any Note when due (at maturity, upon redemption or otherwise);
+
+(b) the Issuer does not pay on the due date any interest payable in respect of the Notes and such failure is not remedied within thirty (3
+
+<<<
+
+0) days from the relevant Interest Payment Date;
+
+(c) the Issuer does not pay on the due date any principal and interest on the Notes required to be purchased pursuant to Condition 9.5 or 9.6;
+
+(d) the Issuer does not comply with the provisions
+
+<<<
+
+ of Condition 11.6;
+
+(e) the Issuer does not comply with any terms or conditions of the Finance Documents to which it is a party (other than those terms referred to in paragraphs (a) through (d) above), unless the non-compliance (i) is capable
+
+<<<
+
+ of remedy; and (ii) is remedied within sixty (60) days of the earlier of notice to the Issuer by the Trustee or Noteholders of at least 25 per cent. in aggregate principal amount of Notes outstanding;
+
+(f) the occurrence of a Cross Payment
+
+<<<
+
+ Default or a Cross Acceleration, unless the aggregate amount of Financial Indebtedness which is the subject of the Cross Payment Default or Cross Acceleration, as applicable, is less than $100,000,000 (or its equivalent in any other currency
+
+<<<
+
+ or currencies), without double counting;
+
+37
+
+(g) the Issuer or any of its Subsidiaries fails to pay final judgments entered by a court or courts of competent jurisdiction aggregating in excess of $100,000,000 (exclusive of any amounts for
+
+<<<
+
+ which a solvent insurance company has acknowledged liability), which judgments shall not have been discharged or waived and there shall have been a period of 60 consecutive days during which a stay of enforcement of such judgment or order,
+
+<<<
+
+ by reason of an appeal, waiver or otherwise, shall not have been in effect;
+
+(h) (i) a Material Company is unable or admits inability to pay its debts as they fall due, suspends making payments on any of its debts or, by reason of actual or
+
+<<<
+
+ anticipated financial difficulties, commences negotiations with one or more of its creditors with a view to rescheduling its indebtedness (including company reorganisation under the Swedish Company Reorganisation Act (lag (1996:764) omforetagsrekonstruktion
+
+<<<
+
+) (or its equivalent in any other jurisdiction)); (ii) the value of the assets of any Material Company is less than its liabilities (taking into account contingent and prospective liabilities); or (iii) a moratorium is declared in respect of
+
+<<<
+
+ any indebtedness of any Material Company;
+
+(i) Any corporate action, legal proceedings or other procedure or step is taken in relation to:
+
+(i) the winding-up, dissolution, administration or reorganisation (by way of voluntary arrangement,
+
+<<<
+
+ scheme of arrangement or otherwise, other than a solvent reorganisation in which the relevant Material Company is the surviving entity) of any Material Company;
+
+(ii) a general assignment, arrangement or composition with or for the benefit
+
+<<<
+
+ of the creditors of any Material Company;
+
+(iii) the appointment of a liquidator (other than in respect of a solvent liquidation of a Group Company other than the Issuer), receiver, administrative receiver, administrator, compulsory manager
+
+<<<
+
+ or other similar officer in respect of any Material Company or any of its assets; or
+
+(iv) enforcement of any Lien over any assets of any Material Company,
+
+or any analogous procedure or step is taken in any jurisdiction. This Condition (i
+
+<<<
+
+) shall not apply to any winding-up petition which is frivolous or vexatious and is discharged, stayed or dismissed within 30 days of commencement.
+
+12.2
+
+The Trustee may not accelerate the Notes in accordance with Condition 12.1 by reference
+
+<<<
+
+
+
+to a specific Event of Default if it is no longer continuing or if it has been decided, on a
+
+Noteholders Meeting or by way of a Written Procedure, to waive such Event of Default
+
+temporarily or permanently.
+
+12.3
+
+The Trustee may, or the
+
+<<<
+
+ Noteholders of at least fifty (50) per cent. of the Adjusted Nominal
+
+Amount may on demand in writing to the Trustee, waive all past or existing Events of
+
+Default (other than with respect to non-payment) and may rescind any such acceleration
+
+<<<
+
+
+
+with respect to the Notes and its consequences if rescission would not conflict with any
+
+judgment or decree of a court of competent jurisdiction and if all amounts then due with
+
+respect to the Notes are paid (other than amount due solely
+
+<<<
+
+ because of such acceleration)
+
+and all other defaults with respect to the Notes are cured.
+
+38
+
+12.4
+
+The Trustee shall notify the Noteholders of an Event of Default within five (5) Business
+
+Days of the date on which the Trustee receives
+
+<<<
+
+ actual knowledge by way of written notice
+
+that an Event of Default has occurred and is continuing. The Trustee shall, within twenty
+
+(20) Business Days of the date on which the Trustee receives actual knowledge by way of
+
+written notice that
+
+<<<
+
+ an Event of Default has occurred and is continuing seek instructions
+
+from the Noteholders in accordance with Condition 14 (Decisions by Noteholders). The
+
+Trustee shall always be entitled to take the time necessary to consider whether an occurred
+
+<<<
+
+
+
+event constitutes an Event of Default.
+
+12.5
+
+If the Noteholders instruct the Trustee to accelerate the Notes in accordance with Condition
+
+12.1, the Trustee shall promptly declare the Notes due and payable and take such actions as
+
+the Noteholders
+
+<<<
+
+ deem to be necessary or desirable to enforce the rights of the Noteholders
+
+under the Finance Documents, unless the relevant Event of Default is no longer continuing.
+
+12.6
+
+If the right to accelerate the Notes is based upon a decision of a
+
+<<<
+
+ court of law or a
+
+government authority, it is not necessary that the decision has become enforceable under
+
+law or that the period of appeal has expired in order for cause of acceleration to be deemed
+
+to exist.
+
+12.7
+
+In the event of an acceleration
+
+<<<
+
+ of the Notes in accordance with this Condition 12, the Issuer
+
+shall redeem all Notes at an amount per Note equal to 100 per cent. of the Nominal
+
+Amount, together with accrued but unpaid Interest.
+
+13.
+
+DISTRIBUTION OF PROCEEDS
+
+13.1
+
+All
+
+<<<
+
+ payments by the Issuer relating to the Notes and the Finance Documents following an
+
+acceleration of the Notes in accordance with Condition 11.8 (Acceleration o f the Notes)
+
+shall be distributed in the following order of priority, in accordance
+
+<<<
+
+ with the instructions of
+
+the Trustee:
+
+(a) first, in or towards payment pro rata of (i) all unpaid fees, costs, expenses and indemnities payable by the Issuer to the Trustee in accordance with the Trust Agreement (other than any indemnity
+
+<<<
+
+ given for liability against the Noteholders), (ii) other costs, expenses and indemnities relating to the acceleration of the Notes or the protection of the Noteholders' rights as may have been incurred by the Trustee, (iii) any costs incurred
+
+<<<
+
+ by the Trustee for external experts that have not been reimbursed by the Issuer in accordance with Condition 18.2.5, and (iv) any costs and expenses incurred by the Trustee in relation to a Noteholders' Meeting or a Written Procedure that have
+
+<<<
+
+ not been reimbursed by the Issuer in accordance with Condition 14.13;
+
+(b) secondly, in or towards payment pro rata of accrued but unpaid Interest under the Notes (Interest due on an earlier Interest Payment Date to be paid before any Interest
+
+<<<
+
+ due on a later Interest Payment Date);
+
+(c) thirdly, in or towards payment pro rata of any unpaid principal under the Notes; and
+
+(d) fourthly, in or towards payment pro rata of any other costs or outstanding amounts unpaid under the Finance
+
+<<<
+
+ Documents.
+
+39
+
+Any excess funds after the application of proceeds in accordance with paragraphs (a) to (d) above shall be paid to the Issuer.
+
+13.2
+
+Funds that the Trustee receives (directly or indirectly) in connection with the acceleration
+
+<<<
+
+
+
+of the Notes shall be held on trust by the Trustee on the terms set out in the Trust Deed.
+
+The Trustee shall arrange for payments of such funds in accordance with this Condition 13
+
+as soon as reasonably practicable.
+
+13.3
+
+If the Issuer
+
+<<<
+
+ or the Trustee shall make any payment under this Condition 13, the Issuer or
+
+the Trustee, as applicable, shall notify the Noteholders of any such payment at least fifteen
+
+(15) Business Days before the payment is made. Such notice shall specify
+
+<<<
+
+ the Redemption
+
+Date and also the Record Date on which a person shall be registered as a Noteholder to
+
+receive the amounts due on such Redemption Date. Notwithstanding the foregoing, for any
+
+Interest due but unpaid the Record Date specified
+
+<<<
+
+ in Condition 7.1 shall apply.
+
+14.
+
+DECISIONS BY NOTEHOLDERS
+
+14.1
+
+A request by the Trustee for a decision by the Noteholders on a matter relating to the
+
+Finance Documents shall (at the option of the Trustee) be dealt with at a Noteholders
+
+<<<
+
+'
+
+Meeting or by way of a Written Procedure.
+
+14.2
+
+Any request from the Issuer or a Noteholder (or Noteholders) representing at least ten
+
+(10) per cent. of the Adjusted Nominal Amount (such request may only be validly made by
+
+a person who
+
+<<<
+
+ is a Noteholder on the Business Day immediately following the day on which
+
+the request is received by the Trustee) for a decision by the Noteholders on a matter
+
+relating to the Finance Documents shall be directed to the Trustee and dealt
+
+<<<
+
+ with at a
+
+Noteholders' Meeting or by way a Written Procedure, as determined by the Trustee. The
+
+person requesting the decision may suggest the form for decision making, but if it is in the
+
+Trustee's opinion more appropriate that a matter
+
+<<<
+
+ is dealt with at a Noteholders' Meeting
+
+than by way of a Written Procedure, it shall be dealt with at a Noteholders' Meeting.
+
+14.3
+
+The Trustee may refrain from convening a Noteholders' Meeting or instigating a Written
+
+Procedure if (i) the
+
+<<<
+
+ suggested decision must be approved by any person in addition to the
+
+Noteholders and such person has informed the Trustee that an approval will not be given,
+
+or (ii) the suggested decision is not in accordance with applicable laws.
+
+14.4
+
+<<<
+
+
+
+Only a person who is, or who has been provided with a power of attorney pursuant to
+
+Condition 6 (Right to act on behalfo fa Noteholder) from a person who is, registered as a
+
+Noteholder:
+
+(a) on the Record Date prior to the date of the Noteholders
+
+<<<
+
+' Meeting, in respect of a Noteholders' Meeting, or
+
+(b) on the Business Day specified in the communication pursuant to Condition 16.2, in respect of a Written Procedure,
+
+may exercise voting rights as a Noteholder at such Noteholders' Meeting
+
+<<<
+
+ or in such Written Procedure, provided that the relevant Notes are included in the Adjusted Nominal Amount.
+
+14.5
+
+The following matters shall require the consent of Noteholders representing at least sixty
+
+six and two thirds (66-2/3) per cent
+
+<<<
+
+. of the Adjusted Nominal Amount for which
+
+40
+
+Noteholders are voting at a Noteholders' Meeting or for which Noteholders reply in a Written Procedure in accordance with the instructions given pursuant to Condition 16.2:
+
+(a) a change to the
+
+<<<
+
+ terms of any of Condition 2.1, and Conditions 2.5 to 2.7;
+
+(b) a reduction of any premium payable upon the redemption or repurchase of any Note pursuant to Clause 9 (Redemption and repurchase o f the Notes);
+
+(c) a change to the Interest Rate
+
+<<<
+
+ or the Nominal Amount;
+
+(d) a change to the terms for the distribution of proceeds set out in Condition 13 (Distribution o fproceeds);
+
+(e) a change to the terms dealing with the requirements for Noteholders' consent set out in this Condition
+
+<<<
+
+ 14;
+
+(f) an extension of the tenor of the Notes or any delay of the due date for payment of any principal or interest on the Notes;
+
+(g) a mandatory exchange of the Notes for other securities; and
+
+(h) early redemption of the Notes, other than
+
+<<<
+
+ upon an acceleration of the Notes pursuant to Condition 11.8 (Acceleration o f the Notes) or as otherwise permitted or required by these Terms and Conditions.
+
+14.6
+
+Any matter not covered by Condition 14.5 shall require the consent of Noteholders
+
+<<<
+
+
+
+representing more than fifty (50) per cent. of the Adjusted Nominal Amount for which
+
+Noteholders are voting at a Noteholders' Meeting or for which Noteholders reply in a
+
+Written Procedure in accordance with the instructions given pursuant
+
+<<<
+
+ to Condition 16.2.
+
+This includes, but is not limited to, any amendment to, or waiver of, the terms of any
+
+Finance Document that does not require a higher majority (other than an amendment
+
+permitted pursuant to Condition 17.1(a) or (b)),
+
+<<<
+
+ an acceleration of the Notes.
+
+14.7
+
+Quorum at a Noteholders' Meeting or in respect of a Written Procedure only exists if a
+
+Noteholder (or Noteholders) representing at least fifty (50) per cent. of the Adjusted
+
+Nominal Amount in case of a
+
+<<<
+
+ matter pursuant to Condition 14.5, and otherwise twenty (20)
+
+per cent. of the Adjusted Nominal Amount:
+
+(a) if at a Noteholders' Meeting, attend the meeting in person or by telephone conference (or appear through duly authorised representatives
+
+<<<
+
+); or
+
+(b) if in respect of a Written Procedure, reply to the request.
+
+If a quorum exists for some but not all of the matters to be dealt with at a Noteholders' Meeting or by a Written Procedure, decisions may be taken in the matters for which
+
+<<<
+
+ a quorum exists.
+
+14.8
+
+If a quorum does not exist at a Noteholders' Meeting or in respect of a Written Procedure,
+
+the Trustee or the Issuer shall convene a second Noteholders' Meeting (in accordance with
+
+Condition 15.1) or initiate a second
+
+<<<
+
+ Written Procedure (in accordance with Condition 16.1), as the case may be, provided that the person(s) who initiated the procedure for Noteholders' consent has confirmed that the relevant proposal is not withdrawn. For the purposes of a second
+
+<<<
+
+ Noteholders' Meeting or second Written
+
+41
+
+14.9 14.10 14.11
+14.12 14.13 14.14
+14.15
+15. 15.1
+
+Procedure pursuant to this Condition 14.8, the date of request of the second Noteholders' Meeting pursuant to Condition 15.1 or second Written Procedure
+
+<<<
+
+ pursuant to Condition 16.1, as the case may be, shall be deemed to be the relevant date when the quorum did not exist. The quorum requirement in Condition 14.7 shall not apply to such second Noteholders' Meeting or Written Procedure.
+Any decision
+
+<<<
+
+ which extends or increases the obligations of the Issuer or the Trustee, or limits, reduces or extinguishes the rights or benefits of the Issuer or the Trustee, under the Finance Documents shall be subject to the Issuer's or the Trustee's consent
+
+<<<
+
+, as applicable.
+A Noteholder holding more than one Note need not use all its votes or cast all the votes to which it is entitled in the same way and may in its discretion use or cast some of its votes only.
+The Issuer may not, directly or indirectly
+
+<<<
+
+, pay or cause to be paid any consideration to or for the benefit of any Noteholder for or as inducement to any consent under these Terms and Conditions, unless such consideration is offered to all Noteholders that consent at the relevant Noteholders
+
+<<<
+
+' Meeting or in a Written Procedure within the time period stipulated for the consideration to be payable or the time period for replies in the Written Procedure, as the case may be.
+A matter decided at a duly convened and held Noteholders'
+
+<<<
+
+ Meeting or by way of Written Procedure is binding on all Noteholders, irrespective of them being present or represented at the Noteholders' Meeting or responding in the Written Procedure. The Noteholders that have not adopted or voted for a
+
+<<<
+
+ decision shall not be liable for any damages that this may cause other Noteholders and vice versa.
+All costs and expenses incurred by the Issuer or the Trustee for the purpose of convening a Noteholders' Meeting or for the purpose of carrying
+
+<<<
+
+ out a Written Procedure, including reasonable fees to the Trustee, shall be paid by the Issuer.
+If a decision is to be taken by the Noteholders on a matter relating to the Finance Documents, the Issuer shall promptly at the request of the Trustee
+
+<<<
+
+ provide the Trustee with a certificate specifying the number of Notes owned by Group Companies or (to the knowledge of the Issuer) Affiliates, irrespective of whether such person is directly registered as owner of such Notes. The Trustee shall
+
+<<<
+
+ not be responsible for the accuracy of such certificate or otherwise be responsible for determining whether a Note is owned by a Group Company or an Affiliate.
+Information about decisions taken at a Noteholders' Meeting or by way of a Written
+
+<<<
+
+ Procedure shall promptly be sent by notice to the Noteholders and published on the website of the Issuer, provided that a failure to do so shall not invalidate any decision made or voting result achieved. The minutes from the relevant Noteholders
+
+<<<
+
+' Meeting or Written Procedure shall at the request of a Noteholder be sent to it by the Issuer or the Trustee, as applicable.
+NOTEHOLDERS' MEETING
+The Trustee shall convene a Noteholders' Meeting as soon as practicable and in any event no later
+
+<<<
+
+ than ten (10) Business Days after receipt of a valid request from the Issuer or the Noteholder(s) (or such later date as may be necessary for technical or administrative reasons) by sending a notice thereof to each person who is registered
+
+<<<
+
+ as a Noteholder on a
+42
+
+date selected by the Trustee which falls no more than five (5) Business Days prior to the date on which the notice is sent.
+
+15.2
+
+Should the Issuer wish to replace the Trustee, it may convene a Noteholders' Meeting
+
+<<<
+
+ in
+
+accordance with Condition 15.1 with a copy to the Trustee. After a request from the
+
+Noteholders pursuant to Condition 18.4.3, the Issuer shall no later than five (5) Business
+
+Days after receipt of such request (or such later date as may
+
+<<<
+
+ be necessary for technical or
+
+administrative reasons) convene a Noteholders Meeting in accordance with Condition 15.1.
+
+15.3
+
+The notice pursuant to Condition 15.1 shall include (i) time for the meeting, (ii) place for
+
+the meeting, (iii)
+
+<<<
+
+ agenda for the meeting (including each request for a decision by the
+
+Noteholders), and (iv) a form of power of attorney. Only matters that have been included in
+
+the notice may be resolved upon at the Noteholders' Meeting. Should prior notification
+
+<<<
+
+ by
+
+the Noteholders be required in order to attend the Noteholders' Meeting, such requirement
+
+shall be included in the notice.
+
+15.4
+
+The Noteholders' Meeting shall be held no earlier than ten (10) Business Days and no later
+
+than thirty 
+
+<<<
+
+(30) Business Days after the effective date of the notice.
+
+15.5
+
+Without amending or varying these Terms and Conditions, the Trustee may prescribe such
+
+further regulations regarding the convening and holding of a Noteholders' Meeting as the
+
+<<<
+
+
+
+Trustee may deem appropriate. Such regulations may include a possibility for Noteholders
+
+to vote without attending the meeting in person.
+
+16.
+
+WRITTEN PROCEDURE
+
+16.1
+
+The Trustee shall instigate a Written Procedure as soon as practicable
+
+<<<
+
+ and in any event no
+
+later than ten (10) Business Days after receipt of a valid request from the Issuer or the
+
+Noteholder(s) (or such later date as may be necessary for technical or administrative
+
+reasons) by sending a communication to each
+
+<<<
+
+ person who is registered as a Noteholder on
+
+a date selected by the Trustee which falls no more than five (5) Business Days prior to the
+
+date on which the communication is sent.
+
+16.2
+
+Should the Issuer wish to replace the Trustee, it may
+
+<<<
+
+ instigate a Written Procedure in
+
+accordance with Condition 16.1 with a copy to the Trustee.
+
+16.3
+
+A communication pursuant to Condition 16.1 shall include (i) each request for a decision
+
+by the Noteholders, (ii) a description of the reasons
+
+<<<
+
+ for each request, (iii) a specification of
+
+the Business Day on which a person must be registered as a Noteholder in order to be
+
+entitled to exercise voting rights, (iv) instructions and directions on where to receive a form
+
+for replying
+
+<<<
+
+ to the request (such form to include an option to vote yes or no for each
+
+request) as well as a form of power of attorney, and (v) the stipulated time period within
+
+which the Noteholder must reply to the request (such time period to last
+
+<<<
+
+ at least ten (10)
+
+Business Days and not longer than thirty (30) Business Days from the effective date of the
+
+communication pursuant to Condition 16.1). If the voting is to be made electronically,
+
+instructions for such voting shall be included
+
+<<<
+
+ in the communication.
+
+16.4
+
+When consents from Noteholders representing the requisite majority of the total Adjusted
+
+Nominal Amount pursuant to Conditions 14.5 and 14.6 have been received in a Written
+
+Procedure, the relevant decision shall
+
+<<<
+
+ be deemed to be adopted pursuant to Condition 14.5
+
+or 14.6, as the case may be, even if the time period for replies in the Written Procedure has
+
+not yet expired.
+
+43
+
+17. 17.1
+17.2 17.3
+17.4 18. 18.1 18.1.1
+18.1.2 18.1.3 18.1.4
+
+AMENDMENTS
+
+<<<
+
+ AND WAIVERS
+The Issuer and the Trustee (acting on behalf of the Noteholders) may agree to amend the Finance Documents or waive any provision in a Finance Document, provided that:
+(a) such amendment or waiver is not detrimental to the interest
+
+<<<
+
+ of the Noteholders as a group, or is made solely for the purpose of rectifying obvious errors and mistakes;
+(b) such amendment or waiver is required by applicable law, a court ruling or a decision by a relevant authority; or
+(c) such amendment
+
+<<<
+
+ or waiver has been duly approved by the Noteholders in accordance with Condition 14 (Decisions by Noteholders).
+The consent of the Noteholders is not necessary to approve the particular form of any amendment to the Finance Documents. It is
+
+<<<
+
+ sufficient if such consent approves the substance of the amendment.
+The Trustee shall promptly notify the Noteholders of any amendments or waivers made in accordance with Condition 17.1, setting out the date from which the amendment or waiver
+
+<<<
+
+ will be effective, and ensure that any amendments to the Finance Documents are published in the manner stipulated in Condition 10.3 (Publication o fFinance Documents). The Issuer shall ensure that any amendments to the Finance Documents are
+
+<<<
+
+ duly registered with the CSD and each other relevant organisation or authority.
+An amendment to the Finance Documents shall take effect on the date determined by the Noteholders Meeting, in the Written Procedure or by the Trustee, as the case
+
+<<<
+
+ may be.
+APPOINTMENT AND REPLACEMENT OF THE TRUSTEE
+Appointment of the Trustee
+By subscribing for Notes, each initial Noteholder appoints the Trustee to act pursuant to the Trust Deed as trustee in all matters relating to the Notes and the Finance
+
+<<<
+
+ Documents, and authorises the Trustee to act on its behalf (without first having to obtain its consent, unless such consent is specifically required by these Terms and Conditions or the Trust Deed) in any legal or arbitration proceedings relating
+
+<<<
+
+ to the Notes held by such Noteholder. By acquiring Notes, each Additional Noteholder confirms such appointment and authorisation for the Trustee to act on its behalf.
+The Trustee shall not be bound to take any action in relation to the Trust
+
+<<<
+
+ Deed and these Terms and Conditions unless directed to do so in accordance with Conditions 14, 15 and/or 16, as applicable, and it has been indemnified and/or secured and/or prefunded to its satisfaction.
+The Issuer shall promptly upon request
+
+<<<
+
+ provide the Trustee with any documents and other assistance (in form and substance satisfactory to the Trustee), that the Trustee deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents
+
+<<<
+
+.
+The Trustee is entitled to fees for its work and to be indemnified for costs, losses and liabilities on the terms set out in the Finance Documents and the Trustee's obligations as
+44
+
+18.1.5 18.2 18.2.1 18.2.2 18.2.3 18.2.4 18.2.5
+18.2.6
+
+<<<
+
+ 18.2.7 18.2.8
+
+Trustee under the Finance Documents are conditioned upon the due payment of such fees and indemnifications.
+The Trustee may act as Trustee or trustee for several issues of securities issued by or relating to the Issuer and other
+
+<<<
+
+ Group Companies notwithstanding potential conflicts of interest.
+Duties of the Trustee
+The Trustee shall represent the Noteholders in accordance with the Finance Documents, The Trustee is not responsible for the execution or enforceability
+
+<<<
+
+ of the Finance Documents.
+When acting in accordance with the Finance Documents, the Trustee is always acting with binding effect on behalf of the Noteholders. The Trustee shall carry out its duties under the Finance Documents with the degree
+
+<<<
+
+ of care and diligence required of it as a trustee having regard to the provisions of the Trust Deed and the other Finance Documents.
+The Trustee is entitled to delegate its duties to other professional parties, but the Trustee shall remain
+
+<<<
+
+ liable for the actions of such parties under the Finance Documents.
+The Trustee shall treat all Noteholders equally and, when acting pursuant to the Finance Documents, act with regard only to the interests of the Noteholders and shall not be
+
+<<<
+
+ required to have regard to the interests or to act upon or comply with any direction or request of any other person, other than as explicitly stated in the Finance Documents.
+The Trustee is entitled to engage external experts when carrying
+
+<<<
+
+ out its duties under the Finance Documents. The Issuer shall on demand by the Trustee pay all costs for external experts engaged after the occurrence of an Event of Default, or for the purpose of investigating or considering (i) an event or
+
+<<<
+
+ circumstance which the Trustee reasonably believes is or may lead to an Event of Default or (ii) a matter relating to the Issuer which the Trustee reasonably believes may be detrimental to the interests of the Noteholders under the Finance
+
+<<<
+
+ Documents. Any compensation for damages or other recoveries received by the Trustee from external experts engaged by it for the purpose of carrying out its duties under the Finance Documents shall be distributed in accordance with Condition
+
+<<<
+
+ 13 (Distribution o fproceeds).
+The Trustee shall, as applicable, enter into agreements with the CSD, and comply with such agreement and the CSD Regulations applicable to the Trustee, as may be necessary in order for the Trustee to carry out
+
+<<<
+
+ its duties under the Finance Documents.
+Notwithstanding any other provision of the Finance Documents to the contrary, the Trustee is not obliged to do or omit to do anything if it would or might in its reasonable opinion constitute a breach
+
+<<<
+
+ of any law or regulation.
+If in the Trustee's reasonable opinion the cost, loss or liability which it may incur (including reasonable fees to the Trustee) in complying with instructions of the Noteholders, or taking any action at its own initiative
+
+<<<
+
+, will not be covered by the Issuer, the Trustee may refrain from acting in accordance with such instructions, or taking such action, until it has received such funding or indemnities (or adequate Lien has been provided therefore) as it may
+
+<<<
+
+ reasonably require.
+
+45
+
+18.2.9 18.3 18.3.1 18.3.2
+18.3.3
+18.3.4 18.3.5 18.4 18.4.1 18.4.2 18.4.3
+
+The Trustee shall give a notice to the Noteholders (i) before it ceases to perform its obligations under the Finance Documents by reason of
+
+<<<
+
+ the non-payment by the Issuer of any fee or indemnity due to the Trustee under the Finance Documents or (ii) if it refrains from acting for any reason described in Condition 18.2.8.
+Limited liability for the Trustee
+The Trustee will not be
+
+<<<
+
+ liable to the Noteholders for damage or loss caused by any action taken or omitted by it under or in connection with any Finance Document, unless directly caused by its gross negligence, wilful default or fraud. The Trustee shall never be responsible
+
+<<<
+
+ for indirect or consequential loss.
+The Trustee shall not be considered to have acted negligently if it has acted in accordance with advice from or opinions of reputable external experts engaged by the Trustee or if the Trustee has acted with
+
+<<<
+
+ reasonable care in a situation when the Trustee considers that it is detrimental to the interests of the Noteholders to delay the action in order to first obtain instructions from the Noteholders.
+The Trustee shall not be liable for any delay
+
+<<<
+
+ (or any related consequences) in crediting an account with an amount required pursuant to the Finance Documents to be paid by the Trustee to the Noteholders, provided that the Trustee has taken all necessary steps as soon as reasonably practicable
+
+<<<
+
+ to comply with the regulations or operating procedures of any recognised clearing or settlement system used by the Trustee for that purpose.
+The Trustee shall have no liability to the Noteholders for damage caused by the Trustee acting in accordance
+
+<<<
+
+ with instructions of the Noteholders given in accordance with Condition 14 (Decisions by Noteholders) or a demand by Noteholders given pursuant to Condition 12.1.
+Any liability towards the Issuer which is incurred by the Trustee in acting under
+
+<<<
+
+, or in relation to, the Finance Documents shall not be subject to set-off against the obligations of the Issuer to the Noteholders under the Finance Documents.
+Replacement of the Trustee
+Subject to Condition 18.4.6, the Trustee may resign by
+
+<<<
+
+ giving notice to the Issuer and the Noteholders, in which case the Noteholders shall appoint a successor Trustee at a Noteholders' Meeting convened by the retiring Trustee or by way of Written Procedure initiated by the retiring Trustee.
+Subject
+
+<<<
+
+ to Condition 18.4.6, if the Trustee is Insolvent, the Trustee shall be deemed to resign as Trustee and the Issuer shall within ten (10) Business Days appoint a successor Trustee which shall be an independent financial institution or other reputable
+
+<<<
+
+ company which regularly acts as trustee under debt issuances.
+A Noteholder (or Noteholders) representing at least ten (10) per cent. of the Adjusted Nominal Amount may, by notice to the Issuer (such notice may only be validly given by a person
+
+<<<
+
+ who is a Noteholder on the Business Day immediately following the day on which the notice is received by the Issuer), require that a Noteholders' Meeting is held for the purpose of dismissing the Trustee and appointing a new Trustee. The Issuer
+
+<<<
+
+ may, at a Noteholders' Meeting convened by it or by way of Written Procedure initiated by it, propose to the Noteholders that the Trustee be dismissed and a new Trustee appointed.
+46
+
+18.4.4 18.4.5 18.4.6 18.4.7
+18.4.8
+18.5 18.5.1
+18.5.2 
+
+<<<
+
+19. 19.1 19.2
+
+If the Noteholders have not appointed a successor Trustee within ninety (90) days after (i) the earlier of the notice of resignation was given or the resignation otherwise took place or (ii) the Trustee was dismissed through a
+
+<<<
+
+ decision by the Noteholders, the Issuer shall appoint a successor Trustee which shall be an independent financial institution or other reputable company which regularly acts as trustee under debt issuances.
+The retiring Trustee shall, at its
+
+<<<
+
+ own cost, make available to the successor Trustee such documents and records and provide such assistance as the successor Trustee may reasonably request for the purposes of performing its functions as Trustee under the Finance Documents.
+The
+
+<<<
+
+ Trustee's resignation or dismissal shall only take effect upon the appointment of a successor Trustee and acceptance by such successor Trustee of such appointment and the execution of all necessary documentation to effectively substitute the
+
+<<<
+
+ retiring Trustee.
+Upon the appointment of a successor, the retiring Trustee shall be discharged from any further obligation in respect of the Finance Documents but shall remain entitled to the benefit of the Finance Documents and remain liable
+
+<<<
+
+ under the Finance Documents in respect of any action which it took or failed to take whilst acting as Trustee. Its successor, the Issuer and each of the Noteholders shall have the same rights and obligations amongst themselves under the Finance
+
+<<<
+
+ Documents as they would have had if such successor had been the original Trustee.
+In the event that there is a change of the Trustee in accordance with this Condition 18.4, the Issuer shall execute such documents and take such actions as the
+
+<<<
+
+ new Trustee may reasonably require for the purpose of vesting in such new Trustee the rights, powers and obligation of the Trustee and releasing the retiring Trustee from its further obligations under the Finance Documents. Unless the Issuer
+
+<<<
+
+ and the new Trustee agree otherwise, the new Trustee shall be entitled to the same fees and the same indemnities as the retiring Trustee.
+New Trustee and Separate and Co-Trustees
+One or more persons may hold office as trustee or trustees under
+
+<<<
+
+ the Trust Deed but such trustee or trustees shall be or include a trust corporation. The power to appoint a new trustee under the Trust Deed shall be vested in the Issuer but no person shall be appointed who shall not previously have been approved
+
+<<<
+
+ by the Noteholders pursuant to Condition 16.6. Any appointment of a new trustee shall as soon as practicable thereafter be notified by the Issuer to the Noteholders in accordance with these Terms and Conditions.
+Notwithstanding the above, the
+
+<<<
+
+ Trustee may appoint any person established or resident in any jurisdiction (whether a trust corporation or not) to act either as a separate trustee or as a co-trustee jointly with the Trustee in certain circumstances.
+APPOINTMENT AND REPLACEMENT
+
+<<<
+
+ OF THE ISSUING AGENT
+The Issuer has appointed the Issuing Agent to manage certain specified tasks under these Terms and Conditions and in accordance with the legislation, rules and regulations applicable to and/or issued by the CSD and relating
+
+<<<
+
+ to the Notes.
+The Issuing Agent may retire from its assignment or be dismissed by the Issuer, provided that the Issuer has approved that a commercial bank or securities institution approved by
+47
+
+20.
+20.1 20.2
+21.
+22.
+23. 23.1 23.1.1
+
+the
+
+<<<
+
+ CSD accedes as new Issuing Agent at the same time as the old Issuing Agent retires or is dismissed.
+APPOINTMENT AND REPLACEMENT OF THE CSD
+The Issuer has appointed the CSD to manage certain tasks under these Terms and Conditions and in accordance
+
+<<<
+
+ with the CSD Regulations and the other regulations applicable to the Notes.
+The CSD may retire from its assignment or be dismissed by the Issuer, provided that the Issuer has effectively appointed a replacement CSD that accedes as CSD at the
+
+<<<
+
+ same time as the old CSD retires or is dismissed and provided also that the replacement does not have a negative effect on any Noteholder or the listing of the Notes on a Regulated Market. The replacing CSD must be authorised to professionally
+
+<<<
+
+ conduct clearing operations pursuant to the Securities Markets Act (lag (2007:528) om värdepappersmarknaden) and be authorised as a central securities depository in accordance with the Financial Instruments Account Act (lag (1998:1479) om kontoföring
+
+<<<
+
+ avfinansiella instrument).
+NO DIRECT ACTIONS BY NOTEHOLDERS
+No Noteholder shall itself be entitled to proceed directly against the Issuer unless the Trustee, having become bound to so proceed, fails to do so within a reasonable time and such
+
+<<<
+
+ failure is continuing. Further, a Noteholder may not take any steps whatsoever to enforce or recover any amount due or owing to it pursuant to the Trust Deed and/or the Notes, or to initiate, support or procure the winding-up, dissolution,
+
+<<<
+
+ liquidation, company reorganisation (företagsrekonstruktion) or bankruptcy (konkurs) (or its equivalent in any other jurisdiction) of the Issuer in relation to any of the obligations and liabilities of the Issuer under the Trust Deed and/or
+
+<<<
+
+ the Notes. Such steps may only be taken by the Trustee.
+PRESCRIPTION
+The right to receive repayment of the principal of the Notes shall become prescribed ten (10) years from the Redemption Date. The right to receive payment of interest (excluding
+
+<<<
+
+ any capitalised interest) shall be prescribed and become void five (5) years from the relevant due date for payment. The Issuer is entitled to any funds set aside for payments in respect of which the Noteholders' right to receive payment has
+
+<<<
+
+ been prescribed.
+NOTICES AND PRESS RELEASES
+Notices
+Any notice or other communication to be made under or in connection with the Finance Documents:
+(a) if to the Trustee, shall be given at Sveavägen 9, 111 57 Stockholm;
+(b) if to the Issuer
+
+<<<
+
+, shall be given at the address specified on its website www.millicom.com on the Business Day prior to dispatch; and
+(c) if to the Noteholders, shall be given at their addresses as registered with the CSD, on the Record Date prior to dispatch
+
+<<<
+
+, and by either courier delivery or letter for all Noteholders. A Notice to the Noteholders shall also be published on the websites of the Issuer and the Trustee.
+48
+
+23.1.2
+23.1.3 23.1.4 23.2 23.2.1 23.2.2
+24. 24.1
+24.2 24.3 24.4 25. 25.1
+
+<<<
+
+
+
+Any notice or other communication made by one person to another under or in connection with the Finance Documents shall be sent by way of courier, personal delivery or letter, or, if between the Issuer and the Trustee, by email, and will only
+
+<<<
+
+ be effective, in case of courier or personal delivery, when it has been left at the address specified in Condition 23.1.1, in case of letter, three (3) Business Days after being deposited postage prepaid in an envelope addressed to the address
+
+<<<
+
+ specified in Condition 23.1.1, or, in case of email, when received in readable form by the email recipient.
+Any notice pursuant to the Finance Documents shall be in English.
+Failure to send a notice or other communication to a Noteholder or
+
+<<<
+
+&&& any defect in it shall not affect its sufficiency with respect to other Noteholders.
+Press releases
+Any notice that the Issuer or the Trustee shall send to the Noteholders pursuant to Conditions 9.3 (Voluntary total redemption (Call option
+
+<<<
+
+)), 9.4 (Early redemption due to illegality), 9.5 (Repurchase with Excess Proceeds), 10.1.2, 12.4, 14.15, 15.1, 16.1 and 17.3 shall also be published by way of press release by the Issuer or the Trustee, as applicable.
+In addition to Condition
+
+<<<
+
+ 23.2.1, if any information relating to the Notes or the Issuer contained in a notice the Trustee may send to the Noteholders under these Terms and Conditions has not already been made public by way of a press release, the Trustee shall before
+
+<<<
+
+ it sends such information to the Noteholders give the Issuer the opportunity to issue a press release containing such information. If the Issuer does not promptly issue a press release and the Trustee considers it necessary to issue a press
+
+<<<
+
+ release containing such information before it can lawfully send a notice containing such information to the Noteholders, the Trustee shall be entitled to issue such press release.
+FORCE MAJEURE AND LIMITATION OF LIABILITY
+Neither the Trustee
+
+<<<
+
+ nor the Issuing Agent shall be held responsible for any damage arising out of any legal enactment, or any measure taken by a public authority, or war, strike, lockout, boycott, blockade, natural disaster, insurrection, civil commotion, terrorism
+
+<<<
+
+ or any other similar circumstance (a "Force Majeure Event"). The reservation in respect of strikes, lockouts, boycotts and blockades applies even if the Trustee or the Issuing Agent itself takes such measures, or is subject to such measures
+
+<<<
+
+.
+The Issuing Agent shall have no liability to the Noteholders if it has observed reasonable care. The Issuing Agent shall never be responsible for indirect damage with exception of gross negligence and wilful misconduct.
+Should a Force Majeure
+
+<<<
+
+ Event arise which prevents the Trustee or the Issuing Agent from taking any action required to comply with these Terms and Conditions, such action may be postponed until the obstacle has been removed.
+The provisions in this Condition 24 apply
+
+<<<
+
+ unless they are inconsistent with the provisions of the Financial Instruments Accounts Act which provisions shall take precedence.
+CONTRACTS (RIGHTS OF THIRD PARTIES) ACT 1999
+No person shall have any right to enforce any term or condition
+
+<<<
+
+ of the Notes under the Contracts (Rights of Third Parties) Act 1999 except and to the extent, if any, that the Notes
+49
+
+expressly provide for such Act to apply to any of their terms. This does not affect any right or remedy of a third party
+
+<<<
+
+ which exists or is available apart from that Act.
+
+25.2
+
+For the avoidance of doubt, the Issuing Agent is intended by the parties to this Agreement
+
+to have the rights under the Contract (Rights of Third Parties) Act 1999 to enforce the
+
+terms
+
+<<<
+
+ of Condition 4 (Condition Precedent)
+
+26.
+
+GOVERNING LAW AND JURISDICTION
+
+26.1
+
+The Trust Deed and the Notes, and any non-contractual obligations arising out of or in
+
+connection therewith, shall be governed by and construed in accordance
+
+<<<
+
+ with English law.
+
+26.2
+
+The Issuer has in the Trust Deed agreed for the benefit of the Trustee and the Noteholders
+
+that the English courts shall have exclusive jurisdiction in relation to all disputes arising
+
+out of or in connection with
+
+<<<
+
+ the Trust Deed or the Notes (including claims for set-off and
+
+counterclaims), including, without limitation, disputes arising out of or in connection with:
+
+(i) the creation, validity, effect, interpretation, performance or non-performance
+
+<<<
+
+ of, or the
+
+legal relationships established by the Trust Deed and the Notes; and (ii) any non
+
+contractual obligation arising out of or in connection with the Trust Deed and the Notes
+
+and accordingly submits to the exclusive jurisdiction of
+
+<<<
+
+ the English courts. For such
+
+purposes each of the Issuer and the Trustee irrevocably submits to the jurisdiction of the
+
+English courts and waives any objection to the exercise of such jurisdiction.
+
+26.3
+
+Notwithstanding that, under the Financial
+
+<<<
+
+ Instruments Accounts Act or the operating
+
+procedures, rules and regulations of the CSD, (together, the "Swedish Remedies"), holders
+
+of the Notes may have remedies against the Issuer for non-payment or non-performance
+
+under the Trust Deed
+
+<<<
+
+ and the Notes, a Noteholder must first exhaust all available remedies
+
+in the courts of England and Wales for non-payment or non-performance before any
+
+proceedings may be brought against the Issuer in Sweden in respect of the Swedish
+
+Remedies
+
+<<<
+
+. Notwithstanding the above, and in this limited respect only, a Noteholder may
+
+not therefore take concurrent proceedings in Sweden.
+
+26.4
+
+The Issuer:
+
+(a) waives any objection to the choice of or submission to the English courts on the grounds
+
+<<<
+
+ of inconvenient forum or otherwise as regards proceedings in connection with the Trust Deed and the Notes or any non-contractual obligations arising out of or in connection with the Trust Deed and the Notes; and
+(b) agrees that a judgment,
+
+<<<
+
+ declaration or order (whether interim or final) of an English court in connection with the Trust Deed and the Notes or any non contractual obligations arising out of or in connection with the Trust Deed and the Notes is conclusive and binding
+
+<<<
+
+ on it and may be enforced against it in the courts of any other jurisdiction.
+
+26.5
+
+To the extent permitted by law, the Trustee and the Noteholders may take any suit, action
+
+or proceeding arising out of or in connection with the Trust Deed
+
+<<<
+
+ and the Notes against the
+
+Issuer in any other court of competent jurisdiction.
+
+26.6
+
+If at any time the Issuer ceases to maintain an office at 5thFloor, 610 Chiswick High Road,
+
+London, W4 5RU, United Kingdom or at such other address in England
+
+<<<
+
+ and Wales as the
+
+Issuer may specify by notice in writing to the Trustee to which service of process and any
+
+50
+
+other documents in proceedings in England in connection with the Trust Deed and the Notes, including these Terms and Conditions
+
+<<<
+
+ may be made, the Issuer shall appoint an agent in England to which process and any such documents may be served. Any writ, judgment or other notice of legal process shall be sufficiently served on the Issuer if delivered to it (or, if appointed
+
+<<<
+
+, such agent) at its address in England for the time being. The Issuer undertakes with the Trustee not to revoke the authority of any such agent without the prior written consent of the Trustee.
+
+26.7
+
+The Issuer agrees that failure by a process
+
+<<<
+
+ agent (howsoever appointed) to notify the Issuer
+
+of the process will not invalidate the proceedings concerned.
+
+51
+
+

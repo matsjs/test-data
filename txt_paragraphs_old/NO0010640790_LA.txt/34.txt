@@ -1,0 +1,9 @@
+d = number of days from and including the immediately preceding Interest Payment Date;
+AI = accrued and unpaid interest on the principal amount of the Bonds from and including the immediately preceding Interest Payment Date to but excluding the Early Redemption Date.
+Notice of calling bonds must be submitted to Bondholders no less than twenty (20) and no more than forty (40) Business Days prior to the Early Redemption Date as the Bondholder's Conversion Rights shall prevail in the event of the Issuer exercising the call option. Interest accrued but not yet due on the redemption date will not be paid in the event Bondholder's Conversion Rights are exercised.
+10.3 Issuer's Forced Conversion
+At any time after fifty (50) trading days after Issue Date (the "Forced Conversion Date"), the Issuer may, provided that the Parity Value has exceeded 130% of the prevailing Early Redemption Amount on at least twenty (20) trading days within a period of thirty (30) consecutive trading days ending not earlier than five (5) trading days prior to the trading day on which the Issuer give notice to Bondholders pursuant to this clause, redeem the whole Bond by delivering to the Bondholders the underlying number of Shares together with interest accrued to but not yet paid by the Forced Conversion Date, where
+"Parity Value" means, in respect of any trading day, the USD amount calculated as follows:
+PV = N x VWAP,
+16
+Norsk Tillitsmann ASA

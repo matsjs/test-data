@@ -1,0 +1,9 @@
+(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
+average price during subscription period
+,,
+.
+New Exercise Price = ---------------------- ;----------------------------;------------ x old Exercise Price
+average price during the subscription period plus
+the average price of the warrants in the same period
+The average price is the average of the weighted average of official daily trading price on the exchange during the subscription period. Days without trading are not included in the calculation.
+(ii) if the Shares are not listed, each Bondholder shall have the same subscription right as the shareholders, as if the Bondholder already had exercised his Warrants.

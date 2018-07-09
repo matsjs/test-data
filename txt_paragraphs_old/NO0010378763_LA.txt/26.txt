@@ -1,0 +1,9 @@
+Partial redemption of the Loan must be carried out by drawing of lots between the Bonds (by a full repayment of individual Bonds, allocated randomly between the Bonds).
+10
+Norsk Tillitsmann ASA
+10.3 If a Change of Control Event has occurred, each Bondholder shall at any time in the Change of Control Conversion Period have the option to (at each Bondholder's discretion):
+(a) if the Change of Control Event occurred during the period from the Disbursement Date to but not including the Interest Payment Date in July 2008, have the bonds redeemed by the Borrower (put option) at 150 % of par value plus accrued interest; or
+(b) if the Change of Control Event occurred during the period from and including the Interest Payment Date in July 2008 have its Bonds redeemed by the Borrower (put option) at 101 % of par value plus accrued interest; or
+(c) convert its Bonds at the Change of Control Conversion Price, which shall be set out below, but in each case adjusted, if appropriate, under the provisions of Clauses 14 and 15 (provided that no adjustment to the Conversion Price will be made in respect of such Change of Control Event other than pursuant to this Clause 10.3 in respect of exercise of the conversion right in the Change of Control Conversion Period):
+COCCP = OCP / (1 + (CP x (c/t))), where:
+COCCP means the Change of Control Conversion Price; OCP means the Conversion Price in effect on the relevant Conversion Date (disregarding the application of this provision); CP means the conversion premium of 40 % (expressed as a fraction); c means the number of days from and including the date of the Change of Control Event to but excluding the Maturity Date; and t means the number of days from and including the Disbursement Date to but excluding the Maturity Date.

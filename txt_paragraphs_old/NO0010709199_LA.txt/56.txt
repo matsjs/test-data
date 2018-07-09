@@ -1,0 +1,9 @@
+(a) The Issuer shall pay interest on the par value of the Bonds from and including, the Issue Date at a fixed rate of 11 per cent. (11%) per annum (the "Fixed Rate"). The accrued interest on the Outstanding Bonds shall be settled through the issuance of additional Bonds to the Bondholders (the "Additional Bonds").
+9.2
+Interest Payment Dates
+Interest payments shall be made semi-annually in arrears on the Interest Payment Dates each year, the first Interest Payment Date being the Maturity Date and the second Interest Payment Date being the Extended Maturity Date, if the maturity has been extended in accordance with Clause 10.1.
+9.3 Calculation of interest payments
+(a) The relevant interest payable amount shall be calculated based on a period from and including the Issue Date to (but excluding) the first Interest Payment Date, and from and including the first Interest payment Date to (but excluding) the second Interest Payment Date.
+(b) The day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "30/360", which means the number of days in the calculation period in respect of which payment is being made divided by 360 (the number of days to be calculated on the basis of a year of 360 days with twelve 30-days months (unless (i) the last day of the calculation period is the 31st day of a month but the first day of the calculation period is a day other than the 30th or 31st day of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or (ii) the last day of the calculation period is the last day of the month of February, in which case the month of February shall not be considered to be lengthened to a 30-day month)).
+(c) The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+Interest

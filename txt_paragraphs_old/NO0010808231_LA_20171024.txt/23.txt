@@ -1,0 +1,9 @@
+"Mandatory Prepayment Event Date" means the settlement date for an early redemption due to a Mandatory Prepayment Event determined pursuant to Clause 10.4 (Early redemption due to a Mandatory Prepayment Event).
+12/65
+"Margin" means 8.50 per cent.
+"Material Adverse Effect" means an event or circumstance which has a material adverse effect on:
+(a) the business, financial condition or operations of the Issuer and/or the Group taken as a whole;
+(b) the ability of any Obligor to perform and comply with its obligations under any of the Finance Documents; or
+(c) the validity or enforceability of any of the Finance Documents.
+"Maturity Date" means 25 October 2022, adjusted according to the Business Day Convention.
+"Mid-Swap Rate" means the linearly interpolated Reference Rate in the currency of the Bonds for the actual period on the day falling two (2) Business Days before the notification to the Bondholders of the Make Whole Amount pursuant to Clause 10.2(c), or, if such is not quoted, the mid-swap rate for the leading banks in the relevant interbank market, based on the last quoted Reference Rate or mid-swap rate in the currency of the Bonds for the actual period. If any such rate is below zero, the Reference Rate will be deemed to be zero.

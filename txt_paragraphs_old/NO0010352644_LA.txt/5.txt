@@ -1,0 +1,9 @@
+9 Interest
+1,0 Maturity of the Loan and Call Option
+16
+11 Interest in the event of late payment
+17
+12 Borrower's acquisition of Borrower's Bonds
+18
+13 Covenants
+18

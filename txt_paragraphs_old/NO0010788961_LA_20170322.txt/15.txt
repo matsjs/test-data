@@ -1,0 +1,9 @@
+(a) the present value on the Call Option Repayment Date of the remaining interest payments (less any accrued and unpaid interest as of the Call Option Repayment Date) to and including the First Call Date,
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining duration until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
+"Manager" means ABG Sundal Collier ASA, who act as manager for the Bond Issue.
+"Margin" means 5.50 per cent.
+"Material Adverse Effect" means a material adverse effect on:
+(a) the Issuer's or any Guarantor's ability to perform and comply with its obligations under any of the Finance Documents, or
+(b) the validity or enforceability of any of the Finance Documents.
+"Material Group Company" means (i) the Issuer, (ii) any directly and wholly owned Subsidiary of the Issuer and (iii) any other member of the Group which has subsequently been designated as a Material Group Company by the Issuer pursuant to Clause 13.10 (Designation o fMaterial Group Companies).
+"Maturity Date" means 24 March 2021, adjusted according to the Business Day Convention.

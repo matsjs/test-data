@@ -1,0 +1,9 @@
+"Business Day" means a day in Sweden other than a Sunday or other public holiday, Saturdays, Midsummer Eve (Sw. midsommarafton), Christmas Eve (Sw. julafton) and New Year's Eve (Sw. nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
+"Call Option Amount" means:
+(a) 105.00 % of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the First Call Date to, but not including, the date falling nine months prior to the Final Redemption Date;
+(b) 104.00 % of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling nine months prior to the Final Redemption Date to, but not including, the date falling six months prior to the Final Redemption Date;
+(c) 103.00 % of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling six months prior to the Final Redemption Date to, but not including, the date falling three months prior to the Final Redemption Date; and
+(d) 102.00 % of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling three months prior to the Final Redemption Date to, but not including, the Final Redemption Date.
+3
+"Cash" means, at any time, cash in hand or at bank and (in the latter case) credited to an account in the name of a Group Company with a bank and to which a Group Company is alone (or together with other Group Companies) beneficially entitled and for so long as:
+(a) that cash is repayable within five (5) days after the relevant date;

@@ -1,0 +1,9 @@
+where the present value shall be calculated by using a discount rate of fifty (50) basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
+11/55
+"Margin" means 5.25 per cent, per annum
+"Material Adverse Effect" means a material adverse effect on:
+(a) the ability of the Parent or the Issuer to perform and comply with its obligations under any of the Finance Documents to which it is a party; or
+(b) the validity or enforceability of any of the Finance Documents.
+"Maturity Date" means 8 December 2023, adjusted according to the Business Day Convention.
+"Maximum Issue Amount" shall have the meaning ascribed to such term in Clause 2.1 {Amount, denomination and ISIN o f the Bonds).
+"Mid-Swap Rate" means the linearly interpolated Reference Rate in the currency of the Bonds for the actual period on the day falling two (2) Business Days before the notification to the Bondholders of the Make Whole Amount pursuant to paragraph (c) of Clause 10.2 {Voluntary early redemption - Call Option), or, if such is not quoted, the mid-swap rate for the leading banks in the relevant interbank market, based on the last quoted Reference Rate or mid-swap rate in the currency of the Bonds for the actual period.

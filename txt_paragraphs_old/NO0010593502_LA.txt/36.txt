@@ -1,0 +1,9 @@
+X
+Day Count Fraction
+9.6 - 9.12 are applicable to the Floating Rate Tranche
+9.6 The Issuer shall pay interest on the face value of the Bonds from, and including, the Interest Accrual Date at the Bond Reference Rate plus the Margin (together the "Floating R ate"). ").
+However, the Floating Rate is subject to possible reduction based on N et Interest Bearing Debt ("NXBB") to EBITDA ratio in the following manner. (i) If NIBD/EBITDA is greater than 3.75, no reduction (ii) If NIBD/EBITDA is less than 3.75, but greater than 3.00 - reduction o f 2.0% p.a. (iii) If NIBD/EBITDA is less than 3.00 - a reduction o f 4.0% p.a.
+Any such reduction o f the Floating Rate shall only be effective in the period horn and including the first Interest Payment Date following the relevant actual reporting, which leads to a Floating Rate reduction, and to the first Interest Payment date thereafter. For the avoidance o f doubt - any Floating Rate reduction are only made with effect for one interest period (3 months) at a time.
+9.7 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date falls in February 2011.
+9.8 The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+9.9 The day count fraction in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.

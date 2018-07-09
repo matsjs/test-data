@@ -1,0 +1,9 @@
+(i) if the Shares are listed on an exchange, a new Conversion Price shall be calculated as follows:
+.
+Average Subscription Period Price
+.. _
+New Conversion Price = -------------------------------------------------- x old Conversion Price
+Average Subscription Period Price plus
+the Average Subscription Rights Price
+where: (A) "Average Subscription Period Price" means the average of the weighted average o f official daily trading price of such Shares on the exchange, measured during the period when the Subscription Rights may be exercised, and (B) "Average Subscription Rights Price" means either (1) if the Borrower has listed the Subscription Rights on an exchange, the average of the weighted average o f official daily trading price of such Subscription Rights on the exchange, measured during the period when the Subscription Rights may be exercised, or (2) if the Borrower has not listed the Subscription Rights on an exchange, the average of the trading price of the Subscription Rights calculated by a broker agreed upon by the Borrower and the Loan Trustee, measured during the period when the Subscription Rights may be exercised Days without trading are not included in the aforesaid calculations.
+(ii) if the Shares are not listed, each Bondholder shall have the same subscription right as the shareholders, as if the Bondholder already had exercised his conversion right.

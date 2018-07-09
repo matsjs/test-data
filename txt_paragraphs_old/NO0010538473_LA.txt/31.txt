@@ -1,0 +1,9 @@
+Floating Rate
+Day Count Fraction
+10 Maturity of the Bonds and Redemption
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 Call Option 10.2.1 The Issuer may redeem parts of theBond Issue in multiples of NOIC 25 million or
+the entire Bond Issue as follows (Call Option):
+(i) any time from and included Interest Payment Date in September 2010 to, but not included, Interest Payment Date in September 2011 at 105 % of par plus accrued interests on redeemed amount.
+(ii) any time from and included Interest Payment Date in September 2011 to, but not included, Maturity Date at 103 % of par plus accrued interests on redeemed amount.

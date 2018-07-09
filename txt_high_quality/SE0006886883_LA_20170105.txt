@@ -1,0 +1,775 @@
+TERMS AND CONDITIONS FOR BERGTEAMET AB (PUBL) SEK 200,000,000
+SENIOR SECURED CALLABLE ZERO INTEREST BONDS 2015/2020
+ISIN: SE0006886883
+Issue Date: 22 April 2015
+The distribution o fthis document and the private placement o f the Bonds in certainjurisdictions may be restricted by law. Persons into whose possession this document comes are required to
+inform themselves about, and to observe, such restrictions. The Bonds have not been and will not be registered under the U.S. Securities Act o f1933, as amended, and are subject to U.S. tax law requirements. The Bonds may not be offered, sold or delivered within the United States o fAmerica or to, orfor the account or benefit of, U.S. persons.
+
+TABLE OF CONTENTS
+1. DEFINITIONS AND CONSTRUCTION............................................................................1 2. THE AMOUNT OF THE BONDS AND UNDERTAKING TO MAKE PAYMENTS..........7 3. STATUS OF THE BONDS...............................................................................................7 4. USE OF PROCEEDS......................................................................................................7 5. SECURITY...................................................................................................................... 7 6. THE BONDS AND TRANSFERABILITY.........................................................................9 7. BONDS IN ELECTRONIC BOOK-ENTRY FORM.......................................................... 9 8. RIGHT TO ACT ON BEHALF OF A HOLDER............................................................... 10 9. PAYMENTS IN RESPECT OF THE BONDS................................................................. 10 10. INTEREST..................................................................................................................... 11 11. REDEMPTION AND REPURCHASE OF THEBONDS..................................................11 12. SPECIAL UNDERTAKINGS.......................................................................................... 13 13. TERMINATION OF THE BONDS.................................................................................. 16 14. DISTRIBUTION OF PROCEEDS.................................................................................. 19 15. DECISIONS BY HOLDERS........................................................................................... 20 16. HOLDERS' MEETING...................................................................................................22 17. WRITTEN PROCEDURE...............................................................................................23 18. AMENDMENTS AND WAIVERS..................................................................................24 19. APPOINTMENT AND REPLACEMENT OF THEAGENT..............................................24 20. APPOINTMENT AND REPLACEMENT OF THEISSUING AGENT..............................28 21. NO DIRECT ACTIONS BY HOLDERS.........................................................................28 22. TIME-BAR...................................................................................................................... 28 23. NOTICES AND PRESS RELEASES............................................................................. 29 24. FORCE MAJEURE AND LIMITATION OFLIABILITY.................................................... 30 25. LISTING......................................................................................................................... 30 26. GOVERNING LAW AND JURISDICTION..................................................................... 30
+
+TERMS AND CONDITIONS FOR BERGTEAMET AB (PUBL) SEK 200,000,000
+SENIOR SECURED CALLABLE ZERO INTEREST BONDS 2015/2020
+ISIN: SE0006886883
+
+1.
+
+DEFINITIONS AND CONSTRUCTION
+
+1.1
+
+Definitions
+
+In these terms and conditions (these "Terms and Conditions"):
+
+"Account Operator" means a bank or other party duly authorised to operate as an account operator pursuant to the Financial Instruments Accounts Act and through which a Holder has opened a Securities Account in respect of its Bonds.
+
+"Accounting Principles" means the generally accepted local accounting principles, standards and practices in Sweden.
+
+"Adjusted Nominal Amount" means the total aggregate Nominal Amount of the Bonds outstanding at the relevant time less the Nominal Amount of all Bonds owned by a Group Company or an Affiliate of a Group Company, irrespective of whether such Person is directly registered as owner of such Bonds.
+
+"Advance Purchase Agreements" means (a) an advance or deferred purchase agreement if the agreement is in respect of the supply of assets or services and payment is due not more than ninety (90) calendar days after the date of supply, or (b) any other trade credit incurred in the ordinary course of business.
+
+"Affiliate" means any other Person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified Person. For the puipose of this definition, "control" when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms "controlling" and "controlled" have meanings correlative to the foregoing.
+
+"Agent" means the Holders' agent and security trustee under these Terms and Conditions and, if relevant, the other Finance Documents, from time to time; initially Nordic Trustee & Agency AB (publ) (reg. no. 556882-1879, P.O. Box 7329, SE-103 90 Stockholm, Sweden).
+
+"Agent Agreement" means the fee agreement entered into on or about the Issue Date between the Issuer and the Agent, or any replacement agent agreement entered into after the Issue Date between the Issuer and an Agent.
+
+1
+
+"Bond" means a debt instrument (Sw. skuldförbindelse) for the Nominal Amount and of the type set forth in Chapter 1 Section 3 of the Financial Instruments Accounts Act and which are governed by and issued under these Terms and Conditions.
+"Bond Issue" means the issuance of the Bonds on the Issue Date.
+"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (Sw. midsommarafton), Christmas Eve (Sw. julafton) and New Year's Eve (Sw. nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
+"Business Day Convention" means the first following day that is a Business Day.
+"Change of Control Event" means the occurrence of an event or series of events resulting in that (i) the Main Shareholders do not, directly or indirectly, (a) control more than 50.00 per cent, of the shares or voting rights in the Issuer, or (b) have the right to appoint or remove the whole or a majority of the directors of the board of directors of the Issuer or (ii) that Jan Marklund, born in 1964, does not, directly or indirectly, control at least 50.00 per cent, of the Main Shareholders' combined direct or indirect interest in the Issuer.
+"Compliance Certificate" means a certificate, in form and substance reasonably satisfactory to the Agent, signed by the Issuer certifying that so far as it is aware no Event of Default is continuing or, if it is aware that such event is continuing, specifying the event and steps, if any, being taken to remedy it.
+"CSD" means the Issuer's central securities depository and registrar in respect of the Bonds from time to time; initially Euroclear Sweden AB (reg. no. 556112-8074, P.O. Box 191, SE101 23 Stockholm, Sweden).
+"EBITDA" means, in respect of the Relevant Period, the consolidated profit of the Group from ordinary activities according to the latest Financial Report(s):
+(a) before deducting any amount of tax on profits, gains or income paid or payable by any Group Company;
+(b) before deducting any interest, commission, fees, discounts, prepayment fees, premiums or charges and other finance payments;
+(c) before taking into account any extraordinary or exceptional items which are not in line with the ordinary course of business;
+(d) before taking into account any Transaction Costs;
+(e) not including any accrued interest owing to any Group Company;
+(f) before taking into account any unrealised gains or losses on any derivative instrument (other than any derivative instruments which is accounted for on a hedge account basis);
+(g) after adding back or deducting, as the case may be, the amount of any loss or gain against book value arising on a disposal of any asset (other than in the ordinary 2
+
+course of trading) and any loss or gain arising from an upward or downward revaluation of any asset;
+(h) after deducting the amount of any profit (or adding back the amount of any loss) of any Group Company which is attributable to minority interests;
+(i) after adding back or deducting, as the case may be, the Group's share of the profits or losses of entities which are not part of the Group; and
+(j) after adding back any amount attributable to the amortisation, depreciation or depletion of assets of Group Companies.
+"Event of Default" means an event, circumstance or situation specified in Clause 13.1.
+"Final Redemption Date" means 22 April 2020.
+"Finance Documents" means these Terms and Conditions, the Agent Agreement, the Share Pledge Agreement and any other document designated by the Issuer and the Agent as a Finance Document.
+"Financial Indebtedness" means any indebtedness in respect of:
+(a) monies borrowed or raised, including Market Loans;
+(a) the amount of any liability in respect of any finance leases, to the extent the arrangement is or would have been treated as a finance lease in accordance with the Accounting Principles as applicable on the Issue Date (a lease which in the accounts of the Group is treated as an asset and a corresponding liability), and for the avoidance of doubt, any leases treated as operating leases under the Accounting Principles as applicable on the Issue Date shall not, regardless of any subsequent changes or amendments of the Accounting Principles, be considered as finance or capital leases;
+(b) receivables sold or discounted (other than any receivables to the extent they are sold on a non-recourse basis);
+(c) any amount raised under any other transaction (including any forward sale or purchase agreement) having the commercial effect of a borrowing;
+(d) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price (and, when calculating the value of any derivative transaction, only the mark to market value shall be taken into account);
+(e) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, standby or documentary letter of credit or any other instrument issued by a bank or financial institution; and
+(f) (without double counting) any guarantee or other assurance against financial loss in respect of a type referred to in the above items (a)-(f).
+3
+
+"Financial Instruments Accounts Act" means the Swedish Financial Instruments Accounts Act (Sw. lag (1998:1479) om kontoföring avfinansiella instrument).
+"Financial Report" means the annual audited consolidated financial statements of the Group, the annual audited unconsolidated financial statements of the Issuer or the half year interim unaudited consolidated reports of the Group, which shall be prepared and made available according to Clauses 12.10.1 (a) and 12.10.1 (b).
+"Financial Support" has the meaning set forth in Clause 12.5.
+"First North Bond Market" means the multilateral trading facility First North Bond Market of NASDAQ OMX Stockholm AB (reg. no. 556420-8394, SE-105 78 Stockholm, Sweden).
+"Force Majeure Event" has the meaning set forth in Clause 24.1.
+"Group" means the Issuer and all its Subsidiaries from time to time.
+"Group Company" means the Issuer or any of its Subsidiaries.
+"Holder" means the Person who is registered on a Securities Account as direct registered owner (Sw. ägare) or nominee (Sw. förvaltare) with respect to a Bond.
+"Holders' Meeting" means a meeting among the Holders held in accordance with Clause 16 (.Holders 'Meeting).
+"Instalments" means the SEK 100,000,000 cash payments (after deducting applicable transaction costs, where applicable) to be made by the Parent to the Issuer in accordance with and subject to the conditions set out in a separate agreement entered into between the Parent, the Issuer and the Agent.
+"Issue Date" means 22 April 2015.
+"Issuer" means Bergteamet AB (publ), a private limited liability company incorporated under the laws of Sweden (reg. no. 556524-0081, P.O. Box 13, SE-936 21 Boliden, Sweden).
+"Issuing Agent" means ABG Sundal Collier Norge ASA (reg. no. 883 603 362, Munkedamsveien 45, NO-0205 Oslo, Norway) or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
+"Listing Failure" means that the Bonds have not been listed on First North Bond Market within sixty (60) calendar days after the Issue Date.
+"Main Shareholder" means Jan Marklund, born in 1964, and Susanne Nygren, born in 1966, (each indirectly owning 50 per cent, of the shares in the Issuer as of the Issue Date).
+"Market Loan" means any loan or other indebtedness where an entity issues commercial paper, certificates, convertibles, subordinated debentures, bonds or any other debt securities (including, for the avoidance of doubt, medium term note programmes and other market funding programmes), provided in each case that such instruments and securities are or can be subject to trade on any regulated market or unregulated recognised market place.
+4
+
+"Material Adverse Effect" means a material adverse effect on (a) the business or financial condition of the Group taken as a whole, (b) the relevant Group Companies' ability to perform and comply with its payment undertakings under the Finance Documents or (c) the validity or enforceability of the Finance Documents.
+"Material Group Company" means the Issuer or any other Group Company whose (i) consolidated assets represent more than 5.00 per cent, of the total assets of the Group on a consolidated basis (for the avoidance of doubt, excluding any intra-group transactions) or (ii) whose consolidated EBITDA represents more than 5.00 per cent, of the EBITDA of the Group on a consolidated basis, according to the latest Financial Report and/or the latest financial report of the relevant Group Company (as applicable).
+"Nominal Amount" has the meaning set forth in Clause 2.1.
+"Parent" means Hogkammen AB (reg. no. 556699-9974, Fraktgatan 2, SE-936 31 Boliden, Sweden).
+"Person" means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organisation, government, or any agency or political subdivision thereof, or any other entity, whether or not having a separate legal personality.
+"Record Date" means the fifth (5*) Business Day prior to (a) a Redemption Date, (b) a date on which a payment to the Holders is to be made under Clause 14 (.Distribution o fproceeds), (c) the date of a Holders' Meeting, or (d) another relevant date, or in each case such other Business Day falling prior to a relevant date if generally applicable on the Swedish bond market.
+"Redemption Date" means the date on which the relevant Bonds are to be redeemed or repurchased in accordance with Clause 11 (Redemption and repurchase o f the Bonds).
+"Relevant Period" means each period of twelve (12) consecutive calendar months.
+"Restricted Payment" has the meaning set forth in Clause 12.1 (.Distributions).
+"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Financial Instruments Accounts Act in which (a) an owner of such security is directly registered or (b) an owner's holding of securities is registered in the name of a nominee.
+"Security Period" means the period from and including the Issue Date up to and including the earlier of (i) when all the Issuer's obligations under the Finance Documents have been duly and irrevocably paid and discharged in full or (ii) when the Instalments have been fully paid in cash by the Parent to the Issuer.
+"SEK" means the lawful currency of Sweden.
+"Share Pledge Agreement" means the share pledge agreement entered into between the Parent and the Agent (on behalf of itself and the Holders) on or about the Issue Date
+5
+
+1.2 1.2.1
+1.2.2 1.2.3
+
+regarding a first priority pledge over all shares issued by the Issuer, and all documents relating thereto.
+"Subsidiary" means, in relation to any Person, any legal entity (whether incorporated or not), in respect of which such Person, directly or indirectly, (a) owns shares or ownership rights representing more than 50.00 per cent, of the total number of votes held by the owners, (b) otherwise controls more than 50.00 per cent, of the total number of votes held by the owners, (c) has the power to appoint and remove all, or the majority of, the members of the board of directors or other governing body or (d) exercises control as determined in accordance with the Accounting Principles.
+"Transaction Costs" means all fees, costs and expenses incurred by the Parent or a Group Company in connection with (a) the Bond Issue, (b) the listing of the Bonds on First North Bond Market and (c) the acquisition, on or prior to the Issue Date, of the shares in the Issuer.
+"Transaction Security" means the security provided or to be provided under the Share Pledge Agreement.
+"Written Procedure" means the written or electronic procedure for decision making among the Holders in accordance with Clause 17 (Written Procedure).
+Construction
+Unless a contrary indication appears, any reference in these Terms and Conditions to:
+(a) "assets" includes present and future properties, revenues and rights of every description;
+(b) any agreement or instrument is a reference to that agreement or instrument as supplemented, amended, novated, extended, restated or replaced from time to time;
+(c) a "regulation" includes any regulation, rule or official directive (whether or not having the force of law) of any governmental, intergovernmental or supranational body, agency or department;
+(d) an Event of Default is continuing if it has not been remedied or waived;
+(e) a provision of law is a reference to that provision as amended or re-enacted; and
+(f) a time of day is a reference to Stockholm time.
+When ascertaining whether a limit or threshold specified in SEK has been attained or broken, an amount in another currency shall be counted on the basis of the rate of exchange for such currency against SEK for the previous Business Day, as published by the Swedish Central Bank (Sw. Riksbankeri) on its website (www.riksbank.se). If no such rate is available, the most recently published rate shall be used instead.
+A notice shall be deemed to be sent by way of press release if it is made available to the public within Sweden promptly and in a non-discriminatory manner.
+
+6
+
+1.2.4 2. 2.1 2.2 2.3 2.4 3.
+4. 5. 5.1
+5.2
+5.3
+
+No delay or omission of the Agent or of any Holder to exercise any right or remedy under these Terms and Conditions shall impair or operate as a waiver of any such right or remedy.
+THE AMOUNT OF THE BONDS AND UNDERTAKING TO MAKE PAYMENTS
+The aggregate amount of the bond loan will be SEK 200,000,000 which will be represented by Bonds, each of a nominal amount of SEK 100,000 or full multiples thereof (the "Nominal Amount"). The ISIN for the Bonds is SE0006886883.
+The Issuer undertakes to repay the Bonds and to otherwise act in accordance and comply with these Terms and Conditions.
+The Bonds are denominated in SEK and each Bond is constituted by these Terms and Conditions.
+By subscribing for Bonds, each initial Holder agrees that the Bonds shall benefit from and be subject to the Finance Documents and by acquiring Bonds each subsequent Holder confirms such agreements.
+STATUS OF THE BONDS
+The Bonds constitute direct, general, unconditional, unsubordinated and secured obligations of the Issuer and shall at all times rank pari passu and without any preference among them. The Bonds are secured by the Transaction Security.
+USE OF PROCEEDS
+The proceeds from the Bond Issue shall be used to capitalise the Group and pay Transaction Costs. The remainder shall be applied for general corporate purposes.
+SECURITY
+As continuing security for the due and punctual fulfilment of the Issuer's obligations under the Finance Documents, the Parent shall pledge on a first ranking basis to the Agent and the Holders (represented by the Agent) all shares in the Issuer pursuant to the Share Pledge Agreement.
+The Issuer shall ensure that the Share Pledge Agreement is duly executed by the Parent and any relevant Group Company in favour of the Agent and the Holders (represented by the Agent in its capacity as agent and security agent) and that such documents are legally valid, perfected, enforceable and in full force and effect according to their terms. The Issuer shall execute and/or procure the execution of such further documentation as the Agent may reasonably require in order for the Holders and the Agent to at all times maintain the security position envisaged hereunder.
+The Agent will, where applicable, hold the Transaction Security on behalf of itself and the Holders in accordance with these Terms and Conditions and the Share Pledge Agreement. The Transaction Security shall be irrevocably released by the Agent at the end of the Security Period.
+
+7
+
+Except if otherwise decided by the Holders according to the procedures set out in Clauses 15 (.Decisions by Holders), 16 (Holders' Meeting) and 17 {Written Procedure), the Agent is, without first having to obtain the Holders' consent, entitled to enter into binding agreements with the Parent, the Group Companies or third parties if it is, in the Agent's sole discretion, necessary for the purpose of establishing, maintaining, altering, releasing or enforcing the Transaction Security or for the purpose of settling the various Holders' relative rights to the Transaction Security. The Agent is entitled to take all measures available to it according to the Share Pledge Agreement.
+If the Bonds are declared due and payable according to Clause 13 {Termination o f the Bonds) or following the Final Redemption Date, the Agent is, without first having to obtain the Holders' consent, entitled to enforce the Transaction Security, in such manner and under such conditions that the Agent finds acceptable (subject to the terms of the Share Pledge Agreement).
+If a Holders' meeting has been convened to decide on the termination of the Bonds and/or the enforcement of all or any of the Transaction Security, the Agent is obligated, to take actions in accordance with the Holders' decision regarding the Transaction Security. However, if the Bonds are not terminated due to that the cause for termination has ceased or due to any other circumstance mentioned in these Terms and Conditions, the Agent shall not enforce any of the Transaction Security. If the Holders, without any prior initiative from the Agent or the Issuer, have made a decision regarding termination of the Bonds and enforcement of any of the Transaction Security in accordance with the procedures set out in Clauses 15 {Decisions by Holders), 16 {Holders' Meeting) and 17 {Written Procedure), the Agent shall promptly declare the Bonds terminated and enforce the Transaction Security. The Agent is however not liable to take action if the Agent considers cause for termination and/or acceleration not to be at hand, unless the instructing Holders in writing commit to holding the Agent indemnified and, at the Agent's own discretion, grant sufficient security for the obligation.
+Funds that the Agent receives on account of the Holders in connection with the termination of the Bonds or the enforcement of any or all of the Transaction Security constitute escrow funds (Sw. redovisningsmedeT) according to the Escrow Funds Act (Sw. lag (1944:181) om redovisningsmedel) and must be held on a separate interest-bearing account on behalf of the Holders and any other interested party. The Agent shall promptly arrange for payments to be made to the Holders in such case. The Agent shall arrange for payments of such funds in accordance with this Clause 5.7 as soon as reasonably practicable. If the Agent deems it appropriate, it may, in accordance with Clause 5.8, instruct the CSD to arrange for payment to the Holders.
+For the purpose of exercising the rights of the Holders and the Agent under these Terms and Conditions and for the purpose of distributing any funds originating from the enforcement of any Transaction Security, the Issuer irrevocably authorises and empowers the Agent to act in the name of the Issuer, and on behalf of the Issuer, to instruct the CSD to arrange for payment to the Holders in accordance with Clause 5.7. To the extent permissible by law, the powers set out in this Clause 5.8 are irrevocable and shall be valid for as long as any Bonds
+
+remain outstanding. The Issuer shall immediately upon request by the Agent provide the Agent with any such documents, including a written power of attorney (in form and substance to the Agent's satisfaction), which the Agent deems necessary for the purpose of carrying out its duties under Clause 5.7. Especially, the Issuer shall, upon the Agent's request, provide the Agent with a written power of attorney empowering the Agent to change the bank account registered with the CSD to a bank account in the name of the Agent and to instruct the CSD to pay out funds originating from an enforcement in accordance with Clause 5.7 to the Holders through the CSD.
+
+6.
+
+THE BONDS AND TRANSFERABILITY
+
+6.1
+
+Each Holder is bound by these Terms and Conditions without there being any further actions
+
+required to be taken or formalities to be complied with.
+
+6.2
+
+The Bonds are freely transferable. All Bond transfers are subject to these Terms and
+
+Conditions and these Terms and Conditions are automatically applicable in relation to all
+
+Bond transferees upon completed transfer.
+
+6.3
+
+Upon a transfer of Bonds, any rights and obligations under the Finance Documents relating
+
+to such Bonds are automatically transferred to the transferee.
+
+6.4
+
+No action is being taken in any jurisdiction that would or is intended to permit a public
+
+offering of the Bonds or the possession, circulation or distribution of any document or other
+
+material relating to the Issuer or the Bonds in any jurisdiction other than Sweden, where
+
+action for that purpose is required. Each Holder must inform itself about, and observe, any
+
+applicable restrictions to the transfer of material relating to the Issuer or the Bonds, (due to,
+
+e.g., its nationality, its residency, its registered address or its place(s) of business). Each
+
+Holder must ensure compliance with such restrictions at its own cost and expense.
+
+6.5
+
+For the avoidance of doubt and notwithstanding the above, a Holder which allegedly has
+
+purchased Bonds in contradiction to mandatory restrictions applicable may nevertheless
+
+utilise its voting rights under these Terms and Conditions and shall be entitled to exercise its
+
+full rights as a Holder hereunder in each case until such allegations have been resolved.
+
+7.
+
+BONDS IN ELECTRONIC BOOK-ENTRY FORM
+
+7.1
+
+The Bonds will be registered for the Holders on their respective Securities Accounts and no
+
+physical Bonds will be issued. Accordingly, the Bonds will be registered in accordance with
+
+the Financial Instruments Accounts Act. Registration requests relating to the Bonds shall be
+
+directed to an Account Operator.
+
+7.2
+
+Those who according to assignment, security, the provisions of the Swedish Children and
+
+Parents Code (Sw. foraldrabalken (1949:381)), conditions of will or deed of gift or
+
+otherwise have acquired a right to receive payments in respect of a Bond shall register their
+
+entitlements to receive payment in accordance with the Financial Instruments Accounts Act.
+
+7.3
+
+The Issuer (and the Agent when permitted under the CSD's applicable regulations) shall be
+
+entitled to obtain information from the debt register (Sw. skiildbok) kept by the CSD in
+
+9
+
+respect of the Bonds. At the request of the Agent, the Issuer shall promptly obtain such information and provide it to the Agent.
+For the purpose of or in connection with any Holders' Meeting or any Written Procedure, the Issuing Agent shall be entitled to obtain information from the debt register kept by the CSD in respect of the Bonds. If the Agent does not otherwise obtain information from such debt register as contemplated under the Finance Documents, the Issuing Agent shall at the request of the Agent obtain information from the debt register and provide it to the Agent.
+The Issuer shall issue any necessary power of attorney to such Persons employed by the Agent, as notified by the Agent, in order for such individuals to independently obtain information directly from the debt register kept by the CSD in respect of the Bonds. The Issuer may not revoke any such power of attorney unless directed by the Agent or unless consent thereto is given by the Holders.
+At the request of the Agent, the Issuer shall promptly instruct the Issuing Agent to obtain information from the debt register kept by the CSD in respect of the Bonds and provide it to the Agent.
+RIGHT TO ACT ON BEHALF OF A HOLDER
+If any Person other than a Holder wishes to exercise any rights under the Finance Documents, it must obtain a power of attorney (or, if applicable, a coherent chain of powers of attorney), a certificate from the authorised nominee or other sufficient proof of authorisation for such Person.
+A Holder may issue one or several powers of attorney to third parties to represent it in relation to some or all of the Bonds held by it. Any such representative may act independently under the Finance Documents in relation to the Bonds for which such representative is entitled to represent the Holder and may further delegate its right to represent the Holder by way of a further power of attorney.
+The Agent shall only have to examine the face of a power of attorney or other proof of authorisation that has been provided to it pursuant to Clause 8.1 and 8.2 and may assume that it has been duly authorised, is valid, has not been revoked or superseded and that it is in full force and effect, unless otherwise is apparent from its face.
+PAYMENTS IN RESPECT OF THE BONDS
+Any payment or repayment under the Finance Documents, or any amount due in respect of a repurchase of any Bonds, shall be made to such Person who is registered as a Holder on the Record Date prior to the relevant payment date, or to such other Person who is registered with the CSD on such date as being entitled to receive the relevant payment, repayment or repurchase amount.
+If a Holder has registered, through an Account Operator, that principal and any other payment that shall be made under the Finance Documents shall be deposited in a certain bank account; such deposits will be effected by the CSD on the relevant payment date. In other cases, payments will be transferred by the CSD to the Holder at the address registered
+10
+
+9.3 9.4
+9.5
+9.6 10. 11. 11.1
+11.2
+11.3 11.3.1 11.3.2
+
+with the CSD on the Record Date. Should the CSD, due to a delay on behalf of the Issuer or some other obstacle, not be able to effect payments as aforesaid, the Issuer shall procure that such amounts are paid to the Persons who are registered as Holders on the relevant Record Date as soon as possible after such obstacle has been removed.
+If, due to any obstacle for the CSD, the Issuer cannot make a payment or repayment, such payment or repayment may be postponed until the obstacle has been removed.
+If payment or repayment is made in accordance with this Clause 9 (Payments in respect o f the Bonds), the Issuer and the CSD shall be deemed to have fulfilled their obligation to pay, irrespective of whether such payment was made to a Person not entitled to receive such amount.
+The Issuer shall pay any stamp duty and other public fees accruing in connection with the Bond Issue, but not in respect of any circumstances arising after the Issue Date, including but not limited to, trading in the secondary market (except to the extent required by applicable law), and shall deduct at source any applicable withholding tax payable pursuant to law.
+The Issuer shall not be liable to reimburse any stamp duty or public fee or to gross-up any payments under these Terms and Conditions by virtue of any withholding tax, public levy or similar.
+INTEREST
+The Bonds shall not bear any interest.
+REDEMPTION AND REPURCHASE OF THE BONDS
+Redemption at maturity
+The Issuer shall redeem all, but not only some, of the Bonds in full on the Final Redemption Date (or, to the extent such day is not a Business Day, on the Business Day following from an application of the Business Day Convention) with an amount per Bond equal to the Nominal Amount.
+The Group Companies' purchaseof Bonds
+Each Group Company may, subject to applicable law, at any time and at any price purchase Bonds in the open market or in any other way. Bonds held by a Group Company may at such Group Company's discretion be retained, sold or, if held by the Issuer, cancelled.
+Early voluntary redemption by the Issuer (call option)
+The Issuer may redeem all, but not only some, of the outstanding Bonds in full on any Business Day before the Final Redemption Date with an amount per Bond equal to the Nominal Amount.
+Redemption in accordance with Clause 11.3.1 shall be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Holders and the Agent. Any such notice shall state the Redemption Date and the relevant Record Date and is irrevocable but may, at the
+11
+
+11.4 11.4.1
+11.4.2
+11.4.3 11.4.4 11.5
+
+Issuer's discretion, contain one or more conditions precedent. Upon expiry of such notice and the fulfilment of the conditions precedent (if any), the Issuer is bound to redeem the Bonds in full at the applicable amounts.
+Mandatory repurchase due to a Change of Control Event or Listing Failure (put option)
+Upon a Change of Control Event or Listing Failure occurring, each Holder shall have the right to request that all, or only some, of its Bonds are repurchased (whereby the Issuer shall have the obligation to repurchase such Bonds) at a price per Bond equal to (i) 101.00 per cent, of the Nominal Amount if due to a Change of Control Event or (ii) 100.00 per cent, of the Nominal Amount if due to a Listing Failure; during a period of thirty (30) calendar days following a notice from the Issuer of the Change of Control Event or Listing Failure pursuant to Clause 12.10.1 (e). The thirty (30) calendar days' period may not start earlier than upon the occurrence of the Change of Control Event or Listing Failure.
+The notice from the Issuer pursuant to Clause 12.10.1 (e) shall specify the repurchase date and include instructions about the actions that a Holder needs to take if it wants Bonds held by it to be repurchased. If a Holder has so requested, and acted in accordance with the instructions in the notice from the Issuer, the Issuer, or a Person designated by the Issuer, shall repurchase the relevant Bonds and the repurchase amount shall fall due on the repurchase date specified in the notice given by the Issuer pursuant to Clause 12.10.1 (e). The repurchase date must fall no later than twenty (20) Business Days after the end of the period referred to in Clause 11.4.1.
+The Issuer shall comply with the requirements of any applicable securities laws or regulations in connection with the repurchase of Bonds. To the extent that the provisions of such laws and regulations conflict with the provisions in this Clause 11.4, the Issuer shall comply with the applicable securities laws and regulations and will not be deemed to have breached its obligations under this Clause 11.4 by virtue of the conflict.
+Any Bonds repurchased by the Issuer pursuant to this Clause 11.4 shall without delay be cancelled.
+Voluntary partial repayment
+The Issuer may repay any amount (rounded off to a multiple of SEK 1,000) of principal debt outstanding on each Bond, but not only some of the Bonds, on any Business Day, at a price equal to 100.00 per cent, of the repaid Nominal Amount, resulting in partial repayment of all Bonds by way of reduction of the Nominal Amount of each Bond pro rata. The Issuer shall give not less than fifteen (15) Business Days' notice of the repayment to the Agent and the Holders. Any repayment under this Clause 11.5 shall be made without penalty or premium.
+
+12
+
+12. 12.1
+12.2 12.3 12.4 12.5
+
+SPECIAL UNDERTAKINGS
+So long as any Bond remains outstanding, the Issuer undertakes to comply with the special undertakings set forth in this Clause 12.
+Distributions
+The Issuer shall not, and shall procure that none of its Subsidiaries, (i) pay any dividend on shares, (ii) repurchase any of its own shares, (iii) redeem its share capital or other restricted equity with repayment to shareholders, (iv) repay principal or pay interest under any shareholder loans or (v) make any other similar distribution or transfers of value (Sw. värdeöverföringar) (items (i)--(v) above are together and individually referred to as a "Restricted Payment"), provided however that any such Restricted Payment can be made, if such Restricted Payment is permitted by law and no Event of Default is continuing or would result from such Restricted Payment, by any Group Company if such Restricted Payment is made to another Group Company and, if made by any Subsidiary which is not directly or indirectly wholly-owned by the Parent, is made on a pro rata basis.
+Listing of Bonds
+The Issuer shall ensure (i) that the Bonds are listed at First North Bond Market within 180 calendar days after the Issue Date and (ii) that the Bonds, once admitted to trading on First North Bond Market, continue being listed thereon (however, taking into account the rules and regulations of First North Bond Market and the CSD (as amended from time to time) preventing trading in the Bonds in close connection to the redemption of the Bonds).
+Financial Indebtedness
+The Issuer shall not, and shall procure that no other Group Company will, incur any new, or maintain or prolong any existing, Financial Indebtedness granted by a (direct or indirect) shareholder of the Issuer or any Affiliates thereof, unless such Financial Indebtedness is subordinated to the Bonds, only carries payment in kind interest and has a longer term than the Bonds.
+Negative pledge
+The Issuer shall not, and shall procure that no other Group Company will, create or allow to subsist, retain, provide, prolong or renew any guarantee or security over any of its/their assets (present or future) to secure any indebtedness or liability to a (direct or indirect) shareholder of the Issuer (or any Affiliates thereof).
+Financial Support
+The Issuer shall not, and shall procure that no other Group Company will, grant any loans, guarantees, security or other financial assistance ("Financial Support") to or for the benefit of any Person not being a Group Company, except to the extent such Financial Support is provided within the ordinary course of a Group Company's business.
+
+13
+
+12.6
+12.7 12.8 12.9
+
+Disposals of assets
+The Issuer shall not, and shall procure that no other Material Group Company will, sell or otherwise dispose of shares in any Material Group Company or of all or substantially all of its or any Material Group Company's assets or operations to any Person, unless the transaction is carried out at fair market value and on terms and conditions customary for such transaction and provided that it does not have a Material Adverse Effect and provided further that such transaction is not with a (direct or indirect) shareholder of the Issuer or any Affiliates thereof. The Issuer shall notify the Agent of any such transaction and, upon request by the Agent, provide the Agent with any information relating to the transaction which the Agent deems necessary (acting reasonably).
+Nature of business
+The Issuer shall procure that no substantial change is made to the general nature of the business as carried out by the Group on the Issue Date. The Issuer shall further procure that all assets, intellectual property rights and customer contracts of the Group that are not of immaterial value at all times are held by the Issuer, and accordingly that no values that are not immaterial are transferred to or incurred by the Issuer's Subsidiaries.
+Dealings with related parties
+The Issuer shall, and shall procure that its Subsidiaries, conduct all dealings with the direct and indirect shareholders of the Group Companies (excluding other Group Companies) and/or any Affiliates of such direct and indirect shareholders at aim's length terms.
+Compliance with laws etcetera
+
+The Issuer shall, and shall procure that its Subsidiaries, (i) comply in all material respects with all laws and regulations applicable from time to time and (ii) obtain, maintain, and in all material respects comply with, the terms and conditions of any authorisation, approval, licence or other permit required for the business carried out by a Group Company.
+12.10 Financial reporting and information
+12.10.1 The Issuer shall:
+(a) procure the preparation of and make available the annual audited unconsolidated and consolidated financial statements of the Issuer, including a profit and loss account, a balance sheet, a cash flow statement and management commentary or report from the Issuer's board of directors, to the Agent and on its website not later than 4 months after the expiry of each financial year;
+(b) procure the preparation of and make available the half year interim unaudited consolidated reports of the Issuer, including a profit and loss account, a balance sheet, a cash flow statement and management commentary or report from the Issuer's board of directors, to the Agent and on its website not later than 2 months after the expiry of each relevant interim period;
+
+14
+
+(c) issue a Compliance Certificate to the Agent (i) when a Financial Report is made available and (ii) at the Agent's request, within 20 calendar days from such request;
+
+(d) keep the latest version of these Terms and Conditions (including documents amending these Terms and Conditions) available on its website;
+
+(e) promptly notify the Agent (and, as regards a Change of Control Event or Listing Failure, the Holders) upon becoming aware of the occurrence of a Change of Control Event, a Listing Failure or an Event of Default, and shall provide the Agent with such further information as the Agent may request (acting reasonably) following receipt of such notice; and
+
+(f) procure that the Financial Reports are prepared in accordance with the Accounting Principles and, once the Bonds have been listed, make them available in accordance with the rules and regulations of First North Bond Market (as amended from time to time).
+
+12. 10.2
+
+The Issuer shall notify the Agent of any transaction referred to in Clause 12.5 (Disposals o f assets) and shall, upon request by the Agent, provide the Agent with (a) any information relating to the transaction which the Agent deems necessary (acting reasonably), and (b) a determination from the Issuer which states whether the transaction is carried out on an arm's length basis and on terms and conditions customary for such transaction or not and whether it has a Material Adverse Effect or not. The Agent may assume that any information provided by the Issuer is correct, and the Agent shall not be responsible or liable for the adequacy, accuracy or completeness of such information. The Agent is not responsible for assessing if the transaction is carried out on an arm's length basis and on terms and conditions customary for such transaction and whether it has a Material Adverse Effect, but is not bound by the Issuer's determination under item (b) above.
+
+12.11 Agent Agreement
+
+12.11.1 The Issuer shall, in accordance with the Agent Agreement:
+
+(a) pay fees to the Agent;
+
+(b) indemnify the Agent for costs, losses and liabilities;
+
+(c) furnish to the Agent all information reasonably requested by or otherwise required to be delivered to the Agent; and
+
+(d) not act in a way which would give the Agent a legal or contractual right to terminate the Agent Agreement.
+
+12. 11.2
+
+The Issuer and the Agent shall not agree to amend any provisions of the Agent Agreement without the prior consent of the Holders if the amendment would be detrimental to the interests of the Holders.
+
+15
+
+13.
+
+TERMINATION OF THE BONDS
+
+13.1
+
+The Agent is entitled, on behalf of the Holders, to terminate the Bonds and to declare all, but
+
+not only some, of the Bonds due for payment immediately or at such later date as the Agent
+
+determines (such later date not falling later than twenty (20) Business Days from the date on
+
+which the Agent made such declaration), if:
+
+(a) Non-payment: the Issuer fails to pay an amount on the date it is due in accordance with the Finance Documents unless its failure to pay is due to technical or administrative error and is remedied within five (5) Business Days of the due date;
+
+(b) Other obligations: the Issuer, any other Group Company or the Parent does not comply with the Finance Documents in any other way than as set out under item (a) above, unless the non-compliance (i) is capable of being remedied and (ii) is remedied within fifteen (15) Business Days of the earlier of the Agent giving notice and the Issuer becoming aware of the non-compliance (if the failure or violation is not capable of being remedied, the Agent may declare the Bonds payable without such prior written request);
+
+(c) Cross-default and cross-acceleration:
+
+(i) any Financial Indebtedness of any Material Group Company is not paid when due nor within any originally applicable grace period or an event of default howsoever described under any document relating to Financial Indebtedness of any Material Group Company occurs;
+
+(ii) any Financial Indebtedness of any Material Group Company is declared to be or otherwise becomes due and payable prior to its specified maturity as a result of an event of default (however described);
+
+(iii) any commitment for any Financial Indebtedness of any Material Group Company is cancelled or suspended by a creditor as a result of an event of default (however described);
+
+(iv) any creditor becomes entitled to declare an Financial Indebtedness of a Material Group Company due and payable prior to its specified maturity as a result of an event of default (however described); or
+
+(v) any security interest securing Financial Indebtedness over any asset of any Material Group Company becomes enforceable;
+
+provided however that the amount of Financial Indebtedness referred to under item (i)-(v) above, individually or in the aggregate exceeds an amount corresponding to SEK 10,000,000 and provided that it does not apply to any Financial Indebtedness owed to a Group Company;
+
+(d) Insolvency:
+
+(i) any Material Group Company is unable or admits inability to pay its debts
+as they fall due or is declared to be unable to pay its debts under applicable 16
+
+law, suspends making payments on its debts generally or, by reason of actual or anticipated financial difficulties, commences negotiations with its creditors (other than under the Terms and Conditions) with a view to rescheduling its Financial Indebtedness; or
+(ii) a moratorium is declared in respect of the Financial Indebtedness of any Material Group Company;
+(e) Insolvency proceedings: any corporate action, legal proceedings or other procedures are taken (other than (i) proceedings or petitions which are being disputed in good faith and are discharged, stayed or dismissed within 30 calendar days of commencement or, if earlier, the date on which it is advertised and (ii), in relation to the Group Companies other than the Issuer solvent liquidations) in relation to:
+(i) the suspension of payments, winding-up, dissolution, administration or reorganisation (Sw. foretagsrekonstniktion) (by way of voluntary agreement, scheme of arrangement or otherwise) of any Material Group Company;
+(ii) the appointment of a liquidator, receiver, administrator, administrative receiver, compulsory manager or other similar officer in respect of any Material Group Company or any of its assets; or
+(iii) any analogous procedure or step is taken in any jurisdiction in respect of any Material Group Company.
+(I) Mergers and demergers:
+(i) a decision is made that any Material Group Company shall be merged or demerged into a company which is not a Group Company, unless the Agent has given its consent (not to be unreasonably withheld or delayed) in writing prior to the merger and/or demerger (where consent is not to be understood as a waiver of the rights that applicable law at the time assigns the concerned creditors); or
+(ii) the Issuer merges with any other Person, or is subject to a demerger, with the effect that the Issuer is not the surviving entity;
+(g) Creditors' process: any expropriation, attachment, sequestration, distress or execution or any analogous process in any jurisdiction affects any asset or assets of any Material Group Company having an aggregate value equal to or exceeding SEK 5,000,000 (or its equivalent in any other currency) and where such process (i) is not discharged within 30 calendar days (ii) or is being made in bad faith by the claimant, as evidenced to the Agent (such evidence to be accepted or dismissed by the Agent in its sole discretion);
+(h) Impossibility or illegality: it is or becomes impossible or unlawful for the Issuer to fulfil or perform any of the provisions of the Finance Documents or if the 17
+
+13.2 13.3 13.4
+13.5
+13.6
+
+obligations under the Finance Documents are not, or cease to be, legal, valid, binding and enforceable; or
+(i) Continuation of the business: a Material Group Company ceases to carry on its business, except if due to (i) a merger or demerger that is not prohibited by Clause 13.1 (f) above and (ii) a disposal which is not prohibited by Clause 12.5 (.Disposals o f assets).
+Termination for payment prematurely may only occur if the cause of termination is continuing at the time of the Agent's declaration. However, if a moratorium occurs, the ending of that moratorium will not prevent termination for payment prematurely on the ground mentioned in Clause 13.1 (d).
+If the right to terminate the Bonds is based upon a decision of a court of law or a government authority, it is not necessaiy that the decision has become enforceable under law or that the period of appeal has expired in order for cause of termination to be deemed to exist.
+The Issuer is obligated to inform the Agent immediately if any circumstance of the type specified in Clause 13.1 should occur. Should the Agent not receive such information, the Agent is entitled to assume that no such circumstance exists or can be expected to occur, provided that the Agent does not have knowledge of such circumstance. The Agent is under no obligations to make any investigations relating to the circumstances specified in Clause 13.1. The Issuer shall further, at the request of the Agent, provide the Agent with details of any circumstances referred to in Clause 13.1 and provide the Agent with all documents that may be of significance for the application of this Clause 13.
+The Issuer is only obligated to inform the Agent according to Clause 13.4 if informing the Agent would not conflict with any statute or the Issuer's registration contract with First North Bond Market. If such a conflict would exist pursuant to the listing contract with First North Bond Market, the Issuer shall however be obligated to either seek the approval from First North Bond Market or undertake other reasonable measures, including entering into a non-disclosure agreement with the Agent, in order to be able to timely inform the Agent according to Clause 13.4.
+If the Agent has been notified by the Issuer or has otherwise determined that there is a default under these Terms and Conditions according to Clause 13.1, the Agent shall decide, within twenty (20) Business Days of the day of notification or determination, if the Bonds shall be declared terminated. If the Agent has decided not to terminate the Bonds, the Agent shall, at the earliest possible date, notify the Holders that there exists a right of termination and obtain instructions from the Holders according to the provisions in Clause 15 (Decisions by Holders). If the Holders vote in favour of termination and instruct the Agent to terminate the Bonds, the Agent shall promptly declare the Bonds terminated. However, if the cause for termination according to the Agent's appraisal has ceased before the termination, the Agent shall not terminate the Bonds. The Agent shall in such case, at the earliest possible date, notify the Holders that the cause for termination has ceased. The Agent shall always be entitled to take the time necessary to consider whether an occurred event constitutes an Event of Default.
+18
+
+13.7 13.8 13.9 14. 14.1
+14.2 14.3
+
+If the Holders, without any prior initiative to decision from the Agent or the Issuer, have made a decision regarding termination in accordance with Clause 15 {Decisions by Holders), the Agent shall promptly declare the Bonds terminated. The Agent is however not liable to take action if the Agent considers cause for termination not to be at hand, unless the instructing Holders agree in writing to indemnify and hold the Agent harmless from any loss or liability and, if requested by the Agent in its discretion, grant sufficient security for such indemnity.
+If the Bonds are declared due and payable in accordance with the provisions in this Clause 13, the Agent shall take every reasonable measure necessary to recover the amounts outstanding under the Bonds.
+For the avoidance of doubt, the Bonds cannot be terminated and become due for payment prematurely according to this Clause 13 without relevant decision by the Agent or following instructions from the Holders' pursuant to Clause 15 {Decisions by Holders).
+DISTRIBUTION OF PROCEEDS
+If the Bonds have been declared due and payable in accordance with Clause 13 {Termination o f the Bonds), all payments by the Issuer relating to the Bonds shall be distributed in the following order of priority, in accordance with the instructions of the Agent:
+(a) first, in or towards payment pro rata of (i) all unpaid fees, costs, expenses and indemnities payable by the Issuer to the Agent, (ii) other costs, expenses and indemnities relating to the acceleration of the Bonds, the enforcement of the Transaction Security or the protection of the Holders' rights, (iii) any non reimbursed costs incurred by the Agent for external experts, and (iv) any non reimbursed costs and expenses incurred by the Agent in relation to a Holders' Meeting or a Written Procedure;
+(b) secondly, in or towards payment pro rata of any unpaid principal under the Bonds; and
+(c) thirdly, in or towards payment pro rata of any other costs or outstanding amounts unpaid under the Finance Documents.
+Any excess funds after the application of proceeds in accordance with paragraphs (a) to (c) above shall be paid to the Issuer.
+If a Holder or another party has paid any fees, costs, expenses or indemnities referred to in Clause 14.1, such Holder or other party shall be entitled to reimbursement by way of a corresponding distribution in accordance with Clause 14.1.
+If the Issuer or the Agent shall make any payment under this Clause 14, the Issuer or the Agent, as applicable, shall notify the Holders of any such payment at least fifteen (15) Business Days before the payment is made. Such notice shall specify the Record Date, the payment date and the amount to be paid.
+
+19
+
+15. 15.1 15.2
+15.3 15.4
+15.5
+
+DECISIONS BY HOLDERS
+A request by the Agent for a decision by the Holders on a matter relating to the Finance Documents shall (at the option of the Agent) be dealt with at a Holders' Meeting or by way of a Written Procedure.
+Any request from the Issuer or a Holder (or Holders) representing at least 10.00 per cent, of the Adjusted Nominal Amount (such request may only be validly made by a Person who is a Holder on the Business Day immediately following the day on which the request is received by the Agent and shall, if made by several Holders, be made by them jointly) for a decision by the Holders on a matter relating to the Finance Documents shall be directed to the Agent and dealt with at a Holders' Meeting or by way of a Written Procedure, as determined by the Agent. The Person requesting the decision may suggest the form for decision making, but if it is in the Agent's opinion more appropriate that a matter is dealt with at a Holders' Meeting than by way of a Written Procedure, it shall be dealt with at a Holders' Meeting.
+The Agent may refrain from convening a Holders' Meeting or instigating a Written Procedure if (i) the suggested decision must be approved by any Person in addition to the Holders and such Person has informed the Agent that an approval will not be given, or (ii) the suggested decision is not in accordance with applicable laws.
+Only a Person who is, or who has been provided with a power of attorney or other proof of authorisation pursuant to Clause 8 (Right to act on behalfo f a Holder) from a Person who is, registered as a Holder:
+(a) on the Record Date prior to the date of the Holders' Meeting, in respect of a Holders' Meeting, or
+(b) on the Business Day specified in the communication pursuant to Clause 17.3, in respect of a Written Procedure,
+may exercise voting rights as a Holder at such Holders' Meeting or in such Written Procedure, provided that the relevant Bonds are included in the definition of Adjusted Nominal Amount.
+The following matters shall require consent of Holders representing at least two thirds (2/3) of the Adjusted Nominal Amount for which Holders are voting at a Holders' Meeting or for which Holders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 17.3:
+(a) waive a breach of or amend an undertaking set out in Clause 12 (Special undertakings)',
+(b) release the Transaction Security in whole or in part;
+(c) reduce the principal amount which shall be paid by the Issuer;
+(d) amend any payment day for principal or waive any breach of a payment undertaking, or
+
+20
+
+15.6
+15.7 15.8
+15.9 15.10 15.11 15.12 15.13
+
+(e) amend the provisions in this Clause 15.5 or Clause 15.6.
+Any matter not covered by Clause 15.5 shall require the consent of Holders representing more than 50.00 per cent, of the Adjusted Nominal Amount for which Holders are voting at a Holders' Meeting or for which Holders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 17.3. This includes, but is not limited to, any amendment to or waiver of the terms of the Finance Documents that does not require a higher majority (other than an amendment permitted pursuant to Clause 18.1 (a), (b) or (c)), a termination of the Bonds or the enforcement of the Transaction Security in part or in full.
+If the number of votes or replies are equal, the opinion which is most beneficial for the Issuer, according to the chairman at a Holders' Meeting or the Agent in a Written Procedure, will prevail. The chairman at a Holders' Meeting shall be appointed by the Holders in accordance with Clause 15.6.
+Quorum at a Holders' Meeting or in respect of a Written Procedure only exists if a Holder (or Holders) representing at least fifty (50) per cent, of the Adjusted Nominal Amount in case of a matter pursuant to Clause 15.5, and otherwise twenty (20) per cent, of the Adjusted Nominal Amount:
+(a) if at a Holders' Meeting, attend the meeting in Person or by telephone conference (or appear through duly authorised representatives); or
+(b) if in respect of a Written Procedure, reply to the request.
+If a quorum does not exist at a Holders' Meeting or in respect of a Written Procedure, the Agent or the Issuer shall convene a second Holders' Meeting (in accordance with Clause 16.1) or initiate a second Written Procedure (in accordance with Clause 17.1), as the case may be, provided that the relevant proposal has not been withdrawn by the Person(s) who initiated the procedure for Holders' consent. The quorum requirement in Clause 15.8 shall not apply to such second Holders' Meeting or Written Procedure.
+Any decision which extends or increases the obligations of the Issuer or the Agent, or limits, reduces or extinguishes the rights or benefits of the Issuer or the Agent, under the Finance Documents shall be subject to the Issuer's or the Agent's consent, as appropriate.
+A Holder holding more than one Bond need not use all its votes or cast all the votes to which it is entitled in the same way and may in its discretion use or cast some of its votes only.
+The Issuer may not, directly or indirectly, pay or cause to be paid any consideration to or for the benefit of any Holder for or as inducement to any consent under these Terms and Conditions, unless such consideration is offered to all Holders that consent at the relevant Holders' Meeting or in a Written Procedure within the time period stipulated for the consideration to be payable or the time period for replies in the Written Procedure, as the case may be.
+A matter decided at a duly convened and held Holders' Meeting or by way of Written Procedure is binding on all Holders, irrespective of them being present or represented at the
+
+21
+
+15.14 15.15
+15.16
+16. 16.1 16.2 16.3
+16.4 16.5
+
+Holders' Meeting or responding in the Written Procedure. The Holders that have not adopted or voted for a decision shall not be liable for any damages that this may cause other Holders.
+All costs and expenses incurred by the Issuer or the Agent for the purpose of convening a Holders' Meeting or for the purpose of carrying out a Written Procedure, including reasonable fees to the Agent, shall be paid by the Issuer.
+If a decision shall be taken by the Holders on a matter relating to the Finance Documents, the Issuer shall promptly at the request of the Agent provide the Agent with a certificate specifying the number of Bonds owned by Group Companies or (to the knowledge of the Issuer) their Affiliates, irrespective of whether such Person is directly registered as owner of such Bonds. The Agent shall not be responsible for the accuracy of such certificate or otherwise be responsible to determine whether a Bond is owned by a Group Company or an Affiliate of a Group Company.
+Information about decisions taken at a Holders' Meeting or by way of a Written Procedure shall promptly be sent by notice to the Holders and published on the websites of the Issuer and the Agent, provided that a failure to do so shall not invalidate any decision made or voting result achieved. The minutes from the relevant Holders' Meeting or Written Procedure shall at the request of a Holder be sent to it by the Issuer or the Agent, as applicable.
+HOLDERS' MEETING
+The Agent shall convene a Holders' Meeting by sending a notice thereof to each Holder no later than five (5) Business Days after receipt of a request from the Issuer or the Holder(s) (or such later date as may be necessary for technical or administrative reasons).
+Should the Issuer want to replace the Agent, it may convene a Holders' Meeting in accordance with Clause 16.1 with a copy to the Agent. After a request from the Holders pursuant to Clause 19.4.3, the Issuer shall no later than five (5) Business Days after receipt of such request (or such later date as may be necessary for technical or administrative reasons) convene a Holders' Meeting in accordance with Clause 16.1.
+The notice pursuant to Clause 16.1 shall include (i) time for the meeting, (ii) place for the meeting, (iii) agenda for the meeting (including each request for a decision by the Holders) and (iv) a form of power of attorney. Only matters that have been included in the notice may be resolved upon at the Holders' Meeting. Should prior notification by the Holders be required in order to attend the Holders' Meeting, such requirement shall be included in the notice.
+The Holders' Meeting shall be held no earlier than ten (10) Business Days and no later than twenty (20) Business Days from the notice.
+If the Agent, in breach of these Terms and Conditions, has not convened a Holders' Meeting within ten (10) Business Days after having received such notice, the requesting Person may convene the Holders' Meeting itself. If the requesting Person is a Holder, the Issuer shall upon request from such Holder provide the Holder with necessary information from the
+22
+
+16.6
+16.7 17. 17.1 17.2 17.3
+17.4 17.5
+
+register kept by the CSD and, if no Person to open the Holders' Meeting has been appointed by the Agent, the meeting shall be opened by a Person appointed by the requesting Person.
+At a Holders' Meeting, the Issuer, the Holders (or the Holders' representatives/proxies) and the Agent may attend along with each of their representatives, counsels and assistants. Further, the directors of the board, the managing director and other officials of the Issuer and the Issuer's auditors may attend the Holders' Meeting. The Holders' Meeting may decide that further individuals may attend. If a representative/proxy shall attend the Holders' Meeting instead of the Holder, the representative/proxy shall present a duly executed proxy or other document establishing its authority to represent the Holder.
+Without amending or varying these Terms and Conditions, the Agent may prescribe such further regulations regarding the convening and holding of a Holders' Meeting as the Agent may deem appropriate. Such regulations may include a possibility for Holders to vote without attending the meeting in Person.
+WRITTEN PROCEDURE
+The Agent shall instigate a Written Procedure no later than five (5) Business Days after receipt of a request from the Issuer or the Holder(s) (or such later date as may be necessary for technical or administrative reasons) by sending a communication to each such Person who is registered as a Holder on the Business Day prior to the date on which the communication is sent.
+Should the Issuer want to replace the Agent, it may send a communication in accordance with Clause 17.1 to each Holder with a copy to the Agent.
+A comnnmication pursuant to Clause 17.1 shall include (i) each request for a decision by the Holders, (ii) a description of the reasons for each request, (iii) a specification of the Business Day on which a Person must be registered as a Holder in order to be entitled to exercise voting rights (such Business Day not to fall earlier than the effective date of the communication pursuant to Clause 17.1), (iv) instructions and directions on where to receive a form for replying to the request (such form to include an option to vote yes or no for each request) as well as a form of power of attorney, and (v) the stipulated time period within which the Holder must reply to the request (such time period to last at least ten (10) Business Days but not more than thirty (30) Business Days from the communication pursuant to Clause 17.1). If the voting shall be made electronically, instructions for such voting shall be included in the communication.
+If the Agent, in breach of these Terms and Conditions, has not instigated a Written Procedure within ten (10) Business Days after having received such notice, the requesting Person may instigate a Written Procedure itself. If the requesting Person is a Holder, the Issuer shall upon request from such Holder provide the Holder with necessary infoimation from the register kept by the CSD.
+When the requisite majority consents of the total Adjusted Nominal Amount pursuant to Clauses 15.5 and 15.6 have been received in a Written Procedure, the relevant decision shall
+
+23
+
+18. 18.1
+18.2 18.3
+18.4 19. 19.1 19.1.1
+19.1.2
+
+be deemed to be adopted pursuant to Clause 15.5 or 15.6, as the case may be, even if the time period for replies in the Written Procedure has not yet expired.
+AMENDMENTS AND WAIVERS
+The Issuer and the Agent (acting on behalf of the Holders) may agree to amend the Finance Documents or waive any provision in a Finance Document, provided that:
+(a) such amendment or waiver is not detrimental to the interest of the Holders, or is made solely for the purpose of rectifying obvious errors and mistakes;
+(b) such amendment or waiver is required by applicable law, a court ruling or a decision by a relevant authority;
+(c) such amendment or waiver is necessary for the purpose of listing the Bonds on First North Bond Market provided such amendment or waiver does not materially adversely affect the rights of the Holders; or
+(d) such amendment or waiver has been duly approved by the Holders in accordance with Clause 15 (.Decisions by Holders).
+The consent of the Holders is not necessary to approve the particular form of any amendment or waiver to the Finance Documents. It is sufficient if such consent approves the substance of the amendment or waiver.
+The Agent shall promptly notify the Holders of any amendments or waivers made in accordance with Clause 18.1, setting out the date from which the amendment or waiver will be effective, and ensure that any amendments to the Finance Documents are available on the websites of the Issuer and the Agent. The Issuer shall ensure that any amendments to these Terms and Conditions are duly registered with the CSD and each other relevant organisation or authority.
+An amendment or waiver to the Finance Documents shall take effect on the date determined by the Holders' Meeting, in the Written Procedure or by the Agent, as the case may be.
+APPOINTMENT AND REPLACEMENT OF THE AGENT
+Appointment of Agent
+By subscribing for Bonds, each initial Holder appoints the Agent to act as its agent and security agent in all matters relating to the Bonds and the Finance Documents, and authorises the Agent to act on its behalf (without first having to obtain its consent, unless such consent is specifically required by these Terms and Conditions) in any legal or arbitration proceedings relating to the Bonds held by such Holder. By acquiring Bonds, each subsequent Holder confirms such appointment and authorisation for the Agent to act on its behalf.
+Each Holder shall immediately upon request by the Agent provide the Agent with any such documents, including a written power of attorney (in form and substance satisfactory to the Agent), as the Agent deems necessary for the purpose of exercising its rights and/or carrying
+24
+
+out its duties under the Finance Documents. The Agent is under no obligation to represent a Holder which does not comply with such request.
+
+19.1.3
+
+The Issuer shall promptly upon request provide the Agent with any documents and other assistance (in form and substance satisfactory to the Agent), that the Agent deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents.
+
+19.1.4
+
+The Agent is entitled to fees for its work and to be indemnified for costs, losses and liabilities on the terms set out in the Finance Documents and the Agent's obligations as agent and security agent under the Finance Documents are conditioned upon the due payment of such fees and indemnifications.
+
+19.1.5
+
+The Agent may act as agent and/or security trustee for several issues of securities issued by or relating to the Issuer and other Group Companies notwithstanding potential conflicts of interest.
+
+19.2
+
+Duties of the Agent
+
+19.2.1
+
+The Agent shall represent the Holders in accordance with the Finance Documents. However, the Agent is not responsible for the execution or enforceability of the Finance Documents. The Agent shall keep the latest version of these Terms and Conditions (including any document amending these Terms and Conditions) available on the website of the Agent.
+
+19.2.2
+
+The Agent shall upon request by a Holder disclose the identity of any other Holder who has consented to the Agent in doing so.
+
+19.2.3
+
+When acting in accordance with the Finance Documents, the Agent is always acting with binding effect on behalf of the Holders. The Agent shall carry out its duties under the Finance Documents in a reasonable, proficient and professional manner, with reasonable care and skill.
+
+19.2.4
+
+The Agent is entitled to delegate its duties to other professional parties, but the Agent shall remain liable for the actions of such parties under the Finance Documents.
+
+19.2.5
+
+The Agent shall treat all Holders equally and, when acting pursuant to the Finance Documents, act with regard only to the interests of the Holders and shall not be required to have regard to the interests or to act upon or comply with any direction or request of any other Person, other than as explicitly stated in the Finance Documents.
+
+19.2.6
+
+The Agent shall be entitled to disclose to the Holders any event or circumstance directly or indirectly relating to the Issuer or the Bonds. Notwithstanding the foregoing, the Agent may if it considers it to be beneficial to the interests of the Holders delay disclosure or refrain from disclosing certain information other than in respect of an Event of Default that has occurred and is continuing.
+
+19.2.7
+
+The Agent is entitled to engage external experts when carrying out its duties under the Finance Documents. The Issuer shall on demand by the Agent pay all costs for external experts engaged (i) after the occurrence of an Event of Default, (ii) for the purpose of
+
+25
+
+investigating or considering an event which the Agent reasonably believes is or may lead to an Event of Default or a matter relating to the Issuer which the Agent reasonably believes may be detrimental to the interests of the Holders under the Finance Documents or (iii) when the Agent is to make a determination under the Finance Documents. Any compensation for damages or other recoveries received by the Agent from external experts engaged by it for the purpose of carrying out its duties under the Finance Documents shall be distributed in accordance with Clause 14 (.Distribution o fproceeds).
+
+19.2.8
+
+Notwithstanding any other provision of the Finance Documents to the contrary, the Agent is not obligated to do or omit to do anything if it would or might in its reasonable opinion constitute a breach of any law or regulation.
+
+19.2.9
+
+If in the Agent's reasonable opinion the cost, loss or liability which it may incur (including reasonable fees to the Agent) in complying with instructions of the Holders, or taking any action at its own initiative, will not be covered by the Issuer, the Agent may refrain from acting in accordance with such instructions, or taking such action, until it has received such funding or indemnities (or adequate security has been provided therefore) as it may reasonably require.
+
+19.2.10
+
+The Agent shall give a notice to the Holders (i) before it ceases to perform its obligations under the Finance Documents by reason of the non-payment by the Issuer of any fee or indemnity due to the Agent under the Finance Documents, or (ii) if it refrains from acting for any reason described in Clause 19.2.9.
+
+19.3
+
+Limited liability for the Agent
+
+19.3.1
+
+The Agent will not be liable to the Holders for damage or loss caused by any action taken or omitted by it under or in connection with any Finance Document, unless directly caused by its negligence or wilful misconduct. The Agent shall never be responsible for indirect loss.
+
+19.3.2
+
+The Agent shall not be considered to have acted negligently if it has acted in accordance with advice from or opinions of reputable external experts engaged by the Agent or if the Agent has acted with reasonable care in a situation when the Agent considers that it is detrimental to the interests of the Holders to delay the action in order to first obtain instructions from the Holders.
+
+19.3.3
+
+The Agent shall not be liable for any delay (or any related consequences) in crediting an account with an amount required pursuant to the Finance Documents to be paid by the Agent to the Holders, provided that the Agent has taken all necessaiy steps as soon as reasonably practicable to comply with the regulations or operating procedures of any recognised clearing or settlement system used by the Agent for that purpose.
+
+19.3.4
+
+The Agent shall have no liability to the Holders for damage caused by the Agent acting in accordance with instructions of the Holders given in accordance with Clause 15 {Decisions by Holders).
+
+26
+
+19.3.5
+
+Any liability towards the Issuer which is incurred by the Agent in acting under, or in relation to, the Finance Documents shall not be subject to set-off against the obligations of the Issuer to the Holders under the Finance Documents.
+
+19.4
+
+Replacement of the Agent
+
+19.4.1
+
+Subject to Clause 19.4.6, the Agent may resign by giving notice to the Issuer and the Holders, in which case the Holders shall appoint a successor Agent at a Holders' Meeting convened by the retiring Agent or by way of Written Procedure initiated by the retiring Agent.
+
+19.4.2
+
+Subject to Clause 19.4.6, if the Agent is insolvent, the Agent shall be deemed to resign as Agent and the Issuer shall within ten (10) Business Days appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+
+19.4.3
+
+A Holder (or Holders) representing at least 10.00 per cent, of the Adjusted Nominal Amount may, by notice to the Issuer (such notice may only be validly given by a Person who is a Holder on the Business Day immediately following the day on which the notice is received by the Issuer and shall, if given by several Holders, be given by them jointly), require that a Holders' Meeting is held for the puipose of dismissing the Agent and appointing a new Agent. The Issuer may, at a Holders' Meeting convened by it or by way of Written Procedure initiated by it, propose to the Holders that the Agent be dismissed and a new Agent appointed.
+
+19.4.4
+
+If the Holders have not appointed a successor Agent within ninety (90) calendar days after (i) the earlier of the notice of resignation was given or the resignation otherwise took place or (ii) the Agent was dismissed through a decision by the Holders, the Issuer shall appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+
+19.4.5
+
+The retiring Agent shall, at its own cost, make available to the successor Agent such documents and records and provide such assistance as the successor Agent may reasonably request for the purposes of performing its functions as Agent under the Finance Documents.
+
+19.4.6
+
+The Agent's resignation or dismissal shall only take effect upon the appointment of a successor Agent and acceptance by such successor Agent of such appointment and the execution of all necessary documentation to effectively substitute the retiring Agent.
+
+19.4.7
+
+Upon the appointment of a successor, the retiring Agent shall be discharged from any further obligation in respect of the Finance Documents but shall remain entitled to the benefit of the Finance Documents and remain liable under the Finance Documents in respect of any action which it took or failed to take whilst acting as Agent. Its successor, the Issuer and each of the Holders shall have the same rights and obligations amongst themselves under the Finance Documents as they would have had if such successor had been the original Agent.
+
+19.4.8
+
+In the event that there is a change of the Agent in accordance with this Clause 19.4, the Issuer shall execute such documents and take such actions as the new Agent may reasonably
+
+27
+
+20. 20.1 20.2
+21. 21.1
+21.2
+21.3 22. 22.1
+
+require for the purpose of vesting in such new Agent the rights, powers and obligation of the Agent and releasing the retiring Agent from its further obligations under the Finance Documents. Unless the Issuer and the new Agent agrees otherwise, the new Agent shall be entitled to the same fees and the same indemnities as the retiring Agent.
+APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT
+The Issuer appoints the Issuing Agent to manage certain specified tasks under these Terms and Conditions and in accordance with the legislation, rules and regulations applicable to and/or issued by the CSD and relating to the Bonds.
+The Issuing Agent may retire from its assignment or be dismissed by the Issuer, provided that the Issuer has approved that a commercial bank or securities institution approved by the CSD accedes as new Issuing Agent at the same time as the old Issuing Agent retires or is dismissed. If the Issuing Agent is insolvent, the Issuer shall immediately appoint a new Issuing Agent, which shall replace the old Issuing Agent as issuing agent in accordance with these Terms and Conditions.
+NO DIRECT ACTIONS BY HOLDERS
+A Holder may not take any steps whatsoever against the Parent, Issuer or any Subsidiary of the Issuer to enforce or recover any amount due or owing to it pursuant to the Finance Documents, or to initiate, support or procure the winding-up, dissolution, liquidation, company reorganisation (Sw.foretagsrekonstruktion) or bankruptcy (Sw. konkurs) (or its equivalent in any other jurisdiction) of the Parent, the Issuer or any Subsidiary of the Issuer in relation to any of the liabilities of the Parent, the Issuer or any Subsidiary of the Issuer under the Finance Documents.
+Clause 21.1 shall not apply if the Agent has been instructed by the Holders in accordance with the Finance Documents to take certain actions but fails for any reason to take, or is unable to take (for any reason other than a failure by a Holder to provide documents in accordance with Clause 19.1.2), such actions within a reasonable period of time and such failure or inability is continuing. However, if the failure to take certain actions is caused by the non-payment by the Issuer of any fee or indemnity due to the Agent under the Finance Documents or by any reason described in Clause 19.2.9, such failure must continue for at least forty (40) Business Days after notice pursuant to Clause 19.2.10 before a Holder may take any action referred to in Clause 21.1.
+The provisions of Clause 21.1 shall not in any way limit an individual Holder's right to claim and enforce payments which are due to it under Clause 11.4 (Mandatory repurchase due to a Change o f Control Event or Listing Failure (put option)) or other payments which are due by the Issuer to some but not all Holders.
+TIME-BAR
+The right to receive repayment of the principal of the Bonds shall be time-barred and become void ten (10) years from the relevant Redemption Date. The Issuer is entitled to any
+
+28
+
+22.2 23. 23.1 23.1.1
+23.1.2
+23.1.3 23.2 23.2.1
+
+funds set aside for payments in respect of which the Holders' right to receive payment has been time-barred and has become void.
+If a limitation period is duly interrupted in accordance with the Swedish Act on Limitations (Sw. presbiptionslag (1981:130)), a new time-bar period of ten (10) years with respect to the right to receive repayment of the principal of the Bonds will commence, calculated from the date of interruption of the time-bar period, as such date is determined pursuant to the provisions of the Swedish Act on Limitations.
+NOTICES AND PRESS RELEASES
+Notices
+Any notice or other communication to be made under or in connection with these Terms and Conditions:
+(a) if to the Agent, shall be given at the address registered with the Swedish Companies Registration Office (Sw. Bolagsverket) on the Business Day prior to dispatch or, if sent by email by the Issuer, to such email address as notified by the Agent to the Issuer from time to time;
+(b) if to the Issuer, shall be given at the address registered with the Swedish Companies Registration Office on the Business Day prior to dispatch or, if sent by email by the Agent, to such email address as notified by the Issuer to the Agent from time to time; and
+(c) if to the Holders, shall be given at their addresses as registered with the CSD, on the Business Day prior to dispatch, and by either courier delivery or letter for all Holders. A notice to the Holders shall also be published on the websites of the Issuer and the Agent.
+Any notice or other communication made by one Person to another under or in connection with these Terms and Conditions shall be sent by way of courier, personal delivery or letter (and, if between the Agent and the Issuer, by email) and will only be effective, in case of courier or personal delivery, when it has been left at the address specified in Clause 23.1.1 or, in case of letter, three (3) Business Days after being deposited postage prepaid in an envelope addressed to the address specified in Clause 23.1.1 or, in case of email to the Agent or the Issuer, when received in legible form by the email address specified in Clause 23.1.1.
+Failure to send a notice or other communication to a Holder or any defect in it shall not affect its sufficiency with respect to other Holders.
+Press releases
+Any notice that the Issuer or the Agent shall send to the Holders pursuant to Clauses 11.3.2, 11.5 {Voluntary partial repayment), 12.10.1 (e), 13.6, 14.3, 15.16, 16.1, 17.1, 18.3, 19.2.10 and 19.4.1 shall also be published by way of press release by the Issuer or the Agent, as applicable.
+
+29
+
+23.2.2
+
+In addition to Clause 23.2.1, if any information relating to the Bonds, the Issuer or the Group contained in a notice that the Agent may send to the Holders under these Terms and Conditions has not already been made public by way of a press release, the Agent shall before it sends such information to the Holders give the Issuer the opportunity to issue a press release containing such information. If the Issuer does not promptly issue a press release and the Agent considers it necessary to issue a press release containing such information before it can lawfully send a notice containing such information to the Holders, the Agent shall be entitled to issue such press release.
+
+24.
+
+FORCE MAJEURE AND LIMITATION OF LIABILITY
+
+24.1
+
+Neither the Agent nor the Issuing Agent shall be held responsible for any damage arising out
+
+of any legal enactment, or any measure taken by a public authority, or war, strike, lockout,
+
+boycott, blockade or any other similar circumstance (a "Force Majeure Event"). The
+
+reservation in respect of strikes, lockouts, boycotts and blockades applies even if the Agent
+
+or the Issuing Agent itself takes such measures, or is subject to such measures.
+
+24.2
+
+The Issuing Agent shall have no liability to the Holders if it has observed reasonable care.
+
+The Issuing Agent shall never be responsible for indirect damage with exception of gross
+
+negligence and wilful misconduct.
+
+24.3
+
+Should a Force Majeure Event arise which prevents the Agent or the Issuing Agent from
+
+taking any action required to comply with the Finance Documents, such action may be
+
+postponed until the obstacle has been removed.
+
+24.4
+
+The provisions in this Clause 24 apply unless they are inconsistent with the provisions of the
+
+Financial Instruments Accounts Act which provisions shall take precedence.
+
+25.
+
+LISTING
+
+The Issuer intends to list the Bonds within thirty (30) calendar days after the Issue Date on First North Bond Market. Further, the Issuer has undertaken to list the Bonds on First North Bond Market within one hundred and eighty (180) calendar days after the Issue Date and to maintain such listing for as long as any Bond remains outstanding in accordance with Clause 12.2 (.Listing o fBonds). Further, each Holder has a put option in relation to its Bonds upon the occurrence of a Listing Failure in accordance with Clause 11.4 (Mandatory> repurchase due to a Change o f Control Event or Listing Failure (put option).
+
+26.
+
+GOVERNING LAW AND JURISDICTION
+
+26.1
+
+These Terms and Conditions, and any non-contractual obligations arising out of or in
+
+connection therewith, shall be governed by and construed in accordance with the laws of
+
+Sweden.
+
+26.2
+
+Any dispute or claim arising in relation to these Terms and Conditions shall, subject to
+
+Clause 26.3, be determined by Swedish courts and the District Court of Stockholm shall be
+
+the court of first instance.
+
+30
+
+26.3
+
+The submission to the jurisdiction of the Swedish courts shall not limit the right of the
+
+Agent (or the Holders, as applicable) to take proceedings against the Issuer in any court
+
+which may otherwise exercise jurisdiction over the Issuer or any of its assets.
+
+31
+
+We hereby certify that the above Terms and Conditions are binding upon ourselves. Place: Stockholm BERGTEAMET AB (publ) as Issuer 'Jän Marklund We hereby undertake to act in accordance with the above Terms and Conditions to the extent they refer to us. Place: Stockholm NORDIC TRUSTEE & AGENCY AB (publ)
+32
+
+

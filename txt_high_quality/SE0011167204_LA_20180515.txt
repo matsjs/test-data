@@ -1,0 +1,735 @@
+EXECUTION COPY
++ BY APPOINTMENT TO
+her m a je s t y The Queen or Denm ark
+GEORG JENSEN
+ESTABLISHED 1904
+Terms and Conditions
+Georg Jensen A/S Up to EUR 60,000,000 Senior Secured Floating Rate Bonds
+ISIN:SE0011167204
+9 May 2018
+Other than the registration of the Bonds under Swedish law, no action is being taken in any jurisdiction that would or is intended to permit a public offering of the Bonds or the possession,
+circulation or distribution of this document or any other material relating to the Issuer or the Bonds in any jurisdiction where action for that purpose is required. Persons into whose
+possession this document comes are required by the Issuer to inform themselves about, and to observe, any applicable restrictions.
+
+W/8222600/v11
+
+ROSCHIER
+
+I
+Table of Contents
+1. Definitions and Construction.........................................................................................1 2. Status of the Bonds..................................................................................................... 16 3. Use of Proceeds...........................................................................................................17 4. Conditions Precedent.................................................................................................. 18 5. Bonds in Book-Entry Form...........................................................................................20 6. Right to Act on Behalf of a Bondholder....................................................................... 21 7. Payments in Respect of the Bonds.............................................................................. 21 8. Interest........................................................................................................................22 9. Redemption and Repurchase of the Bonds.................................................................. 23 10. Transaction Security and Guarantees.......................................................................... 25 11. Information to Bondholders........................................................................................26 12. Financial Undertakings ................................................................................................ 28 13. General Undertakings................................................................................................. 29 14. Events of Default and Acceleration of the Bonds.........................................................34 15. Distribution of Proceeds.............................................................................................. 37 16. Decisions by Bondholders............................................................................................38 17. Bondholders' Meeting................................................................................................. 41 18. Written Procedure...................................................................................................... 41 19. Amendments and Waivers..........................................................................................42 20. Appointment and Replacement of the Agent ..............................................................43 21. Appointment and Replacement of the Issuing Agent .................................................. 47 22. No Direct Actions by Bondholders.............................................................................. 47 23. Prescription................................................................................................................ 48 24. Notices and Press Releases ..........................................................................................48 25. Force Majeure and Limitation of Liability.................................................................... 50 26. Governing Law and Jurisdiction...................................................................................50
+
+1
+1. Definitions and Construction
+1.1 Definitions
+In these terms and conditions (the "Terms and Conditions"):
+"Account Operator" means a bank or other party duly authorised to operate as an account operator pursuant to the Financial Instruments Accounts Act and through which a Bondholder has opened a Securities Account in respect of its Bonds.
+"Accounting Principles" means (i) until conversion to IFRS, the generally accepted accounting principles, standards and practices in Denmark as applied by the Issuer in preparing its annual consolidated financial statements, and (ii) following conversion, international financial reporting standards (IFRS) within the meaning of Regulation 1606/2002/EC (or as otherwise adopted or amended from time to time).
+"Adjusted Nominal Amount" means the Total Nominal Amount less the Nominal Amount of all Bonds owned by a Group Company or an Affiliate, irrespective of whether such person is directly registered as owner of such Bonds.
+"Advance Purchase Agreements" means (a) an advance or deferred purchase agreement if the agreement is in respect of the supply of assets or services and payment in the normal course of business with credit periods which are normal for the relevant type of project contracts, or (b) any other trade credit incurred in the ordinary course of business
+"Affiliate" means any Person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified Person. For the purpose of this definition, "control" when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms "controlling" and "controlled" have meanings correlative to the foregoing.
+"Agency Agreement" means the agency agreement entered into on or before the First Issue Date, between the Issuer and the Agent, or any replacement agency agreement entered into after the First Issue Date between the Issuer and an agent.
+"Agent" means Nordic Trustee A/S, Danish company registration no. (CVR-No.): 34 70 57 20, Bredgade 30, DK-1260 Copenhagen K, Denmark, (or any of its Affiliates) or another party replacing it, as Agent, in accordance with these Terms and Conditions.
+"Bond" means a debt instrument for the Nominal Amount and of the type set forth in Chapter 1 Section 3 of the Financial Instruments Accounts Act and which is governed by and issued under these Terms and Conditions, including the Initial Bonds and any Subsequent Bonds.
+"Bondholder" means the person who is registered on a Securities Account as direct registered owner or nominee with respect to a Bond.
+
+2
+"Bondholders' Meeting" means a meeting among the Bondholders held in accordance with Clause 17 (Bondholders' Meeting).
+"Bond Issue" means the Initial Bond Issue and any Subsequent Bond Issue.
+"Business Day" means a day in Sweden or Denmark other than a Sunday or other public holiday. Saturdays, Midsummer Eve, Christmas Eve and New Year's Eve shall for the purpose of this definition be deemed to be public holidays.
+"Change of Control Event" means:
+(a) prior to an Equity Listing Event, the occurrence of an event or series of events whereby one or more persons, not being the Main Shareholders (or an Affiliate of the Main Shareholders), acting together, acquire control over the Issuer and where "control" means (i) acquiring or controlling, directly or indirectly, more than 50 per cent. of the voting shares of the Issuer (being votes which are capable of being cast at general meetings of shareholders), or (ii) the right to, directly or indirectly, appoint or remove all or a majority of the directors of the board of directors of the Issuer; and
+(b) on or after an Equity Listing Event, the occurrence of an event or series of events whereby one or more persons, not being the Main Shareholders (or an Affiliate of the Main Shareholders), acting together, acquire control over the Issuer and where "control" means (i) acquiring or controlling, directly or indirectly, more than 30 per cent. of the voting shares of the Issuer (being votes which are capable of being cast at general meetings of shareholders), or (ii) the right to, directly or indirectly, appoint or remove all or a majority of the directors of the board of directors of the Issuer.
+"Completion Date" means the date of the Agent's approval of the disbursements of the proceeds from the Proceeds Account.
+"Compliance Certificate" means a certificate to the Agent, in the agreed form between the Agent and the Issuer, signed by the Issuer certifying (as applicable):
+(a) if the Compliance Certificate is provided in connection with an Incurrence Test, that so far as it is aware no Event of Default is continuing or, if it is aware that such event is continuing, specifying the event and steps, if any, being taken to remedy it;
+(b) if the Compliance Certificate is provided in connection with an Incurrence Test, that the Incurrence Test is met (including figures in respect of the relevant financial tests and the basis on which they have been calculated); and
+(c) if the Compliance Certificate is provided in connection with the publication or other distribution of the audited annual financial statements, the Material Group Companies.
+"Conditions Subsequent Guarantors" means Georg Jensen (Thailand) Co. and Georg Jensen Pty. Ltd.
+
+3
+"CSD" means the Issuer's central securities depository and registrar in respect of the Bonds, from time to time, initially Euroclear Sweden AB, Swedish Reg. No. 556112 8074, P.O. Box 191, 101 23 Stockholm, Sweden.
+"CSD Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve, Christmas Eve and New Year's Eve shall for the purpose of this definition be deemed to be public holidays.
+"Danish Bankruptcy Act" means the Danish act on bankruptcy etc. (Dk: konkursloven) Consolidated Act No. 11 of 6 January 2014 as amended and/or replaced from time to time.
+"Danish Capital Markets Act" means the Danish Act on capital markets (in Danish: Lov om kapitalmarkeder) Consolidated Act No. 12 of 8 January 2018 as amended and/or replaced from time to time.
+"Danish Kroner" and "DKK" means Danish kroner, the legal currency of Denmark.
+"Danish Limitations Act" means the Danish act on limitation of claims (Dk: for&ldelsesloven), Consolidated Act No. 1238 of 9 November 2015 as amended and/or replaced from time to time.
+"Delisting" means, following an Equity Listing Event, the delisting of the shares in the Issuer from a Regulated Market.
+"EBITDA" means, in respect of the Reference Period, the consolidated profit of the Group from ordinary continuing activities according to the latest Financial Report(s):
+(a) before deducting any amount of tax on profits, gains or income paid or payable by any member of the Group;
+(b) before deducting any Net Finance Charges;
+(c) before taking into account any one-off, non-recurring, extraordinary or sundry item or exceptional item (including without limitation, any non-cash adjustment required under the Accounting Principles) provided that such items are not in excess of an amount equal to ten (10) per cent. of EBITDA in the Reference Period;
+(d) before taking into account any financial item relating to the discontinuing of operations;
+(e) before taking into account any Transaction Costs and any transaction costs relating to any acquisition of any additional target company;
+(f) not including any accrued interest owing to any Group Company;
+(g) before taking into account any unrealised gains or losses on any derivative instrument (other than any derivative instruments which is accounted for on a hedge account basis);
+
+4
+(h) after adding back or deducting, as the case may be, the amount of any loss or gain against book value arising on a disposal of any asset (other than in the ordinary course of trading) and any loss or gain arising from an upward or downward revaluation of any asset;
+(i) after deducting the amount of any profit (or adding back the amount of any loss) of any Group Company which is attributable to minority interests;
+(j) plus or minus the Group's share of the profits or losses of entities which are not part of the Group;
+(k) after adding any amounts claimed under loss of profit, business interruption or equivalent insurance, provided that it is reasonably likely (determined in good faith by the management of the Issuer after its best assessment) that the Group will be entitled to receive insurance proceeds under such insurance claims; and
+(l) after adding back any amount attributable to the amortisation, depreciation or depletion of assets of members of the Group.
+"Equity Listing Event" means an offering of shares in the Issuer or any of its holding companies whether initial or subsequent to a public offering, resulting in shares allotted becoming quoted, listed, traded or otherwise admitted to trading on a Regulated Market.
+"EURIBOR" means:
+(a) the applicable percentage rate per annum displayed on Reuters screen EURIBOR01 (or through another system or website replacing it) as of or around 11.00 a.m. (Brussels time) on the Quotation Day for the offering of deposits in Euro and for a period comparable to the relevant Interest Period; or
+(b) if no screen rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places), as supplied to the Issuing Agent at its request quoted by banks reasonably selected by the Issuing Agent, for deposits of EUR 10,000,000 for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Euro offered for the relevant period; and
+if any such rate is below zero, EURIBOR will be deemed to be zero.
+"Euro" and "EUR" means the single currency of the participating member states in accordance with the legislation of the European Community relating to Economic and Monetary Union.
+"Event of Default" means an event or circumstance specified in any of the Clauses 14.1 (Non-Payment) to and including Clause 14.8 (Continuation of the Business).
+Final Maturity Date" means 15 May 2023.
+
+5
+"Finance Charges" means, for the Reference Period, the aggregate amount of the accrued interest, commission, fees, discounts, payment fees, premiums or charges and other finance payments in respect of Financial Indebtedness whether paid, payable or capitalised by any member of the Group according to the latest Financial Report(s) (calculated on a consolidated basis) other than Transaction Costs, capitalised interest in respect of any loan owing to any member of the Group or any Shareholder Loans and taking no account of any unrealised gains or losses on any derivative instruments other than any derivative instrument which are accounted for on a hedge accounting basis.
+"Finance Documents" means:
+(a) the Terms and Conditions;
+(b) the Agency Agreement;
+(c) the Proceeds Account Pledge Agreement;
+(d) the Security Documents;
+(e) the Guarantee and Adherence Agreement;
+(f) the Intercreditor Agreement; and
+(g) any other document designated to be a Finance Document by the Issuer and the Agent.
+"Financial Indebtedness" means any indebtedness in respect of:
+(a) monies borrowed or raised, including Market Loans;
+(b) the amount of any liability in respect of any Finance Leases;
+(c) receivables sold or discounted (other than any receivables to the extent they are sold on a non-recourse basis);
+(d) any amount raised under any other transaction (including any forward sale or purchase agreement) having the commercial effect of a borrowing;
+(e) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price (and, when calculating the value of any derivative transaction, only the mark to market value shall be taken into account, provided that if any actual amount is due as a result of a termination or a close-out, such amount shall be used instead);
+(f) any counter indemnity obligation in respect of a guarantee, indemnity, bond, standby or documentary letter of credit or any other instrument issued by a bank or financial institution; and
+(g) (without double counting) any guarantee or other assurance against financial loss in respect of a type referred to in the above paragraphs (a)-(f).
+
+6
+"Finance Leases" means any finance leases, to the extent the arrangement is or would have been treated as a finance or a capital lease in accordance with the Accounting Principles applicable on the First Issue Date (a lease which in the accounts of the Group is treated as an asset and a corresponding liability), and for the avoidance of doubt, any leases treated as operating leases under the Accounting Principles as applicable on the First Issue Date shall not, regardless of any subsequent changes or amendments of the Accounting Principles, be considered as a finance lease
+"Financial Instruments Accounts Act" means the Swedish Financial Instruments Accounts Act (Sw. lag (1998:1479) om kontoföring av finansiella instrument).
+"Financial Report" means the Group's annual audited financial statements or quarterly interim unaudited reports, which shall be prepared and made available according to Clauses 11.1(a)(i) and 11.1(a)(ii).
+"First Call Amount" means an amount equal to:
+(a) 103.00 per cent. of the Nominal Amount; and
+(b) the remaining coupon payments (assuming that the Interest Rate for the period from the relevant record date to the First Call Date will be equal to the interpolated EUR mid-swap rate for the remaining term from the redemption date until the First Call Date plus the applicable Floating Rate Margin), less any accrued but unpaid interest, through and including the First Call Date, and where "relevant record date" shall mean a date agreed upon between the Agent, the CSD and the Issuer in connection with such repayment.
+"First Call Date" means the date falling 24 months after the First Issue Date.
+"First Issue Date" means 15 May 2018.
+"Floating Rate Margin" means 6.00 per cent. per annum.
+"Force Majeure Event" has the meaning set forth in Clause 25(a).
+"Group" means the Issuer and each of its Subsidiaries from time to time and "Group Company" means any of them.
+"Guarantee" means the guarantee provided by the Guarantors under the Guarantee and Adherence Agreement.
+"Guarantee and Adherence Agreement" means the guarantee and adherence agreement pursuant to which the Guarantors shall, amongst other, (a) guarantee all amounts outstanding under the Finance Documents, including but not limited to the Bonds, plus accrued interests and expenses, (b) agree to subordinate all subrogation claims, and (c) undertake to adhere to the terms of the Finance Documents.
+"Guarantors" means each Original Guarantor, each Condition Subsequent Guarantor and any Material Group Company (other than Georg Jensen Taiwan Ltd.).
+
+7
+"Hedging Agreement" shall have the meaning given to such term in the Intercreditor Agreement.
+"Incurrence Test" means the incurrence test set out in Clause 12.1 (Incurrence Test).
+"Initial Nominal Amount" has the meaning set forth in Clause 2(c).
+"Initial Bond Issue" means the issuance of the Initial Bonds.
+"Initial Bonds" means the Bonds issued on the First Issue Date.
+"Insolvent" means, in respect of a relevant person, that it is deemed to be insolvent or admits inability to pay its debts as they fall due, in each case within the meaning of the Danish Bankruptcy Act (or its equivalent in any other jurisdiction), suspends or declares that it will suspend making payments on any of its debts or, by reason of actual financial difficulties, commences negotiations with all or substantially all of its known creditors with a view to rescheduling any of its indebtedness or is subject to involuntary winding-up, dissolution, reconstruction (in Danish: rekonstruktion) or liquidation.
+"Intercreditor Agreement" means the intercreditor agreement entered into between, amongst other, the Issuer, the super senior RCF creditors under the Super Senior RCF, the facility agent under the Super Senior RCF, certain hedging counterparties and the Agent (representing the Bondholders).
+"Interest" means the interest on the Bonds calculated in accordance with Clauses 8(a) to 8(c).
+"Interest Coverage Ratio" means the ratio of EBITDA to Net Finance Charges.
+"Interest Payment Date" means 15 February, 15 May, 15 August and 15 November each year. The first Interest Payment Date shall be 15 August 2018. The last Interest Payment Date shall be the Final Maturity Date (or such earlier date on which the Bonds are redeemed in full). To the extent any of the above dates is not a CSD Business Day, the first following day that is a CSD Business Day, unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a CSD Business Day.
+"Interest Period" means:
+(a) in respect of the first Interest Period, the period from (but excluding) the First Issue Date to (and including) the first Interest Payment Date; and
+(b) in respect of subsequent Interest Periods, the period from (but excluding) an Interest Payment Date to (and including) the next succeeding Interest Payment Date (or a shorter period if relevant).
+Interest Rate" means EURIBOR plus the Floating Rate Margin.
+
+8
+"Issuer" means Georg Jensen A/S, a limited liability company incorporated in Denmark with Danish company registration no. (CVR-No.): 26 57 36 45 and having its registered address at Søndre Fasanvej 7, DK-2000 Frederiksberg, Denmark.
+"Issuing Agent" means DNB Bank ASA, Sweden Branch, or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
+"Legal Reservations" means the limitation of enforcement by laws relating to insolvency, reorganisation and other laws generally affecting the rights of creditors.
+"Leverage Ratio" means the ratio of Net Interest Bearing Debt to EBITDA.
+"Listing Failure Event" means:
+(a) that the Bonds have not been admitted to listing on Nasdaq Stockholm (or another Regulated Market) within 12 months after the First Issue Date;
+(b) any Subsequent Bonds issued later than 12 months after the First Issue Date have not been admitted to listing on Nasdaq Stockholm (or another Regulated Market) within 20 days after the issuance of such Subsequent Bonds; or
+(c) in the case of a successful admission to listing, that the Bonds cease to be admitted to listing on Nasdaq Stockholm (or another Regulated Market) without being admitted to trading on another Regulated Market.
+"Local Facilities" means a loan facility, guarantee facility, overdraft or other credit arrangements made available on normal commercial terms to a member of the Group by a bank or other financial institution in the country in which that member of the Group is incorporated or operates, provided that no guarantee or other support in respect of financial loss is given in respect of that facility by any other member of the Group.
+"Main Shareholders" means GJ Holdings Limited (and/or any other investment vehicles owned or managed directly or indirectly by the Sponsor).
+"Market Loan" means any loan or other indebtedness where an entity issues commercial paper, certificates, subordinated debentures, bonds or any other debt securities (including, for the avoidance of doubt, medium term note programmes and other market funding programmes), provided in each case that such instruments and securities are or can be subject to trade on Nasdaq or any other regulated or unregulated recognised market place.
+"Material Adverse Effect" means a material adverse effect on:
+(a) the business, financial condition or operations of the Group taken as a whole;
+(b) the ability of the Issuer and the Guarantors taken as whole to comply with their obligations under the Finance Documents; or
+(c) subject to the Legal Reservations, the validity or enforceability of the Finance Documents.
+
+9
+"Material Group Company" means, at any time:
+(a) the Issuer; or
+(b) any wholly-owned Group Company which is nominated as such by the Issuer in accordance with Clause 13.11 (Nomination of Material Group Companies).
+"Material Intercompany Loan" means any intercompany loans provided by the Issuer/any Group Company to any other Group Company where:
+(a) the term of the intercompany loan is at least 12 months (the term to be determined by the Issuer); and
+(b) the principal amount thereof is at least in an amount exceeding EUR 1,000,000.
+For the avoidance of doubt, intercompany balances arising in the ordinary course of business between the Group Companies shall not be treated as a Material Intercompany Loan.
+"Net Finance Charges" means, for the Reference Period, the Finance Charges according to the latest Financial Report(s), after deducting any interest payable for that Reference Period to any member of the Group and any interest income relating to cash or cash equivalent investment (and excluding any interest capitalised on Shareholder Loans).
+"Net Interest Bearing Debt" means the aggregate interest bearing Financial Indebtedness less cash and cash equivalents of the Group in accordance with the applicable Accounting Principles of the Group from time to time (for the avoidance of doubt, excluding guarantees, bank guarantees, Shareholder Loans, any claims subordinated pursuant to the Intercreditor Agreement and interest bearing Financial Indebtedness borrowed from any Group Company).
+"Net Proceeds" means the proceeds from a Bond Issue after deduction has been made for the Transaction Costs payable by the Issuer to the Sole Bookrunner and the Issuing Agent for the services provided in relation to the placement and issuance of the Bonds.
+"New Debt" shall have the meaning given to such term in the Intercreditor Agreement.
+"Nominal Amount" means in respect of each Bond the Initial Nominal Amount, less the aggregate amount by which that Bond has been redeemed in part pursuant to Clause 9.4 (Voluntary partial redemption upon an Equity Claw Back (call option)).
+"Obligor" means the Issuer and each Guarantor.
+"Original Guarantors" means the Parent and Georg Jensen Retail A/S.
+"Parent" means Georg Jensen Investment ApS, a limited liability company incorporated in Denmark with reg. no. 34 72 08 19.
+"Payment Block Event" shall have the meaning given to such term in the Intercreditor Agreement.
+
+10
+"Permitted Debt" means any Financial Indebtedness:
+(a) incurred under the Bonds (other than Subsequent Bonds);
+(b) incurred under a Super Senior RCF in an amount not exceeding the Super Senior Headroom (as defined in the Intercreditor Agreement);
+(c) to the extent covered by a letter of credit, guarantee or indemnity issued under the Super Senior RCF or any ancillary facility relating thereto;
+(d) incurred under any Super Senior Hedges;
+(e) incurred by any Group Company under any Local Facilities up to an aggregate maximum amount of DKK 20,000,000 (or its equivalent in local currencies);
+(f) incurred under the Refinancing Debt until the Completion Date;
+(g) of the Group incurred pursuant to any Finance Leases incurred in the ordinary course of the Group's business in a maximum amount of EUR 100,000;
+(h) of the Group under any guarantee issued by a Group Company in the ordinary course of business;
+(i) arising under a foreign exchange transaction or commodity derivatives for spot or forward delivery entered into in connection with protection against fluctuation in currency rates or prices where the exposure arises in the ordinary course of business or in respect of payments to be made under these Terms and Conditions or the Super Senior RCF, but not any transaction for investment or speculative purposes;
+(j) incurred by a Group Company from another Group Company (including any cash pool arrangements);
+(k) incurred by a Group Company towards Investeringsfonden for Udviklingslande (IFU) up to an aggregate maximum amount of DKK 10,000,000;
+(l) arising under the export VAT scheme with the Danish tax authorities (Dk. eksportmomsordningen);
+(m) incurred under any Shareholder Loans;
+(n) incurred by the Issuer if such Financial Indebtedness meets the Incurrence Test tested pro forma including such incurrence, and
+(i) is incurred as a result of a Subsequent Bond Issue; or
+(ii) ranks pari passu or is subordinated to the obligations of the Issuer under the Finance Documents and has a final maturity date or, when applicable, early redemption dates or instalment dates which occur after the Final Maturity Date;
+
+11
+(o) incurred as a result of any Group Company acquiring another entity after the First Issue Date which entity already had incurred Financial Indebtedness but not incurred or increased or having its maturity date extended in contemplation of, or since that acquisition, provided that:
+(i) the Incurrence Test is met on a pro forma basis if tested immediately after the making of that acquisition, and
+(ii) such Financial Indebtedness is:
+(A) repaid in full within six (6) months of completion of such acquisition; or
+(B) refinanced in full within six (6) months of completion of such acquisition with the Issuer as the new borrower;
+(p) incurred under Advance Purchase Agreements;
+(q) incurred under any pension and tax liabilities in the ordinary course of business by any Group Company;
+(r) arising under any counter-indemnity obligation in respect of a guarantee, bond, standby or documentary letter of credit or any other instrument issued by a bank or financial institution in respect of an underlying liability in the ordinary course of business of a Group Company;
+(s) incurred in connection with the redemption of the Bonds in order to fully refinance the Bonds and provided further that such Financial Indebtedness is subject to an escrow arrangement up until the redemption of the Bonds (taking into account the rules and regulations of the CSD), for the purpose of securing, inter alia, the redemption of the Bonds; and
+(t) not covered under paragraphs (a)-(s) above in an aggregate maximum amount of DKK 10,000,000 (or its equivalent in local currencies).
+"Permitted Merger" means a merger between Group Companies provided that:
+(a) the transferee Group Company shall be or become a Guarantor if the transferor Group Company is a Guarantor;
+(b) any transferor Group Company which shares are subject to the Transaction Security may only be merged (or involved in analogous proceedings having a similar effect) with a transferee Group Company which shares are, or will be, subject to Security in favour of the Secured Parties; and
+(c) following the merger the Transaction Security granted to the Secured Parties is the same or equivalent following the merger, except if such Transaction Security constitutes Security over intra-group loans granted between the Group Companies that are to be merged in which case the merger shall be permitted notwithstanding that such Transaction Security will not remain
+
+12
+following the merger provided that the Agent (acting in its sole discretion) have given its consent thereto.
+"Permitted Security" means any security:
+(a) provided under the Finance Documents and otherwise permitted pursuant to the Intercreditor Agreement;
+(b) under the Refinancing Debt, up until the Completion Date;
+(c) arising by operation of law or in the ordinary course of business (including collateral or retention of title arrangements in connection with Advance Purchase Agreements but, for the avoidance of doubt, not including guarantees or security in respect of any monies borrowed or raised);
+(d) arising under any netting or set off arrangements under financial derivatives transactions or bank account arrangements, including any group cash pool arrangements;
+(e) provided in relation to any lease agreement entered into by a Group Company in the ordinary course of business and on normal commercial terms;
+(f) provided over any assets being subject to a Financial Lease, permitted pursuant to paragraph (g) of the definition of "Permitted Debt";
+(g) subsisting as a result of any Group Company acquiring another entity after the First Issue Date which entity already had provided security for Financial Indebtedness permitted under paragraph (o) of the definition of "Permitted Debt", provided that such security is discharged and released in full upon the refinancing or repayment of such Financial Indebtedness as set out therein;
+(h) affecting any asset acquired by any Group Company after the First Issue Date, provided that such security is discharged and released in full within 90 days of such acquisition;
+(i) any Security created for the benefit of the financing providers in relation to a refinancing of the Bonds in full, however provided always that any perfection requirements in relation thereto are satisfied after repayment of the Bonds in full (other than with respect to an escrow account (if applicable) which may be perfected in connection with the incurrence of such debt);
+(j) provided for any guarantees issued by a Group Company in the ordinary course of business;
+(k) any Security created for the benefit of the financing providers in respect of any Local Facilities;
+(l) any security provided by or over a Group Company to secure any Permitted Debt referred to in paragraphs (b), (c), (d) and (i) of the definition "Permitted Debt"; or
+
+13
+(m) not covered under (a)-(l) above securing an aggregate maximum amount of DKK 10,000,000.
+"Person" means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organisation, government, or any agency or political subdivision thereof or any other entity, whether or not having a separate legal personality.
+"Proceeds Account" means a bank account of the Issuer, into which the Net Proceeds will be transferred and which has been pledged in favour of the Agent and the Bondholders (represented by the Agent) under the Proceeds Account Pledge Agreement.
+"Proceeds Account Pledge Agreement" means the pledge agreement entered into between the Issuer and the Agent on or prior to the First Issue Date in respect of a first priority pledge over the Proceeds Account and all funds held on the Proceeds Account from time to time, granted in favour of the Agent and the Bondholders (represented by the Agent).
+"Quotation Day" means, in relation to any period for which an interest rate is to be determined, two (2) Business Days before the first day of that period.
+"Record Date" means the fifth (5) Business Day prior to (i) an Interest Payment Date, (ii) a Redemption Date, (iii) a date on which a payment to the Bondholders is to be made under Clause 15 (Distribution of Proceeds), (iv) the date of a Bondholders' Meeting, or (v) another relevant date, or in each case such other Business Day falling prior to a relevant date if generally applicable on the Swedish bond market.
+"Reference Date" means 31 March, 30 June, 30 September and 31 December in each year for as long as any Bonds are outstanding.
+"Reference Period" means each period of 12 consecutive calendar months.
+"Refinancing Debt" means a multicurrency facility agreement dated 28 April 2015 between, amongst others, Moonlight II B.V. as parent and original guarantor, the Parent as company and original guarantor, the Issuer as original guarantor and original borrower and Nordea Danmark, filial af Nordea Bank AB (publ), Sverige (previously Nordea Bank Danmark A/S) as lender.
+"Redemption Date" means the date on which the relevant Bonds are to be redeemed or repurchased in accordance with Clause 9 (Redemption and Repurchase of the Bonds).
+"Regulated Market" means any regulated market (as defined in Directive 2004/39/EC on markets in financial instruments).
+"Secured Obligations" shall have the meaning given to such term in the Intercreditor Agreement.
+"Secured Parties" shall have the meaning given to such term in the Intercreditor Agreement.
+
+14
+"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Financial Instruments Accounts Act in which (i) an owner of such security is directly registered or (ii) an owner's holding of securities is registered in the name of a nominee.
+"Security" means a mortgage, charge, pledge, lien, security assignment or other security interest securing any obligation of any person, or any other agreement or arrangement having a similar effect.
+"Security Agent" means the security agent holding the Transaction Security on behalf of the Secured Parties, being Nordic Trustee A/S on the First Issue Date.
+"Security Documents" means:
+(a) the Danish law governed pledge agreement in respect of all the shares in the Issuer granted by the Parent;
+(b) the Danish law governed pledge agreement in respect of all the shares in Georg Jensen Retail A/S granted by the Issuer;
+(c) the Danish law governed business mortgage agreement in respect of the assets in the Issuer in the amount of DKK 200,000,000;
+(d) the Danish law governed owner's mortgage deed pledge agreement in respect of a DKK 10,000,000 owner's mortgage deed over real estate granted by the Issuer;
+(e) pledge agreements in respect of all the shares in Material Group Companies (except Georg Jensen Taiwan Ltd.);
+(f) pledge agreements in respect of any current (if any) and future Material Intercompany Loans; and
+(g) any other document designated as a Security Document by the Issuer and the Agent.
+"Shareholder Loans" means any shareholder loan made to the Issuer as debtor, if such loan:
+(a) according to the Intercreditor Agreement is subordinated to the obligations of the Issuer under the Finance Documents;
+(b) according to its terms has a final redemption date or, when applicable, early redemption dates or instalment dates which occur after the Final Maturity Date; and
+(c) according to its terms yield only payment-in-kind interest and/or cash interest that is payable after the Final Maturity Date unless a Restricted Payment is permitted under the Finance Documents.
+
+15
+"Sole Bookrunner" means DNB Bank ASA, Sweden Branch.
+"Sponsor" means Investcorp S.A.
+"Subsequent Bonds" means any Bonds issued after the First Issue Date on one or more occasions.
+"Subsequent Bond Issue" has the meaning set forth in Clause 2(e).
+"Subsidiary" means, in respect of which such person, directly or indirectly:
+(a) owns shares or ownership rights representing more than fifty (50) per cent. of the total number of votes held by the owners;
+(b) otherwise controls more than fifty (50) per cent. of the total number of votes held by the owners; or
+(c) has the power to appoint and remove all, or the majority of, the members of the board of directors or other governing body.
+"Super Senior Debt" shall have the meaning given to such term in the Intercreditor Agreement.
+"Super Senior Hedges" means hedging transactions entered into by a Group Company in respect of payments to be made under the Bonds or for hedging exposures (including hedging exposures in relation to fluctuation in currency rates) arising in the ordinary course of business, but not for speculative or investment purposes, to the extent the hedging counterparty has acceded to the Intercreditor Agreement.
+"Super Senior RCF" shall have the meaning given to such term in the Intercreditor Agreement.
+"Total Nominal Amount" means the total aggregate Nominal Amount of the Bonds outstanding at the relevant time.
+"Transaction Costs" means all fees, costs and expenses, stamp, registration and other taxes incurred by the Issuer or any other member of the Group in connection with (i) a Bond Issue, (ii) the Super Senior RCF, and (iii) the listing of the Bonds.
+"Transaction Security" means the Security provided for the Secured Obligations pursuant to the Security Documents.
+"Written Procedure" means the written or electronic procedure for decision making among the Bondholders in accordance with Clause 18 (Written Procedure).
+1.2 Construction
+(a) Unless a contrary indication appears, any reference in these Terms and Conditions to:
+
+16
+(i) "assets" includes present and future properties, revenues and rights of every description;
+(ii) any agreement or instrument is a reference to that agreement or instrument as supplemented, amended, novated, extended, restated or replaced from time to time;
+(iii) a "regulation" includes any regulation, rule or official directive, request or guideline (whether or not having the force of law) of any governmental, intergovernmental or supranational body, agency, department or regulatory, self-regulatory or other authority or organisation;
+(iv) an Event of Default is continuing if it has not been remedied or waived;
+(v) a provision of law is a reference to that provision as amended or re enacted; and
+(vi) a time of day is a reference to Stockholm time.
+(b) When ascertaining whether a limit or threshold specified in Euro has been attained or broken, an amount in another currency shall be counted on the basis of the rate of exchange for such currency against Euro for the previous Business Day, as published by the European Central Bank (www.ecb.europa.eu). If no such rate is available, the most recently published rate shall be used instead.
+(c) When ascertaining whether a limit or threshold specified in Danish Kroner has been attained or broken, an amount in another currency shall be counted on the basis of the rate of exchange for such currency against Danish Kroner for the previous Business Day, as published by Danmarks Nationalbank on its website (www.nationalbanken.dk). If no such rate is available, the most recently published rate shall be used instead.
+(d) A notice shall be deemed to be sent by way of press release if it is made available to the public within the European Economic Area promptly and in a non-discriminatory manner.
+(e) No delay or omission of the Agent or of any Bondholder to exercise any right or remedy under the Finance Documents shall impair or operate as a waiver of any such right or remedy.
+2. Status of the Bonds
+(a) The Bonds are denominated in Euro and each Bond is constituted by these Terms and Conditions. The Issuer undertakes to make payments in relation to the Bonds and to comply with these Terms and Conditions.
+(b) By subscribing for Bonds, each initial Bondholder agrees that the Bonds shall benefit from and be subject to the Finance Documents and by acquiring Bonds, each subsequent Bondholder confirms such agreement.
+
+17
+(c) The initial nominal amount of each Initial Bond is EUR 100,000 (the "Initial Nominal Amount"). The maximum total nominal amount of the Initial Bonds is EUR 40,000,000. All Initial Bonds are issued on a fully paid basis at an issue price of 100 per cent. of the Initial Nominal Amount.
+(d) The minimum permissible investment in a Bond Issue is EUR 100,000.
+(e) Provided that the Incurrence Test (calculated pro forma including such issue) is met, the Issuer may, at one or several occasions after the First Issue Date, issue Subsequent Bonds (each such issue, a "Subsequent Bond Issue"). Subsequent Bonds shall benefit from and be subject to the Finance Documents, and, for the avoidance of doubt, the ISIN, the Interest Rate, the Nominal Amount and the Final Maturity Date applicable to the Initial Bonds shall apply to Subsequent Bonds. The price of the Subsequent Bonds may be set at a discount or at a premium compared to the Nominal Amount. The maximum total nominal amount of the Bonds (the Initial Bonds and all Subsequent Bonds) may not exceed EUR 60,000,000. Each Subsequent Bond shall entitle its holder to Interest in accordance with Clause 8(a), and otherwise have the same rights as the Initial Bonds.
+(f) Subject to the terms of the Intercreditor Agreement, the Bonds constitute direct, general, unconditional, unsubordinated and secured obligations of the Issuer and shall at all times rank (i) without any preference among them and (ii) at least pari passu with all direct, unconditional, unsubordinated and unsecured obligations of the Issuer, except (A) those obligations which are mandatorily preferred by law and (B) the super senior ranking of the Super Senior Debt in accordance with the Intercreditor Agreement. The Bonds are freely transferable but the Bondholders may be subject to purchase or transfer restrictions with regard to the Bonds, as applicable, under local laws to which a Bondholder may be subject. Each Bondholder must ensure compliance with such restrictions at its own cost and expense.
+(g) No action is being taken in any jurisdiction that would or is intended to permit a public offering of the Bonds or the possession, circulation or distribution of any document or other material relating to the Issuer or the Bonds in any jurisdiction other than Sweden, where action for that purpose is required. Each Bondholder must inform itself about, and observe, any applicable restrictions to the transfer of material relating to the Issuer or the Bonds.
+3. Use of Proceeds
+(a) The Issuer shall use the Net Proceeds from the Initial Bond Issue, towards (i) refinancing the Refinancing Debt, (ii) financing general corporate purposes of the Group, and (iii) financing the Transaction Costs.
+(b) The Issuer shall use the Net Proceeds from any Subsequent Bond Issue, towards (i) financing general corporate purposes of the Group (including potential acquisitions), and (ii) financing the Transaction Costs.
+
+18
+4. Conditions Precedent
+4.1 Conditions Precedent Initial Bond Issue
+(a) The payment of the Net Proceeds to the Proceeds Account is subject to the Agent being satisfied it has received documents and evidence of the Proceeds Account Pledge Agreement being duly executed and perfected.
+(b) The Issuer shall provide, or procure the provision of, to the Agent, in form and substance satisfactory to the Agent (acting reasonably):
+(i) constitutional documents and corporate resolutions (approving the relevant Finance Documents and authorising a signatory/-ies to execute the Finance Documents) for the Issuer and each Original Guarantor, together constituting evidence that the Finance Documents have been duly executed;
+(ii) copies of the Finance Documents, duly executed (other than as set out in Clause 4.2 (Conditions Subsequent Initial Bond Issue));
+(iii) evidence by way of a release letter that the security existing in favour of the Refinancing Debt will be released and discharged upon repayment of the Refinancing Debt;
+(iv) copies of the following Security Documents, duly executed:
+(A) share pledge agreement in respect of the shares in each of the Issuer and Georg Jensen Retail A/S (provided that such share pledges shall be perfected immediately following disbursement of the Net Proceeds from the Proceeds Account);
+(B) business mortgage agreement in respect of the assets in the Issuer in the amount of DKK 200,000,000 (provided that such business mortgage shall be perfected as soon as possible following disbursement of the Net Proceeds from the Proceeds Account but in any event no later than 20 Business Days following such disbursement); and
+(C) mortgage deed pledge in respect of a DKK 10,000,000 owner's mortgage deed over real estate granted by the Issuer (provided that such mortgage shall be perfected as soon as possible following disbursement of the Net Proceeds from the Proceeds Account but in any event no later than 20 Business Days following such disbursement);
+(v) an agreed form Compliance Certificate;
+(vi) a list of the Material Group Companies as per the First Issue Date;
+(vii) legal opinion(s) on the capacity and due execution, in respect of the Issuer and each Original Guarantor issued by a reputable law firm
+
+19
+(other than as set out in Clause 4.2 (Conditions Subsequent Initial Bond Issue)); and
+(viii) legal opinion(s) on the validity and enforceability of any Danish law Finance Document issued by a reputable law firm (other than as set out in Clause 4.2 (Conditions Subsequent Initial Bond Issue)).
+(c) The Agent may assume that the documentation and evidence delivered to it pursuant to Clause 4.1(b) is accurate, legally valid, enforceable, correct, true and complete unless it has actual knowledge to the contrary and the Agent does not have to verify or assess the contents of any such documentation. The Agent does not have any obligation to review the documentation and evidence referred to in Clause 4.1(b) above from a legal or commercial perspective of the Bondholders.
+(d) When the conditions precedent for disbursement set out in Clause 4.1(b) have been fulfilled to the satisfaction of the Agent (acting reasonably), the Agent shall instruct the bank (with which the Issuer holds the Proceeds Account) to transfer the funds from the Proceeds Account for the purpose of repayment of the Refinance Debt and in accordance with Clause 3 (Use of Proceeds), and the Agent shall thereafter or in connection therewith release the pledge over the Proceeds Account.
+(e) If the conditions precedent for disbursement set out in Clause 4.1(b) have not been fulfilled to the satisfaction of the Agent (acting reasonably) or waived by the Agent within sixty (60) Business Days from the First Issue Date, the Issuer shall repurchase all Bonds at a price equal to 100 per cent. of the Nominal Amount together with any accrued Interest. Any funds distributed by the Agent to the Bondholders in accordance with the Proceeds Account Pledge Agreement shall be deemed to be paid by the Issuer for the redemption under this Clause 4.1(e). The repurchase date shall fall no later than thirty (30) Business Days after the ending of the sixty (60) Business Days period referred to above.
+4.2 Conditions Subsequent Initial Bond Issue
+(a) The Issuer shall, no later than 60 Business Days following disbursement from the Proceeds Account in accordance with Clause 4.1(d) above, provide the Agent with the following:
+(i) constitutional documents and corporate resolutions (approving the relevant Finance Documents and authorising a signatory/-ies to execute the Finance Documents) for the Conditions Subsequent Guarantors, together constituting evidence that the Finance Documents have been duly executed;
+(ii) copies of the relevant Security Documents not governed by Danish law, duly executed and evidence that such Transaction Security either has been or will be perfected in accordance with the terms of the Finance Documents;
+
+20
+(iii) duly executed accession letters to the Guarantee and Adherence Agreement and the Intercreditor Agreement in respect of the Conditions Subsequent Guarantors;
+(iv) legal opinion(s) on the capacity and due execution, in respect of any entity being party to any conditions subsequent Finance Document issued by a reputable law firm; and
+(v) legal opinion(s) on the validity and enforceability of any conditions subsequent Finance Document, which, if requested by the Agent, shall also include customary opinions regarding the role of the Security Agent in such jurisdiction (such as no residency or registration requirement and no need to deposit funds), issued by a reputable law firm.
+(b) The Agent may assume that the documentation and evidence delivered to it pursuant to Clause 4.2(a) is accurate, legally valid, enforceable, correct, true and complete unless it has actual knowledge to the contrary and the Agent does not have to verify or assess the contents of any such documentation. The Agent does not have any obligation to review the document and evidence referred to in Clause 4.2(a) above from a legal or commercial perspective of the Bondholders.
+(c) Notwithstanding paragraph (a) above, if additional time is required for any registration measures or similar required under local law in order to grant the conditions subsequent security and guarantees the Issuer shall provide to the Agent confirmation from a reputable local legal counsel that such registrations are required and the Agent shall in such case grant the Issuer sufficient time to carry out the necessary registrations. The conditions subsequent in relation to such jurisdiction shall then be granted no later than 60 Business Days following the registration. Notwithstanding the foregoing, the Issuer shall use its best efforts to ensure that the conditions subsequent security and guarantees are granted as soon as possible.
+(d) If the conditions subsequent have not been fulfilled to the satisfaction of the Agent (acting reasonably) or waived by the Agent within (i) 60 Business Days following disbursement from the Proceeds Account or (ii) 60 Business Days following any necessary registrations (if applicable), the Issuer shall repurchase all Bonds at a price equal to 100 per cent. of the Nominal Amount together with any accrued Interest. The repurchase date shall fall no later than thirty (30) Business Days after the ending of the sixty (60) Business Days period referred to above.
+5. Bonds in Book-Entry Form
+(a) The Bonds will be registered for the Bondholders on their respective Securities Accounts and no physical notes will be issued. Accordingly, the Bonds will be registered in accordance with the Financial Instruments Accounts Act. Registration requests relating to the Bonds shall be directed to an Account Operator.
+
+21
+(b) Those who according to assignment, Security, the provisions of the Swedish Children and Parents Code (Sw. foraldrabalken (1949:381)), conditions of will or deed of gift or otherwise have acquired a right to receive payments in respect of a Bond shall register their entitlements to receive payment in accordance with the Financial Instruments Accounts Act.
+(c) The Issuer (and the Agent when permitted under the CSD's applicable regulations) shall be entitled to obtain information from the debt register kept (Sw. Skuldbok) by the CSD in respect of the Bonds. At the request of the Agent, the Issuer shall promptly obtain such information and provide it to the Agent.
+(d) For the purpose of or in connection with any Bondholders' Meeting or any Written Procedure, the Issuing Agent shall be entitled to obtain information from the debt register kept by the CSD in respect of the Bonds.
+(e) The Issuer shall issue any necessary power of attorney to such persons employed by the Agent, as notified by the Agent, in order for such individuals to independently obtain information directly from the debt register kept by the CSD in respect of the Bonds. The Issuer may not revoke any such power of attorney unless directed by the Agent or unless consent thereto is given by the Bondholders.
+6. Right to Act on Behalf of a Bondholder
+(a) If any person other than a Bondholder wishes to exercise any rights under the Finance Documents, it must obtain a power of attorney or other proof of authorisation from the Bondholder or a successive, coherent chain of powers of attorney or proofs of authorisation starting with the Bondholder and authorising such person.
+(b) A Bondholder may issue one or several powers of attorney or provide proof of authorisation to third parties to represent it in relation to some or all of the Bonds held by it. Any such representative may act independently under the Finance Documents in relation to the Bonds for which such representative is entitled to represent the Bondholder and may further delegate its right to represent the Bondholder by way of a further power of attorney.
+(c) The Agent shall only have to examine the face of a power of attorney or other proof of authorisation that has been provided to it pursuant to Clause 6(b) and may assume that it has been duly authorised, is valid, has not been revoked or superseded and that it is in full force and effect, unless otherwise is apparent from its face.
+7. Payments in Respect of the Bonds
+(a) Any payment or repayment under the Finance Documents, or any amount due in respect of a repurchase of any Bonds, shall be made to such person who is registered as a Bondholder on the Record Date prior to an Interest Payment Date or other relevant due date, or to such other person who is registered with
+
+22
+the CSD on such date as being entitled to receive the relevant payment, repayment or repurchase amount.
+(b) If a Bondholder has registered, through an Account Operator, that principal and interest shall be deposited in a certain bank account, such deposits will be effected by the CSD on the relevant payment date. In other cases, payments will be transferred by the CSD to the Bondholder at the address registered with the CSD on the Record Date. Should the CSD, due to a delay on behalf of the Issuer or some other obstacle, not be able to effect payments as aforesaid, the Issuer shall procure that such amounts are paid to the persons who are registered as Bondholders on the relevant Record Date as soon as possible after such obstacle has been removed.
+(c) If, due to any obstacle for the CSD, the Issuer cannot make a payment or repayment, such payment or repayment may be postponed until the obstacle has been removed. Interest shall accrue in accordance with Clause 8(a)-8(c) during such postponement.
+(d) If payment or repayment is made in accordance with this Clause 7, the Issuer and the CSD shall be deemed to have fulfilled their obligation to pay, irrespective of whether such payment was made to a person not entitled to receive such amount.
+8. Interest
+(a) Each Initial Bond carries Interest at the Interest Rate from (but excluding) the First Issue Date up to (and including) the relevant Redemption Date. Any Subsequent Bond will carry Interest at the Interest Rate from (but excluding) the Interest Payment Date falling immediately prior to its issuance up to (and including) the relevant Redemption Date.
+(b) Interest accrues during an Interest Period. Payment of Interest in respect of the Bonds shall be made to the Bondholders on each Interest Payment Date for the preceding Interest Period.
+(c) Interest shall be calculated on the basis of the actual number of days in the Interest Period in respect of which payment is being made divided by 360 (actual/360-days basis).
+(d) If the Issuer fails to pay any amount payable by it under the Finance Documents on its due date, default interest shall accrue on the overdue amount from (but excluding) the due date up to (and including) the date of actual payment at a rate which is two (2) per cent. higher than the Interest Rate. Accrued default interest shall not be capitalised. No default interest shall accrue where the failure to pay was solely attributable to the Agent or the CSD, in which case the Interest Rate shall apply instead.
+(e) Pursuant to the terms of the Intercreditor Agreement, following the occurrence of a Payment Block Event and for as long as it is continuing, no payment of principal or Interest in respect of the Bonds shall be made to the
+
+23
+Bondholders. However, Interest shall continue to accrue during such period and any overdue amounts shall carry default interest pursuant to Clause 8(d). For the avoidance of doubt, the failure to repay principal or pay Interest on a due date shall constitute an Event of Default under these Terms and Conditions.
+9. Redemption and Repurchase of the Bonds
+9.1 Redemption at maturity
+The Issuer shall redeem all, but not some only, of the outstanding Bonds in full on the Final Maturity Date with an amount per Bond equal to the Nominal Amount together with accrued but unpaid Interest. If the Final Maturity Date is not a CSD Business Day, then the redemption shall occur on the first following CSD Business Day.
+9.2 Issuer's purchase of Bonds
+The Issuer may, subject to applicable law, at any time and at any price purchase Bonds on the market or in any other way. The Bonds held by the Issuer may at the Issuer's discretion be retained or sold, but not cancelled.
+9.3 Voluntary total redemption(call option)
+(a) The Issuer may redeem all, but not some only, of the outstanding Bonds in full:
+(i) any time prior to the First Call Date, at an amount per Bond equal to the First Call Amount together with accrued but unpaid Interest;
+(ii) any time from and including the First Call Date to, but excluding, the first CSD Business Day falling thirty-six (36) months after the First Issue Date at an amount per Bond equal to 103.00 per cent. of the Nominal Amount, together with accrued but unpaid Interest;
+(iii) any time from and including the first CSD Business Day falling thirty-six (36) months after the First Issue Date to, but excluding, the first CSD Business Day falling forty-eight (48) months after the First Issue Date at an amount per Bond equal to 101.50 per cent. of the Nominal Amount, together with accrued but unpaid interest;
+(iv) any time from and including the first CSD Business Day falling fortyeight (48) months after the First Issue Date to, but excluding, the Final Maturity Date at an amount per Bond equal to 100.75 per cent. of the Nominal Amount, together with accrued but unpaid Interest; and
+(v) provided that the redemption is financed to more than 50 per cent. by way of one or several Market Loan issues, any time from and including the first CSD Business Day falling fifty-seven (57) months after the First Issue Date to, but excluding, the Final Maturity Date, at an amount equal to 100 per cent. of the Nominal Amount together with accrued but unpaid Interest.
+
+24
+(b) Redemption in accordance with Clause 9.3(a) shall be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Bondholders and the Agent. Any such notice is irrevocable but may, at the Issuer's discretion, contain one or more conditions precedent. Upon expiry of such notice and the fulfillment of the conditions precedent (if any), the Issuer is bound to redeem the Bonds in full at the applicable amounts.
+9.4 Voluntary partial redemption upon an Equity Claw Back (call option)
+(a) The Issuer may at one occasion, in connection with an Equity Listing Event, repay up to EUR 35,000 per each Bond, in which case all outstanding Bonds shall be partially repaid by way of reducing the Nominal Amount of each Bond pro rata. The repayment must occur on an Interest Payment Date within 180 days after such Equity Listing Event and be made with funds in an aggregate amount not exceeding the cash proceeds received by the Issuer as a result of such Equity Listing Event (net of fees, charges and commissions actually incurred in connection with such Equity Listing Event and net of taxes paid or payable as a result of such Equity Listing Event). The repayment per Bond shall equal the repaid percentage of the Nominal Amount (rounded down to the nearest EUR 1.00) plus (i) a premium on the repaid amount as specified in Clause 9.3 (Voluntary total redemption (call option)) for the relevant period and, shall for the non-call period (until the First Call Date) be the price set out in Clause 9.3(a)(ii) and (ii) accrued but unpaid interest on the repaid amount.
+(b) Partial repayment accordance with Clause 9.4(a) shall be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Bondholders and the Agent but may, at the Issuer's discretion, contain one or more conditions precedent. Upon expiry of such notice and the fulfillment of the conditions precedent (if any), the Issuer is bound to redeem the Bonds in part and the repayment shall be made on the immediately following Interest Payment Date at the applicable amounts. The applicable amount shall be an even amount in Euro and paid to the person who is registered as a Bondholder on the Record Date prior to the relevant Redemption Date.
+9.5 Early redemption due to illegality (call option)
+(a) The Issuer may redeem all, but not some only, of the outstanding Bonds at an amount per Bond equal to the Nominal Amount together with accrued but unpaid Interest on a date determined by the Issuer if it is or becomes unlawful for the Issuer to perform its obligations under the Finance Documents.
+(b) The Issuer shall give notice of any redemption pursuant to Clause 9.5(a) no later than twenty (20) Business Days after having received actual knowledge of any event specified therein (after which time period such right shall lapse).
+(c) A notice of redemption in accordance with Clause 9.5(a) is irrevocable and, on the date specified in such notice, the Issuer is bound to redeem the Bonds in full at the applicable amounts.
+
+25
+9.6 Mandatory repurchase due to a Change of Control Event, Listing Failure Event or Delisting (put option)
+(a) Upon the occurrence of a Change of Control Event, Listing Failure Event or Delisting, each Bondholder shall have the right to request that all, or some only, of its Bonds be repurchased at a price per Bond equal to 101 per cent. of the Nominal Amount together with accrued but unpaid Interest, during a period of twenty (20) Business Days following a notice from the Issuer of the Change of Control Event, Listing Failure Event or Delisting (as applicable) pursuant to Clause 11.1(b) (after which time period such right shall lapse). However, such period may not start earlier than upon the occurrence of the Change of Control Event, Listing Failure Event or Delisting (as applicable).
+(b) The notice from the Issuer pursuant to Clause 11.1(b) shall specify the repurchase date and include instructions about the actions that a Bondholder needs to take if it wants Bonds held by it to be repurchased. If a Bondholder has so requested, and acted in accordance with the instructions in the notice from the Issuer, the Issuer shall repurchase the relevant Bonds and the repurchase amount shall fall due on the repurchase date specified in the notice given by the Issuer pursuant to Clause 11.1(b). The repurchase date must fall no later than forty-five (45) Business Days after the end of the period referred to in Clause 9.6(a).
+(c) The Issuer shall comply with the requirements of any applicable securities laws or regulations in connection with the repurchase of Bonds. To the extent that the provisions of such laws and regulations conflict with the provisions in this Clause 9.6, the Issuer shall comply with the applicable securities laws and regulations and will not be deemed to have breached its obligations under this Clause 9.6 by virtue of the conflict.
+(d) Any Bonds repurchased by the Issuer pursuant to this Clause 9.6 may at the Issuer's discretion be retained or sold, but not cancelled.
+10. Transaction Security and Guarantees
+(a) Subject to the Intercreditor Agreement and applicable corporate law limitations, as continuing Security for the due and punctual fulfilment of the Secured Obligations, the Issuer and the relevant Group Companies grants the Transaction Security to the Bondholders (as represented by the Agent), the Agent and the other Secured Parties.
+(b) Subject to the Intercreditor Agreement and applicable corporate law limitations, each Guarantor will irrevocably and unconditionally, jointly and severally, as principal obligor, pursuant to a Guarantee and Adherence Agreement guarantee the punctual performance of any Group Company's obligations under the Finance Documents.
+(c) The Security Agent shall hold the Transaction Security and the Guarantees on behalf of the Secured Parties in accordance with the Security Documents, the Guarantee and Adherence Agreement and the Intercreditor Agreement.
+
+26
+(d) The Agent shall be entitled to give instructions (on behalf of the Bondholders) relating to the Transaction Security and the Guarantees to the Security Agent in accordance with the Intercreditor Agreement.
+(e) Unless and until the Security Agent has received instructions from the Bondholders in accordance with the Intercreditor Agreement, the Security Agent shall (without first having to obtain the Bondholders' consent) be entitled to enter into agreements with the Issuer or a third party or take any other actions, if it is, in the Security Agent's opinion, necessary for the purpose of maintaining, altering, releasing or enforcing the Transaction Security, creating further Security for the benefit of the Secured Parties or for the purpose of settling the Bondholders', the super senior RCF creditors' under the Super Senior RCF, the creditors' under any New Debt, the hedge counterparties' under the Hedging Agreement or the Issuer's rights to the Transaction Security, in each case in accordance with the terms of the Finance Documents and provided that such agreements or actions are not detrimental to the interests of the Bondholders.
+(f) Subject to the Intercreditor Agreement, the Security Agent may, acting on instructions of the Secured Parties, or if in accordance with the Intercreditor Agreement, the Instructing Party (as defined in the Intercreditor Agreement), release Transaction Security and Guarantees in accordance with the terms of these Terms and Conditions, the Security Documents, the Guarantee and Adherence Agreement and the Intercreditor Agreement. For the avoidance of doubt, any Transaction Security or Guarantee will always be released in such way which does not affect the sharing between the Bondholders, the super senior RCF creditors under the Super Senior RCF, the creditors under any New Debt, and the hedge counterparties under the Hedging Agreement of the remaining Transaction Security and Guarantee and/or the ranking and priority of the Bondholders, the super senior RCF creditors under the Super Senior RCF, the creditors under any New Debt and the hedge counterparties under the Hedging Agreement as specified in the Intercreditor Agreement.
+11. Information to Bondholders
+11.1 Information from the Issuer
+(a) The Issuer shall make the following information available in the English language by publication on the website of the Issuer:
+(i) as soon as the same become available, but in any event within four (4) months after the end of each financial year, its audited consolidated financial statements for that financial year of the Issuer, including a profit and loss account, a balance sheet, a cash flow statement and management commentary or report from the Issuer's board of directors prepared in accordance with the Accounting Principles;
+(ii) as soon as the same become available, but in any event within two (2) months after the end of each quarter of its financial year, its interim quarterly unaudited consolidated reports or the year-end report (as
+
+27
+applicable) of the Issuer for such period, including a profit and loss account, a balance sheet, a cash flow statement and management commentary or report from the Issuer's board of directors prepared in accordance with the Accounting Principles;
+(iii) any other information required by the Danish Capital Markets Act and the rules and regulations of the Regulated Market on which the Bonds are admitted to trading.
+(b) The Issuer shall immediately notify the Agent and the Bondholders upon becoming aware of the occurrence of a Change of Control Event, Listing Failure Event or Delisting, and shall provide the Agent with such further information as the Agent may request (acting reasonably) following receipt of such notice.
+(c) When the financial statements and other information are made available to the Bondholders pursuant to Clause 11.1(a), the Issuer shall send copies of such financial statements and other information to the Agent.
+(d) The Issuer shall submit a Compliance Certificate to the Agent in connection with:
+(i) the testing of the Incurrence Test; and
+(ii) the delivery of the annual financial statements.
+(e) The Agent may assume that any information provided by the Issuer in the Compliance Certificate delivered to it pursuant to Clause (d) above is correct, and the Agent shall not be responsible or liable for the adequacy, accuracy or completeness of such information.
+(f) The Issuer shall immediately notify the Agent (with full particulars) upon becoming aware of the occurrence of any event or circumstance which constitutes an Event of Default, or any event or circumstance which would (with the expiry of a grace period, the giving of notice, the making of any determination or any combination of any of the foregoing) constitute an Event of Default, and shall provide the Agent with such further information as it may reasonably request in writing following receipt of such notice. Should the Agent not receive such information, the Agent is entitled to assume that no such event or circumstance exists or can be expected to occur, provided that the Agent does not have actual knowledge of such event or circumstance.
+(g) The Issuer is only obliged to inform the Agent according to this Clause 11.1 if informing the Agent would not conflict with any applicable laws or, when the Bonds are listed, the Issuer's registration contract with the Regulated Market. If such a conflict would exist pursuant to the listing contract with the Regulated Market or otherwise, the Issuer shall however be obliged to either seek approval from the Regulated Market or undertake other reasonable measures, including entering into a non-disclosure agreement with the Agent, in order to be able to timely inform the Agent according to this Clause 11.1.
+
+28
+11.2 Information from the Agent
+Subject to the restrictions of any applicable law and regulation, the Agent is entitled to disclose to the Bondholders any event or circumstance directly or indirectly relating to the Issuer or the Bonds. Notwithstanding the foregoing, the Agent may if it considers it to be beneficial to the interests of the Bondholders delay disclosure or refrain from disclosing certain information other than in respect of an Event of Default that has occurred and is continuing.
+11.3 Publication of Finance Documents
+(a) The latest version of these Terms and Conditions (including any document amending these Terms and Conditions) shall be available on the websites of the Issuer and the Agent.
+(b) The latest versions of the Finance Documents shall be available to the Bondholders at the office of the Agent during normal business hours.
+12. Financial Undertakings
+12.1 Incurrence Test
+The Incurrence Test is met if:
+(a) the Leverage Ratio is not greater than:
+(i) 3:00:1, in connection with the incurrence of Financial Indebtedness in accordance with paragraphs (n) and (o) of the definition of "Permitted Debt"; or
+(ii) 2:00:1 in connection with a Restricted Payment,
+(b) the Interest Coverage Ratio is at least 3:50:1; and
+(c) no Event of Default is continuing or would occur upon the incurrence or distribution (as applicable).
+12.2 Calculation of the Leverage Ratio
+The Leverage Ratio shall be calculated as follows:
+(a) the calculation shall be made as per a testing date determined by the Issuer, falling no more than one month prior to the incurrence of the new Financial Indebtedness or the distribution (as applicable); and
+(b) the amount of Net Interest Bearing Debt shall be measured on the relevant testing date so determined, but include any new Financial Indebtedness, but exclude any Financial Indebtedness to the extent refinanced with the new Financial Indebtedness incurred (however, any cash balance resulting from the incurrence of any new Financial Indebtedness shall not reduce the Net Interest Bearing Debt).
+
+29
+12.3 Calculation of Interest Coverage Ratio
+The calculation of Interest Coverage Ratio shall be made for a Reference Period ending on the last day of the period covered by the Financial Report as of the most recent Reference Date for which a Financial Report has been published.
+12.4 Adjustments to EBITDA
+The figures for EBITDA, Finance Charges and Net Finance Charges for the Reference Period ending on the last day of the period covered by the most recent Financial Report shall be used for the Incurrence Test, but adjusted so that:
+(a) entities acquired or disposed of by the Group during the Reference Period, or after the end of the Reference Period but before the relevant testing date, shall be included or excluded (as applicable), pro forma, for the entire Reference Period; and
+(b) any entity to be acquired with the proceeds from new Financial Indebtedness shall be included, pro forma, for the entire Reference Period.
+12.5 Adjustments to Net Finance Charges
+The figures for Net Finance Charges set out in the Financial Report as of the most recent quarter date (including when necessary, financial statements published before the First Issue Date), shall be used, but adjusted so that Net Finance Charges for such Reference Period shall be:
+(a) reduced to reflect any Net Finance Charges attributable to a disposed entity or which has been repaid, repurchased, defeased or otherwise discharged as a result of or in connection with a disposal of an entity (to the extent such Net Finance Charges is included in the relevant Financial Report);
+(b) increased on a pro forma basis by an amount equal to the Net Finance Charges directly attributable to (i) any Financial Indebtedness owed by acquired entities and (ii) any Financial Indebtedness incurred to finance the acquisition of entities, in each case calculated as if all such debt had been incurred at the beginning of the relevant Reference Period; and
+(c) increased on a pro forma basis by an amount equal to the Net Finance Charges directly attributable to any Financial Indebtedness permitted pursuant to paragraph (o) of the definition of "Permitted Debt", calculated as if such debt had been incurred at the beginning of the relevant Reference Period.
+13. General Undertakings
+13.1 General
+The Issuer undertakes to (and shall, where applicable, procure that each other Obligor and Subsidiary will) comply with the undertakings set out in this Clause 13 for as long as any Bonds remain outstanding.
+
+30
+13.2 Distributions
+(a) The Issuer shall not, and shall procure that none of the Obligors or any of their Subsidiaries will:
+(i) pay any dividend in respect of its shares;
+(ii) repurchase or redeem any of its own shares;
+(iii) redeem or reduce its share capital or other restricted or unrestricted equity with repayment to its shareholders;
+(iv) repay any Shareholder Loans or pay any interest thereon;
+(v) make any prepayments or repayments under any long-term debt ranking junior with the Bonds;
+(vi) make any payments of management fees in excess of USD 250,000 in each financial year to any direct or indirect shareholder of the Issuer;
+(vii) make distributions to any direct or indirect holding company of the Issuer in excess of USD 500,000 for the financial year 2018 and in excess of USD 300,000 for subsequent financial years, provided that such payments are made to cover the administrative costs and costs to management and board of directors of such direct or indirect holding company of the Issuer;
+(viii) grant any loans except in the ordinary course of business; or
+(ix) make any other similar distribution or transfers of value to the Issuer's, or the Subsidiaries', direct and indirect shareholders or the Affiliates of such direct and indirect shareholders,
+(paragraphs (i)-(ix) above are together and individually referred to as a "Restricted Payment").
+(b) Notwithstanding the above, a Restricted Payment may be made:
+(i) if made to the Issuer or a wholly-owned Subsidiary of the Issuer or, if made by a Subsidiary which is not directly or indirectly wholly-owned by the Issuer, is made on a pro rata basis; and/or
+(ii) if:
+(A) the Incurrence Test is met (calculated on a pro forma basis including the relevant Restricted Payment); and
+(B) if, at the time of the payment, the aggregate amount of all Restricted Payments of the Group (other than payments permitted under paragraph (i) above) in any fiscal year (including the Restricted Payment in question) does not exceed
+
+31
+50 per cent. of the Group's consolidated net profit for the previous financial year adjusted for any payment to any minority shareholder.
+13.3 Nature of Business
+The Issuer shall, and shall procure that the other Obligors will, procure that no substantial change is made to the general nature of the business carried on by the Group as of the First Issue Date if such substantial change would have a Material Adverse Effect.
+13.4 Financial Indebtedness
+The Issuer shall not, and shall procure that none of the Obligors or their Subsidiaries will, incur any Financial Indebtedness, other than Permitted Debt.
+13.5 Disposal of Assets
+(a) Subject to the terms of the Intercreditor Agreement, no Obligor shall, and shall procure that no Subsidiary will, sell or otherwise dispose of shares in any Material Group Company or of all or substantially all of its or that Material Group Company's assets, or operations to any person not being the Issuer or any of its wholly-owned Subsidiaries, unless the transaction (i) is carried out at fair market value and on arm's length terms and (ii) does not have a Material Adverse Effect.
+(b) No asset that is subject to Transaction Security may be disposed of other than in accordance with the terms of the Intercreditor Agreement. Any asset subject to floating charge security may for the avoidance of doubt be disposed of in the ordinary course of business.
+13.6 Dealings at arm's length terms
+The Issuer shall, and shall procure that the Obligors and their Subsidiaries will, conduct all dealings with any person (other than Group Companies) at arm's length terms.
+13.7 Negative Pledge
+The Issuer shall not, and shall procure that none of the Obligors or their Subsidiaries will, provide, prolong or renew any security over any of its/their assets (present or future), other than any Permitted Security.
+13.8 Loans out
+The Issuer shall not, and shall procure that none of the Obligors or their Subsidiaries will, extend any loans in any form to any other party than (a) as permitted under Clause 13.2 (Distributions) above, (b) in the ordinary course of trading, and (c) any other loan in an aggregate outstanding amount not exceeding EUR 1,000,000.
+
+32
+13.9 Mergers and demergers
+(a) The Issuer shall not enter into a merger where the Issuer is not the surviving entity and the Issuer shall not enter into a demerger.
+(b) Subject to the paragraph (a) above, the Issuer shall not, and shall procure that none of the Obligors or their Subsidiaries will, enter into a merger or demerger unless:
+(i) such merger or demerger constitutes a Permitted Merger; or
+(ii) such merger or demerger is not likely to have a Material Adverse Effect.
+13.10 Compliance with laws and authorisations
+The Issuer shall, and shall make sure that the Obligors and their Subsidiaries will:
+(a) comply with all laws and regulations applicable from time to time; and
+(b) obtain, maintain, and comply with, the terms and conditions of any authorisation, approval, licence or other permit required for the business carried out by a Group Company,
+in each case, if failure to do so has or is reasonably likely to have a Material Adverse Effect.
+13.11 Nomination of Material Group Companies
+At:
+(a) the First Issue Date and thereafter once every year (starting 2019) (simultaneously with the publication by the Issuer of the audited annual financial statements of the Group); and
+(b) the date of acquisition of any assets by a Group Company for a consideration in excess of 5 per cent. of EBITDA of the Group (calculated on a consolidated basis) (simultaneously with the delivery by the Issuer of the Compliance Certificate related the incurrence of such Permitted Debt),
+the Issuer shall ensure that:
+(a) each Group Company which (on a consolidated basis in the case of a Group Company which itself has Subsidiaries) has EBITDA representing 5 per cent. or more of EBITDA of the Group (calculated on a consolidated basis); and
+(b) such Group Companies as are necessary to ensure that the Issuer and the Material Group Companies (calculated on an unconsolidated basis and excluding all intra-Group items and investments in Subsidiaries of any Group Company) in aggregate account for at least 80 per cent. of EBITDA of the Group (calculated on a consolidated basis), in each case, determined by
+
+33
+reference to the most recent audited annual financial statements from and including the calendar year ending 2018,
+are listed as Material Group Companies in the relevant Compliance Certificate delivered in connection thereto.
+13.12 Additional Security over Material Group Companies
+The Issuer shall, and shall procure that each other Obligor will, procure that Security over the shares of each Material Group Company (except Georg Jensen Taiwan Ltd.) is granted no later than 60 Business Days after its nomination in accordance with Clause 13.11 (Nomination of Material Group Companies) and in connection therewith provide to the Agent:
+(a) constitutional documents and corporate resolutions (approving the relevant Security Document and authorising a signatory/-ies to execute that Security Document) for the relevant security provider and each other party to that Security Document (other than the Agent);
+(b) copies of the register of shareholders (or similar) (in each case) with respect to that Material Group Company;
+(c) any legal opinion on the capacity and due execution in respect of any entity being party to the relevant Security Document, issued by a reputable law firm; and
+(d) any legal opinion on the validity and enforceability in respect of the relevant Security Document which, if requested by the Agent, shall also include customary opinions regarding the role of the Security Agent in such jurisdiction (such as no residency or registration requirement (other than such documents governed by Danish law) and no need to deposit funds), issued by a reputable law firm.
+13.13 Additional Guarantors
+Each Obligor shall procure that each Material Group Company (except Georg Jensen Taiwan Ltd.) accedes to the Guarantee and Adherence Agreement no later than 60 Business Days after its nomination in accordance with Clause 13.11 (Nomination of Material Group Companies) and in connection therewith provides to the Agent:
+(a) Security pursuant to the terms hereof and the Intercreditor Agreement;
+(b) duly executed accession letters to the Intercreditor Agreement and the Guarantee and Adherence Agreement;
+(c) constitutional documents and corporate resolutions (approving the relevant Finance Documents and authorising a signatory/-ies to execute the Finance Documents) for it and each other party to a Finance Document (other than the Agent);
+
+34
+(d) any legal opinion on the capacity and due execution, issued by a reputable law firm; and
+(e) any legal opinion on the validity and enforceability in respect of any Finance Documents which, if requested by the Agent, shall also include customary opinions regarding the role of the Security Agent in such jurisdiction (such as no residency or registration requirement (other than such documents governed by Danish law) and no need to deposit funds), issued by a reputable law firm.
+13.14 Additional Security Material Intercompany Loans
+(a) The Issuer shall and shall procure that each Group Company (except Georg Jensen Taiwan Ltd.) will, upon the incurrence of a Material Intercompany Loan, grant a pledge over that Material Intercompany Loan as security for all amounts outstanding under the Finance Documents and simultaneously therewith deliver to the Agent (unless previously provided):
+(i) constitutional documents and corporate resolutions (approving the relevant Security Documents and authorising a signatory/-ies to execute the relevant Security Document) for the relevant security provider, and each other party to that Security Document (other than the Agent);
+(ii) a legal opinion on the capacity and due execution, in respect of any entity being party to the relevant Security Document, issued by a reputable law firm; and
+(iii) any legal opinion on the validity and enforceability in respect of the relevant Security Document which, if requested by the Agent, shall also include customary opinions regarding the role of the Security Agent in such jurisdiction (such as no residency or registration requirement (other than such documents governed by Danish law) and no need to deposit funds), issued by a reputable law firm.
+(b) The security shall be subject to customary financial assistance and corporate benefit limitations. Provided that no Event of Default has occurred and is continuing (i) payment of principal under Material Intercompany Loans made for the purpose of making payments under the Bonds and (ii) payment of interest under Material Intercompany Loans shall be permitted.
+14. Events of Default and Acceleration of the Bonds
+Each of the events or circumstances set out in this Clause 14 (other than Clause 14.9 (Acceleration of the Bonds)) is an Event of Default.
+14.1 Non-Payment
+The Issuer or a Guarantor fails to pay an amount on the date it is due in accordance with the Finance Documents unless:
+
+35
+(a) its failure to pay is caused by administrative or technical error; and
+(b) payment is made within five (5) Business Days of the due date.
+14.2 Other Obligations
+A party (other than the Agent, the Super Senior RCF Creditor, the Hedge Counterparty, the Facility Agent and any New Debt Creditor, each as defined in the Intercreditor Agreement) fails to comply with the Finance Documents to which it is a party, in any other way than as set out under Clause 14.1 (Non-Payment) above, provided that the Agent has requested the Issuer in writing to remedy such failure and the Issuer has not remedied the failure within fifteen (15) Business Days from such request (if the failure or violation is not capable of being remedied, the Agent may declare the Bonds payable without such prior written request).
+14.3 Cross Payment Default and Cross-Acceleration
+Any Financial Indebtedness of a Group Company is:
+(a) not paid when due as extended by any originally applicable grace period (if there is one); or
+(b) is declared to be due and payable prior to its specified maturity as a result of an event of default (however described),
+provided that no Event of Default will occur under this Clause 14.3 (Cross Payment Default and Cross-Acceleration) if (i) the aggregate amount of Financial Indebtedness that has fallen due is less than EUR 2,000,000 or (ii) it is owed to a Group Company.
+14.4 Insolvency
+(a) Any Material Group Company is unable or admits inability to pay its debts as they fall due or is declared to be unable to pay its debts under applicable law, suspends making payments on its debts generally or, by reason of actual or anticipated financial difficulties, commences negotiations with its creditors (except for Bondholders and the creditors under the Super Senior Debt) with a view to rescheduling its Financial Indebtedness; or
+(b) moratorium is declared in respect of the Financial Indebtedness of any Material Group Company
+14.5 Insolvency Proceedings
+Any corporate action, legal proceedings or other procedures are taken (other than (i) proceedings or petitions which are being disputed in good faith and are discharged, stayed or dismissed within 90 days of commencement or, if earlier, the date on which it is advertised, and (ii) in relation to Subsidiaries, solvent liquidations) in relation to:
+(a) the suspension of payments, winding-up, dissolution, administration or reorganisation (by way of voluntary agreement, scheme of arrangement or otherwise) of any Material Group Company; and
+
+36
+(b) the appointment of a liquidator, receiver, administrator, administrative receiver, compulsory manager or other similar officer in respect of any Material Group Company or any of its assets or any analogous procedure or step is taken in any jurisdiction.
+14.6 Creditors' Process
+Any expropriation, attachment, sequestration, distress or execution or any analogous process in any jurisdiction affects any asset or assets of any Group Company having an aggregate value of an amount equal to or exceeding EUR 2,000,000 and is not discharged within 60 days.
+14.7 Impossibility or Illegality
+It is or becomes impossible or unlawful for the Issuer to fulfill or perform any of the provisions of the Finance Documents or if the obligations under the Finance Documents are not, or cease to be, legal, valid, binding and enforceable (subject to the Legal Reservations).
+14.8 Continuation of the Business
+The Issuer or any other Group Company ceases to carry on its business if such discontinuation is likely to have a Material Adverse Effect
+14.9 Acceleration of the Bonds
+(a) Upon the occurrence of an Event of Default which is continuing but subject to the terms of the Intercreditor Agreement, the Agent is entitled to, and shall following an instruction given pursuant to Clause 14.9(d), on behalf of the Bondholders (i) by notice to the Issuer, declare all, but not some only, of the outstanding Bonds due and payable together with any other amounts payable under the Finance Documents, immediately or at such later date as the Agent determines, and (ii) exercise any or all of its rights, remedies, powers and discretions under the Finance Documents.
+(b) The Agent may not accelerate the Bonds in accordance with Clause 14.9(a) by reference to a specific Event of Default if it is no longer continuing or if it has been decided, on a Bondholders Meeting or by way of a Written Procedure, to waive such Event of Default (temporarily or permanently).
+(c) The Agent shall notify the Bondholders of an Event of Default within five (5) Business Days of the date on which the Agent received actual knowledge of that an Event of Default has occurred and is continuing. The Agent shall, within twenty (20) Business Days of the date on which the Agent received actual knowledge of that an Event of Default has occurred and is continuing, decide if the Bonds shall be so accelerated. If the Agent decides not to accelerate the Bonds, the Agent shall promptly seek instructions from the Bondholders in accordance with Clause 16 (Decisions by Bondholders). The Agent shall always be entitled to take the time necessary to consider whether an occurred event constitutes an Event of Default.
+
+37
+(d) If the Bondholders (in accordance with these Terms and Conditions) instruct the Agent to accelerate the Bonds, the Agent shall promptly declare the Bonds due and payable and take such actions as may, in the opinion of the Agent, be necessary or desirable to enforce the rights of the Bondholders under the Finance Documents, unless the relevant Event of Default is no longer continuing.
+(e) If the right to accelerate the Bonds is based upon a decision of a court of law or a government authority, it is not necessary that the decision has become enforceable under law or that the period of appeal has expired in order for cause of acceleration to be deemed to exist.
+(f) In the event of an acceleration of the Bonds in accordance with this Clause 14.9, up to, but excluding, the First Call Date the Issuer shall redeem all Bonds at an amount per Bond equal to the redemption amount specified in Clause 9.3(a)(ii) and thereafter, as applicable considering when the acceleration occurs, the redemption amount specified in Clause 9.3 (Voluntary total redemption (call option)).
+15. Distribution of Proceeds
+(a) All payments by the Issuer relating to the Bonds and the Finance Documents following an acceleration of the Bonds in accordance with Clause 14 (Events of Default and Acceleration of the Bonds) and any proceeds received from an enforcement of the Transaction Security (in the case of proceeds from the Guarantee to the extent such proceeds can be applied towards satisfaction of the Secured Obligations) shall be distributed in accordance with the Intercreditor Agreement.
+(b) Funds that the Agent receives (directly or indirectly) in connection with the acceleration of the Bonds or the enforcement of the Transaction Security constitute escrow funds and must be promptly turned over to the Security Agent to be applied in accordance with the Intercreditor Agreement.
+(c) If the Issuer or the Agent shall make any payment under this Clause 15, the Issuer or the Agent, as applicable, shall notify the Bondholders of any such payment at least fifteen (15) Business Days before the payment is made. Such notice shall specify the Record Date, the payment date and the amount to be paid. Notwithstanding the foregoing, for any Interest due but unpaid the Record Date specified in Clause 7(a) shall apply and for any partial redemption in accordance with Clause 9.4 (Voluntary partial redemption upon an Equity Claw Back (call option)) due but not made, the Record Date specified in Clause 9.4(b) shall apply.
+
+38
+16. Decisions by Bondholders
+(a) A request by the Agent for a decision by the Bondholders on a matter relating to the Finance Documents shall (at the option of the Agent) be dealt with at a Bondholders' Meeting or by way of a Written Procedure.
+(b) Any request from the Issuer or a Bondholder (or Bondholders) representing at least ten (10) per cent. of the Adjusted Nominal Amount (such request may only be validly made by a person who is a Bondholder on the Business Day immediately following the day on which the request is received by the Agent and shall, if made by several Bondholders, be made by them jointly) for a decision by the Bondholders on a matter relating to the Finance Documents shall be directed to the Agent and dealt with at a Bondholders' Meeting or by way a Written Procedure, as determined by the Agent. The person requesting the decision may suggest the form for decision making, but if it is in the Agent's opinion more appropriate that a matter is dealt with at a Bondholders' Meeting than by way of a Written Procedure, it shall be dealt with at a Bondholders' Meeting.
+(c) The Agent may refrain from convening a Bondholders' Meeting or instigating a Written Procedure if (i) the suggested decision must be approved by any person in addition to the Bondholders and such person has informed the Agent that an approval will not be given, or (ii) the suggested decision is not in accordance with applicable laws.
+(d) Only a person who is, or who has been provided with a power of attorney or other proof of authorization pursuant to Clause 6 (Right to Act on Behalf of a Bondholder) from a person who is, registered as a Bondholder:
+(i) on the Record Date prior to the date of the Bondholders' Meeting, in respect of a Bondholders' Meeting, or
+(ii) on the Business Day specified in the communication pursuant to Clause 18(c), in respect of a Written Procedure,
+may exercise voting rights as a Bondholder at such Bondholders' Meeting or in such Written Procedure, provided that the relevant Bonds are included in the definition of "Adjusted Nominal Amount".
+(e) The following matters shall require the consent of Bondholders representing at least sixty-six and two thirds (66 2/3) per cent. of the Adjusted Nominal Amount for which Bondholders are voting at a Bondholders' Meeting or for which Bondholders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 18(c):
+(i) the issue of any Subsequent Bonds if the total nominal amount of the Bonds exceeds, or if such issue would cause the total nominal amount of the Bonds to at any time exceed, EUR 60,000,000 (for the avoidance of doubt, for which consent shall be required at each occasion such Subsequent Bonds are issued);
+
+39
+(ii) a change to the terms of any of Clause 2(a), and Clauses 2(f) to 2(g);
+(iii) a reduction of the premium payable upon the redemption or repurchase of any Bond pursuant to Clause 9 (Redemption and Repurchase of the Bonds);
+(iv) a change to the Interest Rate or the Nominal Amount (other than as a result of an application of Clause 9.4 (Voluntary partial redemption upon an Equity Claw Back (call option));
+(v) a change to the terms for the distribution of proceeds set out in Clause 15 (Distribution of Proceeds);
+(vi) a change to the terms dealing with the requirements for Bondholders' consent set out in this Clause 16;
+(vii) a change of issuer, an extension of the tenor of the Bonds or any delay of the due date for payment of any principal or interest on the Bonds;
+(viii) a release of the Transaction Security, except in accordance with the terms of the Security Documents;
+(ix) a mandatory exchange of the Bonds for other securities; and
+(x) early redemption of the Bonds, other than upon an acceleration of the Bonds pursuant to Clause 14 (Events of Default and Acceleration of the Bonds) or as otherwise permitted or required by these Terms and Conditions.
+(f) Any matter not covered by Clause 16(e) shall require the consent of Bondholders representing more than 50 per cent. of the Adjusted Nominal Amount for which Bondholders are voting at a Bondholders' Meeting or for which Bondholders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 18(c). This includes, but is not limited to, any amendment to, or waiver of, the terms of any Finance Document that does not require a higher majority (other than an amendment permitted pursuant to Clause 19(a)(i) or (19(a)(ii))), an acceleration of the Bonds or the enforcement of any Transaction Security.
+(g) Quorum at a Bondholders' Meeting or in respect of a Written Procedure only exists if a Bondholder (or Bondholders) representing at least fifty (50) per cent. of the Adjusted Nominal Amount in case of a matter pursuant to Clause 16(e), and otherwise twenty (20) per cent. of the Adjusted Nominal Amount:
+(i) if at a Bondholders' Meeting, attend the meeting in person or by telephone conference (or appear through duly authorised representatives); or
+(ii) if in respect of a Written Procedure, reply to the request.
+
+40
+(h) If a quorum does not exist at a Bondholders' Meeting or in respect of a Written Procedure, the Agent or the Issuer shall convene a second Bondholders' Meeting (in accordance with Clause 17(a)) or initiate a second Written Procedure (in accordance with Clause 18(a)), as the case may be, provided that the relevant proposal has not been withdrawn by the person(s) who initiated the procedure for Bondholders' consent. The quorum requirement in Clause 16(g) shall not apply to such second Bondholders' Meeting or Written Procedure.
+(i) Any decision which extends or increases the obligations of the Issuer or the Agent, or limits, reduces or extinguishes the rights or benefits of the Issuer or the Agent, under the Finance Documents shall be subject to the Issuer's or the Agent's consent, as appropriate.
+(j) A Bondholder holding more than one Bond need not use all its votes or cast all the votes to which it is entitled in the same way and may in its discretion use or cast some of its votes only.
+(k) The Issuer may not, directly or indirectly, pay or cause to be paid any consideration to or for the benefit of any Bondholder for or as inducement to any consent under these Terms and Conditions, unless such consideration is offered to all Bondholders that consent at the relevant Bondholders' Meeting or in a Written Procedure within the time period stipulated for the consideration to be payable or the time period for replies in the Written Procedure, as the case may be.
+(l) A matter decided at a duly convened and held Bondholders' Meeting or by way of Written Procedure is binding on all Bondholders, irrespective of them being present or represented at the Bondholders' Meeting or responding in the Written Procedure. The Bondholders that have not adopted or voted for a decision shall not be liable for any damages that this may cause other Bondholders.
+(m) All costs and expenses incurred by the Issuer or the Agent for the purpose of convening a Bondholders' Meeting or for the purpose of carrying out a Written Procedure, including reasonable fees to the Agent, shall be paid by the Issuer.
+(n) If a decision shall be taken by the Bondholders on a matter relating to the Finance Documents, the Issuer shall promptly at the request of the Agent provide the Agent with a certificate specifying the number of Bonds owned by Group Companies or (to the knowledge of the Issuer) Affiliates, irrespective of whether such person is directly registered as owner of such Bonds. The Agent shall not be responsible for the accuracy of such certificate or otherwise be responsible to determine whether a Bond is owned by a Group Company or an Affiliate.
+(o) Information about decisions taken at a Bondholders' Meeting or by way of a Written Procedure shall promptly be sent by notice to the Bondholders and published on the websites of the Issuer and the Agent, provided that a failure to do so shall not invalidate any decision made or voting result achieved. The
+
+41
+minutes from the relevant Bondholders' Meeting or Written Procedure shall at the request of a Bondholder be sent to it by the Issuer or the Agent, as applicable.
+17. Bondholders' Meeting
+(a) The Agent shall convene a Bondholders' Meeting by sending a notice thereof to each Bondholder no later than five (5) Business Days after receipt of a request from the Issuer or the Bondholder(s) (or such later date as may be necessary for technical or administrative reasons).
+(b) Should the Issuer want to replace the Agent, it may convene a Bondholders' Meeting in accordance with Clause 17(a) with a copy to the Agent. After a request from the Bondholders pursuant to Clause 20.4(c), the Issuer shall no later than five (5) Business Days after receipt of such request (or such later date as may be necessary for technical or administrative reasons) convene a Bondholders' Meeting in accordance with Clause 17(a).
+(c) The notice pursuant to Clause 17(a) shall include (i) time for the meeting, (ii) place for the meeting, (iii) agenda for the meeting (including each request for a decision by the Bondholders) and (iv) a form of power of attorney. Only matters that have been included in the notice may be resolved upon at the Bondholders' Meeting. Should prior notification by the Bondholders be required in order to attend the Bondholders' Meeting, such requirement shall be included in the notice.
+(d) The Bondholders' Meeting shall be held no earlier than fifteen (15) Business Days and no later than thirty (30) Business Days from the notice.
+(e) Without amending or varying these Terms and Conditions, the Agent may prescribe such further regulations regarding the convening and holding of a Bondholders' Meeting as the Agent may deem appropriate. Such regulations may include a possibility for Bondholders to vote without attending the meeting in person.
+18. Written Procedure
+(a) The Agent shall instigate a Written Procedure (which may be conducted electronically in a manner determined by the Agent) no later than five (5) Business Days after receipt of a request from the Issuer or the Bondholder(s) (or such later date as may be necessary for technical or administrative reasons) by sending a communication to each such person who is registered as a Bondholder on the Business Day prior to the date on which the communication is sent.
+(b) Should the Issuer want to replace the Agent, it may send a communication in accordance with Clause 18(a) to each Bondholder with a copy to the Agent.
+(c) A communication pursuant to Clause 18(a) shall include (i) each request for a decision by the Bondholders, (ii) a description of the reasons for each request,
+
+42
+(iii) a specification of the Business Day on which a person must be registered as a Bondholder in order to be entitled to exercise voting rights, (iv) instructions and directions on where to receive a form for replying to the request (such form to include an option to vote yes or no for each request) as well as a form of power of attorney, and (v) the stipulated time period within which the Bondholder must reply to the request (such time period to last at least fifteen (15) Business Days from the communication pursuant to Clause 18(a)). If the voting shall be made electronically, instructions for such voting shall be included in the communication.
+(d) When the requisite majority consents of the total Adjusted Nominal Amount pursuant to Clauses 16(e) and 16(e)(i) have been received in a Written Procedure, the relevant decision shall be deemed to be adopted pursuant to Clause 16(e) or 16(e)(i), as the case may be, even if the time period for replies in the Written Procedure has not yet expired.
+19. Amendments and Waivers
+(a) The Issuer and the Agent (acting on behalf of the Bondholders) may (subject to the terms of the Intercreditor Agreement) agree to amend the Finance Documents or waive any provision in a Finance Document, provided that:
+(i) the Agent is satisfied that such amendment or waiver is not detrimental to the interest of the Bondholders, or is made solely for the purpose of rectifying obvious errors and mistakes;
+(ii) such amendment or waiver is required by applicable law, a court ruling or a decision by a relevant authority;
+(iii) such amendment will not negatively affect the Bondholders or the Agent and is necessary for the purpose of listing of the Bonds; or
+(iv) such amendment or waiver has been duly approved by the Bondholders in accordance with Clause 16 (Decisions by Bondholders).
+(b) The consent of the Bondholders is not necessary to approve the particular form of any amendment to the Finance Documents. It is sufficient if such consent approves the substance of the amendment or waiver.
+(c) The Agent shall promptly notify the Bondholders of any amendments or waivers made in accordance with Clause 19(a), setting out the date from which the amendment or waiver will be effective, and ensure that any amendments to the Finance Documents are published in the manner stipulated in Clause 11.3 (Publication of Finance Documents). The Issuer shall ensure that any amendments to the Finance Documents are duly registered with the CSD and each other relevant organisation or authority, to the extent such registration is possible in accordance with the rules of the relevant CSD.
+
+43
+(d) An amendment to the Finance Documents shall take effect on the date determined by the Bondholders Meeting, in the Written Procedure or by the Agent, as the case may be.
+20. Appointment and Replacement of the Agent
+20.1 Appointment of Agent
+(a) The Issuer appoints the Agent to act as representative (Dk. fuldmægtig og repræsentant) on behalf of and for the benefit of the Bondholders pursuant to Chapter 4 of the Danish Capital Markets Act and in accordance with the terms of the Intercreditor Agreement. The Agent accepts such appointment. The Agent shall be registered with the Danish Financial Supervisory Authority (Dk. finanstilsynet) in accordance with the Danish Capital Markets Act and the Issuer and the Agent shall provide all information required by the Danish Financial Supervisory Authority.
+(b) By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, each Bondholder is bound by these Terms and Conditions and any other Finance Document, without any further action required to be taken or formalities to be complied with. The Agent has power and authority to act on behalf of, and/or represent, the Bondholders in all matters, including but not limited to taking any legal or other action, including enforcement of these Terms and Conditions, the Security Documents and the Guarantee and Adherence Agreement, and the commencement of bankruptcy or other insolvency proceedings against the Issuer, or others. By acquiring Bonds, each subsequent Bondholder confirms the appointment and authorisation of the Agent to act on its behalf, as set forth in this Clause 20.1 (Appointment of Agent).
+(c) Each Bondholder shall immediately upon request provide the Agent and the Security Agent with any such documents, including a written power of attorney (in form and substance satisfactory to the Agent or the Security Agent, as applicable), that the Agent deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents. Neither the Agent nor the Security Agent is under any obligation to represent a Bondholder which does not comply with such request.
+(d) The Issuer shall promptly upon request provide the Agent and the Security Agent with any documents and other assistance (in form and substance satisfactory to the Agent or the Security Agent, as applicable), that the Agent or the Security Agent, as applicable deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents.
+(e) The Agent is entitled to fees for its work and to be indemnified for costs, losses and liabilities on the terms set out in the Finance Documents and the Agency Agreement and the Agent's obligations as Agent under the Finance Documents are conditioned upon the due payment of such fees and indemnifications.
+
+44
+(f) The Agent may act as agent, trustee or representative for several issues of securities issued by or relating to the Issuer and other Group Companies notwithstanding potential conflicts of interest.
+20.2 Duties of the Agent
+(a) The Agent shall represent the Bondholders in accordance with the Finance Documents, and, where relevant, enforcing the Transaction Security and/or Guarantees on behalf of the Bondholders. The Agent is not responsible for the content, valid execution, perfection, legal validity or enforceability of the Finance Documents.
+(b) When acting in accordance with the Finance Documents, the Agent is always acting with binding effect on behalf of the Bondholders. The Agent shall carry out its duties under the Finance Documents in a reasonable, proficient and professional manner, with reasonable care and skill.
+(c) The Agent's duties under this Agreement are solely mechanical and administrative in nature and the Agent only acts in accordance with these Terms and Conditions and upon instructions from the Bondholders, unless otherwise set out in these Terms and Conditions. In particular, the Agent in not acting as an advisor (whether legal, financial or otherwise) to the Bondholders or any other person.
+(d) The Agent is not obligated to assess or monitor the financial condition of the Issuer or compliance by the Issuer of the terms of the Finance Documents unless to the extent expressly set out in these Terms and Conditions and the other Finance Documents, or to take any steps to ascertain whether any Event of Default (or any event that may lead to an Event of Default) has occurred. Until it has actual knowledge to the contrary, the Agent is entitled to assume that no Event of Default (or any event that may lead to an Event of Default) has occurred.
+(e) The Agent is entitled to delegate its duties to other professional parties (without having to first obtain any consent from the Issuer or the Bondholders), but the Agent shall remain liable for the actions of such parties under the Finance Documents.
+(f) The Agent shall treat all Bondholders equally and, when acting pursuant to the Finance Documents, act with regard only to the interests of the Bondholders and shall not be required to have regard to the interests or to act upon or comply with any direction or request of any other person, other than as explicitly stated in the Finance Documents.
+(g) The Agent is entitled to engage external experts when carrying out its duties under the Finance Documents and/or related documents. The Issuer shall on demand by the Agent pay all costs for external experts engaged after the occurrence of an Event of Default, or for the purpose of investigating or considering (i) an event which the Agent reasonably believes is or may lead to an Event of Default, (ii) a matter relating to the Issuer, the Bonds or the
+
+45
+Transaction Security which the Agent reasonably believes may be detrimental to the interests of the Bondholders under the Finance Documents or (iii) as otherwise agreed between the Issuer and the Agent. Any compensation for damages or other recoveries received by the Agent from external experts engaged by it for the purpose of carrying out its duties under the Finance Documents shall be distributed in accordance with Clause 15 (Distribution of Proceeds).
+(h) Notwithstanding any other provision of the Finance Documents to the contrary, the Agent is not obliged to do or omit to do anything if it would or might in its reasonable opinion constitute a breach of any law or regulation.
+(i) If in the Agent's reasonable opinion the cost, loss or liability which it may incur (including reasonable fees to the Agent) in complying with instructions of the Bondholders, or taking any action at its own initiative, will not be covered by the Issuer, or the Bondholders (as applicable), the Agent may refrain from acting in accordance with such instructions, or taking such action, until it has received such funding or indemnities (or adequate Security has been provided therefore) as it may reasonably require.
+(j) Unless it has actual knowledge to the contrary, the Agent may assume that all information provided by or on behalf of the Issuer (including by its advisors) is correct, true and complete in all aspects.
+(k) The Agent shall give a notice to the Bondholders (i) before it ceases to perform its obligations under the Finance Documents by reason of the non-payment by the Issuer of any fee or indemnity due to the Agent under the Finance Documents or the Agency Agreement or (ii) if it refrains from acting for any reason described in Clause 20.2(i).
+20.3 Limited liability for the Agent
+(a) The Agent will not be liable to the Bondholders for damage or loss caused by any action taken or omitted by it under or in connection with any Finance Document, unless directly caused by its negligence or wilful misconduct. The Agent shall never be responsible for indirect or consequential loss.
+(b) The Agent shall not be considered to have acted negligently if it has acted in accordance with advice from or opinions of reputable external experts or if the Agent has acted with reasonable care in a situation when the Agent considers that it is detrimental to the interests of the Bondholders to delay the action in order to first obtain instructions from the Bondholders.
+(c) The Agent shall not be liable for any delay (or any related consequences) in crediting an account with an amount required pursuant to the Finance Documents to be paid by the Agent to the Bondholders, provided that the Agent has taken all necessary steps as soon as reasonably practicable to comply with the regulations or operating procedures of any recognised clearing or settlement system used by the Agent for that purpose.
+
+46
+(d) The Agent shall have no liability to the Bondholders or the Issuer for damage caused by the Agent when acting in accordance with instructions of the Bondholders given to the Agent in accordance with the Finance Documents.
+(e) Any liability towards the Issuer which is incurred by the Agent in acting under, or in relation to, the Finance Documents shall not be subject to set-off against the obligations of the Issuer to the Bondholders under the Finance Documents.
+(f) The Agent is not liable for information provided to the Bondholders by or on behalf of the Issuer or by any other person.
+20.4 Replacement of the Agent
+(a) Subject to Clause 20.4(f), the Agent may resign by giving notice to the Issuer and the Bondholders, in which case the Bondholders shall appoint a successor Agent at a Bondholders' Meeting convened by the retiring Agent or by way of Written Procedure initiated by the retiring Agent.
+(b) Subject to Clause 20.4(f), if the Agent is Insolvent, the Agent shall be deemed to resign as Agent and the Issuer shall within ten (10) Business Days appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+(c) A Bondholder (or Bondholders) representing at least ten (10) per cent. of the Adjusted Nominal Amount may, by notice to the Issuer (such notice may only be validly given by a person who is a Bondholder on the Business Day immediately following the day on which the notice is received by the Issuer and shall, if given by several Bondholders, be given by them jointly), require that a Bondholders' Meeting is held for the purpose of dismissing the Agent and appointing a new Agent. The Issuer may, at a Bondholders' Meeting convened by it or by way of Written Procedure initiated by it, propose to the Bondholders that the Agent be dismissed and a new Agent appointed.
+(d) If the Bondholders have not appointed a successor Agent within ninety (90) days after (i) the earlier of the notice of resignation was given or the resignation otherwise took place or (ii) the Agent was dismissed through a decision by the Bondholders, the Issuer shall appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+(e) The retiring Agent shall, at its own cost, make available to the successor Agent such documents and records and provide such assistance as the successor Agent may reasonably request for the purposes of performing its functions as Agent under the Finance Documents.
+(f) The Agent's resignation or dismissal shall only take effect upon the appointment of a successor Agent which shall be registered with the Danish Financial Supervisory Authority (Dk: finanstilsynet) in accordance with the Danish Capital Markets Act, and (ii) acceptance by such successor Agent of
+
+47
+such appointment and the execution of all necessary documentation to effectively substitute the retiring Agent.
+(g) Upon the appointment of a successor, the retiring Agent shall be discharged from any further obligation in respect of the Finance Documents but shall remain entitled to the benefit of the Finance Documents and remain liable under the Finance Documents in respect of any action which it took or failed to take whilst acting as Agent. Its successor, the Issuer and each of the Bondholders shall have the same rights and obligations amongst themselves under the Finance Documents as they would have had if such successor had been the original Agent.
+(h) In the event that there is a change of the Agent in accordance with this Clause 20.4, the Issuer shall execute such documents and take such actions as the new Agent may reasonably require for the purpose of vesting in such new Agent the rights, powers and obligation of the Agent and releasing the retiring Agent from its further obligations under the Finance Documents and the Agency Agreement. Unless the Issuer and the new Agent agrees otherwise, the new Agent shall be entitled to the same fees and the same indemnities as the retiring Agent.
+21. Appointment and Replacement of the Issuing Agent
+(a) The Issuer appoints the Issuing Agent to manage certain specified tasks under these Terms and Conditions and in accordance with the Danish Capital Markets Act and any other legislation, rules and regulations applicable to and/or issued by the CSD and relating to the Bonds.
+(b) The Issuing Agent may retire from its assignment or be dismissed by the Issuer, provided that the Issuer has approved that a commercial bank or securities institution approved by the CSD accedes as new Issuing Agent at the same time as the old Issuing Agent retires or is dismissed. If the Issuing Agent is Insolvent, the Issuer shall immediately appoint a new Issuing Agent, which shall replace the old Issuing Agent as issuing agent in accordance with these Terms and Conditions.
+22. No Direct Actions by Bondholders
+(a) A Bondholder may not take any steps whatsoever against the Issuer or with respect to the Transaction Security or the Guarantee to enforce or recover any amount due or owing to it pursuant to the Finance Documents, or to initiate, support or procure the winding-up, dissolution, liquidation, company reorganisation or bankruptcy (or its equivalent in any other jurisdiction) of the Issuer in relation to any of the liabilities of the Issuer under the Finance Documents.
+(b) Clause 22(a) shall not apply if the Agent has been instructed by the Bondholders in accordance with the Finance Documents to take certain actions but fails for any reason, or is unable to take such actions (however, any action taken by a Bondholder must always be permitted under the Intercreditor
+
+48
+Agreement) (for any reason other than a failure by a Bondholder to provide documents in accordance with Clause 20.1(c)), such actions within a reasonable period of time and such failure or inability is continuing. However, if the failure to take certain actions is caused by the non-payment by the Issuer of any fee or indemnity due to the Agent under the Finance Documents or the Agency Agreement or by any reason described in Clause 20.2(i), such failure must continue for at least forty (40) Business Days after notice pursuant to Clause 20.2(k) before a Bondholder may take any action referred to in Clause 22(a).
+(c) The provisions of Clause 22(a) shall not in any way limit an individual Bondholder's right to claim and enforce payments which are due to it under Clause 9.6 (Mandatory repurchase due to a Change of Control Event, Listing Failure Event or Delisting (put option)) or other payments which are due by the Issuer to some but not all Bondholders.
+23. Prescription
+(a) The right to receive repayment of the principal of the Bonds shall be prescribed and become void ten (10) years from the Redemption Date. The right to receive payment of interest (excluding any capitalised interest) shall be prescribed and become void three (3) years from the relevant due date for payment. The Issuer is entitled to any funds set aside for payments in respect of which the Bondholders' right to receive payment has been prescribed and has become void.
+(b) If a limitation period is duly interrupted in accordance with the Danish Limitations Act, a new limitation period of ten (10) years with respect to the right to receive repayment of the principal of the Bonds, and of three (3) years with respect to receive payment of interest (excluding capitalised interest) will commence, in both cases calculated from the date of interruption of the limitation period, as such date is determined pursuant to the provisions of the Danish Limitations Act.
+24. Notices and Press Releases
+24.1 Notices
+(a) Any notice or other communication to be made under or in connection with the Finance Documents:
+(i) if to the Agent, shall be given at the address registered in the register of representatives with the Danish Financial Supervisory Authority on its website www.finanstilsynet.dk or any successor website on the Business Day prior to dispatch, or, if sent by email by the Issuer, to the email address notified by the Agent to the Issuer from time to time;
+(ii) if to the Issuer, to the following address
+
+49
+(A) Georg Jensen A/S Søndre Fasanvej 7 DK-2000 Frederiksberg Denmark; or
+(B) if sent by email by the Agent, to the email address notified by the Issuer to the Agent from time to time.
+(iii) if to the Bondholders, shall be given at their addresses as registered with the CSD, on the CSD Business Day prior to dispatch, and by either courier delivery or letter for all Bondholders. A Notice to the Bondholders shall also be published on the websites of the Issuer and the Agent.
+(b) Any notice or other communication made by one person to another under or in connection with the Finance Documents shall be sent by way of courier, personal delivery or letter and will only be effective, in case of courier or personal delivery, when it has been left at the address specified in Clause 24.1(a) or, in case of letter, three (3) Business Days after being deposited postage prepaid in an envelope addressed to the address specified in Clause 24.1(a).
+(c) Failure to send a notice or other communication to a Bondholder or any defect in it shall not affect its sufficiency with respect to other Bondholders.
+(d) If an Event of Default is continuing, any notice or other communication made by the Agent to the Issuer under or in connection with the Finance Documents may, provided that the Agent deems it necessary in order to preserve the Bondholders' rights under the Finance Documents, be sent by email and will be effective on the day of dispatch (unless a delivery failure message was received by the Agent), save that any notice or other communication sent by email that is sent after 5.00 pm in the place of receipt shall be deemed only to become effective on the following day. Any notice or other communication to be sent by email by the Agent to the Issuer in accordance with this paragraph (c) shall be sent to the CFO or the CEO of the Issuer, to the email addresses most recently notified by the Issuer to the Agent.
+24.2 Press releases
+(a) Any notice that the Issuer or the Agent shall send to the Bondholders pursuant to Clauses 9.3 (Voluntary total redemption (call option)),9.4 (Voluntary partial redemption upon an Equity Claw Back (call option)), 9.5 (Early redemption due to illegality (call option)), 11.1(b), 14.9(c), 16(o), 17(a), 18(a) and 19(c) shall also be published by way of press release by the Issuer or the Agent, as applicable.
+(b) In addition to Clause 24.2(a), if any information relating to the Bonds or the Issuer contained in a notice the Agent may send to the Bondholders under these Terms and Conditions has not already been made public by way of a press release, the Agent shall before it sends such information to the
+
+50
+Bondholders give the Issuer the opportunity to issue a press release containing such information. If the Issuer does not promptly issue a press release and the Agent considers it necessary to issue a press release containing such information before it can lawfully send a notice containing such information to the Bondholders, the Agent shall be entitled to issue such press release.
+25. Force Majeure and Limitation of Liability
+(a) Neither the Agent nor the Issuing Agent shall be held responsible for any damage arising out of any legal enactment, or any measure taken by a public authority, or war, strike, lockout, boycott, blockade or any other similar circumstance (a "Force Majeure Event"). The reservation in respect of strikes, lockouts, boycotts and blockades applies even if the Agent or the Issuing Agent itself takes such measures, or is subject to such measures.
+(b) The Issuing Agent shall have no liability to the Bondholders if it has observed reasonable care. The Issuing Agent shall never be responsible for indirect damage with exception of gross negligence and wilful misconduct.
+(c) Should a Force Majeure Event arise which prevents the Agent or the Issuing Agent from taking any action required to comply with these Terms and Conditions, such action may be postponed until the obstacle has been removed.
+(d) The provisions in this Clause 25 apply unless they are inconsistent with the provisions of the applicable securities registration legislation which provisions shall take precedence.
+26. Governing Law and Jurisdiction
+(a) These Terms and Conditions shall be governed by and construed in accordance with the laws of Denmark, without regard to its conflict of law provisions.
+(b) The Agent, the Issuer and the Guarantors agree for the benefit of the Agent and the Bondholders that the City Court of Copenhagen shall have jurisdiction with respect to any dispute arising out of or in connection with these Terms and Conditions. The Issuer and the Guarantors agree for the benefit of the Agent and the Bondholders that any legal action or proceedings arising out of or in connection with these Terms and Conditions against the Issuer, the Guarantors or any of its or their respective assets may be brought in such court.
+(c) Paragraph (b) is for the exclusive benefit of the Agent and the Bondholders and the Agent have the right:
+(i) to commence proceedings against the Issuer or any Guarantor or its/their respective assets in any court in any jurisdiction; and
+(ii) to commence such proceedings, including enforcement proceedings, in any competent jurisdiction concurrently.
+
+We hereby certify that the above terms and conditions are binding upon ourselves. Georg Jensen A/S as Issuer
+We hereby undertake to act in accordance with the above terms and conditions to the extent they refer to us. Nordic Trustee A/S as Agent
+Name:
+
+We hereby certify that the above terms and conditions are binding upon ourselves. Georg Jensen A/S as Issuer
+Name:
+We hereby undertake to act in accordance with the above terms and conditions to the extent they refer to us. Nordic Trustee A/S as Agent
+Name:
+
+

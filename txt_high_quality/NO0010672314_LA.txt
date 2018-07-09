@@ -1,0 +1,1323 @@
+ISIN NO 001 0672314
+BOND AGREEMENT between
+Norwegian Energy Company ASA (Issuer) and
+Norsk Tillitsmann ASA (Bond Trustee) on behalf of
+the Bondholders in the bond issue 10.50 per cent Norwegian Energy Company ASA Senior Unsecured Callable Bond Issue 2013/2016
+ft
+i
+
+Norsk Tillitsmann ASA
+
+TABLE OF CONTENTS
+
+1 INTERPRETATION
+
+3
+
+2 THE BONDS
+
+8
+
+3 LISTING
+
+9
+
+4 REGISTRATION IN THE SECURITIES DEPOSITORY
+
+9
+
+5 PURCHASE AND TRANSFER OF BONDS
+
+9
+
+6 CONDITIONS PRECEDENT
+
+9
+
+7 RELEASE OF NET BOND PROCEEDS TO REPURCHASE EXISTING BONDS 11
+
+8 REPRESENTATIONS AND WARRANTIES
+
+11
+
+9 STATUS OF THE BONDS AND SECURITY
+
+13
+
+10 INTEREST
+
+13
+
+11 MATURITY OF THE BONDS AND REDEMPTION
+
+14
+
+12 PAYMENTS
+
+15
+
+13 ISSUER'S ACQUISITION OF BONDS
+
+16
+
+14 COVENANTS
+
+16
+
+15 FEES AND EXPENSES
+
+20
+
+16 EVENTS OF DEFAULT
+
+21
+
+17 BONDHOLDERS' MEETING
+
+24
+
+18 THE BOND TRUSTEE
+
+27
+
+19 MISCELLANEOUS
+
+29
+
+Norsk Tillitsmann ASA
+
+This agreement has been entered into on 22 February 2013 between
+(1) Norwegian Energy Company ASA (a company existing under the laws of Norway with registration number 987 989 297 as issuer (the "Issuer"), and
+(2) Norsk Tillitsmann ASA (a company existing under the laws of Norway with registration number 963 342 624) as bond trustee (the "Bond Trustee").
+
+1
+
+Interpretation
+
+1.1 Definitions
+In this Bond Agreement, the following terms shall have the following meanings:
+"Account M anager" means a Bondholder's account manager in the Securities Depository.
+"Adjusted EBITDA" means the Group's earnings before exploration costs, financial items, taxes, depreciation and amortization, gain/loss from asset sales and write downs according to IFRS (calculated on a 12 month rolling basis).
+"Attachm ents" means the attachments to this Bond Agreement.
+"Bond Agreement" means this bond agreement, including any Attachments to it, each as amended from time to time.
+"Bond Issue" means the bond issue constituted by the Bonds.
+"Bondholder" means a holder of Bond(s), as registered in the Securities Depository, from time to time.
+"B ondholders' Meeting" means a meeting of Bondholders, as set out in Clause 17.
+"Bonds" means the debt instruments issued by the Issuer pursuant to this Bond Agreement.
+"Book Equity" means the consolidated total equity of the Group according to IFRS, after adding back the amount of any Exceptional Items.
+"Book Equity Ratio" means the ratio of Book Equity to Total Assets.
+"Business Day" means any day on which Norwegian banks are open for general business, and when Norwegian banks can settle foreign currency transactions and the Norwegian Central Bank's Settlement System is open.
+"Business Day Convention" means that no adjustment will be made, notwithstanding the period end date occurs on a day that is not a Business Day, and if such date is not a Business Day, payments of interest will be made on the first following day that is a Business Day (No Adjustments o f Business Day).
+"Call Option" shall have the meaning set out in Clause 11.2.
+
+3
+
+N orsk TiUitsmann ASA
+
+"Call Option Price" shall have the meaning set out in Clause 11.2.
+"Cash Escrow Account" means an account in the name of the Issuer where the net cash payment for the Bonds will be credited and blocked until 1 April 2013. The blocking is made in order to comply with covenants under other bonds issued by the Issuer, and any release from the Cash Escrow Account may be made according to Clause 7.
+"Change of Control Event" means if (a) any person or group (as such term is defined in Section 1-3 of the Companies Act) becomes the owner, directly or indirectly, of more than 50% of the voting shares of the Issuer, or (b) a de-listing of the Issuer's shares from Oslo Børs occurs.
+"Companies Act" means the Norwegian Public Limited Liability Companies Act of 13 June 1997 No. 45.
+"Decisive Influence" means a person having, as a result of an agreement or through the ownership of shares or interests in another person: (i) a majority of the voting rights in that other person; or (ii) a right to elect or remove a majority of the members of the board of directors of that other person. When determining the relevant person's number of voting rights in the other person or the right to elect and remove members of the board of directors, rights held by the parent company of the relevant person and the parent company's Subsidiaries shall be included.
+"Defeasance Pledge" shall have the meaning given to it in Clause 19.2.
+"Escrow Accounts" means the VPS Escrow Account and the Cash Escrow Account.
+"Escrow Accounts Blocking" means the blocking of the Escrow Accounts, where (as relevant) the bank operating the account has waived any set-off rights.
+"Event of Default" means the occurrence of an event or circumstance specified in Clause 16.1.
+"Exchange" means (i) a securities exchange or other reputable regulated market, or (ii) Oslo Alternative Bond Market, on which the Bonds are listed, or where the Issuer has applied for listing of the Bonds,
+"Exceptional Items" means losses arising following a revaluation or impairment of the book value of any of (i) the Group's goodwill or (ii) capitalised expenses related to suspended wells, provided that such revaluations or impairment are made or occurs before, during or at year end reporting for 2012. Exceptional Items shall be limited to a maximum amount of NOK 600 million (after tax) in aggregate. On 25 January 2013, the Issuer announced corrections to historical accounting figures representing an aggregated reduction in equity of NOK 479 million as per Q3 2012.
+"Existing Bonds" means any of the Issuer's existing outstanding bonds with maturity before the Maturity Date.
+"Exploration Facility" means a) the NOK 1,550,000,000 Exploration Financing and USD 25,000,000 Guarantee Facility, as amended, entered into between the Issuer and Sparebank 1 SR-Bank as agent and certain financial institutions as lenders an
+
+4
+
+`T ^r
+
+Norsk Tillitsmann ASA
+
+guarantors; or b) any revolving exploration financing facility replacing and on substantially the same terms as the existing facility mentioned in (a), not exceeding NOK 1,550,000,000.
+
+"Face Value" means the denomination of each of the Bonds, as set out in Clause 2.2.
+
+"Finance Documents" means (i) this Bond Agreement, (ii) the agreement between the Bond Trustee and the Issuer referred to in Clause 15.2, and (iii) any other document (whether creating a Security or not) which is executed at any time by the Issuer or any other person in relation to any amount payable under this Bond Agreement.
+
+"Financial Indebtedness" means any indebtedness for or in respect of:
+
+(a) moneys borrowed;
+
+(b) any amount raised by acceptance under any acceptance credit facility or dematerialized equivalent;
+
+(c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument;
+
+(d) the amount of any liability in respect of any lease or hire purchase contract which would, in accordance with GAAP, be treated as finance or capital lease;
+
+(e) receivables sold or discounted (other than any receivables to the extent they are sold on a non-recourse basis);
+
+(f)
+
+any amount raised under any other transaction (including any forward sale
+
+or purchase agreement) having the commercial effect of a borrowing;
+
+(g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price (and, when calculating the value of any derivative transaction, only the mark to market value shall be taken into account); and
+
+(h) the amount of any liability in respect of any guarantee or indemnity for any of the items referred to in paragraphs (a) to (g) above.
+
+"Financial Statements" means the audited unconsolidated and consolidated annual financial statements of the Issuer for any financial year, drawn up according to GAAP, such accounts to include a profit and loss account, balance sheet, cash flow statement and report from the Board of Directors.
+
+"GAAP" means the generally accepted accounting practice and principles in the country in which the Issuer is incorporated including, if applicable, the International Financial Reporting Standards ("IFR S") and guidelines and interpretations issued by the International Accounting Standards Board (or any predecessor and successor thereof), in force from time to time, f j f
+
+5
+
+Norsk Tillitsmann ASA
+"Gearing Ratio" means the ratio of consolidated Net Interest Bearing Debt to Adjusted EBITDA for the Group.
+"G roup" means the Issuer and its Subsidiaries from time to time, and a "Group Company" means each of the Issuer or any of its Subsidiaries from time to time.
+"Interest Paym ent Date" means 25 February and 25 August each year until and including the Maturity Date. Any adjustment will be made according to the Business Day Convention.
+"Interim Accounts" means the unaudited unconsolidated and consolidated quarterly financial statements of the Issuer for any quarter ending on a Quarter Date, drawn up according to GAAP.
+"ISIN" means International Securities Identification Number - the identification number of the Bond Issue.
+"Issue Date" means 25 February 2013.
+"Issuer's Bonds" means any Bonds owned by the Issuer, any person or persons who has Decisive Influence over the Issuer, or any person or persons over whom the Issuer has Decisive Influence.
+"M anagers" means the manager(s) for the Bond Issue, being the joint lead managers DNB Markets, a part of DNB Bank ASA, Dronning Eufemias gt 30, NO-0191 Oslo, Norway and Swedbank First Securities, Filipstad Brygge 1, P.O, Box 1441 Vika, NO-0115 Oslo, Norway.
+"M aterial Adverse Effect" means a material adverse effect on: (a) the Issuer's ability to perform and comply with its obligations under this Bond Agreement; or (b) the validity or enforceability of this Bond Agreement.
+"M aterial Subsidiary" means any Subsidiary of the Issuer (a) whose total consolidated assets represent at least 5.00% of the total consolidated assets of the Group, or (b) whose total consolidated net sales represent at least 5.00% of the total consolidated net sales of the Group. If there is a dispute as to whether or not a Group Company is a Material Subsidiary, a certificate of the auditors of the Issuer will be, in the absence of manifest error, conclusive.
+"M aturity Date" means 25 February 2016. Any adjustment will be made according to the Business Day Convention.
+"Net Bond Proceeds" means proceeds from the Bond Issue less legal costs, fees of the Managers and the Bond Trustee and any other agreed costs and expenses incurred in connection with the issuance of the Bonds.
+"Net Interest Bearing Debt" means the sum of all interest bearing debt of the Group on a consolidated basis according to IFRS including financial leases, but except for debt financing of tax exploration expenditure which is tax refundable on the Norwegian Continental Shelf, less free cash and cash equivalents (i.e. cash in hand or amounts standing to the credit of any current and/or deposit accounts with an acceptable bank) as shown in the relevant accounts at any time.
+6
+
+Norsk Titlitsmann ASA
+
+"NOK" means Norwegian kroner, being the lawful currency of Norway.
+
+"O utstanding Bonds" means the Bonds not redeemed or otherwise discharged.
+
+"P arty" means a party to this Bond Agreement (including its successors and permitted transferees).
+
+"Paying Agent" means DNB Bank ASA, the legal entity appointed by the Issuer to act as its paying agent in the Securities Registry with respect to the Bonds.
+
+"Payment Date" means a date for payment of principal or interest under this Bond Agreement.
+
+"Q uarter Date" means each 31 March, 30 June, 30 September and 31 December.
+
+"Reporting Date" means each date falling 60 calendar days after a Quarter Date.
+
+"Securities Depository" means the securities depository in which the Bond Issue is registered, being Verdipapirsentralen ASA (VPS) in Norway.
+
+"Security" means any encumbrance, mortgage, charge, pledge, lien or other security interest securing any obligation of any person or any other agreement or arrangement having a similar effect.
+
+"Security and Covenant Defeasance" shall have the meaning given to it in Clause 19.2.
+
+"Stam data" means the web site www.stamdata.no, maintained by the Bond Trustee.
+
+"Subsidiary" means an entity which is a subsidiary ("datterselskap") pursuant to Section 1-3 of the Companies Act.
+
+"Total Assets" means the consolidated total assets of the Group according to IFRS, after adding back the amount of any Exceptional Items.
+
+"US Securities Act" means the U.S. Securities Act of 1933, as amended.
+
+"USD" means US Dollars, being the legal currency of the United States of America.
+
+"Voting Bonds" means the Outstanding Bonds less the Issuer's Bonds.
+
+"VPS Escrow Account" means an account in the name of the Issuer to which Existing Bonds repurchased by the Issuer with proceeds from the Bond Issue will, and Existing Bonds previously repurchased by the Issuer may, be credited and blocked until 1 April 2013. The blocking is made in order to comply with covenants under other bonds issued by the Issuer, and any release from the VPS Escrow Account may be made according to Clause 7.
+
+1.2
+
+Construction
+
+In this Bond Agreement, unless the context otherwise requires:
+
+(a) headings are for ease of reference only;
+
+7
+
+Norsk Tillitsmann ASA
+
+(b) words denoting the singular number shall include the plural and vice versa;
+
+(c) references to Clauses are references to the Clauses of this Bond Agreement;
+
+(d) references to a time is a reference to Oslo time unless otherwise stated herein;
+
+(e) references to a provision of law is a reference to that provision as it may be amended or re-enacted, and to any regulations made by the appropriate authority pursuant to such law, including any determinations, rulings, judgments and other binding decisions relating to such provision or regulation;
+
+(f)
+
+an Event of Default is "continuing" if it has not been remedied or waived;
+
+and
+
+(g) references to a "person" shall include any individual, firm, company, corporation, government, state or agency of a state or any association, trust, joint venture, consortium or partnership (whether or not having separate legal personality).
+
+2
+
+The Bonds
+
+2.1 Binding nature o f this Bond Agreement
+
+2.1.1 By virtue of being registered as a Bondholder (directly or indirectly) with the Securities Depository, the Bondholders are bound by the terms of this Bond Agreement and any other Finance Document, without any further action required to be taken or formalities to be complied with, see also Clause 19.1.
+
+2.1.2
+
+This Bond Agreement is available to anyone and may be obtained from the Bond Trustee or the Issuer. The Issuer shall ensure that this Bond Agreement is available to the general public throughout the entire term of the Bonds. This Bond Agreement may be published on Stamdata or such other venues as decided by the Bond Trustee.
+
+2.2 The Bonds
+
+The Issuer has resolved to issue a series of Bonds in the maximum amount of NOK 300,000,000 (Norwegian kroner three hundred million).
+
+The Face Value is NOK 1,000,000. The Bonds shall rank pari passu between themselves.
+
+The Bond Issue will be described as "10.50 per cent Norwegian Energy Company ASA Senior Unsecured Callable Bond Issue 2013/2016".
+
+The ISIN of the Bond Issue will be NO 001 0672314.
+
+The tenor of the Bonds is from and including the Issue Date to the Maturity Date.
+
+2.3 Purpose and utilization
+
+s
+
+TL~
+
+Norsk Tillilsmann ASA
+
+The Net Bond Proceeds shall be used to refinance parts of the Existing Bonds or parts of bank loans with maturity before the Maturity Date and/or future liquidity.
+
+3
+
+Listing
+
+3.1 The Issuer shall apply for listing of the Bonds on Oslo Børs.
+
+3.2 If the Bonds are listed, the Issuer shall ensure that the Bonds remain listed until they have been discharged in full.
+
+4
+
+Registration in the Securities Depository
+
+4.1 The Bond Issue and the Bonds shall prior to disbursement be registered in the Securities Depository according to the Norwegian Securities Depository Act of 5 July 2002 no. 64 and the terms and conditions of the Securities Depository.
+
+4.2 The Issuer shall ensure that correct registration in the Securities Depository is made and shall notify the Securities Depository of any changes in the terms and conditions of this Bond Agreement. The Bond Trustee shall receive a copy of the notification. The registration may be executed by the Paying Agent.
+
+4.3 The Bonds have not been registered under the US Securities Act, and the Issuer is under no obligation to arrange for registration of the Bonds under the US Securities Act.
+
+5
+
+Purchase and transfer of Bonds
+
+5.1 Bondholders may be subject to purchase or transfer restrictions with regard to the Bonds, as applicable from time to time under local laws to which a Bondholder may be subject (due e.g. to its nationality, its residency, its registered address, its place(s) for doing business). Each Bondholder must ensure compliance with applicable local laws and regulations at its own cost and expense.
+
+5.2 Notwithstanding the above, a Bondholder which has purchased the Bonds in breach of applicable mandatory restrictions may nevertheless utilize its rights (including, but not limited to, voting rights) under this Bond Agreement.
+
+6
+
+Conditions Precedent
+
+6.1 Disbursement of the net proceeds of the Bonds to the Cash Escrow Account will be subject to the Bond Trustee having received the documents listed below, in form and substance satisfactory to it, on the Business Days prior to the Issue Date:
+(a) this Bond Agreement, duly executed by all parties thereto;
+(b) certified copies of all necessary corporate resolutions of the Issuer to issue the Bonds and execute the Finance Documents;
+(c) a power of attorney from the Issuer to relevant individuals for their execution of the relevant Finance Documents, or extracts from the relevant
+
+9
+
+T~ L--
+
+K onk Tillitsmann ASA
+
+register or similar documentation evidencing such individuals' authorisation to execute the Finance Documents on behalf of the Issuer;
+
+(d) certified copies of (i) the Certificate of Incorporation or other similar official document for the Issuer, evidencing that it is validly registered and existing and (ii) the Articles of Association of the Issuer;
+
+(e) the Issuer's latest Financial Statements and Interim Accounts (if any);
+
+(f)
+
+confirmation from the Managers that the requirements set out in Chapter 7
+
+of the Norwegian Securities Trading Act (implementing the EU prospectus
+
+directive (2003/71 EC) concerning prospectuses have been fulfilled;
+
+(g) to the extent necessary, any public authorisations required for the Bond Issue;
+
+(h) confirmation from the Paying Agent that the Bonds have been registered in the Securities Depository;
+
+(i)
+
+the Bond Trustee fee agreement set out in Clause 15.2, duly executed;
+
+(j)
+
+copies of any written documentation used in the marketing of the Bonds or
+
+made public by the Issuer or the Managers in connection with the Bond
+
+Issue;
+
+(k) any statements or legal opinions reasonably required by the Bond Trustee (including any capacity corporate opinions for the Issuer and opinions related to the validity, perfection and enforceability of the Finance Documents); and
+
+(l)
+
+evidence of the Escrow Accounts Blocking having been completed, by
+
+delivery of confirmations in a form satisfactory to the Bond Trustee.
+
+6.2 The Bond Trustee may, in its reasonable opinion, waive the deadline or requirements for documentation as set out in Clause 6.1.
+
+6.3 Disbursement of the Net Bond Proceeds is subject to the Bond Trustee's written notice to the Issuer, the Managers and the Paying Agent that the documents have been controlled and that the required conditions precedent are fulfilled.
+
+6.4 On the Issue Date, subject to receipt of confirmation from the Bond Trustee pursuant to Clause 6.3, the Managers shall transfer the Net Bond Proceeds to the Cash Escrow Account, r f / f
+
+4;
+
+*
+
+%r--
+
+10
+
+Norsk Tillilsmann ASA
+Release of Net Bond Proceeds to repurchase Existing Bonds
+Prior to 1 April 2013 Net Bond Proceeds may be released only (i) for repurchase by the Issuer of Existing Bonds and subject to such Existing Bonds being deleted or placed in the VPS Escrow Account, or (ii) in case of the Issuer's deposit of already purchased Existing Bonds to the VPS Escrow Account.
+Upon notice from the Issuer of a repurchase of Existing Bonds in accordance with Clause 7.1 (i), the Bond Trustee shall promptly instruct relevant bank to release the amount set out therein from the Cash Escrow Account to the paying agent for any Existing Bond to be repurchased with funds from the Cash Escrow Account, substantially in such form as set out in Attachment 2 hereto.
+Upon notice from the Issuer of a deposit Existing Bonds in accordance Clause 7.1 (ii), the Bond Trustee shall promptly instruct relevant bank to release the amount set out therein from the Cash Escrow Account to the Issuer, substantially in such form as set out in Attachment 2 hereto.
+On 1 April 2013, all cash deposits on the Cash Escrow Account and all Existing Bonds held on the VPS Escrow Account shall be released to the Issuer by discharge of the Escrow Accounts Blocking.
+
+Representations and Warranties
+
+The Issuer represents and warrants to the Bond Trustee that:
+
+(a) Status
+It is a public limited liability company, duly incorporated and validly existing and registered under the laws of Norway, and has the power to own its assets and carry on its business as it is being conducted.
+
+(b) Power and authority
+It has the power to enter into, perform and deliver, and has taken all necessary action to authorise its entry into, performance and delivery of, this Bond Agreement and any other Finance Document to which it is a party and the transactions contemplated by those Finance Documents.
+
+(c)
+
+Valid, binding and enforceable obligations
+
+This Bond Agreement and each other Finance Document constitutes (or will constitute, when executed by the respective parties thereto) its legal, valid and binding obligations, enforceable in accordance with their respective terms, and (save as provided for therein) no further registration, filing, payment of tax or fees or other formalities are^necessary or desirable to render the said documents enforceable against it. / y /
+
+Norsk Tillitsmann ASA
+
+(d) Non-conflict with other obligations
+The entry into and performance by it of this Bond Agreement and any other Finance Document to which it is a party and the transactions contemplated thereby do not and will not conflict with (i) any law or regulation or judicial or official order; (ii) its constitutional documents; or (iii) any agreement or instrument which is binding upon it or any of its assets.
+
+(e) No Event of Default
+
+(i)
+
+No Event of Default exists or is likely to result from the making of any
+
+drawdown under this Bond Agreement or the entry into, the performance of,
+
+or any transaction contemplated by, any Finance Document.
+
+(ii) No other event or circumstance is outstanding which constitutes (or with the expiry of a grace period, the giving of notice, the making of any determination or any combination of any of the foregoing, would constitute) a default or termination event (howsoever described) under any other agreement or instrument which is binding on it or any of its Subsidiaries or to which its (or any of its Subsidiaries') assets are subject which has or is likely to have a Material Adverse Effect.
+
+(f)
+
+Authorizations and consents
+
+All authorisations, consents, approvals, resolutions, licenses, exemptions, filings, notarizations or registrations required: (i) to enable it to enter into, exercise its rights and comply with its obligations under this Bond Agreement or any other Finance Document to which it is a party; and (ii) to carry on its business as presently conducted and as contemplated by this Bond Agreement, have been obtained or effected and are in full force and effect.
+
+(g) Litigation
+No litigation, arbitration or administrative proceedings or investigations of or before any court, arbitral body or agency which, if adversely determined, is likely to have a Material Adverse Effect have (to the best of its knowledge and belief) been started or threatened against it or any of its Subsidiaries.
+
+(h) Financial Statements
+Its most recent Financial Statements and Interim Accounts fairly and accurately represent the assets and liabilities and financial condition as at their respective dates, and have been prepared in accordance with GAAP, consistently applied.
+
+(i) No Material Adverse Effect
+Since the date of the Financial Statements, there has been no change in its business, assets or financial condition that is likely to have a Material Adverse Effect.
+
+(j)
+
+No misleading information
+
+Any factual information provided by it to the subscribers or the Bond Trustee for the purposes of this Bond Issue was true and accurate in all material resDects as at the date it was provided or as at the date (if any) at which it is stated.
+
+12
+
+Norsk Tillitsimnn ASA
+
+(k) No withholdings
+The Issuer is not required to make any deduction or withholding from any payment which it may become obliged to make to the Bond Trustee or the Bondholders under this Bond Agreement.
+
+(1)
+
+Pari passu ranking
+
+Its payment obligations under this Bond Agreement or any other Finance Document to which it is a party rank at least pari passu as set out in Clause 9.1.
+
+(m) Security
+No Security exists over any of the present assets of any Group Company in conflict with this Bond Agreement.
+
+8.2 The representations and warranties set out in Clause 8.1 are made on the execution date of this Bond Agreement, and shall be deemed to be repeated on the Issue Date and on each drawdown date from the Cash Escrow Account.
+
+9
+
+Status of the Bonds and security
+
+9.1 The Bonds shall constitute senior debt obligations of the Issuer. The Bonds shall rank at least pari passu with all other obligations of the Issuer (save for such claims which are preferred by bankruptcy, insolvency, liquidation or other similar laws of general application) and shall rank ahead of subordinated debt.
+
+9.2 The Bonds are unsecured.
+
+10
+
+Interest
+
+10.1 The Issuer shall pay interest on the Face Value of the Bonds from, and including, 25 February 2013 at a fixed rate of 10.50 per cent per annum (the "Fixed Rate").
+10.2 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date being 25 August 2013.
+10.3 The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+10.4 The day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "30/360", which means that the number of days in the calculation period in respect of which payment is being made divided by 360 (the number of days to be calculated on the basis of a year of 360 days with twelve 30-days months (unless (i) the last day of the calculation period is the 31st day of a month but the first day of the calculation period is a day other than the 30th or 31st day of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or (ii) the last day of the calculation period is the last day of the month of February, in which case the month of February shall not be considered to be lengthened to a 30-day month)).
+
+13
+
+T L*"
+
+Norsk Tillitsmann ASA
+
+10.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+
+Interest = Amount Fraction
+
+Face Value
+
+X
+
+Fixed
+
+Rate
+
+X
+
+Fixed Rate
+
+Day Count
+
+11 Maturity of the BondsandRedemption
+
+11.1 Maturity
+
+The Bonds shallmature in hill on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+
+11.2 Call Option
+
+11.2.1
+
+The Issuer may in its discretion redeem the entire Bond Issue (but not only a part thereof) with settlement date at any time from and including the date falling two (2) years after the Issue Date to, but not included, the Maturity Date (the "Call Option") at a price (the "Call Option Price") equivalent to the 103% of the Face Value plus accrued but unpaid interest on the redeemed amount.
+
+11.2.2 Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty Business Days prior to the settlement date of the Call Option.
+
+11.2.3 On the settlement date of the Call Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the Call Option Price.
+
+11.3 Change o f control
+
+11.3.1 Upon the occurrence of a Change of Control Event, each Bondholder shall have the right to require that the Issuer redeems its Bonds (a "Put Option") at a price of 100% of the Face Value plus accrued interest.
+
+11.3.2 The Put Option must be exercised within 60 calendar days after the Issuer has given notification to the Bond Trustee of a Change of Control Event. Such notification shall be given as soon as possible after a Change of Control Event has taken place.
+
+11.3.3
+
+The Put Option may be exercised by each Bondholder by giving written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent of the redemption request. The settlement date of the Put Option shall be the third Business Day after the end of the 60 calendar day exercise period of the Put Option.
+
+11.3.4
+
+On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, the principal amount of each such Bond (including any premium pursuant to Clause 11.3.1) and any unpaid interest accrued up to (but not including) the settlement date, /v y
+
+14
+
+Norsk Tillitsmann ASA
+
+12 Payments
+
+12.1 Covenant to pay
+
+12.1.1 The Issuer will on any Payment Date (or any other due date pursuant to any Finance Document) unconditionally pay to or to the order of the Bond Trustee all amounts due under this Bond Agreement or any other Finance Document.
+
+12.1.2 The covenant contained in Clause 12.1.1 shall be for the benefit of the Bond Trustee and the Bondholders.
+
+12.2 Payment mechanics
+
+12.2.1
+
+If no specific order is made by the Bond Trustee under Clause 12.1.1, the Issuer shall pay all amounts due to the Bondholders under this Bond Agreement or any other Finance Document by crediting the bank account nominated by each Bondholder in connection with its securities account in the Securities Depository.
+
+12.2.2
+
+Payment shall be deemed to have been made once the amount has been credited to the bank which holds the bank account nominated by the Bondholder in question, but if the paying bank and the receiving bank are the same, payment shall be deemed to have been made once the amount has been credited to the bank account nominated by the Bondholder in question, see however Clause 12.3.
+
+12.2.3
+
+In case of irregular payments, the Bond Trustee may instruct the Issuer or Bondholders of other payment mechanisms than described in Clause 12.2.1 or 12.2.2 above. The Bond Trustee may also obtain payment information regarding Bondholders' accounts from the Securities Depository or Account Managers.
+
+12.2.4 Subject to Clause 12.3, payment by the Issuer in accordance with this Clause 12.2 shall constitute good discharge of its obligations under Clause 12.1.1.
+
+12.3 Currency
+
+12.3.1
+
+If the Bonds are denominated in other currencies than NOK, each Bondholder has to provide the Paying Agent (either directly or through its Account Manager) with specific payment instructions, including foreign exchange bank account details. Depending on any currency exchange settlement agreements between each Bondholder's bank and the Paying Agent, cash settlement may be delayed, and payment shall be deemed to have been made at the date of the cash settlement, provided however, that no default interest or other penalty shall accrue for the account of the Issuer.
+
+12.3.2
+
+Except as otherwise expressly provided, all amounts payable under this Bond Agreement and any other Finance Document shall be payable in the same currency as the Bonds are denominated in. If, however, the Bondholder has not given instruction as set out in Clause 12.3 within five Business Days prior to a Payment Date, the cash settlement will be exchanged into NOK and credited to the NOK bank account registered with the Bondholder's account in the Securities Depository, p f /
+
+15
+
+Norsk Tillitsmann ASA
+
+12.3.3 Amounts payable in respect of costs, expenses, taxes and other liabilities of a similar nature shall be payable in the currency in which they are incurred.
+
+12.4 Set-off and counterclaims
+
+The Issuer may not apply or perform any counterclaims or set-off against any payment obligations pursuant to this Bond Agreement or any other Finance Document.
+
+12.5 Interest in the event o f late payment
+
+12.5.1
+
+In the event that any amount due under this Bond Agreement or any Finance Document is not made on the relevant due date, the unpaid amount shall bear interest from the due date at an interest rate equivalent to the interest rate according to Clause 10 plus five per cent (5.00%) per annum.
+
+12.5.2 The interest charged under this Clause 12.5 shall be added to the defaulted amount on each respective Interest Payment Date relating thereto until the defaulted amount has been repaid in full.
+
+12.5.3 The unpaid amounts shall bear interest as stated above until payment is made, whether or not the Bonds are declared to be in default pursuant to Clause 16.1(a), cf. Clauses 16.2 -16.4.
+
+12.6 Partial payments
+
+If the Bond Trustee or the Paying Agent receives a payment that is insufficient to discharge all the amounts then due and payable under the Finance Documents, that payment shall be applied in the following order:
+
+(a) first, in or towards payment of any unpaid fees, costs and expenses of the Bond Trustee under the Finance Documents;
+
+(b) secondly, in or towards payment of any accrued interest due but unpaid under the Bond Agreement, pro rata and without any preference or priority of any kind; and
+
+(c)
+
+thirdly, in or towards payment of any principal due but unpaid under the
+
+Bond Agreement, pro rata and without any preference or priority of any
+
+kind.
+
+13 Issuer's acquisition of Bonds
+
+The Issuer has the right to acquire and own Bonds (Issuer's Bonds). The Issuer's holding of Bonds may at the Issuer's discretion be retained by the Issuer, sold or discharged.
+
+14
+
+Covenants
+
+14.1 General
+
+16
+
+72
+
+Norsk Tillitsmann ASA
+
+14.1.1
+
+The Issuer undertakes (unless the Bond Trustee or the Bondholders' Meeting (as the case may be) in writing has agreed to otherwise pursuant to the terms of this Bond Agreement) from the date of this Bond Agreement and until such time that no amounts are outstanding under this Bond Agreement or any other Finance Document, to the Bond Trustee, as further set out in this Clause 14.
+
+14.1.2
+
+The Bond Trustee acknowledges and agrees that the information covenants in Clause 14.2 may require that the Bond Trustee in certain cases would have to undertake confidentiality and other obligations in accordance with the Norwegian Securities Trading Act prior to receiving information which is or may become subject to delayed disclosure thereunder.
+
+14.2 Information Covenants
+
+14.2.1 The Issuer shall:
+
+(a) without being requested to do so, promptly inform the Bond Trustee in writing of any Event of Default, any event or circumstance which the Issuer understands or ought to understand may lead to an Event of Default and any other event which may have a Material Adverse Effect;
+
+(b) without being requested to do so, inform the Bond Trustee in writing if the Issuer agrees to sell or dispose of all or a substantial part of its assets or operations, or change the nature of its business;
+
+(c) without being requested to do so, prepare Financial Statements and make them available on its website in the English language (alternatively by arranging for publication at Stamdata) as soon as they become available, and not later than 150 days after the end of the financial year;
+
+(d) without being requested to do so, prepare Interim Accounts and make them available on its website in the English language (alternatively by arranging for publication on Stamdata) as soon as they become available, and not later than 60 days after the end of the relevant quarter;
+
+(e) at the request of the Bond Trustee, report the balance of the Issuer's Bonds;
+
+(f)
+
+without being requested to do so, send the Bond Trustee copies of any
+
+statutory notifications of the Issuer, including but not limited to in
+
+connection with mergers, de-mergers and reduction of the Issuer's share
+
+capital or equity;
+
+(g) if the Bonds are listed on an exchange, without being requested to do so, send a copy to the Bond Trustee of its notices to the Exchange relating to the Bonds or which are otherwise of relevance for the Issuer's liabilities pursuant to this Bond Agreement;
+
+(h) if the Issuer and/or the Bonds are rated, without being requested to do so, inform the Bond Trustee of its and/or the rating of the Bond Issue, and any changes to such rating;
+
+17
+
+7/
+* W rr'
+
+Norsk Tillitsmann ASA
+
+(i)
+
+without being requested to do so, inform the Bond Trustee of changes in the
+
+registration of the Bonds in the Securities Depository; and
+
+(j)
+
+within a reasonable time, provide such information about the Issuer's
+
+business, assets and financial condition as the Bond Trustee may reasonably
+
+request.
+
+14.2.2
+
+The Issuer shall in connection with the publication of its financial reports under Clause 14.2.1(c) and (d), confirm to the Bond Trustee in writing die Issuer's compliance with the covenants in this Clause 14, unless the Bond Trustee explicidy waives such requirement. Such confirmation shall be undertaken in a certificate, substantially in the form set out in Attachment 1 hereto, signed by the Chief Executive Officer or Chief Financial Officer of the Issuer (a "Compliance Certificate"). In the event of non-compliance, the Compliance Certificate shall describe the non-compliance, the reasons therefore as well as the steps which the Issuer has taken and will take in order to rectify the non-compliance.
+
+14.3 General Covenants
+
+(a) Pari passu ranking
+The Issuer shall ensure that its obligations under this Bond Agreement and any other Finance Document shall at all time rank at least pari passu as set out in Clause 9.1.
+
+(b) Mergers
+The Issuer shall not, and shall ensure that no other Group Company shall, carry out any merger or other business combination or corporate reorganization involving the consolidation of the assets and obligations of the Issuer or any Group Company with any other company or entity not being a Group Company if such transaction would have a Material Adverse Effect. The Issuer shall notify the Bond Trustee of any such transaction, providing relevant details thereof, as well as, if applicable, its reasons for believing that the proposed transaction would not have a Material Adverse Effect.
+
+(c) De-mergers
+The Issuer shall not, and shall ensure that no other Group Company shall, carry out any de-merger or other corporate reorganisation involving splitting a Group Company into two or more separate companies or entities, if such transaction would have a Material Adverse Effect. The Issuer shall notify the Bond Trustee of any such transaction, providing relevant details thereof, as well as, if applicable, its reasons for believing that the proposed transaction would not have a Material Adverse Effect.
+
+(d) Continuation o f business
+The Issuer shall not, and shall ensure that no Group Company shall, cease to carry on its business, if such transaction would have a Material Adverse Effect. The Issuer shall procure that no material change is made to the general nature or scope of the business of the Group from that carried on at the date of this Bond Agreement, or as contemplated by this Bond Agreement, if this would have a Material Adverse Effect.
+
+18
+
+f t.
+
+Norsk Tillilsmann ASA
+
+(e) Disposal o f business
+The Issuer shall not, and shall ensure that no other Group Company shall, sell or otherwise dispose of all or a substantial part of its assets or operations, unless: (i) the transaction is carried out at fair market value, on terms and conditions customary for such transactions; and (ii) such transaction would not have a Material Adverse Effect.
+
+(f)
+
+Intra-group transactions
+
+All transactions between the Group Companies shall be on commercial terms, and shall comply with all applicable corporate law provisions, including, in respect of Norwegian entities, the Norwegian Public and/or Private Limited Companies Acts of 1997.
+
+(g) Financial assistance
+The Issuer shall not, and shall ensure that no Group Company shall, (i) grant any loans to or (ii) issue any guarantees or otherwise grant security in respect of liabilities or obligations of any third party not being a Group Company, save that, in respect of item (ii) above, the Issuer may provide customary guarantees and/or other security for the liability or obligation of a petroleum exploration and/or production joint venture in which the Issuer participates and customary guarantees or security for the liabilities or obligations of any seller in transactions related to the petroleum assets in which the Issuer is a buyer. The issue of guarantees or other security in respect of liabilities or obligations of any Group Company shall, for the avoidance of doubt, not be restricted hereunder.
+
+(h) A rm 's length transactions
+The Issuer shall not, and the Issuer shall ensure that no other Group Company shall, enter into any transaction with any person except on arm's length terms and for fair market value.
+
+(i)
+
+Corporate status
+
+The Issuer shall not, and shall ensure that no Group Company, change its type of organization or jurisdiction of incorporation, if such change has a Material Adverse Effect.
+
+(j)
+
+Compliance with laws
+
+The Issuer shall, and shall ensure that all other Group Companies shall, carry on its business in accordance with acknowledged, careful and sound practices in all material aspects and comply in all material respects with all laws and regulations it or they may be subject to from time to time (including any environmental laws and regulations).
+
+14.4 Financial covenants
+
+(a) Dividends
+The Issuer shall not during the term of the Bond Issue declare or make any dividend payment, repurchase of shares or make other similar transactions (included, but not limited to total return swaps related to shares in the issuer), repay any shareholder
+
+19
+
+Norsk Tillitsmann ASA
+loans or grant any loans or other distributions to its shareholders save that the Issuer may repurchase shares in connection with any option or similar incentive program of the Issuer in force at any time made for the benefit of its employees and/or management and/or directors.
+(b) Debt limitations
+To and including the Quarter Date on 31 March 2013, the Issuer shall ensure that no Group Company shall incur any further Financial Indebtedness or draw on undrawn capacity under any bank facilities, other than (i) Financial Indebtedness that is outstanding and/or drawn as of the Issue Date, (ii) the Bond Issue, (iii) amounts available under the Exploration Facility as of the Issue Date, (iv) refinancing of existing Financial Indebtedness up to its existing amounts and with at least as long maturity profile as the debt being refinanced and (v) Financial Indebtedness assumed in the ordinary course of business and not exceeding NOK 10 million in the aggregate.
+(c) Book Equity Ratio
+The Issuer shall ensure that the Group maintains a Book Equity Ratio of minimum 25.00%. The Book Equity Ratio shall be calculated on a consolidated basis for the Group on each Quarter Date and reported within each corresponding Reporting Date.
+A default only exists if the Issuer is in breach with the Book Equity Ratio covenant on two consecutive Quarter Dates and the covenant breach is not remedied within the Reporting Date following the second of such Quarter Dates.
+(d) Gearing Ratio
+The Issuer shall ensure that the Group maintains a Gearing Ratio of maximum 5.00x.
+The Gearing Ratio shall be calculated on a consolidated basis for the Group on each Quarter Date from and included 31 March 2013 and reported within each corresponding Reporting Date.
+A default only exists if the Issuer is in breach with the Gearing Ratio covenant on two consecutive Quarter Dates and further provided that the covenant breach is not remedied within the Reporting Date following the second of such Quarter Dates.
+15 Fees and expenses
+15.1 The Issuer shall cover all costs and expenses incurred by it or the Bond Trustee in connection with this Bond Agreement and the fulfilment of its obligations under this Bond Agreement or any other Finance Document, including in connection with the negotiation, preparation, execution and enforcement of this Bond Agreement and the other Finance Documents and any registration or notifications relating thereto (including any stamp duty), the listing of the Bonds on an Exchange (if applicable), and the registration and administration of the Bonds in the Securities Depository. The Bond Trustee may withhold funds from any escrow account (or similar arrangement) or from other funds received from the Issuer or any other person to set-off and cover
+
+20
+
+T7 f
+
+Norsk Tilliismann ASA
+15.2 The fees, costs and expenses payable to the Bond Trustee shall be paid by the Issuer and are set out in a separate agreement between the Issuer and the Bond Trustee.
+15.3 Fees, costs and expenses payable to the Bond Trustee which, due to the Issuer's insolvency or similar circumstances, are not reimbursed in any other way may be covered by making an equivalent reduction in the proceeds to the Bondholders hereunder of any costs and expenses incurred by the Bond Trustee in connection with the restructuring or default of the Bond Issue.
+15.4 Any public fees levied on the trade of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise provided by law or regulation, and the Issuer is not responsible for reimbursing any such fees.
+15.5 The Issuer is responsible for withholding any withholding tax imposed by applicable law on any payments to the Bondholders.
+15.6 If the Issuer is required by law to withhold any withholding tax from any payment under any Finance Document:
+(a) the amount of the payment due from the Issuer shall be increased to such amount which is necessary to ensure that the Bondholders receive a net amount which is (after making the required withholding) equal to the payment which would have been due if no withholding had been required; and
+(b) the Issuer shall at the request of the Bond Trustee deliver to the Bond Trustee evidence that the required tax reduction or withholding has been made.
+15.7 If any withholding tax is imposed due to subsequent changes in applicable law after the date of this Bond Agreement, the Issuer shall have the right to call all but not some of the Bonds at Face Value plus accrued interest. Such call shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty - 30 Business Days prior to the settlement date of the call.
+16 Events of Default
+16.1 The Bond Trustee may declare the Bonds to be in default upon occurrence of any of the following events:
+(a) Non-payment The Issuer fails to fulfil any payment obligation due under this Bond Agreement or any Finance Document when due, unless, in the opinion of the Bond Trustee, it is likely that such payment will be made in full within five Business Days following the original due date.
+(b) Breach o f other obligations The Issuer does not comply with any provision pursuant to this Bond Agreement or any other Finance Document, unless, in the opinion of the Bond Trustee, such failure
+21
+
+Norsk Tilfilsmann ASA
+
+is capable of being remedied and is remedied within fifteen Business Days after notice thereof is given to the Issuer by the Bond Trustee.
+
+(c) Cross default If for the Issuer or any Material Subsidiary:
+
+(i)
+
+any Financial Indebtedness is not paid when due nor within any originally
+
+applicable grace period (or if there is no applicable grace period, within five
+
+Business Days of its due date);
+
+(ii) any Financial Indebtedness is declared to be or otherwise becomes due and payable prior to its specified maturity as a result of an event of default (however described);
+
+(iii) any commitment for any Financial Indebtedness is cancelled or suspended by a creditor as a result of an event of default (however described); or
+
+(iv) any creditor becomes entitled to declare any Financial Indebtedness due and payable prior to its specified maturity as a result of an event of default (however described),
+
+always provided that a threshold in the aggregate amount of Financial Indebtedness or commitment for Financial Indebtedness falling within paragraphs (i) to (iv) above of a total of NOK 10 million, or the equivalent thereof in other currencies, shall apply. For the avoidance of doubt, this paragraph (c) does not apply to any Financial Indebtedness of any Group Company to another Group Company.
+
+(d) Misrepresentations
+Any representation, warranty or statement (including statements in compliance certificates) made under this Bond Agreement or any other Finance Document or in connection therewith is or proves to have been incorrect, inaccurate or misleading in any material respect when made or deemed to have been made save if this is not likely to have a Material Adverse Effect.
+
+(e) Insolvency proceedings and dissolution
+If for the Issuer or any Material Subsidiary, any corporate action, legal proceedings or other procedure or step is taken in relation to:
+
+(i)
+
+the suspension of payments, a moratorium of any indebtedness, winding-up,
+
+dissolution, administration or reorganisation (by way of voluntary
+
+arrangement, scheme of arrangement or otherwise) other than solvent
+
+liquidation or reorganization;
+
+(ii) a composition, compromise, assignment or arrangement with any creditor, having an adverse effect on the Issuer's ability to perform its payment obligations hereunder;
+
+(iii) the appointment of a liquidator (other than in respect of a solvent liquidation), receiver, administrative receiver, administrator, compulsory manager or other similar officer of any of its assets; or
+
+22
+
+Norsk Tillitsmann ASA
+
+(iv) its dissolution,
+
+or any analogous procedure or step is taken in any jurisdiction.
+
+(f)
+
+Creditors 'process
+
+The Issuer or any Material Subsidiary has a substantial proportion of the assets (having an aggregate value exceeding NOK 10,000,000 (or the equivalent amount in any other currency or currencies)) impounded, confiscated, attached or subject to distraint, or is subject to enforcement of any Security over any of its assets, and such Security is not discharged within fifteen Business Days.
+
+(g) Impossibility or illegality
+It is or becomes impossible or unlawful for any Group Company to fulfil or perform any of the terms of any Finance Document to which it is a party, save if this is not likely to have a Material Adverse Effect.
+
+(h) Litigation
+There is current, pending or threatened any claims, litigations, arbitration or administrative proceedings against the Issuer or any Material Subsidiary which, in the reasonable opinion of the Bond Trustee after consultations with the Issuer, is likely to be adversely determined, and which, if adversely determined, in the reasonable opinion of the Bond Trustee, after consultation with the Issuer, is likely to have a Material Adverse Effect.
+
+(i)
+
+Material Adverse Change
+
+Any other event or circumstance occurs which, in the reasonable opinion of the Bond Trustee, after consultations with the Issuer, would have a Material Adverse Effect.
+
+16.2 In the event that one or more of the circumstances mentioned in Clause 16.1 occurs and is continuing, the Bond Trustee can, in order to protect the interests of the Bondholders, declare the Outstanding Bonds including accrued interest, costs and expenses to be in default and due for immediate payment.
+
+The Bond Trustee may at its discretion, take every measure necessary to recover the amounts due under the Outstanding Bonds, and all other amounts outstanding under this Bond Agreement and any other Finance Document.
+
+16.3 In the event that one or more of the circumstances mentioned in Clause 16.1 occurs and is continuing, the Bond Trustee shall declare the Outstanding Bonds including accrued interest, costs and expenses to be in default and due for immediate payment if:
+
+(a) the Bond Trustee receives a demand in writing that a default shall be declared from Bondholders representing at least 1/5 of the Voting Bonds, and the Bondholders' Meeting has not decided on other solutions, or
+
+(b) the Bondholders' Meeting has with simple majority ' ' 'ed to declare the Outstanding Bonds in default and due for payment.
+
+4?7
+23
+
+Norsk Tillitsmann ASA
+
+In either case the Bond Trustee shall take every measure necessary to recover the amounts due under the Outstanding Bonds.
+16.4 In the event that the Bond Trustee pursuant to the terms of Clauses 16.2 or 16.3 declares the Outstanding Bonds to be in default and due for payment, the Bond Trustee shall immediately deliver to the Issuer a notice demanding payment of interest and principal due to the Bondholders under the Outstanding Bonds including accrued interest and interest on overdue amounts and expenses. The claim derived from the Outstanding Bonds due for payment as a result of an Event of Default shall be calculated at the prices set out in Clause 11.2.
+17 Bondholders' Meeting
+
+17.1 Authority o f the Bondholders' Meeting
+
+17.1.1
+
+The Bondholders' Meeting represents the supreme authority of the Bondholders community in all matters relating to the Bonds, and has the power to make all decisions altering the terms and conditions of the Bonds, including, but not limited to, any reduction of principal or interest and any conversion of the Bonds into other capital classes.
+
+17.1.2
+
+The Bondholders' Meeting cannot resolve that any overdue payment of any instalment shall be reduced unless there is a pro rata reduction of the principal that has not fallen due, but may resolve that accrued interest (whether overdue or not) shall be reduced without a corresponding reduction of principal.
+
+17.1.3
+
+If a resolution by or an approval of the Bondholders is required, such resolution shall be passed at a Bondholders' Meeting, see however Clause 18.1. Resolutions passed at Bondholders' Meetings shall be binding upon all Bondholders and prevail for all the Bonds.
+
+17.2 Procedural rulesfo r Bondholders' Meetings
+
+17.2.1 A Bondholders' Meeting shall be held at the written request of:
+
+(a) the Issuer;
+
+(b) Bondholders representing at least 1/10 of the Voting Bonds;
+
+(c) the Exchange, if the Bonds are listed; or
+
+(d) the Bond Trustee.
+
+17.2.2 The Bondholders' Meeting shall be summoned by the Bond Trustee. A request for a Bondholders' Meeting shall be made in writing to the Bond Trustee, and shall clearly state the matters to be discussed.
+
+17.2.3 If the Bond Trustee has not summoned a Bondholders' Meeting within ten Business Days after having received a valid request, then the requesting party may summons the Bondholders' Meeting itself, n f /''
+
+24
+
+ ?L
+
+Norsk Tillitsmann ASA
+
+17.2.4
+
+The notice of a Bondholders' Meeting shall be dispatched no later than ten Business Days prior to the date of the Bondholders' Meeting. The notice and a confirmation of each Bondholder's holdings of Bonds shall be sent to all Bondholders registered in the Securities Depository at the time of distribution. The notice shall also be sent to the Exchange for publication if the Bonds are listed.
+
+17.2.5
+
+The summons shall specify the agenda of the Bondholders' Meeting. The Bond Trustee may in the summons also set out other matters on the agenda than those requested. If amendments to this Bond Agreement have been proposed, the main content of the proposal shall be stated in the summons.
+
+17.2.6 The Bond Trustee may restrict the Issuer from making any changes in the number of Voting Bonds in the period from distribution of the summons until the Bondholders' Meeting, by serving notice to it to such effect.
+
+17.2.7 Matters that have not been reported to the Bondholders in accordance with the procedural rules for summoning of a Bondholders' Meeting may only be adopted with the approval of all Voting Bonds.
+
+17.2.8
+
+The Bondholders' Meeting shall be held on premises designated by the Bond Trustee. The Bondholders' Meeting shall be opened and shall, unless otherwise decided by the Bondholders' Meeting, be chaired by the Bond Trustee. If the Bond Trustee is not present, the Bondholders' Meeting shall be opened by a Bondholder, and be chaired by a representative elected by the Bondholders' Meeting.
+
+17.2.9
+
+Minutes of the Bondholders' Meeting shall be kept. The minutes shall state the numbers of Bondholders and Bonds represented at the Bondholders' Meeting, the resolutions passed at the meeting, and the result of the voting. The minutes shall be signed by the chairman and at least one other person elected by the Bondholders' Meeting. The minutes shall be deposited with the Bond Trustee and shall be available to the Bondholders.
+
+17.2.10 The Bondholders, the Bond Trustee and - provided the Bonds are listed representatives of the Exchange, have the right to attend the Bondholders' Meeting. The chairman may grant access to the meeting to other parties, unless the Bondholders' Meeting decides otherwise. Bondholders may attend by a representative holding proxy. Bondholders have the right to be assisted by an advisor. In case of dispute the chairman shall decide who may attend the Bondholders' Meeting and vote for the Bonds.
+
+17.2.11 Representatives of the Issuer have the right to attend the Bondholders' Meeting. The Bondholders' Meeting may resolve that the Issuer's representatives may not participate in particular matters. The Issuer has the right to be present under the voting.
+
+17.3 Resolutions passed at Bondholders' Meetings
+
+17.3.1
+
+At the Bondholders' Meeting each Bondholder may cast one vote for each Voting Bond owned at close of business on the day prior to the date of the Bondholders' Meeting in accordance with the records registered in the Securities Depository. The /> Bond Trustee may, at its sole discretion, accept other evidence of ownership. ( 4 i
+
+25
+
+fL
+
+.
+
+Norsk TiUilsmann ASA
+
+Whoever opens the Bondholders' Meeting shall adjudicate any question concerning which Bonds shall count as the Issuer's Bonds. The Issuer's Bonds shall not have any voting rights.
+
+For this purpose, a Bondholder that has a Bond that is nominee registered shall be deemed as the Bondholder of such Bond (instead of the nominee) provided that the Bondholder presents relevant evidence stating that the relevant Bondholder is the Bondholder of the Bond and the amount of Bonds held by such Bondholder.
+
+17.3.2 In all matters, the Issuer, the Bond Trustee and any Bondholder have the right to demand vote by ballot. In case of parity of votes, the chairman shall have the deciding vote, regardless of the chairman being a Bondholder or not.
+
+17.3.3
+
+In order to form a quorum, at least half (1/2) of the Voting Bonds must be represented at the meeting, see however Clause 17.4. Even if less than half (1/2) of the Voting Bonds are represented, the Bondholders' Meeting shall be held and voting completed.
+
+17.3.4 Resolutions shall be passed by simple majority of the Voting Bonds represented at the Bondholders' Meeting, unless otherwise set out in Clause 17.3.5.
+
+17.3.5 In the following matters, a majority of at least 2/3 of the Voting Bonds represented at the Bondholders' Meeting is required:
+
+(a) amendment of the terms of this Bond Agreement regarding the interest rate, the tenor, redemption price and other terms and conditions affecting the cash flow of the Bonds;
+
+(b) transfer of rights and obligations of this Bond Agreement to another issuer, or
+
+(c) change of Bond Trustee.
+
+17.3.6 The Bondholders' Meeting may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+17.3.7
+
+The Bond Trustee shall ensure that resolutions passed at the Bondholders' Meeting are properly implemented, however, the Bond Trustee may refuse to carry out resolutions being in conflict with this Bond Agreement (or any other Finance Document) or any applicable law.
+
+17.3.8 The Issuer, the Bondholders and the Exchange shall be notified of resolutions passed at the Bondholders' Meeting.
+
+17.4 Repeated Bondholders' Meeting
+
+17.4.1
+
+If the Bondholders' Meeting does not form a quorum pursuant to Clause 17.3.3, a repeated Bondholders' Meeting may be summoned to vote on the same matters. The attendance and the voting result of the first Bondholders' Meeting shall be specified in the summons for the repeated Bondholders' Meeting, / / f
+
+7L
+26
+
+Norsk Tiliilsmann ASA
+
+17.4.2 A valid resolution may be passed at a repeated Bondholders' Meeting even though less than half (1/2) of the Voting Bonds are represented.
+18 The Bond Trustee
+
+18.1 The role and authority o f the Bond Trustee
+
+18.1.1
+
+The Bond Trustee shall monitor the compliance by the Issuer of its obligations under this Bond Agreement and applicable laws and regulations which are relevant to the terms of this Bond Agreement, including supervision of timely and correct payment of principal or interest, (however, this shall not restrict the Bond Trustee from discussing matters of confidentiality with the Issuer), arrange Bondholders' Meetings, and make the decisions and implement the measures resolved pursuant to this Bond Agreement The Bond Trustee is not obligated to assess the Issuer's financial situation beyond what is directly set out in this Bond Agreement.
+
+18.1.2
+
+The Bond Trustee may take any step it in its sole discretion considers necessary or advisable to ensure the rights of the Bondholders in all matters pursuant to the terms of this Bond Agreement and is entitled to rely on advice from professional advisors. The Bond Trustee may in its sole discretion postpone taking action until such matter has been put forward to the Bondholders' Meeting. The Bond Trustee is not obliged to take any steps to ascertain whether any Event of Default has occurred and until it has actual knowledge or express notice to the contrary the Bond Trustee is entitled to assume that no Event of Default has occurred.
+
+18.1.3
+
+The Bond Trustee may make decisions binding for all Bondholders concerning this Bond Agreement, including amendments to this Bond Agreement and waivers or modifications of certain provisions, which in the opinion of the Bond Trustee, do not materially and adversely affect the rights or interests of the Bondholders pursuant to this Bond Agreement.
+
+18.1.4
+
+The Bond Trustee may reach decisions binding for all Bondholders in circumstances other than those mentioned in Clause 18.1.3 provided that prior notification has been made to the Bondholders. Such notice shall contain a proposal of the amendment and the Bond Trustee's evaluation. Further, such notification shall state that the Bond Trustee may not reach a decision binding for all Bondholders in the event that any Bondholder submits a written protest against the proposal within a deadline set by the Bond Trustee. Such deadline may not be less than five Business Days following the dispatch of such notification.
+
+18.1.5 The Bond Trustee may reach other decisions than set out in Clauses 18.1.3 or 18.1.4 to amend or rectify decisions which due to spelling errors, calculation mistakes, misunderstandings or other obvious errors do not have the intended meaning.
+
+18.1.6 The Bond Trustee may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+18.1.7 The Issuer, the Bondholders and the Exchange shall be notified of decisions made by the Bond Trustee pursuant to Clause 18.1 unless such notice obviously is unnecessary, m f'
+
+27
+
+Norsk Tillitsmann ASA
+
+18.1.8 The Bondholders' Meeting can decide to replace the Bond Trustee without the Issuer's approval, as provided for in Clause 17.3.5.
+
+18.1.9 The Bond Trustee may act as bond trustee and/or security agent for several bond issues relating to the Issuer notwithstanding potential conflicts of interest. The Bond Trustee may delegate exercise of its powers to other professional parties.
+
+18.1.10 The Bond Trustee may instruct the Paying Agent to split the Bonds to a lower denomination in order to facilitate partial redemptions or restructuring of the Bonds or other situations.
+
+18.2 Liability and indemnity
+
+18.2.1
+
+The Bond Trustee is liable only for direct losses incurred by Bondholders or the Issuer as a result of gross negligence or wilful misconduct by the Bond Trustee in performing its functions and duties as set out in this Bond Agreement. Such liability is limited to the maximum amount set out in Clause 2.2. The Bond Trustee is not liable for the content of information provided to the Bondholders on behalf of the Issuer.
+
+18.2.2
+
+The Issuer is liable for, and shall indemnify the Bond Trustee fully in respect of, all losses, expenses and liabilities incurred by the Bond Trustee as a result of negligence by the Issuer (including its directors, management, officers, employees, agents and representatives) to fulfil its obligations under the terms of this Bond Agreement and any other Finance Document, including losses incurred by the Bond Trustee as a result of the Bond Trustee's actions based on misrepresentations made by the Issuer in connection with the establishment and performance of this Bond Agreement and any other Finance Document.
+
+18.2.3
+
+The Bond Trustee can as a condition for carrying out an instruction from the Bondholders (including, but not limited to, instructions set out in Clause 16.3(a) or 17.2.1 (b), require satisfactory security and indemnities for any possible liability and anticipated costs and expenses, from those Bondholders who requested that instruction and/or those who voted in favour of the decision to instruct the Bond Trustee. Any instructions from the Bondholders may be put forward to the Bondholders' Meeting by the Bond Trustee before the Bond Trustee takes any action.
+
+18.3 Change o f Bond Trustee
+
+18.3.1 Change of Bond Trustee shall be carried out pursuant to the procedures set out in Clause 17. The Bond Trustee shall continue to carry out its duties as bond trustee until such time that a new Bond Trustee is elected.
+
+18.3.2
+
+The fees and expenses of a new bond trustee shall be covered by the Issuer pursuant to the terms set out in Clause 15, but may be recovered wholly or partially from the Bond Trustee if the change is due to a breach by the Bond Trustee of its duties pursuant to the terms of this Bond Agreement or other circumstances for which the Bond Trustee is liable.
+
+18.3.3 The Bond Trustee undertakes to co-operate so that the new bond trustee receives without undue delay following the Bondholders' Meeting the documentation and
+
+Norsk Tillitsmamt ASA
+
+information necessary to perform the functions as set out under the terms of this Bond Agreement.
+19 Miscellaneous
+
+19.1 The community o f Bondholders
+
+By virtue of holding Bonds, which are governed by this Bond Agreement (which pursuant to Clause 2.1.1 is binding upon all Bondholders), a community exists between the Bondholders, implying, inter alia, that:
+
+(a) the Bondholders are bound by the terms of this Bond Agreement;
+
+(b) the Bond Trustee has power and authority to act on behalf of, and/or represent; the Bondholders, in all matters, included but not limited to taking any legal or other action, including enforcement of the Bond Issue, opening of bankruptcy or other insolvency proceedings;
+
+(c)
+
+the Bond Trustee has, in order to manage the terms of this Bond Agreement,
+
+access to the Securities Depository to review ownership of Bonds registered
+
+in the Securities Depository; and
+
+(d) this Bond Agreement establishes a community between Bondholders meaning that:
+
+(i)
+
+the Bonds rank pari passu between each other;
+
+(ii) the Bondholders may not, based on this Bond Agreement, act
+
+directly towards the Issuer and may not themselves institute legal
+
+proceedings against the Issuer, however not restricting the
+
+Bondholders to exercise their individual rights derived from this
+
+Bond Agreement;
+
+(iii) the Issuer may not, based on this Bond Agreement, act directly
+
+towards the Bondholders;
+
+(iv) the Bondholders may not cancel the Bondholders' community; and
+
+(v) the individual Bondholder may not resign from the Bondholders'
+
+community.
+
+19.2 Defeasance
+
+19.2.1 The Issuer may, at its option and at any time, elect to have certain obligations discharged (see Clause 19.2.2) upon complying with the following conditions ("Security and Covenant Defeasance"):
+
+(a)
+
+the Issuer shall have irrevocably pledged to the Bond Trustee for the benefit
+
+of the Bondholders cash or government bonds accepted by the Bond Trustee
+
+(the "Defeasance Pledge") in such amounts as will be sufficient for the
+
+payment of principal (including if applicable premium payable upon
+
+exercise of a Call Option) and interest on the Outstanding Bonds to Maturity
+
+Date (or redemption upon a exercise of a notified Call Option) or any other
+
+amount agreed between the Parties; s T j
+
+#729
+
+Norsk Tillitsmann ASA
+
+(b) no Event of Default shall have occurred and be continuing on the date of establishment of the Defeasance Pledge, or insofar as Events of Default from bankruptcy or insolvency events are concerned, at any time during any hardening period applicable to the Defeasance Pledge (or the relevant period for non-Norwegian companies) or any other date agreed between the Parties;
+
+(c) if the Bonds are secured, the Defeasance Pledge shall be considered as a replacement of the Security established prior to the Defeasance Pledge;
+
+(d)
+
+the Issuer shall have delivered to the Bond Trustee a certificate signed by
+
+its Chief Executive Officer that the Defeasance Pledge was not made by the
+
+Issuer with the intent of preferring the Bondholders over any other creditors
+
+of the Issuer or with the intent of defeating, hindering, delaying or
+
+defrauding any other creditors of the Issuer or others; and
+
+(e) the Issuer shall have delivered to the Bond Trustee any certificate or legal opinion reasonably required by the Bond Trustee regarding the Security and Covenant Defeasance or Defeasance Pledge, including any certificate or legal opinion on (i) the compliance of the conditions of the Security and Covenant Defeasance, (ii) that the Defeasance Pledge constitutes a valid, perfected and enforceable Security in favour of the Bond Trustee for the benefit of the Bondholders which will not be subject to any rights of creditors of the Issuer or any bankruptcy, insolvency, reorganization or similar laws affecting creditors rights generally under the laws of the jurisdiction where the Defeasance Pledge was established and the corporate domicile of the Issuer, (iii) any relevant tax issues concerning the Bondholders, (iv) any valuation of any assets or (vii) any other certificate or opinion regarding the Security and Covenant Defeasance or the Defeasance Pledge.
+
+19.2.2 Upon the exercise by the Issuer of its option under Clause 19.2.1:
+
+(a) the Issuer shall be released from its obligations under all provisions in Clause 14, except Clauses 14.2.1(a), (e), (h), (i) and (j), or as otherwise agreed;
+
+(b) the Issuer shall not (and shall ensure that all Group Companies shall not) take any actions that may cause the value of the Security created by this Security and Covenant Defeasance to be reduced, and shall at the request of the Bond Trustee execute, or cause to be executed, such further documentation and perform such other acts as the Bond Trustee may reasonably require in order for the Security to remain valid, enforceable and perfected by the Bond Trustee for the account of the Bondholders;
+
+(c) any Guarantor(s) shall be discharged from their obligations under the Guarantee(s), and the Guarantee(s) shall cease to have any legal effect, or as otherwise agreed;
+
+(d) any Security other than the Defeasance Pledge shall be discharged, and the Bond Trustee shall take all steps reasonably possible for it to cause s u c h ^ / ^
+
+30
+
+Norsk Tillitsmann ASA
+
+discharge to be effected, by way of deletion of the relevant Security Document from the relevant register, notice to third parties or as otherwise required, or as otherwise agreed; and
+
+(e) all other provisions of this Bond Agreement (except (a) - (c) above) shall remain fully in force without any modifications, or as otherwise agreed.
+
+19.2.3
+
+All amounts owed by the Issuer hereunder covered by the Defeasance Pledge shall be applied by the Bond Trustee, in accordance with the provisions of this Bond Agreement, against payment to the Bondholders of all sums due to them under this Bond Agreement on the due date thereof.
+
+Any excess funds not required for the payment of principal, premium and interest to the Bondholders (including any expenses, fees etc. due to the Bond Trustee hereunder) shall be returned to the Issuer.
+
+19.3 Limitation o f claims
+
+All claims under the Bonds and this Bond Agreement for payment, including interest and principal, shall be subject to the time-bar provisions of the Norwegian Limitation Act of May 18,1979 No. 18.
+
+19.4 Access to information
+
+19.4.1
+
+This Bond Agreement is available to anyone and copies may be obtained from the Bond Trustee or the Issuer. The Bond Trustee shall not have any obligation to distribute any other information to the Bondholders or others than explicitly stated in this Bond Agreement. The Issuer shall ensure that a copy of this Bond Agreement is available to the general public until all the Bonds have been fully discharged.
+
+19.4.2 The Bond Trustee shall, in order to carry out its functions and obligations under this Bond Agreement, have access to the Securities Depository for the purposes of reviewing ownership of the Bonds registered in the Securities Depository.
+
+19.5 Amendments
+
+All amendments of this Bond Agreement shall be made in writing, and shall unless otherwise provided for by this Bond Agreement, only be made with the approval of all parties hereto.
+
+19.6 Notices, contact information
+
+19.6.1
+
+Written notices, warnings, summons etc to the Bondholders made by the Bond Trustee shall be sent via the Securities Depository with a copy to the Issuer and the Exchange. Information to the Bondholders may also be published at Stamdata only. Any such notice or communication shall be deemed to be given or made as follows:
+
+(a) if by letter via the Securities Depository, when sent from the Securities Depository; and
+
+(b) if by publication on Stamdata, when publicly available.
+
+31
+
+Norsk Tillitsmann ASA
+
+19.6.2 The Issuer's written notifications to the Bondholders shall be sent via the Bond Trustee, alternatively through the Securities Depository with a copy to the Bond Trustee and the Exchange.
+
+19.6.3
+
+Unless otherwise specifically provided, all notices or other communications under or in connection with this Bond Agreement between the Bond Trustee and the Issuer shall be given or made in writing, by letter, e-mail or fax. Any such notice or communication shall be deemed to be given or made as follows:
+
+(a) if by letter, when delivered at the address of the relevant Party;
+
+(b) if by e-mail, when received; and
+
+(c) if by fax, when received.
+
+19.6.4 The Issuer and the Bond Trustee shall ensure that the other party is kept informed of changes in postal address, e-mail address, telephone and fax numbers and contact persons.
+
+19.6.5 When determining deadlines set out in this Bond Agreement, the following shall apply (unless otherwise stated):
+
+(a) If the deadline is set out in days, the first day when the deadline is in force shall not be inclusive, however, the meeting day or the occurrence the deadline relates to, shall be included.
+
+(b) If the deadline is set out in weeks, months or years, the deadline shall end on the day in the last week or the last month which, according to its name or number, corresponds to the first day the deadline is in force. If such day is not a part of an actual month, the deadline shall be the last day of such month.
+
+(c) If a deadline ends on a day which is not a Business Day, the deadline is postponed to the next Business Date.
+
+19.7 Dispute resolution and legal venue
+
+19.7.1 This Bond Agreement and all disputes arising out of, or in connection with this Bond Agreement between the Bond Trustee, the Bondholders and the Issuer, shall be governed by Norwegian law.
+
+19.7.2
+
+All disputes arising out of, or in connection with this Bond Agreement between the Bond Trustee, the Bondholders and the Issuer, shall, subject to paragraph c) below, be exclusively resolved by the courts of Norway, with the District Court of Oslo as sole legal venue.
+
+19.7.3
+
+Clause 19.7.2 is for the benefit of the Bond Trustee only. As a result, the Bond Trustee shall not be prevented from taking proceedings relating to a dispute in any other courts with jurisdiction. To the extent allowed by law. the Bond Trustee may take concurrent proceedings in any number ofjurisdictions.
+
+*****
+
+f/L 32
+
+Norsk Tillitsmann ASA
+This Bond Agreement has been executed in two originals, of which the Issuer and the Bond Trustee retain one each.
+
+Bond Trustee
+
+By: j - e w e i K .
+
+v:
+
+Position:
+
+33
+
+Norsk Tillitsmann ASA
+
+A ttachm ent 1
+
+FORM OF COMPLIANCE CERTIFICATE
+
+Norsk Tillitsmann ASA P.O. Box 1470 Vika N-0116 Oslo Norway
+
+Fax: + 47 22 87 94 10 E-mail: mail@trustee.no
+
+[date]
+
+Dear Sirs,
+
+10.50 per cent Norwegian Energy Company ASA Senior Unsecured Callable Bond Issue 2013/2016 - ISIN 001 0672314
+
+We refer to the Bond Agreement for the abovementioned Bond Issue made between Norsk Tillitsmann ASA as Bond Trustee on behalf of the Bondholders, and the undersigned as Issuer under which a Compliance Certificate shall be issued. This letter constitutes the Compliance Certificate for the period [PERIOD].
+
+Capitalised terms used herein shall have the same meaning as in this Bond Agreement.
+
+With reference to Clause 14.2.2 we hereby certify that:
+
+1. all information contained herein is true and accurate and there has been no change which would have a Material Adverse Effect on the financial condition of the Issuer since the date of the last accounts or the last Compliance Certificate submitted to you.
+2. the covenants set out in Clause 14 are satisfied;
+
+3. in accordance with Clause 14.4 (c) the Book Equity Ratio as of [date] is XX.
+
+4. in accordance with Clause 14.4 (d) the Gearing Ratio as of [date] is XX.
+
+Copies of our latest consolidated [Financial Statements] / [Interim Accounts] are enclosed.
+
+Yours faithfully,
+
+Norwegian Energy Company ASA
+
+Name o f authorized person
+Enclosure: [copy o f any written documentation]
+34
+
+7 2* -
+
+Norsk Tillitsmann ASA
+
+A ttachm ent 2
+
+FORM OF RELEASE NOTICE
+
+Norsk Tillitsmann ASA P.O. Box 1470 Vika N-0116 Oslo Norway
+
+Fax: + 47 22 87 94 10 E-mail: mail@trustee.no
+
+[date]
+
+Dear Sirs,
+
+RELEASE NOTICE - CASH ESCROW ACCOUNT -10.50 per cent Norwegian Energy Company ASA Senior Unsecured Callable Bond Issue 2013/2016 - ISIN 0010672314
+
+We refer to the Bond Agreement for the abovementioned Bond Issue made between Norsk Tillitsmann ASA as Bond Trustee on behalf of the Bondholders, and the undersigned as Issuer.
+
+Capitalised terms used herein shall be interpreted as defined in this Bond Agreement.
+
+[Altl:] [We hereby give you notice that we on [date] wish to draw an amount of NOK [amount] from the Cash Escrow Account to be applied for the repurchase of Existing Bonds, and request that you co-sign the instruction on the bank as attached to this notice as Attachment 2a.
+
+The funds will be used to repurchase such Existing Bonds, in such numbers and amounts as shown in the matrix below:
+
+ISIN No Existing Bond:
+
+Number of bonds of [NOK] [ ] Total amount:
+
+[Alt2:] [We hereby give you notice that we on [date] wish to draw an amount of NOK [amount] from the Cash Escrow Account to be released as a consequence of deposits of previously purchased Existing Bonds which have been transferred to the VPS Escrow Account, and request that you co-sign the instruction to the bank to release the above mentioned amount as attached to this notice as Attachment 2a.
+The funds have been used to repurchase such Existing Bonds, in such numbers and amounts as shown in the matrix below:
+f2_
+35
+
+ISIN Existing Bond:
+
+Norsk Tillitsmann ASA
+Number of bonds of [NOK] [ ] Total amount:
+
+Yours faithfully, Norwegian Energy Company ASA
+Name of authorized person
+
+36
+
+Norsk Tillitsmann ASA
+A ttachm ent 2a
+FORM OF INSTRUCTION TO BANK - RELEASE TO ISSUER OR PAYING AGENT
+
+To: [Name o f bank]
+
+],
+
+2013
+
+Dear Sirs, NOTICE OF RELEASE FROM BLOCKED ACCOUNT We refer to a notice from ourselves dated [ ] 2013 regarding blocking of account no [ ] (the "Account") with yourselves. The undersigned, Norwegian Energy Company ASA, hereby requests, the transfer of: Amount: [ ] To account: [ ] in [bank] We asked that the transfer is made with interest date on [date].
+Yours faithfully, Norwegian Energy Company ASA
+Name:
+Norsk Tillitsmann ASA hereby confirms its approval of the transfer from the Account as requested above. For and on behalf of Norsk Tillitsmann ASA
+Name:
+
+37
+
+

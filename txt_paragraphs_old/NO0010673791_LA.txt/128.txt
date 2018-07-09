@@ -1,0 +1,9 @@
+[yes/no]
+Debt to Assets Ratio
+A: Total Interest Bearing Debt
+[tbi]
+B: Total Assets
+[tbi]
+--
+Requirement: the ratio o f A to B to be no [tbi] more than 0.6
+[yes/no]

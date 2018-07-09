@@ -1,0 +1,9 @@
+call the Remaining Loan (the "Call Option") at its par value plus accrued interest.
+For the avoidance of doubt, each Bondholder may within the Exercise Period elect to exercise its Conversion Right after having received the Borrower's Call Option notice.
+''Parity Value" means, in respect of any Dealing Day, the USD amount calculated as follows:
+PV
+=
+where
+PV
+=
+N

@@ -1,0 +1,9 @@
+The share price is the average of the weighted average of official daily trading price on the exchange the last three days the shares are quoted including rights.
+14.2 In the event of an issue of any financial instrument other than Shares in which existing shareholders have preferential rights to subscribe for the financial instruments,
+Norsk Tillitsmann ASA
+Norsk Tillitsmann ASA
+(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
+XT _ .
+average price during subscription period
+, ,, , . ^ .
+New bxercise Price = --------------------------------------------------------------- x old Exercise Price

@@ -1,0 +1,9 @@
+10.1 Interest rate
+(b) The accrued interest on the Outstanding Bonds from and including 15 July 2015 shall be settled through cash payment. However, if the Issuer cannot pay any interest in cash on an Interest Payment Date (at the discretion of the Issuer), the accrued interest shall be settled through the issuance of Additional Bonds.
+(c) The accrued interest on the Outstanding Bonds from and including 15 July 2016 shall be settled only through cash payment by the Issuer.
+(d) The number of Additional Bonds allocated to a Bondholder holding Bonds shall be made by dividing (x) the total accrued interest amount of the Outstanding Bonds for the six months ending on the relevant Interest Payment Date with (y) the total number of Bonds of that Bondholder, provided that the total number of Additional Bonds allocated to a Bondholder shall be rounded to the nearest USD 1.00.
+10.2 Interest Payment Dates
+Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date being 15 July 2013 for the Initial Bonds and for the Tap Bonds being the first Interest Payment Date after the Issue Date for the Tap Bonds.
+10.3 Calculation of interest payments
+(a) The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+(b) The day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "30/360", which means that the

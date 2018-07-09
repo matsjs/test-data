@@ -1,0 +1,9 @@
+8.2
+9
+Interest
+9.1 The Issuer shall pay interest on the par value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate").
+15
+Nordic Trustee ASA
+9.2 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date falling in 8 March 2016 (3 months after the Issue Date).
+9.3 The relevant interest payable amount.shall be calculated based on a period from, and including, the Issue Date to, but excluding, the next following applicable Interest Payment Date, and thereafter from and including, that Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+9.4 The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.

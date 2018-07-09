@@ -1,0 +1,9 @@
+4 Adjustment of the Exercise Price/Exercise Right
+(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
+(sharepricexnumberof sharesbeforeshareissue)+(shareissuepricexnumberof new shares) New ExerasePrice --__________numberofsharesbeforeshareissue+numberofnewshares___________x ExercisePrice
+Share Price
+The share price is the average of the weighted average of official daily trading price on the exchange the last five days the shares are quoted including rights.
+(ii) if the Shares are not listed, each Warrantholder shall have the same subscription right as the shareholders, as if the Warrantholder already had exercised his Exercise Right(s).
+4.2 In the event of an issue of financial Instruments in accordance with Chapter 11 of the Norwegian Companies Act in which existing shareholders have preferential rights to subscribe for the financial Instruments,
+(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
+New Exercise Price =

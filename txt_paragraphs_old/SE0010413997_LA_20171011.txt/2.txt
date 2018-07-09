@@ -1,0 +1,9 @@
+"Affiliate" means any other person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified person. For the purpose of this definition, "control" when used with respect to any person means the power to direct the management and policies of such person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms "controlling" and "controlled" have meanings correlative to the foregoing.
+"Agent" means Nordic Trustee & Agency AB (publ), Swedish Reg. No. 556882-1879, or another party replacing it, as Agent, in accordance with these Terms and Conditions.
+"Applicable Premium" means an amount equal to:
+(i) the present value on the relevant redemption date of 102.50 per cent. of the Nominal Amount as if such payment had taken place on the First Call Date; plus
+(ii) the present value on the relevant redemption date of the remaining interest payments (excluding accrued but unpaid interest up to the relevant redemption date) up to and including the First Call Date,
+both calculated by using a discount rate of 50 basis points above the comparable German Government Bond Rate (i.e. comparable to the remaining duration of the Notes from the relevant redemption date until the First Call Date using linear interpolation), provided that if the German Government Bond Rate is negative it will be set to zero, minus
+(iii) the Nominal Amount. The Applicable Premium shall be calculated and determined by the Issuer.
+"Business Day" means a day both (i) in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (Sw. midsommarafton), Christmas Eve (Sw. julafton) and New Year's Eve (Sw. nyårsafton) shall for the purpose of this definition be deemed to be public holidays, and (ii) on which the Trans-European Automated Real-Time Gross
+Settlement Express Transfer (TARGET2) System (the "TARGET2 System") or any successor system is open.

@@ -1,0 +1,9 @@
+(c) in case of calculation of default interest, if no rate is available for the relevant period, the rate (rounded upwards to four decimal places), interpolating on a linear basis between (i) the percentage rate per annum displayed on the appropriate page of the Reuters screen as STIBOR fixing for the longest period which is less than the period comparable to the relevant period; and (ii) the percentage rate per annum displayed on the appropriate page of the Reuters screen as STIBOR fixing for the shortest period which exceeds the period comparable to the relevant period; or
+if any such rate is below zero, STIBOR will be deemed to be zero.
+"Subsequent Notes" means any Notes issued after the First Issue Date on one or more occasions.
+"Swedish Kronor" and "SEK" means the lawful currency of Sweden.
+"Test Date" means 31 March, 30 June, 30 September and 31 December each year.
+"Test Period" means each period of twelve months (on a rolling basis) ending on each Test Date.
+"Total Assets" means, at any time, the total assets of the Group calculated on a consolidated basis in accordance with the Accounting Principles.
+"Total Equity" means, at any time, the sum of the total equity of the Group calculated on a consolidated basis in accordance with the Accounting Principles, provided that any Capital Securities shall be deemed equity and not debt when calculating the total equity.
+"Transaction Costs" means all fees, costs and expenses, stamp, registration and other taxies incurred by the Issuer or any other member of the Group in connection with (i) the issuance of the Notes and (ii) the listing of the Notes.

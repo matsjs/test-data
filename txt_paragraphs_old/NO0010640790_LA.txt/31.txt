@@ -1,0 +1,9 @@
+9.1 The Issuer shall pay interest on the face value of the Bonds from, and including, the Issue Date at a fixed rate of 5 per cent per annum (the "Fixed Rate").
+9.3 The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+9.4 The day count fraction in respect of the calculation of the payable interest amount shall be "30/360", which means that the number of days in the calculation period in respect of which payment is being made divided by 360 (the number of days to be calculated on the basis of a year of 360 days with twelve 30-days months, with interest in respect of any part of an uncompleted month being determined on the basis of a 30 day month less the remaining number of calendar days in the month.
+9.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+Interest = Amount
+Face Value
+x
+Fixed
+Rate

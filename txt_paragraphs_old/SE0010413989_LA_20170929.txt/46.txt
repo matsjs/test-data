@@ -1,0 +1,9 @@
+(i) the Loan to Value shall on each 31 December not be higher than 75 per cent; and
+(b) The Maintenance Test shall (i) with respect to Loan to Value be tested on each 31 December and (ii) with respect to Interest Coverage Ratio be tested on each Reference Date and measured as the ratio during a twelve months trailing period ending on such Reference Date.
+(c) The calculations made for the purpose of the Maintenance Test shall be adjusted by application of Clauses 12.3 to 12.4 below.
+12.2 Incurrence Test
+The Incurrence Test is met if:
+(a) the Loan to Value on the immediately preceding 31 December was not higher than 70 per cent; and
+(b) the Interest Coverage Ratio for the Relevant Period ending on the immediately preceding 31 December was not less than 2.00x.
+12.3 Adjustments to the EBITDA and Net Finance Charges
+For the purpose of the Maintenance Test, the figures for EBITDA and Net Finance Charges for the Relevant Period ending on the relevant Reference Date shall be used but adjusted so that:

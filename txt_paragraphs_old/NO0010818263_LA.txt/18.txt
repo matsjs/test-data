@@ -1,0 +1,9 @@
+"M ake Whole Amount" means an amount equal to the sum of:
+(b) the present value on the Call Option Repayment Date ofthe remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the First Call Date,
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
+"M anager" means ABG Sundal Collier ASA.
+"M argin" means 6.50 percentage points (6.50%) per annum.
+"M aterial Adverse Effect" means a material adverse effect on:
+(a) the ability of the Issuer and any Guarantor to perform and comply with its obligations under any of the Finance Documents; or
+(b) the validity or enforceability of any of the Finance Documents.
+"M aturity Date" means 16 March 2022, adjusted according to the Business Day Convention.

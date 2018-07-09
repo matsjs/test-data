@@ -1,0 +1,9 @@
+1
+"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
+"Call Option Price" means:
+(a) the Make Whole Price if the call option is exercised before the First Call Date;
+(b) 102.40 per cent, of the Nominal Amount if the call option is exercised on or after the First Call Date up to (but excluding) the date falling twenty four (24) months after the Issue Date;
+(c) 101.44 per cent, of the Nominal Amount if the call option is exercised on or after the date falling twenty four (24) months after the Issue Date up to (but excluding) the date falling thirty (30) months after the Issue Date;
+(d) 100.48 per cent, of the Nominal Amount if the call option is exercised on or after the date falling thirty (30) months after the Issue Date up to (but excluding) the Final Redemption Date; or
+(e) 100.00 per cent, of the Nominal Amount if the call option is exercised on or after the date falling thirty three (33) months after the Issue Date up to (but excluding) the Final Redemption Date, provided however that the early redemption pursuant to this paragraph (e) is financed in full by way of the Issuer issuing Market Loan(s) in which the Holders shall have the possibility to participate by way of roll-over, however subject to the Issuer's decision on allocation.
+"Central Securities Depositories and Financial Instruments Accounts Act" means the Swedish Central Securities Depositories and Financial Instruments Accounts Act (Sw. lag (1998:1479) om värdepapperscentraler och kontoföring avfinansiella instrument).

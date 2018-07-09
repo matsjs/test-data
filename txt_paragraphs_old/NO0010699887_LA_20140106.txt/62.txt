@@ -1,0 +1,9 @@
+10.3.3
+10.3.4
+On the settlement date of the Put Option, the Issuer shall pay to each o f the Bondholders holding Bonds to be redeemed, the principal amount o f each such Bond (including any premium pursuant to Clause 10.3.1) and any unpaid interest accrued up to (but not including) the settlement date.
+10.4 Mandatory Prepayment
+Upon a Mandatory Prepayment Event (other than a Total Loss Event) occurring, the Issuer shall, not later than 30 calendar days following the relevant Mandatory Prepayment Event, unless there is an Event o f Default and the Bond Trustee has declared the Outstanding Bonds to be due for immediate repayment in which case it shall be promptly, redeem 100% o f the outstanding Bonds at a price equal to the prevailing call price outlined under the Issuer's Call Option set out in Clause 10.2.1.
+For the avoidance o f doubt, the redemption price shall be determined based on the date the Mandatory Prepayment Event occurred and not based on the date the repayment is carried out.
+25
+Norsk Tillitsmann ASA
+Upon a Total Loss Event, the Issuer shall as soon as insurance proceeds are available redeem 100% of the outstanding Bonds at 100% o f par value (plus accrued interest on the redeemed amount).

@@ -1,0 +1,9 @@
+"Put Option Repayment Date" means the settlement date for the Put Option Event pursuant to Clause 10.3 {Mandatory repurchase due to a Put Option Event).
+(a) the applicable percentage rate per annum displayed on Reuters screen EURIBOROl (or through another system or website replacing it) as of or around 11.00 a.m. (Brussels time) on the Interest Quotation Day for the offering of deposits in Euro and for a period comparable to the relevant Interest Period; or,
+(b) if no screen rate is available for the relevant Interest Period;
+(i) the linear interpolation between the two closest relevant interest periods, and with the same number of decimals, quoted under paragraph (a) above; or
+(ii) a rate for deposits in the Bond Currency for the relevant Interest Period as supplied to the Bond Trustee at its request quoted by a sufficient number of commercial banks reasonably selected by the Bond Trustee; or
+(c) if no quotation is available under paragraph (b), the interest rate which according to the reasonable assessment of the Bond Trustee and the Issuer best reflects the interest rate for deposits in the Bond Currency offered for the relevant Interest Period.
+In each case, if any such rate is below zero, the Reference Rate will be deemed to be zero.
+"Relevant Jurisdiction" means the country in which the Bonds are issued, being Norway.
+"Relevant Record Date" means the date on which a Bondholder's ownership of Bonds shall be recorded in the CSD as follows:

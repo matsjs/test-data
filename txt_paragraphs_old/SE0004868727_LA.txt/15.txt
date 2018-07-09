@@ -1,0 +1,9 @@
+"IFRS"
+"Interest Coverage Ratio" means, expressed as a percentage, the ratio of the Net Operating Income to the Finance Costs;
+5
+"Interest Determination Date" "Interest Payment Date"
+"Interest Period"
+"Interest Rate" "Issue Date" "Issuing Agency Agreement" "Issuing Agent"
+"Loan to Value"
+means each date falling two (2) Business Days before the first date of an Interest Period;
+means the dates interest will be paid, in each case subject to Condition 6.3, being quarterly from the Issue Date, i.e. on [5 July], [5 October], [5 January] and [5 April] each year and on the Redemption Date, or, if such date is not a Business Day, adjusted in accordance with Condition 6.3.3;

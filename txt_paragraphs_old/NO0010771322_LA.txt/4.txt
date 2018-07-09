@@ -1,0 +1,9 @@
+"Early Redemption Amount" means an amount equal to the sum of:
+(b) an amount equal to the interest on the redeemed Bonds that would have accrued from and including the Issue Date to, but excluding, the First Call Date.
+"Enforcement Action Restrictions" means, with respect to any Security provided for a Project Facility that is not provided by a bank or financial institution, until all amounts under the Bonds have been discharged, that:
+(a) unless approved by the Trustee, the provider of the Project Facility may not initiate any insolvency proceeding against the Issuer;
+(b) unless approved by the Trustee and subject to (c) and (e) below, no Security provided on a second priority basis for the Project Facility may be enforced;
+(c) the provider of the Project Facility may claim its rights with respect to such Security in an insolvency proceeding of the Issuer which has been initiated by another party;
+(d) with respect to Security which does not rank junior to the Transaction Security, the Security is capable of being enforced without having a Material Adverse Effect, in the opinion of the Trustee (acting reasonably) and confirmed in writing by the Trustee;
+(e) if the Trustee takes steps to enforce any Transaction Security, the provider of the Project Facility shall have the right to claim its rights (if any), simultaneously, to that same security if provided to it on a second priority basis, being subject to the enforcement steps.
+"Enforcement Restriction Agreement" means an agreement that shall be entered into between the Issuer, the Trustee and a provider of a Project Facility, if such party is not a bank or financial institution, which shall govern the Enforcement Action Restrictions.

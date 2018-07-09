@@ -1,0 +1,9 @@
+"Transaction Security Documents" means the relevant security agreements purporting to create:
+(b) a floating charge over the assets in the Issuer in the amount of EUR 96,000,000, with priority after the EUR 5,000,000 floating charge provided to Nordea Bank Finland plc pursuant to paragraph (h) in the definition of Permitted Security (the "Floating Charge Agreement");
+(c) a first priority mortgage in the amount of EUR 23,000,000 over the Existing Vessel (the "Vessel Mortgage Agreement");
+12
+(d) the Vessel Funding Account Pledge Agreement;
+(e) the Container Funding Account Pledge Agreement;
+(f) the Refund Guarantee Security; and
+(g) any security documents creating a second ranking security pursuant to Clause 11.2 (Second Ranking Transaction Security).
+"Transaction Security" means the Security granted to secure the Secured Obligations pursuant to the Transaction Security Documents.

@@ -1,0 +1,161 @@
+LATINA OFFSHORE HOLDING LIMITED - USD 50M BOND
+
+# of days in period
+
+#
+
+Calculation of Excess Cash Flow & Cash Flow Sweep
+
++ Revenue and/or factoring proceeds
+
+USD
+
+- Operating Expenses
+
+"
+
+- SG&A
+
+"
+
+- Capital Expenditures
+
+"
+
+- Taxes (paid or accrued)
+
+- Factoring costs
+
+"
+
+= CF for interest
+
+"
+
+- Next interest
+
+"
+
+= CF for Cash Flow Sweep
+
+"
+
++ CF for Cash Flow Sweep
+
+USD
+
+- Amortization (principal amount)
+
+- Amortization (call premium)
+
+= Surplus CF
+
+31
+May-17 307,431 (781,912) (93,000) (24,709) (57,160)
+(649,350)
+(649,350)
+
+30
+
+31
+
+Jun-17 2,644,200 (725,994) (90,000) (27,050)
+
+Jul-17
+(749,983) (93,000) (84,197)
+
+(21,164) 1,779,992
+1,779,992
+
+(927,180) (1,250,000) (2,177,180)
+
+Actual cost per day Operating Expenses SG&A Capital Expenditures
+Max cost per day Operating Expenses SG&A Capital Expenditures
+Check Operating Expenses SG&A Capital Expenditures
+
+USD/d " "
+USD/d " "
+USD/d " "
+
+May-17 25,223
+3,000 797
+May-17 24,200
+3,300 1,100
+May-17 FAIL OK OK
+
+Jun-17 24,200
+3,000 902
+Jun-17 24,200
+3,300 1,100
+Jun-17 OK OK OK
+
+Jul-17 24,193
+3,000 2,716
+Jul-17 24,200
+3,300 1,100
+Jul-17 OK OK
+FAIL
+
+Calculation of change in cash Cash, BoP +/- CF pre debt service - Interest cost - Amortization Shareholder loan Cash, EoP
+
+USD
+
+14,942
+
+20,592
+
+705,585
+
+"
+
+(649,350)
+
+1,779,992
+
+(927,180)
+
+"
+
+-
+
+-
+
+(1,250,000)
+
+"
+
+655,000
+
+(1,095,000) 1,500,000
+
+"
+
+20,592
+
+705,585
+
+28,404
+
+Cash, EoP - Overview + Parent Modular Earnings Account + Debt Service Account = Total cash, EoP
+
+May-17
+
+Jun-17
+
+Jul-17
+
+USD
+
+20,592
+
+705,585
+
+28,404
+
+20,592
+
+705,585
+
+28,404
+
+

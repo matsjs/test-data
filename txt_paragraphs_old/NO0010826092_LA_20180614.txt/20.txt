@@ -1,0 +1,9 @@
+"Person" means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organisation, government, or any agency or political subdivision thereof, or any other entity, whether or not having a separate legal personality.
+"Put Option Event" means a Change of Control Event.
+"Put Option Repayment Date" means the settlement date for the Put Option Event pursuant to Clause 10.3 {Mandatory repurchase due to a Put Option Event).
+"Qualified Event" means a disposal that (i) does not have a Material Adverse Effect and (ii) where the net cash proceeds received amount to more than NOK 30,000,000, provided that 100 per cent, of the net cash proceeds received in connection therewith is Reinvested and/or used to finance a Mandatory Buy Back Offer.
+"Reference Rate" shall mean NIBOR (Norwegian Interbank Offered Rate) being;
+(a) the interest rate fixed for a period comparable to the relevant Interest Period on Oslo Børs' webpage at approximately 12.15 (Oslo time) on the Interest Quotation Day or, on days on which Oslo Børs has shorter opening hours (New Year's Eve and the Wednesday before Maundy Thursday), the data published at approximately 10.15 a.m. (Oslo time) on the Interest Quotation Day shall be used; or
+(b) if no screen rate is available for the relevant Interest Period;
+(i) the linear interpolation between the two closest relevant interest periods, and with the same number of decimals, quoted under paragraph (a) above; or
+(ii) a rate for deposits in the Bond Currency for the relevant Interest Period as supplied to the Bond Trustee at its request quoted by a sufficient number of commercial banks reasonably selected by the Bond Trustee; or

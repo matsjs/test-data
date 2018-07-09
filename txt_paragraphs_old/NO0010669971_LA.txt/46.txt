@@ -1,0 +1,9 @@
+The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period, based on the Bond Reference Rate two Business Days preceding that Interest Payment Date.
+(c) The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+Interest Amount
+Face Value
+Floating Rate
+Floating Rate Day Count Fraction
+18
+10. MATURITY OF THE BONDS AND REDEMPTION
+10.1 M aturity The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.

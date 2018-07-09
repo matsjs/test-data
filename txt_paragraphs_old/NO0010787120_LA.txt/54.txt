@@ -1,0 +1,9 @@
+(c) Interest shall be calculated on the basis of a 360-day year comprised of twelve months of 30 days each and, in case of an incomplete month, the actual number of days elapsed (30/360-days basis).
+Interest shall fall due on each Interest Payment Date for the corresponding preceding Interest Period and, with respect to accrued interest on the principal amount then due and payable, on each Repayment Date.
+10. REDEMPTION AND REPURCHASE OF BONDS
+10.1 Redemption of Bonds The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the Issuer on the Maturity Date at a price equal to 100% of the Nominal Amount.
+10.2 Voluntary early redemption - Call Option (a) The Issuer may wholly or partially redeem the Outstanding Bonds (the "Call Option") on any Business Day from and including:
+(i) the Issue Date to, but not including, the First Call Date at a price equal to the Make-Whole Amount (plus accrued but unpaid interest on redeemed Bonds);
+(ii) the First Call Date to, but not including, the Interest Payment Date falling 30 months after the Issue Date at a price equal to 103% of the Nominal Amount (plus accrued but unpaid interest on redeemed Bonds);
+(iii) the Interest Payment Date falling 30 months after Issue Date to, but not including, the Maturity Date at a price equal to 101.5% of the Nominal Amount (plus accrued but unpaid interest on redeemed Bonds).
+(b) Any redemption of Bonds pursuant to Clause 10.2 (a) above shall be determined based upon the redemption prices applicable on the Call Option Repayment Date.

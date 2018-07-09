@@ -1,0 +1,9 @@
+Day Count Fraction
+10.1 Maturity and extension o f the Maturity Date
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) (plus accrued interest on redeemed amount) by the Issuer.
+The Issuer may request a 6 month extension of the Maturity Date, subject to written notice to the Trustee at least 15 business days prior to the Maturity Date. Any adjustment will be made according to the Business Day Convention.
+17
+Nordic Trustee ASA
+10.2 Call Option
+10.2.1 The Issuer may redeem the Bond Issue in whole (all or nothing) as follows (a "Call Option"):
+(i) with settlement date at any time from the date falling 1 year after the Issue Date to, but not included, the Maturity Date at a price equal to 100 % of par value (plus accrued interest on redeemed amount).

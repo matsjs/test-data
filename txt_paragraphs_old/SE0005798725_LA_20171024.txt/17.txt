@@ -1,0 +1,9 @@
+"Securities Act" means the U.S. Securities Act of 1933, as amended.
+"Subsequent Bond Issue" has the meaning set forth in Clause 2.2.
+"Subsidiary" means, in relation to any person, any legal entity (whether incorporated or not), in respect of which such person, directly or indirectly, (a) owns shares or ownership rights representing more than 50.00 % of the total number of votes held by the owners, (b) otherwise controls more than 50.00 % of the total number of votes held by the owners, (c) has the power to appoint and remove all, or the majority of, the members of the board of directors or other governing body or (d)
+8
+exercises control as determined in accordance with the Accounting Principles.
+"STIBOR" means: (a) the applicable percentage rate per annum displayed on NASDAQ OMX's website for STIBOR fixing (or through another website replacing it) as of or around 11.00 a.m. on the Quotation Day for the offering of deposits in Swedish Kronor and for a period comparable to the relevant Interest Period; or
+(b) if no rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by leading banks in the Stockholm interbank market reasonably selected by the Issuing Agent, for deposits of SEK 100,000,000 for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Swedish Kronor offered in the Stockholm interbank market for the relevant period; and
+(d) if any such rate is below zero, STIBOR will be deemed to be zero.

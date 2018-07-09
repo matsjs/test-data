@@ -1,0 +1,590 @@
+Nordic Trustee ASA
+
+Bond Agreement
+
+Entered into: between the Issuer: Company No. and the Bond Trustee: Company No. on behalf of the Bondholders in: with ISIN:
+
+12 December 2016 SpareBank 1 Forsikring AS 915 651 321 Nordic Trustee ASA 963 342 624 FRN SpareBank 1 Forsikring AS AS 2016/2026 Subordinated Callable Bond Issue NO 001 0780596
+
+The Issuer undertakes to issue the Bonds in accordance with the terms set forth in this Bond Agreement.
+1 Terms of the Issue
+The terms of the Issue are as follows, supplemented by the definitions and clarifications set forth in Section 2:
+
+Maximum Amount: Initial Amount: Face Value: Currency: Issue Date: Maturity Date: Redemption Price:
+Call:
+
+NA
+
+1 000,000,000
+
+100,000
+
+NOK (Norwegian Krone)
+
+14 December 2016
+
+14 December 2026
+
+100% of Face Value, subject to adjustment following a Reduction of principal as set out in Clause 3.8.
+
+Ordinary call:
+
+Call Price:
+
+The Interest Payment Date in 14 December 2021, and on each Interest Payment Date thereafter subject as set forth in Section 3, Clause 3.9.
+
+Equal to the Redemption Price
+
+Put: Interest Accrual Date:
+
+Conditional call: See Clause 3.9.2
+
+NA
+
+NA
+
+Issue Date
+
+NT
+
+Interest Rate: Reference Rate: Margin: Interest Payment Date:
+Day Count Fraction: Business Day Convention: Listing: Exchange:
+
+Reference Rate + Margin 3 months (NIBOR) 3,45 percentage points p.a. 14 March, 14 June, 14 September and 14 December each year. Actual/360 Modified Following Business Day NO NA
+
+2 Clarifications and definitions
+When used in this Bond Agreement, the following words and terms shall have the following meaning and definition:
+
+Applicable Regulations:
+Arrears of Interest: Attachment: Bankruptcy Event:
+Bond Agreement: Bond Trustee: Bondholder(s): Bondholders' Meeting: Bonds:
+
+Any legislation, rules or regulations (whether having the force of law, regulations or otherwise) applying to the Issuer from time to time implementing the Directive 2009/13 8/EC of 25 November 2009 on the taking-up and pursuit of business of Insurance and Re insurance (Solvency II directive) into Norwegian law, including, without limitation, the Norwegian Solvency II regulation of 25 August 2015 which entered into force in Norway on 1 January 2016 and the other applicable implementing measures adopted pursuant to the Solvency II directive (as amended from time to time) which are in force in Norway from time to time.
+Any interest not paid on an Optional Interest Deferral Date or a Mandatory Interest Deferral Date as set forth in Clause 3.6.
+Any attachment to this Bond Agreement.
+A decision by the Ministry o f Finance that the Issuer shall become subject to public administration (No: offentlig administrasjon) according to the Act on Financial Undertakings (Act 10 April 2015 no. 17) (NO: Finansforetaksloven) chapter 21.
+This agreement including any Attachments to which it refers, and any subsequent amendments and additions agreed between the parties hereto.
+Nordic Trustee ASA or its successor(s).
+Holder of Bond(s) as registered in the Securities Register.
+Meeting of Bondholders as set forth in Section 5 of this Bond Agreement.
+Securities issued pursuant to this Bond Agreement and which is registered in the Securities Register, each a "Bond".
+
+2
+
+NT
+
+Business Day:
+Business Day Convention:
+
+Any day when the Norwegian Central Bank's Settlement System is open and when Norwegian banks can settle foreign currency transactions.
+Convention for adjusting any relevant Payment Date if it would otherwise fall on a day that is not a Business Day:
+
+Call:
+Call Date: Call Price: Call Notice:
+
+(i) If Modified Following Business Day is specified, the applicable Payment Date shall be the first following Business Day unless that day falls in the next calendar month, in which case the date shall be the first preceding Business Day.
+(ii) If No Adjustment is specified, the applicable Payment Date shall not be adjusted even if that day is not a Business Day (payments shall be made on the first following Business Day).
+The Issuer's early redemption right o f Bonds at the date(s) stated (the "Call Date") and corresponding price(s) (the "Call Price"), ref. Clause 3.9. If NA is specified, the provisions regarding Call do not apply.
+As defined above under "Call", see also Section 1.
+As defined above under "Call", see also Section 1.
+The written notification of exercise of a Call as set forth in Clauses 3.9.3 and 4.7.2.
+
+Capital Disqualification Event:
+Capital Requirement Breach: Compulsory Interest Payment Event:
+Currency: Day Count Fraction:
+
+An event which occurs if, as a result of any replacement of or change to (or change to the interpretation by any court or relevant authority entitled to do so) the Applicable Regulations which becomes effective on or after the Issue Date (the Bonds or part o f the Bonds are no longer eligible to count as cover for the Solvency Capital Requirement applicable to the Issuer whether on a single or consolidated basis, except where in the case such non-qualification is only a result of any applicable limitation on the amount of such capital.
+A breach of the applicable capital requirements or solvency requirements from time to time (as such requirements are defined) under the Applicable Regulations.
+An event whereby:
+(i) a dividend or any other distribution was declared or paid in respect of any Junior Obligations, and/or
+(ii) any redemption, purchase or acquisition o f any Junior Obligations has been effected by the Issuer or any of its subsidiaries.
+The currency in which the Bonds are denominated.
+The convention for calculation of payment of interest.
+(i) If 30/360 is specified, the number of days in the relevant interest period shall be calculated from and including the Interest Rate Accrual Date/Interest Rate Date to the next
+3
+
+NT
+
+Event o f Default: Exchange: Face Value: Interest Rate:
+Interest Accrual Date: Interest Payment Date: Initial Amount: ISIN: Issue:
+
+Interest Rate Date on the basis of a year of 360 days with 12 months of 30 days divided by 360, unless (a) the last day in the relevant interest period is the 3 1st calendar day but the first day o f the relevant interest period is a day other than the 30th or the 31stday of a month, in which case the month that includes that last day shall not be shortened to a 30-day month, or (b) the last day o f the relevant interest period is the last calendar day in February, in which case February shall not be considered to be lengthened to a 30-day month.
+(ii) If Actual/360 is specified, the actual number of days in the relevant interest period shall be from and including the Interest Rate Accrual Date/Interest Rate Date to the next Interest Rate Date. The number of days shall be divided by 360.
+No events o f default apply, cf. Clause 3.11.
+Exchange or other recognized marketplace for securities, on which the Issuer has, or has applied for, listing o f the Bonds. If NA is specified, the terms o f this Bond Agreement covering Exchange do not apply.
+The face value of each Bond.
+Rate of interest applicable to the Bonds:
+(i) If the Interest Rate is stated in percentage points, the Bonds shall bear interest at this rate per annum (based on the Day Count Fraction set forth in Section 1), from and including the Interest Rate Accrual Date to the Maturity Date.
+If the Interest Rate is stated as Reference Rate + Margin the Bonds shall bear interest at a rate per annum equal to the Reference Rate + Margin (based on the Day Count Fraction set forth in Section 1), from and including the Interest Rate Accrual Date to the first Interest Rate Date, and thereafter from and including each Interest Rate Date to the next Interest Rate Date until Maturity Date. If the Interest Rate becomes negative, the Interest Rate shall be deemed to be zero.
+The date on which interest on the Bond starts to accrue. If NA is specified, Interest Rate Accrual Date does not apply.
+Date(s) on which the payment of interest falls due. The Interest Payment Date shall be adjusted pursuant to the Business Day Convention.
+The amount equal to the aggregate Face Value of the Bonds (minimum) issued on the Issue Date.
+The identification number o f the Bonds (International Securities Identification Number).
+Any issue o f Bonds pursuant to this Bond Agreement.
+
+4
+
+NT
+
+Issue Date: Issuer: Issuer's Bonds: Issuer's Supervisor: Junior Obligations: Listing:
+Mandatory Deferral: Mandatory Interest Deferral Date:
+Mandatory Redemption Deferral Date: Margin: Maturity Date:
+
+The date of the first Issue. If Maximum Amount is NA the first Issue is the only Issue of Bonds.
+The person or entity that has issued the Bonds and is the borrower (debtor).
+Bonds owned by the Issuer, any party who has decisive influence over the Issuer, or any party over whom the Issuer has decisive influence.
+The Financial Supervisory Authority of Norway (No.: Finanstilsynet) and any successor or replacement thereto, or other authority having primary responsibility for the prudential oversight and supervision of the Issuer.
+(i) The Issuer's share capital, or (ii) any other obligations of the Issuer ranking or expressed to rank junior to the Bonds (i.e. which are subordinated to the Bonds).
+Indicates listing o f the Bonds. If YES is specified, the Issuer shall submit an application in order to have the Bonds listed on the Exchange(s). If NO is specified, no obligation for listing applies, but the Issuer may, at its own discretion, apply for listing.
+Means that a payment o f principal has been deferred, as set forth in Clause 3.7.
+Each Interest Payment Date immediately following (i) the date as o f which the Issuer's most recent quarterly report to the Issuer's Supervisor disclosed that a Capital Requirement Breach has occurred, or there is a risk that a Capital Requirement Breach or a Bankruptcy Event would occur as a result of the payment of interest, provided that such Interest Payment Date shall not be a Mandatory Interest Deferral Date if, since the date of publication of such report, the Issuer has remedied the Capital Requirement Breach and that no such event will occur as a result o f the interest payment, and/or (ii) the occurrence of any event which under the Applicable Regulations would require the Issuer to defer or suspend payment o f interest in respect of the Bonds (unless the Issuer's Supervisor has waived such requirement). Notwithstanding that an Interest Payment Date may be a Mandatory Interest Deferral Date, interest may still be paid on that relevant Interest Payment Date to the extent permitted under, and in accordance with, Applicable Regulations.
+Any date in respect of which a Capital Requirement Breach has occurred and is continuing or would occur if the payment o f the relevant redemption amount otherwise due was made on such date and where Mandatory Deferral applies.
+Margin expressed in percentage points to be added to the Reference Rate (if the Margin is negative, it shall be deducted from the Reference Rate). If NA is specified, no Margin applies.
+The date on which the Bonds fall due. The Maturity Date shall be adjusted pursuant to the Business Day Convention.
+
+5
+
+Maximum Amount:
+
+Amount stating the maximum aggregate Face Value o f Bonds which may be issued pursuant to this Bond Agreement. If NA is specified, the aggregate Face Value of the Bonds issued may not exceed the amount specified as the Initial Amount.
+
+Minimum Capital Requirements: NA:
+
+The minimum capital requirements as defined under Solvency II. Not applicable.
+
+NIBOR:
+
+(Norwegian Interbank Offered Rate) Interest rate fixed for a defined period on Oslo Børs' webpage at approximately 12.15 Oslo time. In the event that such page is not available, has been removed or changed such that the quoted interest rate no longer represents, in the opinion of the Bond Trustee, a correct expression o f the Reference Rate, an alternative page or other electronic source which in the opinion of the Bond Trustee and the Issuer gives the same interest rate as the initial Reference Rate shall be used. If this is not possible, the Bond Trustee shall calculate the Reference Rate based on comparable quotes from major banks in Oslo.
+
+Optional Interest Deferral Any Interest Payment Date which is not a Compulsory Interest
+
+Date:
+
+Payment Date or a Mandatory Interest Deferral Date.
+
+Outstanding Bonds:
+
+The aggregate value o f the total number o f Bonds not redeemed or otherwise discharged in the Securities Register.
+
+Parity Obligations:
+
+Any obligations of the Issuer ranking or expressed to rank pari passu with the Bonds.
+
+Paying Agent:
+
+The entity acting as registrar for the Bonds in the Securities Register and paying agent on behalf o f the Issuer in the Securities Register.
+
+Payment Date:
+
+An Interest Payment Date or a date o f payment o f principal on the Bonds (whether a Maturity Date or a Call Date), as defined above under Business Day Convention.
+
+Put:
+
+Bondholders' right to demand early redemption of Bonds at
+
+date(s) stated (the "Put Date") and corresponding price(s) (the
+
+"Put Price"). The Put Date shall be adjusted pursuant to the
+
+Business Day Convention. If NA is specified, the provisions
+
+regarding Put do not apply.
+
+Redemption Price:
+
+The Face Value of the Bonds, subject to any adjustment following a Reduction of principal, plus accrued and unpaid interest, including Arrears of Interest (if any).
+
+Reference Rate:
+
+NIBOR rounded to the nearest hundredth of a percentage point on each Reset Date, for the period stated. If NA is specified, Reference Rate does not apply.
+
+Registration:
+
+The Norwegian Central Securities Depository ("VPS").
+
+Reset Date:
+
+Dates on which the Interest Rate is fixed for the subsequent interest period for Bonds where Reference Rate applies. The first Reset Date is two Business Days before the Interest Accrual
+
+6
+
+Securities Register: Solvency II: Solvency Capital Requirement: Taxation Event:
+Voting Bonds:
+
+Date. Thereafter the Reset Date is two Business Days prior to each Interest Payment Date.
+The securities register in which the Bonds are registered, being the VPS
+Directive 2009/13 8/EC of 25 November 2009 on the taking-up and pursuit o f business of Insurance and Re-insurance (Solvency II) and any implementing measures adopted pursuant to the Solvency II directive (as amended from time to time).
+The solvency capital requirement as defined under Applicable Regulations.
+An event which occurs as a result of any amendment to, clarification of or change (including any announced prospective change) in the laws or treaties (or regulations thereunder) of Norway affecting taxation (including any change in the interpretation by any court or relevant authority) or any governmental action, on or after the Issue Date, and there is a substantial risk that:
+(i) the Issuer is, or will be, subject to a significant amount of additional taxes, duties or other governmental charges or civil liabilities with respect to the Bonds,
+(ii) the treatment of any of the Issuer's items o f income or expense with respect to the Bonds as reflected in the tax returns (including estimated returns) filed (or to be filed) by the Issuer will not be respected by a taxing authority, which subjects the Issuer to more than a significant amount of additional taxes, duties or other governmental charges, or
+(iii) the Issuer would be required to gross up interest payments.
+Outstanding Bonds less Issuer's Bonds.
+
+7
+
+NT
+
+3 Other terms of the Issue
+
+3.1 The purpose of the Issue
+
+3.1.1 The purpose of the Bond Issue is that the Bonds shall qualify as Tier 2 capital (basic own funds) of the Issuer for the purpose of the Applicable Regulation and as determined by the Issuer's Supervisor.
+
+3.2 Listing and prospectus
+
+3.2.1 In the event that the Bonds are listed on the Exchange, matters concerning the listing requiring the approval of the Bondholders shall be resolved pursuant to the terms of this Bond Agreement.
+
+3.2.2 In the event that the Bonds are listed on the Exchange, the Issuer shall submit the documents and the information necessary to maintain the listing.
+
+3.2.3 The Issuer shall ensure that this Bond Agreement shall be incorporated in any prospectus and other subscription or information materials related to the Bonds.
+
+3.3 Status
+
+3.3.1 The Bonds will constitute direct, unsecured and subordinated debt obligations of the Issuer, and will in connection with a Bankruptcy Event of the Issuer rank:
+
+(a) pari passu without any preference among the Bonds, (b) pari passu with all outstanding Parity Obligations, (c) in priority to payments to creditors in respect of Junior Obligations, and
+(d) junior in right o f payment to (i.e. be subordinated to) any present or future claims o f (i) policyholders o f the Issuer, and (ii) any other unsubordinated creditors o f the Issuer.
+
+3.4 Security
+
+3.4.1 The Bonds are unsecured.
+
+3.5 Payments
+
+3.5.1 On each Interest Payment Date the Issuer shall, subject to the provisions of Clause 3.6, pay in arrear the accrued interest amount to the Bondholders.
+
+3.5.2 On the Maturity Date the Issuer shall, subject to the provisions of Clause 3.7, pay in respect of each Bond the Face Value multiplied by the Redemption Price to the Bondholders, together with any accrued and unpaid interest, including Arrears of Interest (if any).
+
+3.5.3 The Issuer may not apply any counterclaims in set-off against its payment obligations pursuant to this Bond Agreement.
+
+3.5.4
+
+If a Call is exercised according to Clause 3.9, the Issuer shall, subject to the provisions of Clause 3.7, at the Call Date pay to the Bondholders the Face Value of the Bonds to be redeemed multiplied by the relevant Call Price together with accrued and unpaid interest on the redeemed Bonds, including Arrears of Interest (if any), without any premium.
+
+3.5.5 Amounts payable to the Bondholders by the Issuer shall be made available to the Bondholders on the date the amount is due pursuant to this Bond Agreement.
+
+3.6 Deferral of interest
+
+3.6.1 Optional deferral of interest
+
+The Issuer may on any Optional Interest Deferral Date defer payment of all (but not only some) o f the interest accrued but unpaid to that Optional Interest Deferral Date, provided
+
+8
+
+that no Compulsory Interest Payment Event has occurred during the six (6) months' period ending on that Optional Interest Deferral Date.
+
+3.6.2 Mandatory deferral of interest
+
+Notwithstanding Clause 3.6.1 above, the Issuer may on any Mandatory Interest Deferral Date defer payment of all (but not only some) of the interest accrued but unpaid to that Mandatory Interest Deferral Date, to the extent permitted under, and in accordance with, Applicable Regulations.
+
+3.6.3 Notice of deferral of interest
+
+The Issuer shall notify the Bond Trustee (on behalf o f the Bondholders) and the Paying Agent no later than five (5) Business Days prior to any Interest Payment Date if the interest is to be deferred in accordance with Clause 3.6.1 or 3.6.2, provided that if the conditions to the Interest Payment Date being a Mandatory Interest Deferral Date are satisfied less than five (5) Business Days prior to the Interest payment Date, the Issuer shall give notice of such deferral as soon as reasonably practicable following the occurrence o f such satisfaction.
+
+3.6.4 Payment o f Arrears of interest
+
+Any Arrears o f Interest may at the option o f the Issuer be paid in whole or in part at the next Interest Payment Date which is not a Mandatory Interest Deferral Date, and shall, subject to prior approval from the Issuer's Supervisor (to the extent required under the Applicable Regulations), be paid in whole on a date which is not a Mandatory Interest Deferral Date at the earliest of:
+
+(a) the next Interest Payment Date which is a Compulsory Interest payment Date or seven(7) days after the date when the requirements for a Compulsory Interest Payment Date would be deemed to be satisfied, if such date falls earlier than the next Interest Payment Date,
+(b) the date o f any redemption of the Bonds in accordance with the terms and conditions o f this Bond Agreement,
+(c) the date of a Bankruptcy Event, or
+(d) the date on which the Issuer pays, or any other person declares or pays, any distribution or dividend or makes any payment (including payment in relation to redemption or repurchase) on or in respect of any Junior Obligations or Parity Obligations, or the date on which any dividend or other distribution on or payment (including payment in relation to redemption or repurchase) on or in respect of the Issuer's share capital is paid.
+
+3.6.5 Interest will not accrue on Arrears of Interest.
+
+3.7 Mandatory Deferral
+
+3.7.1 No Bonds shall be redeemed on the Maturity Date or a Call date if the date set for redemption is a Mandatory Redemption Deferral Date and redemption shall be deferred. Any principal due but not paid due to such Mandatory Deferral shall not constitute a default by the Issuer for any purpose, provided that nothing shall be construed to permit the Issuer to defer any principal otherwise due and payable except under the circumstances specified in the definition of Mandatory Redemption Deferral Date.
+
+3.7.2
+
+Notwithstanding that the date set for redemption may be a Mandatory Redemption Deferral Date, the Bonds may be redeemed and the relevant redemption amount may still be paid to the extent permitted under, and in accordance with, the Applicable Regulations.
+
+9
+
+NT
+
+3.7.3 The Issuer shall notify the Bond Trustee (on behalf of the Bondholders) and the Paying Agent no later than five (5) Business Days prior to any date set for redemption o f the Bonds if such redemption is to be deferred, provided that if the conditions to the date set for redemption being a Mandatory Redemption Deferral Date are satisfied less than five (5) Business Days prior to the date set for redemption, the Issuer shall give notice of such deferral as soon as reasonably practicable following the occurrence of such satisfaction.
+3.7.4 If a Mandatory Deferral has taken place on a Payment Date for principal, the Issuer shall, redeem the Bonds in full together with any accrued and unpaid interest, including Arrears of Interest (if any), upon the earliest of:
+(a) the date falling ten (10) Business Days after the Mandatory Deferral has ceased to occur, or
+(b) the date falling ten (10) Business Days after the Issuer's Supervisor has agreed to the repayment or redemption o f the Bonds, or
+(c) a Bankruptcy Event,
+
+Redemption in the case of paragraphs (a) and (b) above shall only take place according to the provisions of subordination and to receiving the prior approval of fne Issuer's Supervisor (if required).
+
+The Issuer shall give a Call Notice to the Bond Trustee (on behalf of the Bondholders) and the Paying Agent as soon as reasonably practicable following the occurrence of the relevant event set out in paragraphs (a) to (c) above.
+
+3.7.5
+
+If the Mandatory Deferral provisions do not apply, but redemption of the Bonds does not occur on a Payment Date for principal because the Issuer was not or would not be solvent, the Issuer shall, subject to receiving the prior approval o f the Issuer's Supervisor (if required), redeem such Bonds at the Redemption Price, together with accrued and unpaid interest on the redeemed Bonds, including Arrears of Interest (if any) on the date falling ten (10) Business Days after the first date that:
+
+(a) the Issuer is solvent, and
+(b) the redemption of the Bonds would not result in the Issuer ceasing to be solvent,
+provided that if such Business Day specified for redemption is a Mandatory Redemption Deferral Date, then the Bonds shall not be redeemed on such date and the provisions above shall apply mutatis mutandis to determine the due date for redemption of the Bonds.
+
+3.7.6
+
+At the same time as delivering any notice of Mandatory Deferral to the Bond Trustee (on behalf of the Bondholders), the Issuer shall send to the Bond Trustee a certificate signed by two directors of the Issuer confirming that the relevant date set for redemption is or is not (as applicable) a Mandatory Redemption Deferral Date. Any such certificate shall, in the absence o f manifest error, be treated and accepted by the Issuer, the Bond Trustee (on behalf o f the Bondholders) and all other interested parties as correct and sufficient evidence thereof, shall be binding on all such persons, and the Bond Trustee shall be entitled to rely on such certificate without liability to any person.
+
+3.8 Reduction of principal
+
+3.8.1
+
+The Bonds may be utilized by the Issuer to absorb losses by a reduction (write down) of principal amounts of its subordinated debt capital pursuant to the Applicable Regulations and ancillary regulations. Provided the audited accounts o f the Issuer show that a substantial part of subordinated debt capital has been lost, such a reduction may be
+
+10
+
+NT
+
+resolved by a shareholder's meeting o f the Issuer acting upon a proposal by the board of directors o f the Issuer.
+3.8.2 The Issuer undertakes that such a proposal will include a recommendation that principal in respect of Tier 1 indebtedness should be written down prior to any principal in respect of Tier 2 subordinated indebtedness.
+3.8.3 Pursuant to the above, and subject to applicable provisions o f Norwegian law, the Issuer undertakes that it will, subject to prior approval from the Issuer's Supervisor (to the extent required under the Applicable Regulations), recommend that its shareholders reduce all principal in respect of all Tier 1 capital and all paid up equity and equity fund/retained earnings o f the Issuer before reducing any principal in respect of the Bonds and on a pro rata basis with all other pari passu claims.
+3.8.4 To the extent that part only of the outstanding principal amount of the Bonds has been reduced as provided above:
+(a) the partial reduction is effected either by a reduction (write down) of firstly the accrued and unpaid interest, including Arrears of Interest (if any) and secondly a write down of the Outstanding Bonds by a pro rata reduction of Bonds between the Bondholders, or by a reduction of the Redemption Price, or any other mechanics applied to effect the reduction of principal, and
+(b) interest will continue to accrue in accordance with the terms hereof on the then outstanding principal amount o f the Bonds.
+In order to facilitate any reduction of principal as set out herein, the Bond Trustee may instruct the Securities Register to split the Face Value of the Bonds.
+3.9 Issuer's Call Option (Optional Redemption)
+3.9.1 Ordinary Call
+The Issuer may on the Call Date or on any Interest Payment Date thereafter redeem all (but not only some) of the outstanding Bonds at the Call Price with the Issuer's Supervisor's prior consent, together with accrued and unpaid interest on the redeemed Bonds, including Arrears o f Interest (if any), provided that if there is a Capital Requirement Breach or if a repayment or redemption would lead to a Capital Requirement Breach, redemption may only be made if:
+(a) the Issuer's Supervisor has exceptionally waived its suspension of repayment or redemption of the Bonds;
+(b) the Bonds are exchanged for or converted into another Tier 1 or Tier 2 basic own fund item of at least the same quality; and
+(c) the Minimum Capital Requirements are complied with after the repayment or redemption.
+3.9.2 Conditional Call
+If the Issuer provides satisfactory evidence to the Bond Trustee (on behalf of the Bondholders), that a:
+(a) Capital Disqualification Event, or (b) Taxation Event, has occurred, the Issuer may, provided that (i) no Capital Requirement Breach have occurred or will occur as a result of a redemption, and (ii) the Issuer has received prior consent o f the Issuer's Supervisor, redeem all (but not only some) of the outstanding Bonds at the Call Price together with accrued and unpaid interest on the redeemed Bonds,
+11
+
+including Arrears of Interest (if any), without premium or penalty.
+In case of a redemption within the period of five (5) years from the Issue Date:
+(a) the Issuer shall deliver a statement determining that the circumstances entitling it to exercise the right of redemption was concluded or judged to have been unlikely to occur at the Issue Date, and
+(b) such redemption shall be funded out of the proceeds from new issuance o f capital of at least the same quality as the Bond (unless such requirement no longer is required under the Applicable Regulations).
+3.9.3 Exercise of a Call pursuant to this Clause 3.9 shall be notified in accordance with Clause 4.7.2 at least thirty (30) Business Days prior to the relevant redemption date (the "Call Notice").
+3.10 Preconditions to redemption, purchase, variation or substitution
+3.10.1 Prior to the publication of any Call Notice before the Maturity Date or any purchase, variation or substitution of the Bonds, provided that no Capital Requirement Breach has occurred or is continuing, the Issuer will be required to be in continued compliance with the applicable capital adequacy requirements. On the same date as publishing any Call Notice before the Maturity Date or making any purchase, variation or substitution o f the Bonds the Issuer shall deliver to the Bond Trustee a certificate from the Issuers' Supervisor confirming the acceptance of the Call.
+3.10.2 Prior to the publication of any Call Notice or notice of variation or substitution pursuant to any Optional Redemption by the Issuer upon the occurrence of a Capital Disqualification Event or Taxation Event, the Issuer shall deliver to the Bond Trustee;
+(a) in the case of a redemption, variation or substitution in a Taxation Event, a certificate signed by two directors stating that any or all of the requirements referred to in paragraphs (i), (ii) or (iii) in the definition of Taxation Event will apply on the next Interest Payment Date and cannot be avoided by the Issuer taking reasonable measures available to it, together with an opinion of independent tax counsel of recognized standing to such effect and the Bond Trustee shall be entitled to accept the certificate as sufficient evidence of the satisfaction o f the conditions precedent set out above; and
+(b) in the case of a redemption, variation or substitution in a Capital Disqualification Event, a certificate signed by two directors stating that a Capital Disqualification Event has occurred and is continuing. Any such certificate shall be conclusive and binding on the Bondholders.
+3.11 Events of default
+3.11.1 This Bond Agreement does not contain any event of default provision and neither the Bond Trustee nor the Bondholders may declare any event of default by the Issuer of any o f its obligations under the Bond Agreement neither on the basis of the Bond Agreement nor on the basis o f general principles of Norwegian law.
+3.11.2 Bondholders may only demand prepayment in the event of a Bankruptcy Event.
+
+12
+
+NT
+
+4 Other terms and conditions
+4.1 Conditions precedent
+4.1.1 The Bond Trustee shall have received the following documentation, no later than 2 - two - Business Days prior to the Issue Date:
+(a) this Bond Agreement duly signed, (b) the Issuer's corporate resolution to make the Issue, (c) confirmation that the relevant individuals are authorised to sign on behalf o f the
+Issuer this Bond Agreement and other relevant documents in relation hereto, (Company Certificate, Power o f Authority etc.), (d) the Issuer's Articles of Association, (e) confirmation that the requirements set forth in Chapter 7 of the Norwegian Securities Trading Act (prospectus requirements) are fulfilled, (f) to the extent necessary, any public authorisations required for the Issue, (g) confirmation that the Bonds have been registered in the Securities Register, (h) any agreement regarding the Bond Trustee's fees and expenses as set forth in Clause 4.8.2 duly signed, (i) confirmation according to Clause 4.2.2 if applicable, (j) approval from the Issuer's Supervisor regarding issuance of Bonds in accordance with Clause 3.1, (k) any other relevant documentation presented in relation to the Issue, and (l) any statements (including legal opinions) required by the Bond Trustee regarding documentation in this Clause 4.1.1.
+4.1.2 The Bond Trustee may, in its reasonable opinion, waive the deadline or requirements for the documentation as set forth in Clause 4.1.1.
+4.1.3 The issuance o f the Bonds is subject to the Bond Trustee's written notice to the Issuer, the manager o f the Issue and the Paying Agent that the documents have been controlled and that the required conditions precedent are fulfilled.
+4.2 Representations and warranties
+4.2.1 At any Issue, the Issuer represents and warrants that:
+(a) all information which has been presented in relation to such Issue is, to the best knowledge of the Issuer, in all material respects in accordance with the facts and does not omit to state a material fact likely to affect the import of the information as regards the evaluation o f the Bonds, and that the Issuer has taken all reasonable measures to ensure this,
+(b) the Issuer has made a valid resolution to make such Issue, and such Issue does not contravene any of the Issuer's other liabilities, and
+(c) public requirements have been fulfilled (including the Norwegian Securities Trading Act Chapter 7), and that any required public authorisations have been obtained.
+4.2.2 The Bond Trustee may prior to any Issue require a statement from the Issuer confirming the Issuer's compliance with Clause 4.2.1.
+4.3 Registration of Bonds
+4.3.1 The Issuer shall continuously ensure the correct registration of the Bonds in the Securities Register.
+
+13
+
+NT
+
+4.4 Interest Rate Fixing
+
+4.4.1 If, pursuant to this Bond Agreement, the Interest Rate shall be adjusted during the term of the Bonds, any adjustments shall be carried out by the Bond Trustee. The Bondholders, the Issuer, the Paying Agent and the Exchange shall be notified of the new Interest Rate applicable until the next Interest Payment Date.
+
+4.5 The Issuer's acquisition of Bonds
+
+4.5.1 The Issuer or any of its subsidiaries may at any time purchase Bonds in any manner and at any price, subject to compliance with the Applicable Regulations.
+
+4.5.2 Any Bonds repurchased by the Issuer or any of its subsidiaries will be held by the Issuer or may be cancelled by causing such Bonds to be deleted o f the records of the Securities Depository.
+
+4.6 Covenants
+
+4.6.1 Information covenants
+
+The Issuer undertakes to:
+
+(a) without being requested to do so, inform the Bond Trustee of any event which may have a material effect on the Issuer's ability to fulfil its obligations pursuant to this Bond Agreement,
+(b) without being requested to do so, inform the Bond Trustee if the Issuer intends to sell or dispose of all or a substantial part of its assets or operations or change the nature of its business,
+(c) upon request, provide the Bond Trustee with its annual and interim reports and any other information reasonably required by the Bond Trustee,
+(d) upon request report to the Bond Trustee the balance of Issuer's Bonds,
+(e) without being requested to do so, provide a copy to the Bond Trustee of any notice to its creditors to be made according to applicable laws and regulations,
+(f) without being requested to do so, send a copy to the Bond Trustee of notices to the Exchange which have relevance to the Issuer's liabilities pursuant to this Bond Agreement,
+(g) without being requested to do so and without any delay, inform the Bond Trustee of any events described in Clause 3.6, 3.7, 3.8 and 3.9, and
+(h) without being requested to do so, inform the Bond Trustee of changes in the registration o f the Bonds in the Securities Register.
+
+4.7 Notices
+
+4.7.1
+
+Written notices, warnings, summons etc to the Bondholders made by the Bond Trustee shall be sent via the Securities Register with a copy to the Issuer and the Exchange. Information to the Bondholders may also be published at the web site www.stamdata.com.
+
+4.7.2 The Issuer's written notifications to the Bondholders shall be sent via the Bond Trustee, alternatively through the Securities Register with a copy to the Bond Trustee and the Exchange.
+
+4.8 Expenses
+
+4.8.1
+
+The Issuer shall cover all its own expenses in connection with this Bond Agreement and the fulfilment o f its obligations hereunder, including the `preparation o f this Bond Agreement, listing o f the Bonds on the Exchange, and the registration and administration of the Bonds in the Securities Register.
+
+14
+
+NT
+
+4.8.2
+
+The expenses and fees payable to the Bond Trustee shall be paid by the Issuer. For Financial Institutions, and Norwegian governmental issuers, the annual fee will be determined according to applicable fee structure and terms and conditions presented at the Bond Trustee's web site (www.nordictrustee.com') at the Issue Date, unless otherwise is agreed with the Bond Trustee. For other issuers a separate fee agreement will be entered into. Fees and expenses payable to the Bond Trustee which, due to insolvency or similar by the Issuer, are not reimbursed in any other way may be covered by making an equivalent reduction in the payments to the Bondholders.
+
+4.8.3 Any public fees payable in connection with this Bond Agreement and fulfilling o f the obligations pursuant to this Bond Agreement shall be covered by the Issuer. The Issuer is not responsible for reimbursing any public fees levied on the trading of Bonds.
+
+4.8.4 The Issuer is responsible for withholding any withholding tax imposed by Norwegian law.
+
+5 Bondholders' Meeting
+
+5.1 Authority of the Bondholders' Meeting
+
+5.1.1 The Bondholders' Meeting represents the supreme authority of the Bondholders' community in all matters regarding the Bonds. If a resolution by or an approval o f the Bondholders is required, such resolution shall be passed at a Bondholders' Meeting. Resolutions passed at Bondholders' Meetings shall be binding upon all Bondholders and prevail for all Bonds.
+
+5.2 Procedural rules for the Bondholders' Meeting
+
+5.2.1 A Bondholders' Meeting shall be held at the request of:
+
+(a) the Issuer, (b) Bondholders representing at least one tenth (1/10) of the Voting Bonds, (c) the Bond Trustee, or (d) the Exchange.
+
+5.2.2 The Bondholders' Meeting shall be summoned by the Bond Trustee. A request for a Bondholders' Meeting shall be made in writing to the Bond Trustee, and shall clearly state the matters to be discussed.
+
+5.2.3 If the Bond Trustee has not summoned a Bondholders' Meeting within ten (10) Business Days after having received such a request, then the requesting party may summon the Bondholders' Meeting itself.
+
+5.2.4
+
+Summons to a Bondholders Meeting shall be dispatched no later than ten (10) Business Days prior to the Bondholders' Meeting. The summons and a confirmation of each Bondholder's holdings o f Bonds shall be sent to all Bondholders registered in the Securities Register at the time of distribution. The summons shall also be sent to the Exchange for publication.
+
+5.2.5 The summons shall specify the agenda of the Bondholders' Meeting. The Bond Trustee may in the summons also set forth other matters on the agenda than those requested. If amendments to this Bond Agreement have been proposed, the main content of the proposal shall be stated in the summons.
+
+5.2.6 The Bond Trustee may restrict the Issuer from making any changes in the number of Voting Bonds in the period from distribution o f the summons until the Bondholders' Meeting.
+
+15
+
+NT
+
+5.2.7 Matters that have not been reported to the Bondholders in accordance with the procedural rules for summoning of a Bondholders' Meeting may only be adopted with the approval of all Voting Bonds.
+
+5.2.8
+
+The Bondholders' Meeting shall be held on premises designated by the Bond Trustee. The Bondholders' Meeting shall be opened and shall, unless otherwise decided by the Bondholders' Meeting, be chaired by the Bond Trustee. If the Bond Trustee is not present, the Bondholders' Meeting shall be opened by a Bondholder, and be chaired by a representative elected by the Bondholders' Meeting.
+
+5.2.9
+
+Minutes o f the Bondholders' Meeting shall be kept. The minutes shall state the number of Bondholders represented at the Bondholders' Meeting, the resolutions passed at the meeting, and the result of the voting. The minutes shall be signed by the chairman and at least one other person elected by the Bondholders' Meeting. The minutes shall be deposited with the Bond Trustee and shall be available to the Bondholders.
+
+5.2.10 The Bondholders, the Bond Trustee and representatives of the Exchange have the right to attend the Bondholders' Meeting. The chairman may grant access to the meeting to other parties, unless the Bondholders' Meeting decides otherwise. Bondholders may attend by a representative holding proxy. Bondholders have the right to be assisted by an advisor. In case of dispute the chairman shall decide who may attend the Bondholders' Meeting and vote for the Bonds.
+
+5.2.11 Representatives of the Issuer have the right to attend the Bondholders' Meeting. The Bondholders' Meeting may resolve that the Issuer's representatives may not participate in particular matters. The Issuer has the right to be present under the voting.
+
+5.3 Resolutions passed at Bondholders' Meetings
+
+5.3.1 At the Bondholders' Meeting each Bondholder may cast one vote for each Voting Bond owned at close o f business on the day prior to the date of the Bondholders' Meeting in accordance with the records registered in the Securities Register. Whoever opens the Bondholders' Meeting shall adjudicate any question concerning which Bonds shall count as Issuer's Bonds. Issuer's Bonds have no voting rights.
+
+5.3.2
+
+In all matters to be dealt with at the Bondholders' Meeting, the Issuer, the Bond Trustee and any Bondholder have the right to demand vote by ballot. In case o f parity of votes, the chairman shall have the deciding vote, regardless of the chairman being a Bondholder or not.
+
+5.3.3 In order to form a quorum, at least half (1/2) o f the Voting Bonds must be represented at the meeting, see however Clause 5.4. Even if less than half (1/2) o f the Voting Bonds are represented, the Bondholders' Meeting shall be held and voting completed.
+
+5.3.4 Resolutions shall be passed by simple majority o f the votes at the Bondholders' Meeting, unless otherwise set forth in Clause 5.3.5.
+
+5.3.5 In the following matters, a majority of at least two thirds (2/3) of the votes is required:
+
+(a) any amendment of the terms of this Bond Agreement regarding the Interest Rate, the tenor, the Redemption Price and other terms and conditions affecting the cash flow of the Bonds,
+(b) the transfer of rights and obligations of this Bond Agreement to another issuer (borrower), or
+(c) change of Bond Trustee.
+
+5.3.6 The Bondholders' Meeting may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+16
+
+NT
+
+5.3.7 The Bond Trustee shall ensure that resolutions passed at the Bondholders' Meeting are properly implemented.
+5.3.8 The Issuer, the Bondholders and the Exchange shall be notified of resolutions passed at the Bondholders' Meeting.
+5.4 Repeated Bondholders' Meeting
+5.4.1 If the Bondholders' Meeting does not form a quorum pursuant to Clause 5.3.3, a repeated Bondholders' Meeting may be summoned to vote on the same matters. The attendance and the voting result of the first Bondholders' Meeting shall be specified in the summons for the repeated Bondholders' Meeting.
+5.4.2 When a matter is tabled for discussion at a repeated Bondholders' Meeting, a valid resolution may be passed even though less than half (1/2) of the Voting Bonds are represented.
+
+6 The Bond Trustee
+
+6.1 The role and authority of the Bond Trustee
+
+6.1.1 The Bond Trustee shall monitor the compliance by the Issuer of its obligations under this Bond Agreement and applicable laws and regulations which are relevant to the terms of this Bond Agreement, including supervision of timely and correct payment of principal or interest, informing the Bondholders, the Paying Agent and the Exchange of relevant information which is obtained and received in its capacity as Bond Trustee (however this shall not restrict the Bond Trustee from discussing matters of confidentiality with the Issuer), arrange Bondholders' Meetings, and make the decisions and implement the measures resolved pursuant to this Bond Agreement. The Bond Trustee is not obligated to assess the Issuer's financial situation beyond what is directly set forth in this Bond Agreement.
+
+6.1.2
+
+The Bond Trustee may take any step necessary to ensure the rights o f the Bondholders in all matters pursuant to the terms o f this Bond Agreement. The Bond Trustee may postpone taking action until such matter has been put forward to the Bondholders' Meeting.
+
+6.1.3
+
+The Bond Trustee may reach decisions binding for all Bondholders concerning this Bond Agreement, including amendments to the Bond Agreement, which, in the opinion of the Bond Trustee, do not have a material adverse effect on the rights or interests o f the Bondholders pursuant to this Bond Agreement, see however Clause 6.1.5.
+
+6.1.4
+
+The Bond Trustee may reach decisions binding for all Bondholders in circumstances other than those mentioned in Clause 6.1.3 provided prior notification to the Bondholders are given, see however Clause 6.1.5. Such notice shall contain a proposal of the amendment and the Bond Trustee's evaluation. Further, such notification shall state that the Bond Trustee may not reach a decision binding for all Bondholders in the event that any Bondholder submit a written protest against the proposal within a deadline set by the Bond Trustee. Such deadline may not be less than five (5) Business Days after the date of such notification.
+
+6.1.5 The Bond Trustee may not reach decisions pursuant to Clauses 6.1.3 or 6.1.4 for matters set forth in Clause 5.3.5 except to rectify obvious incorrectness, vagueness or incompleteness.
+
+6.1.6 The Bond Trustee may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+17
+
+NT
+
+6.1.7 The Issuer, the Bondholders and the Exchange shall be notified of decisions made by the Bond Trustee pursuant to Clause 6.1 unless such notice obviously is unnecessary.
+
+6.1.8 The Bondholders' Meeting can decide to replace the Bond Trustee without the Issuer's approval, as provided for in Clause 5.3.5.
+
+6.2 Termination and recovery
+
+6.2.1 The Bond Trustee may take any action it deems necessary in order to protect the interests o f the Bondholders.
+
+6.2.2
+
+Should the Bond Trustee receive a written demand to take action as set forth in Clause 6.2.1 from Bondholders representing at least one-fifth (1/5) o f Voting Bonds, the Bond Trustee shall take such actions unless the Bondholders' Meeting has passed a resolution for alternative solutions,
+
+6.2.3 The Bond Trustee shall be indemnified by the Bondholders for any results (including any expenses, costs and liabilities) of taking action pursuant to Clause 6.2.2 or pursuant to the Bondholders' Meeting having declared the Bonds to be in default. The Bond Trustee may claim indemnity and security from the Bondholders who put forward the demand in accordance with Clause 6.2.2 or voted for the adopted resolution at the Bondholders' Meeting.
+
+6.3 Liability and indemnity
+
+6.3.1 The Bond Trustee is liable only for direct losses incurred by Bondholders or the Issuer as a result of negligence or wilful misconduct by the Bond Trustee in performing its functions and duties as set forth in this Bond Agreement. The Bond Trustee is not liable for the content o f information provided to the Bondholders on behalf o f the Issuer.
+
+6.3.2
+
+The Issuer is liable for and shall indemnify the Bond Trustee fully in respect of all direct losses, expenses and liabilities incurred by the Bond Trustee as a result of negligence by the Issuer to fulfil its obligations under the terms of this Bond Agreement, including losses incurred by the Bond Trustee as a result o f the Bond Trustee's actions based on misrepresentations made by the Issuer in connection with the establishment and performance o f this Bond Agreement.
+
+6.4 Change of Bond Trustee
+
+6.4.1 Change of Bond Trustee shall be carried out pursuant to the procedures set forth in Section 5. The Bond Trustee shall continue to carry out its duties as bond trustee until such time that a new Bond Trustee is elected.
+
+6.4.2
+
+The fees and expenses of a new bond trustee shall be covered by the Issuer pursuant to the terms set out in Clause 4.8, but may be recovered wholly or partially from the Bond Trustee if the change is due to a breach of the Bond Trustee's duties pursuant to the terms o f this Bond Agreement or other circumstances for which the Bond Trustee is liable.
+
+6.4.3 The Bond Trustee undertakes to co-operate so that the new bond trustee receives without undue delay following the Bondholders' Meeting, the documentation and information necessary to perform the functions as set forth under the terms of this Bond Agreement.
+
+7 General provisions
+7.1 The Bondholders' community 7.1.1 Through their subscription, purchase or other transfer of Bonds, the Bondholders will be
+deemed to have acceded to this Bond Agreement and hereby accept that: (a) the Bondholders are bound by the terms of this Bond Agreement,
+18
+
+NT
+
+(b) the Bond Trustee has power and authority to act on behalf of the Bondholders, (c) the Bond Trustee has, in order to administrate the terms of this Bond Agreement,
+access to the Securities Register to review ownership of Bonds registered in the Securities Register, (d) this Bond Agreement establishes a community between Bondholders meaning that: (i) the Bonds rank pari passu between each other, (ii) the Bondholders may not, based on this Bond Agreement, act directly
+towards the Issuer and may not themselves institute legal proceedings against the Issuer, (iii) the Issuer may not, based on this Bond Agreement, act directly towards the Bondholders, (iv) the Bondholders may not cancel the Bondholders' community, and (v) the individual Bondholder may not resign from the Bondholders' community. 7.1.2 This Bond Agreement shall be publicly available from the Bond Trustee or the Issuer. 7.2 Dispute resolution and legal venue 7.2.1 Disputes arising out o f or in connection with this Bond Agreement which are not resolved amicably shall be resolved in accordance with Norwegian law in the Oslo District Court. 7.3 Amendments 7.3.1 The Issuer and the Bond Trustee (on behalf of the Bondholders) shall be entitled to make any amendments of the terms of the Bonds which are of a formal, minor or technical nature or are made to correct a manifest error. As the Bonds are issued for capital adequacy purposes as set out herein, the Bond Trustee shall furthermore be entitled (but without obligation), upon request from the Issuer to make amendments to the terms of Bonds to ensure that these continue to qualify as Tier 2 basic own-fund item of the Issuer for the purpose of the Applicable Regulations, where such change is required as a result of any change in the relevant laws and regulations, or in any official interpretation thereof. Other amendments to the terms of the Bonds shall be subject to approval by the Bondholders (with a simple or qualified majority, as the case may be pursuant to Clause 5.3), and if and where relevant, to the Issuer's Supervisor's consent. 7.4 Contact information 7.4.1 The Issuer and the Bond Trustee shall ensure that the other party is kept informed of any changes in its postal address, e-mail address, telephone and fax numbers and contact persons.
+Oslo, 13. Desember 2016 SpareBank 1 Forsikring AS
+19
+
+

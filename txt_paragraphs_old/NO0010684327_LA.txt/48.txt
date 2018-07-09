@@ -1,0 +1,9 @@
+On the settlement date of the Call Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the principal amount of such Bond (including any premium as stated above) and any unpaid interest accrued up to the settlement date.
+10.3 10.3.1
+Mandatory Redemption
+Upon a Mandatory Prepayment Event occurring the Issuer shall, on or about the day the relevant Group Company receives the proceeds following the relevant Mandatory Prepayment Event, redeem all the Outstanding Bonds as follows:
+(a) if occurring anytime from the Issue Date to, but not including, the Interest Payment Date in July 2014, at a price equal to 108.00% of par value (plus accrued interest on the redeemed amount);
+(b) if occurring anytime from and including the Interest Payment Date in July 2014 to, but not including, the Interest Payment Date in July 2015, at a price equal to 106.50% of par value (plus accrued interest on the redeemed amount);
+(c) if occurring anytime from and including the Interest Payment Date in July 2015 to, but not including, the Interest Payment Date in July 2016, at a price equal to 105.00% of par value (plus accrued interest on the redeemed amount);
+(d) if occurring anytime from and included the Interest Payment Date in July 2016 to, but not including, the Interest Payment Date in July 2017, at a price equal to 103% of par value (plus accrued interest on the redeemed amount); and
+(e) if occurring anytime from and including the Interest Payment Date in July 2017 to, but not including, the Maturity Date, at a price equal to 101.50% of par value (plus accrued interest on the redeemed amount).

@@ -1,0 +1,9 @@
+10.
+10.1 The Issuer shall pay interest on the par value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate").
+10.2
+Interest payments shall be made in arrears on the Interest Payment Dates each year, the first interest Payment Date falling in December 2013.
+10.3
+The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date or one Interest Payment Date (as the case may be) to, but excluding, the next following applicable Interest Payment Date.
+10.4 The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.
+10.5 The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the
+#4224889/1

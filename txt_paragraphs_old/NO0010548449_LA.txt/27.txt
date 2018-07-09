@@ -1,0 +1,9 @@
+10 Interest
+Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date being 20 February 2010.
+The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+Interest shall be calculated on the basis o f a year of 360 days with twelve 30-days months (30/360), unless (i) the last day o f the calculation period is the 31 st day of a month but the first day
+of the calculation period is a day other than the 30th or 31st day o f a mouth, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or (ii) the last day of the calculation period is the last day o f the month of February, in which case the month of February shall not be considered to be lengthened to a 30-day month).
+Accordingly, the fixed rate day count fraction in respect of the calculation o f the payable interest amount shall be the number of days in the calculation period, calculated in accordance with this clause, divided by 360 (the "Fixed Rate Day Count Factor"), ^
+16
+Norsk Tillitsmann ASA
+The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:

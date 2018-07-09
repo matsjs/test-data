@@ -1,0 +1,9 @@
+(share pricex nymber o f shares beforeshare issue) + (share issue pricex nymber of new shares) New Exercise Price = ----------------------number o f shares before share issue+ number o f new shares------------------------* old Exercise Price
+The share price is the average of the weighted average of official daily trading price on the exchange the last three days the shares are quoted including rights.
+(ii) if the Shares are not listed, each Warrantholder shall have the same subscription right as the shareholders, as if the Warrantholder already had exercised his Exercise Right(s).
+C.2 In the event of an issue of financial Instruments in accordance with Chapter 11 of the Norwegian Companies Act in which existing shareholders have preferential rights to subscribe for the financial Instruments,
+(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
+37
+Norsk Tillitsmann ASA
+,, . ^.
+average price during subscription period

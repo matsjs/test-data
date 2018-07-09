@@ -1,0 +1,9 @@
+8. 8.1
+8.3 8.3.1
+8.3.2 8.4 8.4.1 8.4.2
+If the Issuer fails to pay any amount payable by it on its due date, default interest shall accrue on the overdue amount from (and including) the due date up to (but excluding) the date of actual payment at a rate which is one (1) percentage points higher than the Interest Rate. Accrued default interest shall not be capitalised. No default interest shall accrue where the failure to pay was solely attributable to the Agent, the Issuing Agent or the CSD, in which case the Interest Rate shall apply instead.
+REDEMPTION AND REPURCHASE OF THE NOTES
+Redemption at maturity
+The Issuer shall redeem all of the outstanding Notes in full on the Final Maturity Date with an amount per Note equal to the Nominal Amount together with accrued but unpaid Interest. If the Final Maturity Date is not a CSD Business Day, then the redemption shall occur on the CSD Business Day determined by application of the Business Day Convention.
+Issuer's purchase of Notes
+The Issuer may at any time and at any price purchase any Notes on the market or in any other way, provided that if purchases are made through a tender offer, the possibility to tender must be made available to all Noteholders on equal terms. The Notes held by the Issuer may at the Issuer's discretion be retained, sold or cancelled by the Issuer.

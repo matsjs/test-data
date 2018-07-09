@@ -1,0 +1,9 @@
+notwithstanding any of the foregoing provisions, if the Paying Agent receives an exercise notice in accordance with clause 13.4 on a date falling on or later than twenty (20) Dealing Days prior to the Maturity Date, the Borrower shall within the date falling two (2) Dealing Days notify the Paying Agent that it will exercise the Cash Settlement Option. If the VWAP Period in such event would otherwise end later than the Maturity Date, the VWAP Period shall be adjusted to commence on
+16
+the date falling seventeen (17) Dealing Days prior to the Maturity Date and ending on the 3rd Dealing Day preceding the Maturity Date.
+14 Adjustm ent of the Conversion Price
+Upon the happening of any of the events described below, the Conversion Price shall be adjusted as follows:
+14.1 If and whenever there shall be a consolidation or subdivision of the Shares, the Conversion Price shall be adjusted by multiplying the Conversion Price in force immediately prior to such consolidation or subdivision by the following fraction:
+B where:
+A
+is the aggregate number of Shares in issue immediately before such

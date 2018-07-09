@@ -1,0 +1,9 @@
+OCP
+N
+is the number of days from (and including) the Disbursement Date to
+(but excluding) the Maturity Date; and
+n
+is the number of days from (and including) the Disbursement Date to
+(but excluding) the date of the Change of Control Event.
+To exercise either such option, a Bondholder must notify the Paying Agent (via its Account Manager) within the Change of Control Conversion Period. For the avoidance of doubt, the aforesaid is an option exercisable at the sole discretion of each Bondholder, and each Bondholder may elect not to exercise such option and to continue to hold its Bonds.
+In the event of an early redemption pursuant to this clause 10.3, settlement shall be three (3) Banking Days after the Paying Agent has received such request.

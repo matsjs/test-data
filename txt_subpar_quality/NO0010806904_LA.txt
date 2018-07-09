@@ -1,0 +1,1139 @@
+Obligasjousavtale
+
+Utsteder: med org nr / LEI kode: og Tillitsmannen: med org nr / LEI kode: på vegne av Obligasjonseierne i:
+med ISIN: Datert:
+
+SpareBank 1 SMN
+937 901 003 / 7V6Z97I07R1 SEA084Q32 Nordic Trustee AS 963 342 624/ 549300XAKTM2BMKIPT85 FRN SpareBank 1 SMN ansvarlig obligasjonslån 2017/2027 med innløsningsrett for utsteder NOOO10806004 25. september 2017
+
+Utstederen har forpliktet seg til å emittere Obligasjonene pa de vilkår som følger av denne Avtalen, og vilkårene skal gjelde så lenge det er utstedt Obligasjoner under Avtalen.
+
+1.
+
+OBLIGASJONENES HOVEDV1LKÅR
+
+Maksimal Emisjonsramme: Initielt Emisjonsbeløp: Opprinnelig Pålydende: Valuta: Emisjonsdato: Forfallsdato: Innfrielseskurs: Call:
+Obligasjonsrente: Referanscrente: Margin: Renteperiode: Rentekonvensjon: Rankdagskonvensjon:
+
+NA 150 000 000 100 000
+
+NOK (norske kroner) 29. september 2017
+
+29. september 2027
+
+100 % av Pålydende (kan justeres i henhold til pkt 3.2.1)
+
+Calldato:
+
+Callkurs:
+
+Ordinær call: Første gang 29. september 2022 og deretter på hver
+Rentebetalingsdato, se pki 4.6.3.
+
+Callkurs= Innfrielseskurs
+
+Regulatorisk eller skatterelatert call, se pkt 4.6.3.
+
+Referanserente + Margin 3 måneder NIBOR 1,35 % prosentpoeng p.a Perioden mellom 29. mars, 29. juni, 29. september og 29. desember hvert år. Faktiske/360
+
+Modifisert påfølgende
+
+Notering: Særlige vilkår:
+
+JA Nordic ABM NA.
+
+2.
+
+DEFINISJONER
+
+1 Avtalen skal definerte ord og uttrykk ha den betydningen som er fastsatt i Klausul 1 (Obligasjonenes hovedvilkår), og i tillegg skal definerte ord og uttrykk ha den betydning eller presisering som er fastsatt nedenfor:
+
+Ansvarlig kapital: Avtalen: Bankdag: Bankdagskonvensjon:
+Beregningsforskriften: Betalingsdato: Call:
+Egne Obligasjoner: Emisjon: Finansforetak: FIX: FRN: Forfallsdato:
+Initielt Emisjonsboløp:
+
+Kapital som er subordinert, enten ved avtale eller som følge av myndighetsfastsatte kapitalkrav for Finansforetak.
+Denne obligasjonsavtalen inkludert alle dens vedlegg, til enhver tid hensyntatt eventuelle endringer og tilleggsvilkår mellom partene.
+Alle dager hvor både oppgjørssystemet for den relevante Valuta og det sentrale oppgjørssystemet i Verdipapirregisteret er åpent.
+Skal ha følgende betydning som angitt i Klausul 1 (Obligasjonenes hovedvilkår): a) Er Bankdagskonvensjon angitt som "Modifisert påfølgende'' (ved
+FRN), vil Renteperioden utvides til å omfatte den første påfølgende Bankdag. Medfører flyttingen at Renteperioden utløper i neste kalendermåned, skal derimot Renteperioden forkortes ng flyttes til siste Bankdag forut for opprinnelig Betalingsdato. b) Er Bankdagskonvensjon angitt som "Ujustert" (ved FIX) vil det ikke være noen justeringer av Renteperioden.
+Forskrift om beregningen av ansvarlig kapital for finansforetak, oppgjørssentraler og verdipapirforetak av 1. juni 1990 nr 435.
+Betyr enhver Rentebetalingsdato eller Tilbakebetalingsdaio.
+Utsteders rett til førtidig å innløse Obligasjoner på angitte tidspunkt(er) («Calldato») og tilhørende kurs(er) («Callkurs») jf. pkt 4.6 (Betalinger knyttet til Obligasjonene). Er Call angitt som NA gjelder ikke bestemmelsene om Call.
+Obligasjoner som eies av Utstederen, noen som har bestemmende innflytelse over Utstederen eller noen som Utstederen hai' bestemmende innflytelse over.
+Utstedelse av Obligasjoner i henhold til Avtalen.
+Foretak med tillatelse etter den norske Finansforetaksloven (2015/17).
+Fastrente, dvs hvis Obligasjonsrenten er angitt i prosent (%).
+Flytende rente, dvs hvis Obligasjonsrenten er angitt som Refcranserente + Margin.
+Datoen angitt som sådan i Klausul 1 (Obligasjonenes hovedvilkår), eller enhver aimen dag hvor Utestående Obligasjoner betales i sin helhet. Forfallsdato skal justeres i henhold til Bankdagskonvensjonen.
+Summen av Pålydende på de Obligasjoner som (minimum) skal inngå i første Emisjon.
+
+Innkalling: Kapitaldekning: Kap" ilkrav: Kjernekapitak LEI-kode Lånedokument: Margin: Mislighold: NA: NIBOR:
+Notering:
+Noteringssted:
+Obligasjoner:
+
+Betyr enten en innkalling til ct Obligasjonseiermrrtc eller for å delta i en Skriftlig Prosedyre.
+Utstederens kapitaldekning basert på de til enhver t'd gjeldende Kapitalkrav
+Det til en hver tid gjeldende offentlige kapitalkrav fastsatt av Finanstilsynet eller annen kompetent myndighet, og som gjelder kjav til Finansforetaks kapitaldekning, herunder krav til Tilleggskapital.
+Den del av Uisleders kapital som oppfyller kravene nl klassifisering som kjemekapital i henhold til de til enhver tid gjeldende regler. (Ved inngåelse av Avtalen gjelder Beregningsforskrilten §§ 14 (Ren kjemekapital) og 15 (Annen godkjent kjemekapital)).
+Legal Entity Ideniifier, en unik kode på 20 karakterer som identifiserer selskaper som er engasjert i finansielle transaksjoner.
+Denne Avtalen og Tillitsmannsavtalen, og eventuelle andre avtaler og dokumenter som defineres som et Lånedokument.
+Gjelder ved FRN og utgjør marginelementet av Obl i .asjonsrenten, det vil si det tillegg, angitt i prosentpoeng, som skal tillegges Referanserenten. Bestemmelsene om Margin gjelder ikke ved F1X.
+Betyr enhver hendelse eller omstendighet som spesifisert i Klausul 5.1 (Mislighuld).
+Betyr at den bestemmelsen som NA er angitt for, ikke er aktuell for denne Avtalen.
+Hr, ved FRN, Norwegian tnterbank Offered Rate, og angir den rentesats fastsatt for en bestemt periode mellom to Rentebetalingsdatoer på Oslo Børs' hjemmesider ca. kl. 12.15 (norsk tid) på Renteroguleringsdatoen. På dager hvor Oslo Børs har kortere åpningstider (Nyttårsaften og onsdagen før Skjærtorsdag), skal den informasjonen som blir publisert ca. kl. 10.15 (norsk tid) på Rentereguleringsdatocn brukes. Dersom denne siden ikke er tilgjengelig, er fjernet eller endret slik at den oppgitte rente etter Tillitsmannens oppfatning ikke gir et riktig uttrykk for den relevante rentesatsen, skal det benyttes en annen relevant side eller en alternativ kilde fra en annen elektronisk nyhetsformidler som Tillitsmannen mener angir den samme rentesatsen. Er dette ikke mulig skal Tillitsmannen beregne den relevante rentesatsen basert på sammenlignbare pristilbud fra ledende banker i Oslo.
+Gjelder spørsmålet om notering av Obligasjonene på et Noteringssted. Er JA angitt i feltet for Notering er Utstederen forpliktet til å søke Obligasjonene notert på Noteringssted. Er NEI angitt i feltet for Notering foreligger ingen forpliktelse til å søke notering på Noteringssted, men er samtidig ikke til hinder for at dette kan gjøres.
+Skal ha betydningen angitt i Klausul 1 (Obligasjonenes hovedvilkår), og som angir autorisert markedsplass eller annet anerkjent noteringssted for verdioapirer hvor Utstederen har eller vil søke Obligasjonene notert. Om NEI er angitt under Notering gielder ikke bestemmelsene i denne Avtalen som henviser til Noteringssted.
+Gjeldsinstrumenter utstedt av Utstederen i henhold til denne Avtalen,
+
+Obligasjonseier: Obligasjonseiermøte: Obligasjonsrente:
+Pålydende: Referanserente: Registerfører: Relevant Registreringsdato:
+Rentebetalingsdato: Rentekonvensj onen:
+
+inkludert evenruelle Tilleggsobligasjoner.
+Den person som er registrert i Verdipapirregistcret som direkte registrert eier eller som forvalter av en Obligasjon, med de presiseringer som følger av Klausul 6.3 (Obligasjonseiernes rettigheter).
+Møte av Obligasjonseiere avholdt i henhold til Avtalens Klausul 7.
+Den rentesats som Obligasjonene forrentes med som følger: a) Ved FD< skal Obligasjonene forrentes il den prosentsatsen som
+er angitt i Klausul 1 (Obligasjonenes hovedvilkår). b) Ved FRK skal Obligasjonene forrentes pro anno med den
+rentesats som svarer til Referanserente + Margin som angitt i Klausul 1 (Obligasjonenes hovedvilkår). Interpolering vil bli kvotert med det antallet desimaler som korresponderer med desimaler brukt i Referanserenten. Hvis Obligasjonsrenten blir negativ, skal Obligasjonsrenten settes til null.
+Betyr Opprinnelig Pålydende fratrukket det samlede beløpet som for hver Obligasjon har blitt delvis inntridd i henhold til bestemmelsene i Klausul 4.6 (Betalinger knyttet til Obligasjonene).
+NIBOR på hver Renteregulcringsdato, avrundet til nærmeste hundredels prosent (%) for den Renteperioden som er angitt under Referanserente. Er Referanserenten angiti som NA anvendes ikke Referanserente.
+Det foretak som av Utsteder er utpekt til å administrere Obligasjonene i Verdipapirregisteret.
+Betyr den dato en Obligasjonseiers eierskap av Obligasjonene skal være registrert i Verdipapirregisteret ved ulike omstendigheter: a) For betalinger i henhold til denne Avtalen, den datoen som er
+fastsatT som Relevant Registreringsdato i samsvar med reglene i Verdipapirregisteret til enhver tid; b) For det formål å avgi stemme i Obligasjonseiermøtet, den datoen som faller på den umiddelbare foregående Bankdagen til den dato hvor Obligasjonseiermøtet skal avholdes, eller en armen dato som Tillitsmannen aksepterer; eller c) For det formål å avgi en stemme ved Skriftlig Prosedyre: i) på datoen som faller 3 Bankdager etter at Innkallingen er
+publisert; eller ii) dersom tilstrekkelig flertall etter Tillitsmannens oppfatning er
+nådd før datoen fastsatt i paragraf fi) ovenfor, på datuen som faller på den umiddelbare Bankdag før den dato Tillitsmannen erklærer at den Skriftlig Prosedyren hai- blitt godkjent med tilstrekkelig flertall.
+Den siste dagen i hver Renteperiode.
+Konvensjon for beregning av rentebetalinger. a) Ved F1X skal renten beregnes på grunnlag av et 360 dagers år
+bestående av 12 måneder, hver på 30 dager og, i tilfelle av en ikke fullført måned, det faktiske antall påløpte kalenderdager (30/360-dagers grunnlag). b) Ved FRN skal renten beregnes på grunnlag av det faktiske antall dager i den Renteperioden betalingen gjelder delt på 360 (faktisk/360-dagers grunnlag).
+
+Rentercguleringsdato: Renteperiode:
+Skriftlig Prosedyre: Stemmeberettigede Obligasjoner: Tilbakebetalingsdato: Tilleggskapital: T i1leggsemisjoner:
+Tilleggsobligasjoncr: Tillitsmann: Tillitsmannsavtale: Utestående Obligasjoner: Utsteder: Vedlegg: Verdipap irregisteret:
+
+Betyr, for enhver tidsperiode hvor det skal fastsettes en Referanserente, datoen som faller to Bankdager før første dag i den relevante Renteperioden.
+Betyr de periodene angitt som Renteperiode i Klausul 1 (iObligasjonenes hovedvilkår), justering i samsvar med Bankdagskonvensjon. og forutsatt at en Renteperiode ikke skal strekke seg utover Forfallsdato.
+Betyr en skriftlig (eller elektronisk) løsning for en beslutning gjort av Obligasjonseiere, som angitt i Klausul 7.5 (,Skriftlig Prosedyre).
+Utestående Obligasjoner fratrukket Egne Obligasjoner.
+Betyr enhver dato for betaling av avdrag, betalinger av Call eller ForfalUdatocn, eller enhver annen dag for tilbakebetaLing av Obligasjoner.
+Den del av Utsteders kapital som opnfyller kravene til klassifisering som tilleggskapital i henhold til de til enhver tid gjeldende regler. (Ved inngåelse av Avtalen gjelder Beregningsforskriflen § 16).
+Skal ha den betydning som fremgår av Klausul 4.1.2 {Tilleggsemisjoner). Hvis ~NA er spesifisert i feltet for Maksimal Emisjonsramme i Klausul 1 (Obligasjonenes hovedvilkår), kan Utstederen ikke foreta Tilleggsemisjoner under Avtalen. Eventuelle Tilleggsemisjoner skal gjøres på de vilkår som er fastsatt i Klausul 4.1.2 (Tilleggsemisjoner).
+Betyr alle Obligasjoner emittert under en Tilleggsemisjon.
+Det selskapet som er angitt som sådan i innledningen til Avtalen, samt dennes rettsetterfølgere, og smn skal opptre på vegne av Obligasjonseierne i henhold til denne Avtalen.
+En avtale som inngås mellom Utstederen og Tillitsmannen for å regulere blani annet det vederlaget Utstederen skal betale til Tillitsmannen med mindre noe annet er avtalt i denne Avtalen.
+Betyr alle Obligasjoner utstedt i henhold til denne Avtalen i den grad de ikke er innfridd og slettet.
+Selskapet angitt som sådan i innledningen til denne Avtalen.
+Eventuelle vedlegg til Avtalen.
+Verdipapirregisteret hvor Obligasjonene til enhver tid er registrert, ved inngåelsen av denne Avtalen er dette VPS ASA.
+
+3.
+
+OBLIGASJONENES SÆRLIGE VILKÅR
+
+3.1
+
+Bruk av nettoproveny
+
+Obligasjonene er utstedt for å kunne utgjøre Tilleggskapital ved beregning av Utstoders
+
+Kapitaldekning.
+
+3.2 Status
+
+Det følger av Obligasjonenes status som Tillegg<4aoiial (jf. Bereguingsforskriiten § 16) at Obligasjonene ikke kan kreves førtidig innfridd av Obligasjonseierne. Videre kan ikke Obligasjonene av Utsteder innfris før Forfallsdato uten Finanstilsynets samtykke.
+
+3.2.1 3.3 3.4
+
+Obligasjonene skal stå tilhake for Utstederens alminnelige ikke-subordinerte gjeld, dog slik at Obligasjonene med renter skal ha prioritet likt med annen Tilleggskapital og skal dekkes foran Utstederens Kjemekapital.
+Evne til å dekke tap Obligasjonene skal kunne nedskrives etter relevante regler i det til enhver tid gjeldende regelverk, i dag Finansforctaksloven § 21-6 jf. Beregningsforskriften § 16 nr. 4.
+Obligasjonenes sikkerhet Det er ikke etablert særskilt sikkerhet til dekning av Obligasjonene.
+Endringsadgang
+Ved fremtidige ulikheter mellom krav innført av norske myndigheter, og regler fastsatt i Avtalen, har Tillitsmannen etter anmodning fra Utstederen og etter godkjenning fra Fiminstilsynet anledning til, men er ikke forplikter til, å gjøre endringer i Avtalen slik at Obligasjonene tilfredsstiller kravene for å kunne utgjøre Tilleggskapital.
+
+4. 4.1 4.1.1
+Ca)
+
+OBLIGASJONENES GENERELLE VTI KÅR
+Betingelser Betingelser forut for F.misjonsdato Tillitsmannen skal ha moitatt den dokumentasjonen som er angitt nedenfor senest 2 - to Bankdager før Emisjonsdato: (i) denne Avtalen signert, (ii) Utsteders relevante selskapsbeslutningcr om å utføre Emisjonen, (iii) dokumentasjon som viser at den som undertegner denne Avtalen og eventuelt andre
+dokumenter i forbindelse med Emisjonen har fullmakt til å signere på vegne av Utsteder (firmaattest, fullmakt, etc.),
+(iv) Utsteders vedtekter, (v) bekreftelse på at kravene i Verdipapirhandelloven kapittel 7 fprospektkrav) er oppfylt,
+(vi) i den grad det er nødvending, eventuelle offentlige godkjennelser som er nødvendige for Emisjonen,
+(vii) bekreftelse på at Obligasjonene er registrert i Verdipapirregisreret,
+(viii) Tillitsmannsavtalen er undertegnet (i den grad det er aktuelt), (ix) bekreftelse i henhold til Klausul 4.1.3. paragraf (e) (Bekreftelse) hvis aktuelt,
+
+6(201
+
+(b) (c) 4.1.2 (a)
+(b) (c) (d) 4.1.3 (a)
+(b)
+
+(x) all øvrig relevant dokumentasjon som er fremlagt i tilknytning til Emisjonen,
+(xi) eventuelle erklæringer (herunder advokatbekreftelser) som Tillitsmannen ber om i forbindelse med dokumentasjon under Klausul 4.1 (Betingelser), og
+(xii) bekreftelse på at Finanstilsynet vil godkjenne at Obligasjonene får status som Tilleggskapital hos Utstederen.
+Tillitsmannen kan, når Tillitsmannen finner det forsvarlig, endre fristen eller dokumentasjonskravene etter Klausul 4.1 (Betingelser).
+Før Obligasjonene kan emitteres skal Tillitsmannen skriitlig meddele Utstederen, Emisjonens tilrettelegger og Registerføreren at dokumentene er kontrollert og at dokumentasjonskravene er oppfylt.
+Tilleggsemisjoner
+Dersom det er angitt Maksimal Emisjonsramme (ref. Klausul 1 (Obligasjonenes hovedvilkår), kan Utstederen deretter ved ett eller flere tilfeller utstede Tilleggsobligasjoner (hver slik utstedelse en «Tilleggsemisjon») frem til det tidspunkt hvor det samlede Pålydende for alle Tilleggsobligasjoner utgjor Maksimal Emisjonsramme fratrukket Tnitielt Emisjonsbeløp. Slike Tilleggsemisjoner kan bare skje under forutsetning av at:
+(i) Tilleggsemisjonen skjer senest fem -5- Bankdager før Forfallsdato, og at
+(ii) kravene som følger av Klausul 4.1 (Betingelser) fortsatt er oppfylt, eller at gyldig relevant dokumentasjon er framlagt.
+liver Tilleggsemisjon krever skriftlig tillatelse fra Tillitsmannen, med mindre (i) Utstederen er et Finansforetak og (ii) Obbgasjoneno utgjør en (senior) usikret ordinær gjeldsforpi ktelse for Utstederen (og ikke Ansvarlig kapital).
+Utstederen kan med skriftlig samtykke fra Tillitsmannen utvide den Maksimale Emisjonsrammen. Slik utvidelse skal meddeles Obligasjonseierne og Noteringsstodet.
+Tilleggsobligasjoner er rentebærende etter reglene i Klausul 4.6 2 (Fastsettelse av Obligasjonsrenten).
+TTtsteders inneståelser
+Generelt
+Utstederen avgir de opplysninger og innesråelser som følger av denne Klausul 4.1.3 (Utsleders inneståelser) til Tillitsmannen på vegne av obligasjonseierne på følgende tidspunkt og i samsvar med de til enhver tids gjeldende faktiske forhold og omstendigheter:
+(i) på Emisf onsdato; og
+(ii) på tidspunktet for utstedelse av eventuelle Tilleggsobligasjoner.
+Informasjon
+All informasjon som er avgitt til Tillitsmannen eller Obligasjonseierne i forbindelse med Obligasjonene er, så langt Utstederen kjenner til:
+(i) sann og nøyaktig i det alt vesentlige på det tidspunkt den relevante informasjonen er avgitt; og
+(ii) komplett og uten utelatelse av materielle forhold som det ma forventes at kan påvirke beslutningsgrunnlaget for å vurdere Obligasjonene på en vesentlig måte, med mindre slik utelatt informasjon likevel er meddelt Tillitsmannen skriftlig eller på annen måte er gjort offentlig kjent,
+og Utstederen innestår for å ha utført alle rimelige tiltak for å sikre korrekt informasjon.
+
+7 (201
+
+(c)
+
+Beslutningskrav
+
+(i) Utsteder har fattet en gyldig selskapsbeslutning om å utstede Obligasjonene, og innestår for al bestemmelsene i Lånedokumentene ikke bryter med Utsteders øvrige forpliktelser
+
+(ii) Alle offentlige krav for å gjennomføre Emisjonen er oppfylt (herunder krav etter 'Verdipapirhandelloven kapittel 7), og eventuelle påkrevde offentlige godkjennelser foreligger.
+
+(d)
+
+Mislighold
+
+Intet Mislighold har inntrådt eller er forventet å oppstå som en følge av Emisjonen eller som en følge av å inngå eller oppfylle denne Avtalen, eller som en følge av noen annen transaksjon som er forutsatt under denne Avtalen eller noen av de øvrige Lånedokumentene.
+
+(e)
+
+Bekreftelse
+
+Tillitsmannen kan kreve en uttalelse fra Utsteder som bekrefter at Utstederen er i samsvar med sine erklæringer etter denne Klausul 4.1.3 (Utsteders inneståelser) på de tidspunkt som er angitt ovenfor.
+
+4.2 Generelle lånevilkår
+Utstederen forplikter seg til ikke (enten dette skjer soin én eller flere handlinger, hverken frivillig eller ufrivillig) å:
+
+(a)
+
+overdra hele eller deler av virksomheten,
+
+(b) endre virksomhetens art fra den som utøves på dato for denne Avtalen, eller
+
+(c)
+
+foreta noen fusjon, fisjon eller annen form for reorganisering av virksomheten,
+
+hvis dene, for hvert enkelt av alternativene i (a) til (c) ovenfor, vil medføre en vesentlig svekkelse av Utsteders evne til å oppfylle sine forpliktelser etter denne Avtalen.
+
+4.3 Utsteders opplysningsplikt Utstederen forplikter seg til å:
+
+(a)
+
+straks informere Tillitsmannen om ethvert Mislighold under denne Avtalen, og om ethvert
+
+forhold som Utstederen forstår eller burde forstå at vil kunne føre til et Mislighold,
+
+(b)
+
+informere Tillitsmannen om øvrige forhold av vesentlig betydning for Utsteders evne til å
+
+oppfylle sine forpliktelser i henhold til denne Avtalen,
+
+(c)
+
+informere Tillitsmannen før Utstederen gjennomfører overdragelse av hele eller deler av
+
+virksomheten eller endrer virksomhetens art,
+
+(d)
+
+på anmodning fra Tillitsmannen, oversende sin årsrapport og delårsrapponer samt annen
+
+informasjon som Tillitsmannen måtte ha en rimelig grunn for å motta,
+
+(e)
+
+på anmodning fra Tillitsmannen, rapportere beholdningen av Egne Obligasjoner til
+
+Tillitsmannen,
+
+(f)
+
+sende kopi til Tillitsmannen av ethvert kreditorvarsel som skal utstedes i henhold til lover og
+
+forskrifter,
+
+(g)
+
+sende kopi til Tillitsmannen av alle meldinger til Noteringsstedet i den grad meldingene må
+
+anses relevante for Utsteders forpliktelser under denne Avtalen,
+
+(h)
+
+informere Tillitsmannen om alle endringer i registreringen av Obligasjonene i
+
+Verdipapirregisteret, og
+
+NT
+8(20)
+
+(0 4.4
+4.5
+(a)
+(b) (c) 4.6 4.6.1 (a)
+Cb) (c) Cd) fe)
+(f)
+(g)
+(H)
+(0
+
+i forbindelse med avleggelse av årsrapport, og på forespørsel fra Tillitsmannen, sende en bekreftelse til Tillitsmannen hvor Utstederen bekrefter at alle særskilte foroliktelser som følger av Avtalen er overholdt.
+Registrering av Obligasjonene Utstederen skal løpende sørge for korrekt registrering av Obligasjonene i Verdipapirregisteret.
+Noteringssted og prospekt Dersom Obligasjonene er listet på et Noteringssted skal alle spørsmål vedrørende noteringen og som krever Obliga.øonseiernes samtykke avgjøres etter bestemmelsene i denne Avtalen.
+Dersom Obligasjonene er listet på et Noteringssted skal Utstederen oppfylle Noteringsstedets dokumentasjonskrav og oversende Noteringsstedet den informasjon som er nødvendk for å opprettholde noteringen.
+Utstederen skal sørge for at denne Avtalen vedlegges som en del av prospekt og annet tegnings- og informasjonsmateriell for Obligasjonene.
+Betalinger knyttet ril Obligasjonene
+Forpliktelse til å betale Utstederen skal betale påløpte Obligasjonsrenter ril Obligasjonseierne etterskuddsvis på hver Rentebetal ingsdato.
+Utstederen skal på Forfallsdato betale til ObJigasionseicme det beløp som utgjør Pålydende av hver Obligasjon, multiplisert med lnnfrielseskurs som angitt i Klausul 1 (Obligasjonenes hovedvilkår).
+Dersom en Betalingsdato faller på en dag som ikke er en Bankdag, skal betaling skje på den påfølgende Bankdagen.
+Utstederen forplikter seg til å betale Tillitsmannen alle andre beløp som skal betales i henhold til Lånedokumentene på den relevante forfallsdato.
+Utstederen kan ikke påberope seg noen motkrav eller foreta en motregning under betalingsforpliktelsene som følger av Lånedokumentene.
+Ved utøvelse av Call skal Utstederen på den relevante dato angitt under Call i Klausul 1 (Obligasjonenes hovedvilkår) betale til Obligasjonseierne et beløp tilsvarende Pålydende på Obligasjonene som skal innfris multiplisert med den kurs som skal gjelde for den angitte dato, med tillegg av påløpt Obligasjonsrente for Obligasjonene som skal innfris.
+Ethvert beløp som Utstederen skal betale til Obligasjonseierne skal være disponibelt for Obligasjonseierne den dato beløpet skal betales i henhold til Avtalen og vil bli betalt til Obligasjonseiere registrert i Verdipapirregisteret på den Relevante Registreringsdatoen for den aktuelle betalingen.
+Hvis Utstederen ikke har betalt forfalte krav etter Avtalen skal det, uavhengig av om det er erklært Mislighold, betales en forsinkelsesrente av det forfalte kravet tilsvarende det høyeste av:
+(i) 7-dagers NIBOR uke med tillegg av 3 % p.a. (fastsatt som den aktuelle NIBOR 2 - to Bankdager før forfall, og deretter på en ukentlig basis), eller
+(ii) gjeldende Margin på det aktuelle forfallstidspunkt med tillegg av 3 % p.a.
+Det skal påløpe forsinkelsesrenter på forfalte men ubetalte beløp, og disse skal tillegges hovedstol og forrentes sammen med denne på en månedlig basis.
+
+9(20)
+
+4.6.2 (a)
+(b) (c)
+(d)
+
+Fastsettelse av Obligasjonsrenten For hver Renteperiode skal det påløpe renter beregnet av Pålydende for alle Utestående Obligasjoner. Renteberegningen skal starte fra og med den første dagen i Renteperioden (eller på Emisjonsdatoen, for den første Renteperioden), og skal slutte på, men ikke inkludere den siste dagen i Renteperioden. Fin Renteperiode skal ikke løpe utover Forfallsdato.
+Renten skal beregnes ut i henhold til Rentekonvensjonen.
+Ved FRN skal Obligasjonsrenten reguleres av Tillitsmannen på hver Rentereguleringsdato gjennom Avtalens løpetid. Obligasjonsrenten frem til neste Rentebetali tgsdato skal meddeles Obligasjonseierne, Utstederen, Registerføreren og Noteringsstedet.
+Tilleggsobligasjoncr er rentebærende med virkning fra den Renteperioden som starter på den siste Rentebetalingsdatoen forut før Emisjonen av Tilleggsobligasjonene (eller fra Emisjonsdatoen for Avtalens første Renteperiode).
+
+4.6.3 (a) (b) (c) (d)
+(e)
+(0 (g)
+
+Utøvelse av førtidig innløsningsrett 1'or ()1 ligasjonene Hvis Utstederen ønsker å utøve eventuell Call, skal dette meldes til Obligasjonseierne og Tillitsmannen senest 10 - ti - Bankdager før den relevante Calldato.
+Utsteders innløsning av færre enn alle Obligasjoner skal foretas pro rata mellom Obligasjonene i henhold til gjeldende prosedyrer i Verdipapirregisteret.
+Hvis Utstederen utøver ordinær Call i henhold til pkt. 1 skal samtlige Utestående Obligasjoner innløses (Call) til 100 % av Pålydende.
+Dersom offentlige reguleringer medfører endringer som gjør at Obligasjonene helt eller delvis ikke kan regnes som Tilleggskapital har Utsteder rett til å innløse samtlige Utestående Obligasjoner (Call) til 100 % av Pålydende (regulatorisk call).
+Dersom det innføres vesentlige endringer i den skattemessige behandlingen av Obligasjonene for Utsteder, har Utsteder rett til å innløse Utestående Obligasjoner (Call), holt eller delvis, til 100 % av Pålydende (skatterelatert call).
+Call i henhold til pkt 4.6.3 (d) og (e) kan etter at endringen trer i kraft gennemføres på hver Rentebetal ingsdato.
+Utøvelse av Call forutsetter myndighetenes (Finanstilsynets) forhåndsgodkjennelse. Dersom nedskrivning av Obligasjonene i henhold til pkt 3.2.1 er besluttet, kan ikke Call utøves, uavhengig av om det er gitt melding om Call i henhold til pkt.4.6.3 (a).
+
+4.6.4 (a)
+(b) (c)
+
+Delbetalinger Dersom en betaling knyttet til Obligasjonene ikke er tilstrekkelig bl å dekke alle de aktuelle forfalte krav under 1.ånedokumentene (en «Delbetaling»), skal Delbetalingen i forhold til Utsteders gjeld under Lånedokumentene anses betalt etter følgende prioritet;
+(i) først eventuelle utestående krav knyttet til honorar, utlegg eller ansvar fra Tillitsmannen,
+(ii) dernest forfalte ubetalte Obligasjonsrenter.
+(iii) til slutt Obligasjonenes hovedstol.
+Uavhengig av pkt (a) ovenfor skal, ved en Delbetaling som distribueres ut til Obligasjonseierne, Obligasjonsrenter og hovedstol fordeles med pro rata prioritet, med mindre noe annet er bestemt i pkt (c) nedenfor.
+Et Obligasjonseiermøte kan bare vedta reduksjon av avdrag ved tilsvarende reduksjon i hovedstol, men Obligasjonseiermøtet kan vedta at forfalte ubetalte renter kan nedskrives uten tilsvarende reduksjon av hovedstol eller avdrag.
+
+10 (20)
+
+5.
+
+MISLIGHOL1) OG HEVING
+
+5.1 Mislighold
+
+Det følger av Obligasjonens status som Tilleggskapital hos Utstederen, jfr. pkt 3.2, at Obligasjonseieme ikke kan kreve Obligasjonene eller renter førtidig tilbakebetalt.
+
+6.
+
+OBLTGASJONSEIERNE
+
+6.1
+
+Bindende vilkår for alle Obligasjonseiere
+
+(a)
+
+I kraft av å bli registrert som Obligasjonseier (direkte eller indirekte) i Verdipapirrcgisteret,
+
+blir Obligasjonseieme bundet av denne Avtalen og vilkårene i eventuelle andre
+
+Lånedokumenter, uten at det behøves foretatt noen ytterligere handlinger eller avgitt noen
+
+andre bekreftelser som en følge av dette.
+
+(b)
+
+Denne Avtalen skal være offentlig tilgjengelig hos 1 illitsmannen eller Utstederen.
+
+(c)
+
+Tillitsmannen vil utøve sine rettigheter og plikter under denne Avtalen med bindende
+
+virkning for- og på vegne av samtlige Obligasjonseiere.
+
+6.2 Begrenset mulighet til å fremme krav
+
+(a)
+
+Ingen Obligasjonseier har rett til å rette noen direkte kreditorpågang. iverksette noen
+
+innkreving eller andre tvangstiltak, begjære gjeldsforhandling eller konkurs, eller, uten
+
+samtykke fra Tillitsmannen, iverksette noen andre tiltak mot Utstederen eller noen annen med
+
+utgangspunkt i Utsteders forpliktelser eller slik annen part i forbindelse med noen av
+
+Lånedokumentene, uten at kravet rettes gjennom Tillitsmannen og i samsvar med denne
+
+Avtalen. Dette skal imidlertid ikke forhindre Obligasjonseieme fra å utove noen av sine
+
+individuelle rettigheter under denne Avtalen, herunder retten til å erklære en eventuell, i den
+
+grad det er relevant, avtalefestet innløsning (put opsjon).
+
+(b)
+
+Hver Obligasjonseier skal umiddelbart etter anmodning fra Tillitsmannen gi Tillitsmannen
+
+alle slike dokumenter som Tillitsmannen finner nødvendig for det formål å utøve sine
+
+rettigheter og/eller utføre sine plikter i henhold til Lånedokumentene, inkludert å utstede
+
+skriftlige ftrllmakter (i slik form og med slikt innhold som Tilbtsmannen ber om).
+
+Tillitsmannen er ikke forpliktet til å representere en Obligasjonseier som ikke opptrer i
+
+overensstemmelse med en slik anmodning fra Tillitsmannen.
+
+6.3 Obligasjnnseiernes rettigheter
+
+(a)
+
+Hvis en reell eier av en Obligasjon ikke står som den registrerte eier i Verdipapirregisteret,
+
+mon ønsker å utøve rettigheter i henhold til vilkårene i Lånedokumentene, må
+
+Obligasjonseieren fremlegge dokumentasjon som er akseptabel for Tillitsmannen for det
+
+reelle eierskapet.
+
+(b)
+
+En Obligasjonseier (enten denne er registrert som sådan i Verdioapirregisteret eller har
+
+godtgjort overfor Tillitsmannen å være den reelle eieren av Obligasjonen som fastsatt i
+
+paragraf (a) ovenfor) kan gi en eller flere fullmakter til tredjeparter for å representere seg og
+
+opptre på sine vegne for enten noen av- eller alle de Obligasjonene som Obligasjonseieren
+
+representerer eller rettmessig eier. Tillitsmannen skal ha rett til å kunne basere seg på og
+
+legge til grunn at fullmakter eller tilsvarende dokumentasjon for autorisasjon og som
+
+tilsynelatende oppstiller et fullmaktsforhold etter bestemmelsene i denne Klausul 6.3
+
+(Obligasjonseiemes rettigheter), kan antas å være fullt ut gyldig utstedi og jur di k bindende
+
+for løflegiveren, med mindre noe annet fremstår som åpenbart eller Tillitsmannen har faktisk
+
+kunnskap om det motsatte.
+
+11 (20)
+
+7.
+
+BESLUTNINGER FR4 OBLIGASJONSEIERNE
+
+7.1 Obligasjonseierrrmtets myndighet
+
+(a)
+
+Obligasjonseiormøtet kan, på vegne av samtlige Obligasjonseiere, beslutte å endre vilkårene i
+
+denne Avtalen eller noen av de øvrige Lånedokumentene. se likevel Klausul 9.1 (Endringer).
+
+Slike endringer inkluderer, men er ikke begrenset til. en reduksjon av utestående hovedstol,
+
+påløpte renter, rentebetingelser, samt en eventuell konvertering av Obligasjoner til andre
+
+kapitalklasser.
+
+(b) Obligasjonseiermøtet kan ikke treffe vedtak som vil gi enkelte Obligasjonseiere en urimelig fordel på andre Obligasjonseieres bekostning.
+
+(c)
+
+Dersom en beslutning eller et samtykke fra Obligasjonseierne er nødvendig, skal en slik
+
+beslutning eller et slikt samtykke, bortsatt fra for de tilfeller hvor Tillitsmannen er gitt
+
+ni)ndighet til å foreta seg visse handlinger som beskrevet i Klausul 8.1 (Fullmakt til å
+
+representere Obligasjonseierne), vedtas av Obligasjonseiermøtet med bindende virkning for
+
+alle Obligasjonseierne.
+
+(d) Minst 50 % av de Stemmeberettigede Obligasjonene må være representert for at Obligasjonseiermøtet skal være beslutningsdyktig.
+
+(e)
+
+Vedtak fattes med simpelt flertall av de Stemmeberettigede Obligasjonene som er
+
+representert på Obligasjonseiermøtet, med mindre et annet flertallskrav er fastsatt i paragraf
+
+(f) nedenfor.
+
+(f)
+
+Med unntak for eventuelle endringer eller fritak som kan gjøres uten vedtak etter Klausul
+
+9.1.1 (Prosedyre fo r endringer og fritak) paragraf (a), avsnitt (it og (ii), må et flertall
+
+bestående av minst 2/3 av Stemmeberettigede Obligasjoner som er representert på
+
+Obligasjonseiermøtet stemme for en endring av- eller et fritak for bestemmelsene i denne
+
+Avtalen, inkludert endring av Utsteder eller bytte av Tillitsmannen.
+
+7.2 Gjennomføring av Obligasjonseiermøie
+
+(a)
+
+Tillitsmannen skal innkalle til Obligasjonseiermøte, som skal avholdes etter begjæring fra
+
+enten:
+
+(i) Utstederen,
+(ii) Obligasjonseiere som representerer minst 1/10 av Stemmeberettigede Obligasjoner,
+(iii) Noteringsstedet, dersom Obligasjonene er børsnotert og Noteringsstedet har rett til å kreve dette etter de alminnelige regler og forskrifter for Noteringsstedet; eller
+
+(iv) Tillitsmannen selv.
+
+Begjæringen om å innkalle til Obligasjonseiermøie skal tydelig angi de saker som skal behandles og avgjøres.
+(b) Har Tillitsmannen ikke etterkommet en gyldig begjæring om avholdelse av Obligasjonseiermøte innen 10 - ti - Bankdager etter mottak av be; j æringen i henhold til paragraf (a) ovenfor, kan den som begjærte innkallelse til Obligasjonseiermøte selv forestå slik innkalling.
+
+(c)
+
+Innkalling til Obligasjonseiermøte skal sendes senest ti (10) Bankdager før den foreslåtte dato
+
+for avholdelse av Obligasjonseiermøtet. Innkallingen sendes til de Obligasjonseierne som er
+
+registrert i VcrdipapirregUteret på innkaHingsodspunktet. Dersom Obligasjonene er
+
+børsnoterte skal Utstederen sørge for at Innkallingen også blir publisert i henhold til
+
+gjeldende regler for Noteringsstedet. Innkallingen skal også publiseres på nettsiden til
+
+Tillitsmannen, alternativt som pressemelding eller på annen relevant informasjonsplattform.
+
+(d)
+
+Innkallingen skal klart angi de saker som skal besluttes av Obligasjonseiermøtet.
+
+Tillitsmannen kan i innkallingen også sette andre saker på dagsordenen enn de som omfattes
+
+12 (20)
+
+av begjæringen. Dersom Innkallingen omfatter forslag til endringer i denne Avtalen, skal hovedinnholdet av endringsforslaget beskrives i Innkal1ingen.
+
+(e)
+
+Saker som ikke er inkludert i Innkallingen kan heller ikke tas opp til avstemming på
+
+Obligasjonseiermøtet.
+
+(f)
+
+Tillitsmannen kan, ved skriftlig henvendelse til Utstederen, nekte Utstederen å anskaffe eller
+
+avhende Obligasjoner i perioden fra innkallingsdagen til dato for avholdelse av
+
+Obligasjonseiermøtet, med mindre et slikt forbud vil utgjøre et brudd på Utsteders
+
+forpliktelser i henhold til Klausul 4.6.1 (Forpliktelse til å betale).
+
+(g) Obligasjonseiermøtet avholdes på et sted angitt av Tillitsmannen, eller for det tilfelle at paragraf (b) ovenfor kommer til anvendelse, av den personen som kaller inn til Obligasjonseiermøtet (.men skal uansett holdes i Oslo). Obligasjonseiermøtet vil bli åpnet og ledet av Tillitsmannen («Møtelederen»), med mindre noe annet blir bestemt av Obligasjonseiermøtet. Dersom Tillitsmannen ikke er representert skal Obligasjonseiermøtet åpnes av en Obligasjonseier, og Møteleder kan deretter velges av Obligasjonseiermøtet.
+
+(hl Hver Obligasjonseier, Tillitsmannen, en person eller personer som opptrer etter fullmakt på vegne av en Obligasjonseier, samt representanter for Noteringsstedet (hvis Obligasjonene er gjenstand for Notering), har alle rett til å møte på Obligasjonseiermøtet (hver slik møteberetiiget part heretter benevnt som en «Representant»), Møtelederen kan beslutte å gi andre enn Representantene adgang til Obligasjonseiermøtet med mindre Obligasjonseiermøtet bestemmer noe annet. Hver Representant har også rett til å ta med seg én rådgiver i Obligasjonseiermøtet. I tilfelle tvist eller tvil med hensyn ti1om en person er en Representant eller har rett til å avgi stemme, vil Møtelederen beslutte hvem som kan delta på Obligasjonseiermøtet og utøve stemmerett.
+
+(i)
+
+Utstederen har rett til å være til stede på Obligasjonseiermøtet. Obligasjonseiermøtet kan
+
+imidlertid vedta at representanter for Utstederen og/eller en Obligasjonseier som kun innehar
+
+Egne Obligasjoner (eller Representanter for en slik Obligasjonseier) skal forlate
+
+Obligasjonseiermøtet når nærmere angitte temaer skal diskuteres, men Utstederen og andre
+
+Representanter skal alltid ha rett til å være til stede under selve avstemmingen.
+
+(j)
+
+Møtelederen eller den som blir bemyndiget av Møteleder skal føre protokoll fra
+
+Obligasjonseiermøtet. Protokollen ska' angi antall Stemmeberettigede Obligasjoner som var
+
+representert på Obligasjonseiermøtet, de vedtak som ble fattet, og stemmeresultatene av de
+
+sakene som ble behandlet av Obligasjonseiermøtet. Protokollen skal undertegnes av
+
+Møtelederen og minst en annen person. Protokollen skal oppbevares av Tillitsmannen, som
+
+på forespørsel skal gjøre tilgjengelig en kopi av protokollen til Obligasjonseiere eller til
+
+Utstederen.
+
+(k) Tillitsmannen skal sørge for at Utstederen og Obligasjonseierne blir varslet om vedtak som er fattet av Obligasjonseiermøtet. og at vedtakene blir publisert på nettsiden t.il Tillitsmannen eller annen relevant elektronisk plattform (eller pressemelding).
+
+(l)
+
+Utstederen skal dekke kostnader og utgifter som påløper i forbindelse med innkalling til
+
+Obligasjonseiermøtet uavhengig av hvem som har innkalt Obligasjonseiermøtet, inkludert
+
+eventuelle kostnader og utgifter som har påløpt for Tillitsmannen.
+
+7.3 Stemmeregler
+
+(a)
+
+Hver Obligasjonseier (eller den person som i henhold t I fullmakt opptrer på vegne av en
+
+Obligasjonseier) kan avgi én stemme for hver Stemmeberettigede Obligasjon som i mehas på
+
+den relevante Registreringsdato slik dette følger av Klausul 6.3 (Obligasjonseiernes
+
+rettigheter). Møtelederen skal etter eget skjønn avgjøre hvilke dokumentasjonskrav og bevis
+
+for eierskap av Stemmeberettigede Obligasjoner som skal kreves fremlagt.
+
+13 (201
+
+(bj Det kan ikke utøves stemmerett for Egne Obligasjoner. Møtelederen avgjør eventuelle spørsmål som måtte oppstå om hvorvidt Obligasjoner eventuelt skal anses for å være ligne Obligasjoner.
+
+(c)
+
+En Obligasjon som er registrert i navnet til en forvalier i samsvar med Klausul 6.3
+
+(Obligasjunseiernes Rettigheter) skal, ved avgjørelser etter denne Klausul 7 {Beslutningerfru
+
+Obligasjonseierne), anses for å være eid av den reelle Obligasjonseieren og ikke forvalteren.
+
+Forvalteren kan ikke stemme for Obligasjonen dersom Obligasjonseieren selv stemmer og
+
+har inngitt relevant dokumentasjon til Tillitsmannen i samsvar med Klausul 6.3
+
+(Obligasjonseiernes Rettigheter) og som sannsynliggjør at han er den reelle eieren av
+
+Obligasjonen. Hvis Obligasjonseier har stemt direkte for noen av sine Obligasjoner som er
+
+forvalterregistrert, skal Obligasjonseierens stemmer telle i stedet for stemmer avgitt av
+
+forvalteren for de samme Obligasjonene.
+
+(d)
+
+Utstederen og Tillitsmannen så vel som enhver Obligasjonseier har alle ren xii å kreve at
+
+avstemmingen skjer ved skriftlig avstemning. Ved stemmelikhet vil Møtelederen ha den
+
+avgjørende stemmen.
+
+7.4 Gjentatt Obligasjonseiermøte
+
+(al
+
+Selv om Obligasjonseiermøtet ikke er beslutningsdyktig i henhold til Klausul 7.1
+
+(Obligasjnnseiermøtets myndighet) paragraf (d) skal Obligasjonseiermøtet avholdes og
+
+avstemmingen gjennomføres med det formål å protokollere avstemmingsresultatene.
+
+Tillitsmannen eller den som innkalte til det første Obligasjonseiermøtet kan, innen ti
+
+Bankdager etter Obligasjonseiermøtet, innkalle til et Gjentatt Obligasjonseiermøte for ny
+
+behandling av de samme sakene.
+
+(b) Bestemmelsene og prosedyrene for avholdelse av et Obligasjonseiermøte som fastsatt i Klausul 7.1 (Obligasjunseiermøtets myndighet), Klausul 7.2 (Gjennomføring av Obligasjonseiermøtet) og Klausul 7.3 (Stemmeregler) far tilsvarende anvendelse, så langt de passer, på et Gjentatt Obligasjonseiermørc. Dette gjelder likevel ikke reglene for beslutningsdyktighet som angitt i paragraf (d) i Klausul 7.1 (Ohligasjonseiermøtets myndighet), som ikke skal gjelde for et Gjentatte Obligasjonseiermøte. En innkalling til et Gjentatt Obligasjonseiermøte skal også inneholde avstemmingsresultatene som ble oppnådd i det første Obligasjonseiermøtet.
+
+(c)
+
+Det kan kun innkalles én gang til et Gjentatt Obligasjonseiermøte for hvert opprinnelig
+
+Obligasjonseiermøte. Det kan også innkalles til et Gjentatt Obligasjonseiermøte i henhold til
+
+prosedyrene for Skriftlig Prosedyre i samsvar med Klausul 7.5 {Skriftlig Prosedyre), selv om
+
+det første Obligasjonseiermøtet ble holdt i samsvar med Klausul 7.2 (Gjennomføring av
+
+Obligasjonseiermøtet) og vice versa.
+
+7.5 Skriftlig Prosedyre
+
+(a)
+
+Med mindre noe annet fremgår av denne Avtalen kan alle vedtak som kan fattes av
+
+Obligasjonseiermøtet i henhold til Klausul 7.1 (Ohligasjonseiermøtets myndighet) også
+
+avgjøres ved hjelp av Skriftlig Prosedyre. En sak som er avgjort ved Skriftlig Prosedy re med
+
+det påkrevde flertall er like gyldig som om det hadde blitt vedtatt av Obligasjonseierne i et
+
+Obligasjonseiermøte, og enhver henvisning i ethvert Lånedokument til Obligasjonseiermøtet
+
+skal tolkes i samsvar med dette.
+
+(bl
+
+Den som begjærer innkalling til et Obligasjonseiermøte kan i stedet b e læ re at de aktuelle
+
+sakene skal avgjøres ved Skriftlig Prosedyre, med mindre Tillitsmannen beslutter noe annet.
+
+(c)
+
+Innkalling til avgjørelse ved Skriftlig Prosedyre skal sendes til de Obligasjonseierne som or
+
+registrert i Verdipapirrcgisteret på det tidspunkt slik Innkalling sendes fra
+
+Verdipupirregisteret, og bli publisert på 1 Tlitsmannen hjemmeside, annen relevant
+
+elektronisk plattform eller som en pressemelding.
+
+14 (20)
+
+(d)
+
+Bestemmelsene i Klausul 7.1 (Obligasjonseiermøtets myndighet), 7,2 (Gjennomføring av
+
+Obligasjunseiermøtet% Klausul 7.3 (Stemmeregler) og Klausul 7.4 {Gjentatt
+
+Obligasjonseiermøte) far tilsvarende anvendelse så langt de passer ved en Skriftlig Prosedyre,
+
+med unntak for:
+
+(i) bestemmelsene i paragraf (gl, (h) og (i) i Klausul 7.2 (Gjennomføring av Obligasjunseiermøtet); eller
+
+(ii) bestemmelser som ellers er i strid med fremgangsmåten som oppstilles i denne Klausul 7.5 (Skriftlig Prosedyre),
+
+som ikke skal gjelde ved Skriftlig Prosedyre.
+
+(e)
+
+Innkalling til avgjørelse ved Skriftlig Prosedyre skal inneholde:
+
+(i) instruksjoner om hvordan man kan stemme for hver enkelt sak som står på dagsorden (inkludert instruksjoner om hvordan stemmegivningen kan foretas elektronisk om dette er relevant); og
+
+(ii) den siste frist som skal gjelde for når Tillitsmannen skal ha mottatt alle stemmene som er nødvendige for at den Skriftlige Avstemningen skal kunne godkjennes med tilstrekkelig flertall (heretter kalt for «Stemmeperioden»).
+
+(f)
+
+Stemmeperioden skal vare i minst tre (3), men ikke i mer enn 15, Bankdager fra datoen for
+
+Innkallingen, likevel slik at Stemmeperioden for en Skriftlig Prosedyre som det er innkalt
+
+etter bestemmelsene i Klausul 7.4 (Gjentatt Obligasjonseiermøte) skal vare i minst ti (10),
+
+men ikke i mer enn 15, Bankdager fra datoen for Innkallingen.
+
+(8)
+
+Bare Obligasjonseiere som innehar Stemmeberettigede Obligasjoner registrert i
+
+Verdipapirregisteret på den relevante Registreringsdatoen vil ha anledning til å delta i en
+
+Skriftlig Prosedyre. Alternativt kan den reelle eieren av en forvalterregirtrerl Obligasjonen
+
+stemme ved å dokumentere slikt eierskap til Tillitsmannen etter reglene i Klausul 6.3
+
+(Obligasjonseiernes Rettigheter).
+
+(h)
+
+En avgjorelse fatlet ved Skriftlig Prosedyre er g> Idig vedtatt ved tilslutning fra et flertall som
+
+angitt i paragraf (e) eller paragraf (0 i Klausul 7.1 (Obligasjonseiermøtets myndighet), basert
+
+på det totale antall Stemmeberettigede Obligasjoner. Dette gjelder selv om Stemmeperioden
+
+ennå ikke er utløpt. Avgjørelse ved Skriftlig Prosedyre kan også fattes dersom et tilstrekkelig
+
+antall negative stemmer er mottatt før utløpet av Stemmeperioden.
+
+(0
+
+Beslutningstidspunktet ved Skriftlig Prosedyre hvor vedtaket fattes før utløpet av
+
+Stemmeperioden er den datoen hvor vedtaket har mottatt tilslutniug fra don siste
+
+Obligasjonseieren som resulterer i at det nødvendige stemmeflertallet blir oppnådd.
+
+0
+
+Hvis vedtaket ikke er godkjent før utløpet av Stemmeperioden, skal antallet stemmer
+
+beregnes ved arbeidsdagens slutt den siste dagen i Stemmeperioden, og et
+
+avstemmingsresultat skal fastsettes basert på beslutningsdyktighet og flertallskrav som angitt
+
+i paragrafene (d) til (f) i Klausul 7.1 (Obligasjonseiermøtets myndighet).
+
+8.
+
+TILLITSMANNEN
+
+8.1 Fullmakt til å representere Obligasjonseierne
+
+(a)
+
+Tillitsmannen har fullmakt til å opptre på vegne av, og/eller representere, Obligasjonseierne i
+
+alle saker, inkludert men ikke begrenset til ved bruk av rettsmidler eller juridiske handlinger,
+
+herunder enhver handling for å tvangsfullbyrde denne Avtalen, begiiøre konkurs,
+
+gjeldsforhandling eller andre krav mot Utstederen, eller andre, for å begiosre insolvens.
+
+(b)
+
+Utstederen skal umiddelbart pa forespørsel levere til Tillitsmannen ethvert dokumert-
+
+informasjon og annen bistand (som i form og innhold er tilfredsstillende for Tillitsmannen!,
+
+i)
+15 (20)
+
+og som Tillitsmannen finner nødvendig for det formål å utøve sin og Obligasjonseiemes rettigheter og/eller utføre sine plikter i henhold til Lånedokumentene.
+
+(c)
+
+Tillitsmannen har, for sin saksbehandling vedrørende Avtalen, rett til innsyn i
+
+Verdipapirregisteret til opplysninger om eierforholdet til Obligasjonene i
+
+Verdipapirregisteret.
+
+8.2 Tillitsmannens oppgaver og myndighet
+
+(a)
+
+Tillitsmannen skal representere Obligasjonseieme i samsvar ined vilkårene i
+
+Lånedokumentene, herunder blant annet ved å følge opp Utsteders levering av
+
+egenerklæringer og andre slike dokumenter som Utstederen er forpliktet til å legge frem eller
+
+levere til Tillitsmannen i henhold til Lånedokumentene og, når det er relevant, for å
+
+tvangsfullbyrde og inndrive Obligasjonene på vegne av Obligasjonseieme.
+
+(b) Tillitsmannen skal ikke være forpliktet til å overvåke eller vurdere den finansielle stillingen til Utstederen eller noen andre som har forpliktelser under Lånedokumentene med mindre det er uttrykkelig angitt i denne Avtalen. Tillitsmannen har heller ingen forpliktelse til å ta stilling til eller fastslå om et eventuelt Mislighold har inntruffet, og har, inntil faktisk kunnskap om det motsatt er mottatt, rett til å anta at det ikke foreligger noe Mislighold. Tillitsmannen har ikke ansvar for at Lånedokumentene er gyldig inngått eller at de danner grunnlag for tvangsinndrivelse, og skal heller ikke være ansvarlig for eventuelle avvik mellom indikative lånevilkår som er beskrevet i markedsføringsmateriale presentert for Obligasjonseieme før utstedelse av Obligasjonene, og bestemmelsene denne Avtalen.
+
+(e)
+
+Tillitsmannen kan etter egei skjønn utføre enhver handling som Tillitsmannen anser
+
+nødvendig eller tilrådelig for å ivareta Obligasjonseiemes rettigheter i alle forhold som
+
+springer ut av Lånedokumentene. Tillitsmannen kan forelegge enhver instruksjon mottatt fra
+
+Obligasjonseieme for et Obligasjonseiermøte før Tillitsmannen utfører noen handling i
+
+henhold til instruksjonen.
+
+(d) Tillitsm.innen har rett til å engasjere eksterne eksperter ved utførelse av sine plikter i henhold til Lånedokumentene.
+
+fe)
+
+Tillitsmannen skal holde alle inndrevne beløp som er mottatt på vegne av Obligasjonseieme
+
+på separate bankkonti.
+
+ff)
+
+Tillitsmannen skal sørge for at vedtak truffet på Obligasjonseiermøtet blir iverksatt, med
+
+forbehold for at Tillitsmannen skal kunne nekte å gjennomføre vedtak som kan stride mot
+
+vilkårene i denne Avtalen eller et annet Lånedokument, eller være i strid med gjeldende
+
+lovverk.
+
+(g)
+
+Tillitsmannen er under enhver omstendighet ikke forpliktet til å gjøre eller unnlate å gjøre
+
+noe hvis slik handling eller utelatelse vil eller kan sies å utgjøre et brudd på noen lov eller
+
+forskrift, og selv om slik handling eller utelatelse av handling skulle stride mot en
+
+bestemmelse i Lånedokumentene som tilsier det motsatte.
+
+(h) Dersom en kostnad, ct rap eller et ansvar som Tillitsmannen kan pådra seg (inkludert rimelige honorarer som skal betales til Tillitsmannen selv):
+
+(i) i samsvar med instruksjoner fra Obligasjonseieme; eller
+
+(ii) ved å utføre en handling på eget initiativ,
+
+erter Tillitsmannens rimelig oppfatning ikke vil kunne dekkes av Utstederen eller de aktuelle Obligasjonseiere i henhold til paragraf (e) og (g) i Klausul 8.4 (Utgifter, ansvar og erstatning), kan Tillitsmannen avstå fra å hanale i trad med slik instruksjon, eller avstå fra å ta en slik handling, inntil en slik finansiering eller kostnadsdekning (eller tilstrekkelig sikkerhet) er gitt som tillitsmannen med rimelighet kan kreve.
+
+(i)
+
+Tillitsmannen skal gi et varsel til Obligasjonseieme før den slutter å utføre sine plikter etter
+
+Lånedokumentene på grunn av manglende betaling fra Utstederen for noe honorar ellei;
+
+16(20)
+
+kostnadsdekning som Tillitsmannen har krav på og som er fortalt til betaling under I -ånedokumentene.
+Tillitsmannen kan instruere Verdipapirregisteret til å splitte Obligasjonene i et lavere nominelt beløp for å forenkle delvise innløsninger, restrukturere Obligasjonene eller ved andre situasjoner hvor slik instruksjon må anses påkrevet.
+
+8.3 Likebehundling og interessekonflikter
+
+(a)
+
+Tillitsmannen skal ikke ta avgjørelser som vil gi enkelte Obligasjonseiere en urimelig fordel
+
+på andre Obligasjonseieres bekostning. Tillitsmannen skal, ved utførelsen av sine oppgaver i
+
+henhold til I,ånedokumentene, kun handle i Obligasjonseiemes interesser, og skal ikke være
+
+forpliktet til å hensynta noen utenforstående parters interesser med mindre noe annet er
+
+uttrykkelig angitt i Lånedokumentene.
+
+(b)
+
+Tillitsmannen kan opptre som agent, fullmekiig, representant og/eller sikkerhetsagent for
+
+flere obligasjonslån knyttet til Utstederen, til tross for potensielle interessekonflikter.
+
+Tillitsmannen har rett til å delegere sine oppgaver til andre profesjonelle parter.
+
+8.4 Utgifter, ansvar og erstatning
+
+(a)
+
+Tillitsmannen er ikke ansvarlig overfor Obligasjonseieme for noe tapeller skadehverken
+
+som følge av utførelse eller utelatelse av eventuelle handlinger som Ti`litsmannen har foretatt
+
+under eller i forbindelse med Lånedokumentene, med mindre dette er direkte forårsaket av
+
+Tillitsmannens grove uaktsomhet eller forsett. Tillitsmannen skal ikke være ansvarlig for noe
+
+indirekte tap eller for tap av fortjeneste. Tillitsmannen skal, uavhengig av det foregående,
+
+ikke være ansvarlig ovenfor Obligasjonseieme for noe tap forårsaket så lenge Tillitsmannen
+
+har handlet i samsvar med instruksjoner gin av Obligasjonseieme i uenhold til denne Avtalen.
+
+(b)
+
+Tillitsmannens ansvar for skade eller tap skal være begrenset til samlet beløp av Utestående
+
+Obligasjoner. Tillitsmannen har ikke noe ansvar for innholdet av informasjon som er gitt til
+
+Obligasjonseieme av eller på vegne av Utstederen eller en annen person.
+
+(c)
+
+Tillitsmannen skal ikke anses å ha handlet uaktsomt hvis den hai"
+
+(i) handlet i samsvar med råd eller uttalelser fra anerkjente eksterne eksperter; eller
+
+(ii) handlet med rimelig aktsomhet i en situasjon hvor Tillitsmannen mener at det er gunstig for Obligasjonseiemes interesser å utsette eller foreta en handling.
+
+(d)
+
+Utstederen er ansvarlig for og vil erstatte Tillitsmannen fullt ut alle tap, utgifter og
+
+forpliktelser pådratt av Tillitsmannen som følge av uaktsomhet hos Utstederen <inkludert dets
+
+styremedlemmer, ledelse, ansatte og bemyndigtde) i forbindelse med utførelsen av
+
+Tillitsmannens forpliktelser etter Lånedokumentene, herunder tap som Tillitsmannen har
+
+pådratt seg som en følge av Tillitsmannens handlinger som følge av opplysningssvikt fra
+
+Utstederen i forbindelse med utstedelsen av Obligasjonene, inngåelsen eller oppfyllelsen av
+
+dens forpliktelser under Lånedokumentene, eller en annen opplysningssvikt fra noen som er
+
+forpliktet under Lånedokumentene.
+
+(e)
+
+Utstederen skal dekke alle kostnader og utgifter som Tillitsmannen pådrar seg i forbmdelse
+
+med utførelsen av sine forpliktelser i henhold ril Lånedokumentene. Tillitsmannen har rett til
+
+honorar for sitt arbeid, og til å bli holdt skadesløs for kostnader, tap og forpliktelser på de
+
+vilkår som er fastsatt i Lånedokumentene. For nordiske finansforetak og nordiske statlige
+
+utstedere skal årlig honorar fastsettes i henhold til gjeldende honorarsats og de vilkår som
+
+fremkommer på Tillitsmannens hjemmeside på Emisjonsdato, med mindre noe annet er avtalt
+
+med Tillitsmannen. For andre utstedere vil en egen Tillitsmannsavtale bli inngått.
+
+Tillitsmannens forpliktelser under Lånedokumentene er hetinget av reitidig betaling av slike
+
+honorarer, utgifter og kostnader.
+
+(f)
+
+Utstederen skal erter påkrav fra Tillitsmannen betale alle kostnader forbundet med eksterne
+
+eksperter som er engasjert etter at det har oppstått et Mislighold eller i den hensikti å
+
+i
+
+17 (20)
+
+undersøke eller vurdere (i) enhver hendelse eller omstendighet som Tillitsmannen med rimelighet mener er eller kan føre til et Mislighold eller (ii) andre saker knyttet il Utstederen eller noen av Lånedokumentene som Tillitsmannen med rimelighet mener kan utgjøre eller fore til et brudd på noen forpliktelser under Lånedokumentene eller på annen måte være til ugunst for Obligasjonseieme under Lånedokumentene.
+
+(g) Honorarer, kostnader eller utgifter som skal betales til Tillitsmannen men som ikke er dekket på annen måte pa grunn av Mislighold, at Utstederen har blitt belalingsudyktig eller lignende omstendigheter knyttet til skyldnerne under Lånedokumentene, kan dekkes ved forholdsmessig reduksjon i utbetalingene til Obligasjonseieme, herunder eventuelle kostnader og utgilter som har påløpt i forbindelse med slik kostnadsdekning. Tillitsmannen kan holde tilbake midler fra en sperret konto (eller tilsvarende ordning) eller fra andre midler mottatt fra Utstederen eller fra noen annen person, og motregne og dekke inn eventuelle slike kostnader og utgifter fra disse midlene.
+
+(h)
+
+Sorn betingelse for å utføre noen instruksjon fra ob ;gasjonseieme (inkludert, men ikke
+
+begrenset til, instruksjoner i Klausul 7.2 (Gjennomføring av Obligasjonseiermøtet)), kan
+
+Tillitsmannen kreve tilfredsstillende sikkerhetsstillelse, garantier og/eller erklæringer om
+
+skadcsløsholdelse for eventuelt ansvar og forventede kostnader og utgifter fra de
+
+Obligasjonseieme som har giLl Tillitsmannen slik instruks og/eller Obligasjouseiere som
+
+stemte for beslutningen om å instruere Tillitsmannen.
+
+8.5 Bytte nv Tillitsmann
+
+(a)
+
+Bytte av Tillitsmann kan foretas i henhold til prosedyren i Klausul 7 (Beslutninger fru
+
+Obligasjonseieme). Obligasjonseieme kan beslutte et bytte av Tillitsmann uten samtykke fra
+
+Utstederen.
+
+(b) Tillitsmannen kan fratre ved å gi melding til Utstederen og Obligasjonseieme og i så fall skal en etterfølgende Tillitsmann velges i henhold ti) denne Klausul 8.5 (Bytte av Tillitsmann), initiert av fratredende Tillitsmann.
+
+(c)
+
+Dersom Tillitsmannen går konkurs, eller på annen mate er permanent ute av stand til å
+
+oppfylle sine forpliktelser i henhold til Avtalen, skal Tillitsmannen anses for å ha trukket seg
+
+fra oppdraget og en etterfølgende Tillitsmann skal utpekes i henhold til denne Klausul 8.5
+
+(Bytte av Tillitsmann). Utstederen kan oppnevne en midlertidig Tillitsmann inntil en ny
+
+Tillitsmann er valgt i henhold til paragraf (a) ovenfor.
+
+(d) Det faktiske byttet av Tillitsmann skal kun iverksettes etter gjennomføring av alle nødvendige tiltak for å effektivt erstatte den fratredende Tillitsmannen, og fratredende Tillitsmann forplikter seg til å samarbeide på alle rimelige vilkår og uten unødig opphold for å sikre et slikt bytte. Den fratredende Tillitsmannen skal fritas fra ytterligere forpliktelse knyttet til Lånedokumentene fra endringen trer i kraft, men skal fortsatt være ansvarlig under Lånedokumentene når dei gjelder enhver handling som ble foretatt eller unnlatt å ta så lenge den aktuelle parten fungerte som Tillitsmann. Den fratredende Tillitsmannen er berettiget til sine rettigheter under Lånedokumentene inntil byttet har funnet sted, og eventuelle krav Tillitsmannen har etter Klausul 8.4 (Utgifter, ansvar og erstaming) vil bestå til de er betalt.
+
+(e)
+
+Ved bytte av Tillitsmann skal Utstederen samarbeide på rimelige måte og uten forsinkelse for
+
+å erstatte fratredende Tillitsmann, og frita den fratredende Tillitsmannen fra eventuelle
+
+fremtidige forpliktelser under Lånedokumentene og andre dokumenter.
+
+9. 9.1 9.1.1
+
+ANDRE BESTEMMELSER
+Endringer og unntak Samtykke fra begge parter Endringer av denne Avtalen kan bare foretas med samtykke fra begge partene i Avtalen, med unntak av endringer i henhold til Klausul 8.5 (Bytte av Tillitsmann).
+
+18(20)
+
+9.1.2
+9.1.3 9.1.4 9.2
+9.3 (a) (b) (c)
+
+Prosedyre for endringer og unntak Utstederen og Tillitsmannen (på vegne av Obligasjonseierne) kan bli enige om å endre Lånedokumentene eller frafalle et inntruffet avtalebrudd eller innvilge et unntak fra en forventet manglende overholdelse av en bestemmelse i ethvert Lånedokument, forutsatt at en slik endring eller et slikt unntak:
+(i) ikke er til vesentlig skade for Obligasjonseiernes retiigheter, eller blir avtalt utelukkende i den hensikt å rette opp åpenbare feil og mangler; eller
+(ii) er påkrevet etter gjeldende lover, rettsavgiørelser eller et vedtak fattet av en relevant myndighet; eller
+(iii) har blitt behørig godkjent av ohligasjonseieme i henhold til Klausul 7 {Beslutningerfra Ohligasjonseierne).
+Kompetanse i forhold til dokumentasjon Hvis Obligasjonseierne har besluttet hovedprinsippene av en endring for et I ånedokument. men uten å ha vedtatt den spesifikke eller endelig utformingen av en slik endring, skal Tillitsmannen anses til å ha fullmakt til å utarbeide, godkjenne og/eller fullføre (i den grad dette måtte være relevant) all påkrevd dokumentasjon eller eventuelle utestående forhold i slik dokumentasjon uten at det skal kreves noen flere godkjenninger eller ytterligere involvering fra Obligasjonseierne.
+Melding om endringer eller unntak Tillitsmannen skal snarest mulig varsle Obligasjonseierne om eventuelle endringer eller unntak som er akseptert i samsvar med denne Klausul 9.1 {Endringer og unntak), og varselet skal fastslå fra hvilken dato endringen eller unntaket vil være effektivt, med mindre dette er åpenbart unødvendig. Utstederen skal sørge for at enhver endring i denne Avtalen blir behørig registrert hos Verdipapirregisteret.
+lltsteders kjøp av Obligasjoner
+Utstederen, Utsteders datterselskaper eller andre selskap der Utstederen har en kapitalinteresse, kan ikke erverve Obligasjoner unntatt etter nærmere godkjenning fra Finanstilsynet.
+Utsteder kan ikke direkte eller indirekte finansiere erverv av Obligasjoner.
+Utsteder kan ikke avhende eller slette Egne Obligasjoner i Verdipapirregisteret. unntatt etter nærmere godkjenning fra Finanstilsynet.
+Kostnadsdekning Utstederen skal dekke alle egne kostnader i forbindelse med inngåelsen av Avtalen og oppfyllelsen av alle sine forpliktelser i den forbindelse, herunder utarbeidelse av Avialen, eventuell notering av Obligasjonene på en Noteringssted og registrering og oppfølgning av Obligasjonene i Verdipapirregisteret.
+Honorar og omkostninger til Tillitsmannen skal dekkes av Utstederen. For finansforetak og nordiske statlige utstedere, skal årlig honorar fastsettes i henhold til gjeldende honorarsats og vilkår presentert på Tillitsmannen hjemmeside på Emisjonsdato, med mindre annet er særskilt avtalt med Tillitsmannen. For andre utstedere skal det inngås en egen Tillitsmannsavtale. Honorar eller omkostninger som skulle vært betalt til Tillitsmannen, men som på grunn av insolvens eller lignende hos Utstederen ikke blir betalt eller refundert på annen måte, kan dekkes ved å avkorte utbetalingen ti' Obligasjonseierne.
+Utstederen skal dekke eventuelle offentlige avgitter eller omkostninger i forbindelse med inngåelsen av Avtalen og opplyllelsen av sine forpfktelser under Avtalen. Utstederen har ikke ansvar for eventuelle offentlige avgilter på omsetningen av Obligasjonene.
+
+19 (201
+
+(d) Utstederen er ansvarlig for at eventuell kildeskatt dekkes i henhold til gjeldende lov.
+
+9.4 Korrespondanse
+
+(a)
+
+Skriftlige meddelelser, varsler, innkallinger mv til Obligasjonseierne avgitt av Tillitsmannen
+
+skal sendes \ia Verdipapirregisteret, med kopi f Utstederen og Noteringsstedet. Informasjon
+
+til Obligasjonseierne kan også bli publisert på nettsiden til Tillitsmannen eller annen relevant
+
+elektronisk plattform (eller pressemelding).
+
+(b) IJtsteders skriftlige meddelelser til Obligasjonseierne skal sendes via Tillitsmannen, eventuelt via Verdipapirregisteret med kopi til Tillitsmannen og Noteringsstedet.
+
+9.5 Kontaktinformasjon
+Utstederen og Tillitsmannen skal holde hverandre informert om endring i postadresse, epostadresse, telefon- og telefaksnummer samt kontaktpersoner.
+
+9.6 Gjeldende rett Denne Avtalen er underlagt og skal fortolkes i samsvar med norsk rett.
+
+9.7 Verneting
+
+(a)
+
+Tillitsmannen og Utstederen avtaler til fordel for Tillitsmannen og Obligasjonseierne at Oslo
+
+tingrett skal utgjøre verneting for enhver tvist som oppstår under-, som en følge av eller i
+
+forbindelse med denne Avtalen (en "Rettstvist"). Utstederen erklærer til fordel for
+
+Tillitsmannen og Obligasjonseierne at eventuelle Rettstv ister mot Utstederen eller noen av
+
+dets aktiva kan bli brakt inn for den avtalte domstolen, og at Utstederen ikke skal kunne
+
+anlegge søksmål om en Rettstvist i noen annen domstol.
+
+(b)
+
+Paragraf (a) ovenfor er avtalt til fordel for Tillitsmannen og Obligasjonseierne. Tillitsmannen
+
+skal ikke være forhindret fra å iverksette juridiske prosesser eller rettsforhandlinger i forhold
+
+til en Rettstvist for noen andre domstoler med relevant jurisdiksjon. I den grad loven tillater
+
+det kan Tillitsmannen også ta ut samtidige soksmål i flere jurisdiksjoner eller rettskretser, sli*
+
+at Oslo tingrett skal utgjøre ikke-eksklusivt verneting til å avgjøre enhver Rettstvist.
+
+SIGNATURER:
+
+20 (20)
+
+

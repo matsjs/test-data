@@ -1,0 +1,9 @@
+x Fixed Rate Day Count Fraction
+Redemption
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at 103 % par by the Issuer.
+10.2 Call Option
+10.2.1 The Issuer may redeem parts of the Bond Issue or the entire Bond Issue as follows (Call Option):
+(i) at any time from Disbursement Date to, but not included, the Interest Payment Date in 2010 at 101 % of par plus accrued interests on redeemed amount,
+(ii) at any time from Interest Payment Date in 2010 to, but not included, the Interest Payment Date in 2011 at 102 % of par plus accrued interests on redeemed amount,
+(iii) at any time from Interest Payment Date in 2011 to and including the Maturity Date at 103 % of par plus accrued interests on redeemed amount.

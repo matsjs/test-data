@@ -1,0 +1,9 @@
+13.5.5 Calculations
+The financial covenants in this Clause 13.5 shall be calculated on a consolidated basis for the Group.
+13.5.6 Equity Cure
+If the Issuer fails (or would otherwise fail) to comply with any Financial Covenant for any Measurement Period, and the Issuer receives cash proceeds in the form of new equity (the "Cure Amount") prior to the delivery of the compliance certificate for such Measurement Period, then such Financial Covenant shall be recalculated after giving effect to the following pro forma adjustments:
+(a) Equity Ratio: Total Equity and Total Assets shall each be increased by an amount equal to the Cure Amount;
+(b) Liquidity: the Liquidity shall be increased by an amount equal to the Cure Amount;
+(c) Interest Coverage Ratio: the Cure Amount shall be deemed to have been deducted from Net Interest-Bearing Debt on the first day of the Measurement Period for which a cure is to be made and Net Interest Expense will be recalculated as if there had been a prepayment of the Bonds, for the Measurement Period and the following Measurement Period (in each case assuming that the prepayment has been made at the start of the first Measurement Period); and
+(d) Leverage: the Cure Amount shall be deducted from the calculation of Total Interest-Bearing Debt,
+and if, after giving effect to the foregoing recalculations, the Issuer is in compliance with the requirements of all Financial Covenants, the Issuer shall be deemed to have satisfied the requirements of such Financial Covenants in such Measurement Period as though there had been no failure to comply with such requirement, and the applicable breach or default of such Financial Covenants which had occurred shall be deemed to have been cured.

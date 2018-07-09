@@ -1,0 +1,9 @@
+1.2.2
+broken, an amount in another currency shall be counted on the basis of the rate of exchange
+for such currency against SEK for the previous Business Day, as published by the Swedish
+Central Bank (Sw. Riksbankeri) on its website (www.riksbank.se). If no such rate is
+available, the most recently published rate shall be used instead.
+9
+1.2.3 1.2.4 2. 2.1
+2.2
+2.3 2.4 2.5 3.

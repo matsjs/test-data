@@ -1,0 +1,9 @@
+"Put Option Repayment Date" means the settlement date for the Put Option Event pursuant to Clause 10.5 (Mandatory repurchase due to a Put Option Event).
+"Redemption Amount" means an amount calculated as follows: Market Value o f the Vessel(s) sold or disposed of x B Market Value o f all Vessels prior to sale
+where B is the Outstanding Bond Amount at the time of redemption.
+Where a Vessel Owning Company is sold, "Vessel" shall for the purposes of this formula mean the Vessel owned by that Vessel Owning Company.
+In the above calculation of the Redemption Amount, the following principles shall be applied:
+18 (68)
+(a) the calculation shall be made as per a calculation date determined by the Issuer, falling no earlier than five (5) Business Days prior to the Issuer giving notice of the relevant Mandatory Prepayment;
+(b) the Market Value of the Vessel(s) disposed shall be the most recent Market Value of such Vessel prior to its Permitted Disposal; and
+(c) the Market Value of all the Vessels shall be the sum of:

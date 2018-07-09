@@ -1,0 +1,9 @@
+10.4.4 "Redemption Amount" shall mean an amount calculated as follows: Market Value of Security VesselCs^sold or disposed of ---M--a--r-k-e--t--V--a-l-u-e---o-f--a--lt--S--e-c-u--r-iTt--y V7e--s-s-e-:l-s--p-r-i.o-r to -sal,e x B x 120%
+In respect of a Vessel Owner being sold, "Security Vessel sold or disposed of" shall for the purpose of this formula mean the Security Vessel owned by such Vessel Owner.
+#4655235/1
+Z1 (56)
+ru
+10.4.5
+A Mandatory Prepayment Event or a Total Loss Event shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty Business Days prior to when the settlement date of the redemption in relation to the Mandatory Prepayment Event or the Total Loss Event is expected to take place. The settlement date may however, upon further notice to the Bond Trustee and the Bondholders, be reduced or prolonged, due to the settlement of the event triggering the Mandatory Prepayment Event or Total Loss, but not with shorter notice than five Business Days before the settlement day of the Mandatory Prepayment Event or Total Loss.
+10.4.6
+On the settlement date of the Mandatory Prepayment Event or Total Loss, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the principal amount of such Bond (including any premium as stated above) and any unpaid interest accrued up to (but not including) the settlement date.

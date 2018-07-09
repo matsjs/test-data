@@ -1,0 +1,922 @@
+ISIN NO 001 034136.5
+LOAN AGREEMENT between
+Spar Nord Bank A / S and
+Norsk Tillitsmann ASA on behalf of bondholders in bond issue
+FRN Spar Nord Bank A / S Subordinated Open Bond Issue with Call Option 2006/2015
+c
+
+Norsk TillitsmannASA
+
+TABLE
+
+<<<
+
+ OF CONTENTS
+
+1 Definitions
+
+3
+
+2 TheLoan
+
+5
+
+3 Listing
+
+6
+
+4 Registration in a Securities Depository
+
+6
+
+5 The functions, duties and liability of the Loan Trustee
+
+6
+
+6 Conditions Precedent
+
+7
+
+7 Representations and Warranties
+
+8
+
+8 Status
+
+<<<
+
+ of the Loan
+
+8
+
+9 Interest and interest calculations
+
+9
+
+10 Borrower's Call Option
+
+10
+
+11 Maturity of the Loan
+
+10
+
+12 Interest in the event of late payment
+
+11
+
+13 Borrower's acquisition of Borrower's Bonds
+
+11
+
+14 Borrower's undertakings
+
+<<<
+
+ during the term of the Loan
+
+11
+
+15 Fees and expenses
+
+12
+
+16 Events of Default
+
+12
+
+17 Authority of the bondholders' meeting and the Loan Trustee
+
+12
+
+18 Procedural rules
+
+13
+
+19 Repeated bondholders' meeting
+
+15
+
+20 Change of bondholders
+
+<<<
+
+' representative
+
+16
+
+21 Governing Law
+
+16
+
+22 Limitation
+
+16
+
+23 Dispute resolution and legal venue
+
+17
+
+24 Notification
+
+2
+
+Norsk Tillitsmann ASA
+
+This "Loan Agreement" has been entered into on 16 November 2006 between Spar Nord
+Bank Ais
+
+<<<
+
+ (Danish Company CVR-nr: 13 73 75 85) as Borrower and Norsk Tillitsmann
+ASA (Company No 963 342 624) as Loan Trustee.
+Through their subscription in the Loan (as defined below) the bondholders have acceded to the Loan Agreement (i.e.):
+* The
+
+<<<
+
+ bondholders are bound by the terms of the Loan Agreement. * The Loan Trustee has been granted authority to act on behalf of the bondholders to the
+extent provided for in the Loan Agreement.
+The Loan Agreement is available to anyone and may
+
+<<<
+
+ be obtained fi-omthe Loan Trustee or the Borrower. The Borrower shall ensure that the Loan Agreement is available to the general public throughout the entire term of the Loan.
+Information about the Borrower can be found at its website www.sparnord
+
+<<<
+
+.dk.
+
+1 Definitions
+Whenever used in this Loan Agreement the following terms shall have the following meaning:
+
+Banking Day:
+
+a day when the Norwegian Central Bank's Settlement System is open and when banks in Denmark and Norway can settle foreign
+
+<<<
+
+ currency transactions.
+
+Financial Business
+
+Act:
+
+the Danish Financial Business Act no 286 of 04.04.2006.
+
+Borrower's Bonds: - bonds in the Remaining Loan, owned by the Borrower.
+
+Disbursement Date: - 20 November 2006.
+
+Exchange:
+
+- securities
+
+<<<
+
+ exchange or other approved market place for securities with satisfactory requirements to listing and trading, where the Loan is listed or applied for listing.
+
+Interest Determination Date: - 16 November 2006 and thereafter two Banking Days
+
+<<<
+
+ prior to
+each Interest Payment Date.
+
+Interest Payment Date:
+
+20 February, 20 May, 20 August and 20 November each year. If the Interest Payment Date is not a Banking Day, the Interest
+
+3
+
+Norsk Tillitsmann ASA
+
+Payment Date shall be postponed
+
+<<<
+
+ to the next Banking Day. However, if this day falls in the following calendar month, the Interest Payment Date is moved to the fxst Banking Day preceding the original date.
+
+Lead Manager: - Fokus Markets
+
+Loan:
+
+- the aggregate amount of bonds
+
+<<<
+
+ issued by the Borrower pursuant to Clause 2.1.
+
+Maturity Date: NIBOR:
+
+- 20 February 2015.
+- the interest rate rounded off to two decimal places for a 3 - three - months period that is fixed at 12.00 noon in Oslo and quoted
+on Reuters NIBR
+
+<<<
+
+ page on the Interest Determination Date.
+
+Should the contents of the Reuters NIBR page be changed such that, in the opinion of the Loan Trustee and the Borrower, the interest rates shown no longer represent the same kind of interest rates as
+
+<<<
+
+ when the Loan was disbursed, or the relevant page is removed from the Reuters system, another news page shall be used. This page may be another Reuters page or, possibly, that of another electronic news agency, if it, in the opinion of the
+
+<<<
+
+ Loan Trustee, specifies the same kind of interest rates as Reuters NIBR did on the disbursement of the loan. Any disagreement of opinion between the Borrower and the Loan Trustee concerning the use of a new page must be treated as described
+
+<<<
+
+ in subclause 9.3 of the Loan Agreement.
+
+NIBOR Reference Banks:
+
+- interest rate determined on the basis of the interest on deposits in
+the inter-bank market in Oslo, fixed by the four largest authorised exchange banks in the Norwegian market
+
+<<<
+
+ at
+approximately 12.00 noon in Oslo on the Interest Determination
+Date in Oslo, for a 3 - three - months period, starting on the
+Interest Payment Date and applicable to a comparable amount. The Loan Trustee will ask the head office of each
+
+<<<
+
+ of the banks for a quotation on such interest. If two or more quotations are given, the interest rate will be set at the arithmetic mean of the quotations. If less than two quotations are given, the interest rate will be set to the arithmetic
+
+<<<
+
+ mean of the rates that banks selected by the Loan Trustee quote at approximately 12.00 noon in Oslo on the Interest Determination Date for loans in Norwegian krone
+to leading European banks for a 3 - three - months period
+starting on the Interest
+
+<<<
+
+ Payment Date and applicable to a comparable amount. An interest rate determined by calculation of the arithmetic mean shall be rounded off to two decimal places.
+
+Option Date:
+
+- has the meaning defined in Clause 10.
+
+4
+
+Norsk Tillitsmann
+
+<<<
+
+ ASA
+
+Remaining Loan: - the aggregate principal amount of all bonds outstanding in the Loan less the principal amount of the bonds redeemed by the Borrower and discharged through Securities Depository.
+
+Reuters:
+
+financial information electronically
+
+<<<
+
+ distributed by the news agency, Reuters Norge A / S
+
+Outstanding Loan: - Remaining Loan less Borrower's Bonds
+
+Securities Depository:
+
+the securities depository in which the Loan is registered. On Disbursement Date the Securities Depository
+
+<<<
+
+ is Verdipapirregisteret ("VPS")
+
+Securities Depository act:
+
+- the Norwegian act of 2002 no. 64 regarding securities
+depository.
+
+2 The Loan
+2.1 The Borrower has resolved to issue a series of bonds at a maximum amount of NOK 300,000,000 (Norwegian
+
+<<<
+
+ Krone threehundredmillion), herein referred to as "the Loan". The Loan may comprise one or more tranches issued on different issue dates. The fust tranch will be in the amount of NOK 150,000,000(Norwegian Krone onehundredandfiftymillion).
+The
+
+<<<
+
+ bonds will be in denominations of NOK 500,000 each and rank pari passu among each other.
+The Loan is an open issue, from and including Disbursement Date and will be closed no later than 5 Banking Days prior to Interest Payment Date in February
+
+<<<
+
+ 2007.
+The Loan will be described as "FRN Spar Nord Bank A/S Subordinated Open Bond
+Issue with Call Option 2006/2015".
+The registration number (ISIN) of the Loan will be: NO O01 034136.5.
+The term of the Loan is 20 November 2006 to 20 February
+
+<<<
+
+ 20 15 unless the Loan is terminated and repaid in accordance with Clause 10.
+The net proceeds of the Loan will be employed for the general financing of the Borrower.
+2.2 All tranches under the Loan will be subject to identical terms in all
+
+<<<
+
+ respects. The rights and obligations of all parties to the Loan also apply for later issues made within the maximum amount of the Loan.
+
+5
+
+Norsk TillitsmannASA
+The Borrower may on its own issue additional tranches within the maximum amount
+
+<<<
+
+, ref. Clause 6.4.
+3 Listing
+3.1 The Loan will be applied for listing at Oslo Børs Alternative Bond Market (ABM).
+4 Registration in a Securities Depository
+4.1 The Loan must prior to disbursement be registered in a Securities Depository, according
+
+<<<
+
+ to the Securities Depository act and the conditions from the Securities Depository.
+4.2 The Borrower shall promptly arrange for notification to the Securities Depository of any changes in the terms and conditions of the Loan. The Loan Trustee
+
+<<<
+
+ shall have a copy of the notification.
+4.3 The Borrower is responsible for the implementation of correct registration in the Securities Depository. The registration may be executed by an agent for the Borrower provided that the agent is qualified
+
+<<<
+
+ according to relevant regulation.
+5 The functions, duties and liability of the Loan Trustee
+5.1 The Loan Trustee shall pursuant to this Loan Agreement and in compliance with laws and regulations monitor the bondholders' interests and rights
+
+<<<
+
+ vis-a-vis the Borrower, inter alia
+- monitor the Borrower's fulfilment of his obligations under the Loan Agreement,
+- exercise necessary discretion in carrying out the duties assigned to the Loan Trustee under the Loan Agreement,
+- ensure that
+
+<<<
+
+ valid decisions made at bondholder meetings are carried out, - make the decisions and implement the measures that are assigned to or imposed
+on the Loan Trustee pursuant to this Loan Agreement, - forward to the bondholders necessary information
+
+<<<
+
+ which is obtained and received
+in its capacity as bondholders' Loan Trustee and
+- verify the timely and correct payment of interest and principal.
+5.2 In performing its functions as bondholders' Loan Trustee, the Loan Trustee is not obligated
+
+<<<
+
+ to assess the Borrower's financial situation or ability to service the Loan except to the extent such duty may clearly be inferred from the Loan Agreement.
+5.3 The Loan Trustee shall be liable to pay damages for financial losses suffered by
+
+<<<
+
+ the bondholders as a result of negligence of the Loan Trustee in performing its functions and duties under the Loan Agreement. The Loan Trustee is not responsible for the content of the information the Loan Trustee has submitted on behalf of
+
+<<<
+
+ the Borrower.
+6
+
+Norsk Tillitsmann ASA
+6 Conditions Precedent 6.1 Disbursement of the first tranche of the Loan will be subject to the Loan Trustee having
+received the following documents in form and substance satisfactory to it, at least
+
+<<<
+
+ three Banking days prior to the Disbursement Date unless waived or a shorter time limit has been agreed pursuant to Clause 6.2: (a) the Loan Agreement duly signed, (b) certified copies of all necessary corporate resolutions to issue the Bonds
+
+<<<
+
+ and sign
+the Loan Agreement, (c) certified copies of the Articles of Association of the Borrower and extracts fiom the
+relevant registrar or similar documentation evidencing the individuals authorised to sign on behalf of the Borrower, (d)
+
+<<<
+
+ confirmation fiom the Lead Manager of the Loan that a prospectus is not required according to Norwegian law, (e) confirmation that the Loan has been registered in a Securities Depository, ( f ) the agreement according to Clause 15.1of the Loan
+
+<<<
+
+ Agreement, duly signed, (g) a legal opinion from the Borrower's legal counsel in form and substance satisfactory to the Loan Trustee. 6.2 The Loan Trustee is entitled to accept a delay in receiving documents according to the above. 6.3 Subject
+
+<<<
+
+ to the conditions set out above the first tranche of the Loan will be made available on the Disbursement Date. 6.4 The Borrower may issue further tranches of the Loan, c.f. subclause 2.2, provided that
+the documents earlier received by the
+
+<<<
+
+ Loan Trustee, c.f. subclause 6.1,are still valid and
+that the Borrower is not aware of any material adverse change c.f. subclause 7.1, and that the issue of a new tranch under the Loan is in compliance with laws and regulations as of the time
+
+<<<
+
+ the new tranch being issued.
+7
+
+Norsk Tillitsmann ASA
+7 Representations and Warranties
+7.1 The Borrower represents and warrants that:
+(a) the latest published accounts, presents the latest available financial information concerning the Borrower
+
+<<<
+
+ and there has been no change in the Borrower which could have a material adverse change on the Borrowers ability to perform its duties under the Loan Agreement,
+(b) all authorisations,consents, licenses or approvals of governmental authorities
+
+<<<
+
+ required for the Borrower in connection with the execution, performance validity or enforceability of the Loan Agreement have been obtained and are valid and
+(c) no litigation, arbitration or administrative proceeding is pending or, to the
+
+<<<
+
+ best of the Borrowers knowledge, threatened against it which would materially and adversely affect the affairs, assets or financial condition of the Borrower or its
+ability to perform its obligations under the Loan Agreement .
+7.2 The Borrower
+
+<<<
+
+ shall indemni@ the Loan Trustee for any economic losses suffered as a result of relying on the representations and warranties provided by the Borrower herein both prior to disbursement of the Loan, and during its life.
+8 Status of the Loan
+
+<<<
+
+
+8.1 Upon distribution to the Borrower, the Loan will rank as subordinated capital of the Borrower in accordance with Section 136 of the Financial Business Act.
+8.2 Bondholders can insist on redemption of their bonds prior to the Maturity Date
+
+<<<
+
+ only in the case of the Borrower entering into liquidation or being declared bankrupt.
+8.3 The Borrower may defer payment of interest if, on the due date, the base capital of the Borrower does not exceed the capital requirement pursuant to
+
+<<<
+
+ the Financial Business Act.
+8.4. Interest is payable on any unpaid interest at a rate equalling the coupon rate. Such interest is payable in arrear and will be compounded on any date when interest rate falls due for payment.
+8.5 Any unpaid
+
+<<<
+
+ interest with accrued interest will fall due for payment
+1) when the capital requirement of the Borrower pursuant to the Financial Business Act again is satisfied,
+2) on the Maturity Date
+whichever is earlier.
+8
+
+Norsk Tillitsmann ASA
+8.6
+
+<<<
+
+ The bondholders' claims will be subordinated to the claims of any non-subordinated creditors and will be available for the absorption of losses, even if the Borrower is permitted to continue its operations.
+8.7 The general meeting of the shareholders
+
+<<<
+
+ of the Borrower will be entitled to reduce the principal amount and any unpaid interest if the shareholders' equity has been lost and the share capital has been written down to DKK O. Such reduction is moreover conditional upon the subsequent
+
+<<<
+
+ contribution of fresh capital to the Borrower in such manner that the Borrower again satisfies the capital requirement pursuant to the Financial Business Act, or upon a merger between the Borrower and another financial institution or if the
+
+<<<
+
+ borrower closes down without any losses for non-subordinated creditors.
+8.8 The general meeting of the Borrower may only reduce the principal amount and any unpaid interest by an amount approved in advance by the elected auditors of the Borrower
+
+<<<
+
+ and by the Danish Financial Supervisory Authority.
+8.9 The Loan and associated interest shall be subordinated all other non-subordinated obligations of the Borrower but shall rankpari passu with all other subordinated obligations of the Borrower
+
+<<<
+
+ except for obligations mandatory preferred by law applying to companies generally.
+8.10 As a consequence of the status of the Loan as subordinated loan capital, it cannot be redeemed or demanded to be redeemed prior to the Maturity Date without
+
+<<<
+
+ the authorisation of the Danish Financial Supervisory Authority.
+9 Interest and interest calculations
+9.1 Interest accrues from and including 20 November 2006 based on NIBOR plus 0.60 percentage points. The interest rate is set on the first
+
+<<<
+
+ Interest Determination Date. Should NIBOR not be available, the interest rate will be set based on NIBOR Reference Banks plus 0.60 percentage points.
+The interest rate is reset in accordance with sub-clause 9.2.
+The interest is paid in arrears
+
+<<<
+
+ on each Interest Payment Date, the first Interest Payment Date falling in February 2007.
+9.2 The interest rate on the Loan is reset with effect from each Interest Payment Date. The new interest rate is reset on the Interest Determination Date
+
+<<<
+
+ based on NIBOR plus 0.60 percentage points. Should NIBOR not be available, the interest rate will be reset based on NIBOR Reference Banks plus 0.60 percentage points.
+When the interest is reset in February 2012 and on subsequent interest determinations
+
+<<<
+
+, interest rate will be reset based on NIBOR or NIBOR Reference Banks plus 2.10 percentage points.
+When the interest is set for the first time and on subsequent interest rate resets, the next
+9
+
+Norsk Tillitsmann ASA
+Interest Payment Date and
+
+<<<
+
+ the actual number of calendar days up to that date must be notified to the Bondholders in writing via the Securities Depository. This communication must also include the interest rate applicable up to the next Interest Payment Date. The Loan
+
+<<<
+
+ Trustee shall be notified of the new interest rate immediately.
+9.3 In the event that the interest rate is fixed in accordance with quotes from NIBOR Reference Banks, the Borrower or Bondholders representing at least l/lOth of the Outstanding
+
+<<<
+
+ Loan may appeal against the interest rate fixing. Such an appeal must be presented in writing to the Loan Trustee within 20 Banking Days of the Bondholders being informed of the interest rate fixing. The appeal will be dealt with by a committee
+
+<<<
+
+ comprising three members, of which one representative is nominated by the Borrower, one representative is nominated by the Loan Trustee and a chairman agreed by the representatives of the two parties. If the parties cannot agree on a chairman
+
+<<<
+
+, this person will be nominated by the Lord Chief Justice of the City of Oslo Magistrates Court. The decision of the committee is final.
+Bondholders shall receive written notice korn the Securities Depository that an appeal has been made against
+
+<<<
+
+ the procedure for fixing the interest rate in accordance with subclause 9.3.
+9.4 The interest is calculated on the basis of the actual number of elapsed calendar days from and including the Disbursement Date to but excluding the following Interest
+
+<<<
+
+ Payment Date, and subsequently from and including each Interest Payment Date to but excluding the next Interest Payment Date or the Maturity Date. The number of days is divided by 360.
+10 Borrower's Call Option
+10.1 The Borrower may on the
+
+<<<
+
+ Interest Payment Date on 20 February 2012 (the "Option Date") and on each subsequent Interest Payment Date throughout the term of the Loan redeem the Loan wholly or partially at a price of 100 % (Call Option), provided that such redemption
+
+<<<
+
+ has been authorised by the Danish Financial Supervisory Authority.
+Partial redemption of the Loan must be camed out by drawing of lots between the bonds.
+Should the Borrower utilise his redemption right, the bondholders must be informed of
+
+<<<
+
+
+- this in writing via the Securities Depository no later than 30 thirty - Banking Days
+before the Option Date.
+11 Maturity of the Loan
+11.1 The Loan will runwithout instalments and mature in whole on the Maturity Date, at par (loo%), unless
+
+<<<
+
+ terminated and repaid in accordance with Clause 10.
+10
+
+Norsk TillitsmannASA
+12 Interest in the event of late payment
+12.1 In the event that payment of interest or principal is not made on the Interest Payment Dates, the amount outstanding
+
+<<<
+
+ shall bear interest fiom the Interest Payment Date at an interest rate equivalent to the interbank offered rate for Norwegian kroner quoted by major Norwegian banks for the relevant period plus 3 percentage points.
+12.2 The outstanding amounts
+
+<<<
+
+ shall bear interest as mentioned above until payment is made.
+13 Borrower's acquisition of Borrower's Bonds
+13.1 The Borrower has the right to acquire and own Borrower's Bonds. Borrower's Bonds may at the Borrower's discretion be retained by
+
+<<<
+
+ the Borrower, sold or used for partial redemption of the Remaining Loan, cf. however Clause 13.2.
+13.2 Acquisition of Borrower's Bonds in excess of 2 % of the Loan may not take place without approval from the Danish Financial Supervisory Authority
+
+<<<
+
+.
+14 Borrower's undertakings during the term of the Loan
+14.1 During the term of the Loan the Borrower shall:
+(a) of its own accord, make annual and interim reports available on the Borrower's website (alternatively by sending them to the Loan
+
+<<<
+
+ Trustee) as soon they are available, and not later than 150 days after the end of the financial year and not later than 60 days after the end of the relevant interim report,
+(b) of its own accord notify the Loan Trustee if the Borrower has
+
+<<<
+
+ decided to utilise its right of redemption (Call Option) pursuant to Clause 10,
+(c) at the request of the Loan Trustee send a report outlining the balance of Borrower's Bonds,
+(d) ensure that provisions in line with Clause 8.9 apply also to
+
+<<<
+
+ subordinated loans issued by the Borrower at a later time,
+(e) not to make dividend payments to its shareholders for so long as any deferred interest amount is outstanding,
+(0 forward to the Loan Trustee copies of any creditors' notifications
+
+<<<
+
+ of the Borrower,
+including but not limited to mergers, demergers and reduction of shareholders capital,
+11
+
+Norsk Tillitsmann ASA
+(g) at the request of the Loan Trustee provide the documents and information necessary to enable the Loan Trustee
+
+<<<
+
+ to carry out its rights and duties pursuant to the Loan Agreement, laws and regulations,
+(h) within a reasonable time limit provide information about the Borrower's financial condition as the Loan Trustee may reasonably request.
+15 Fees and
+
+<<<
+
+ expenses
+15.1 The Borrower shall pay an annual fee to the Loan Trustee, the amount of which is set out in a separate agreement between the Borrower and the Loan Trustee.
+15.2 The Borrower shall cover all expenses in connection with the Loan
+
+<<<
+
+, such as preparation of the Loan Agreement and registration and administration of the Loan in the Securities Depository in accordance with the agreement between the Borrower and the Securities Depository.
+15.3 The Borrower shall cover any document
+
+<<<
+
+ fee and other public fees in connection with the Loan. Any public fees or taxes on sales of bonds in the secondary market shall be paid by the bondholders, unless otherwise decided by law or regulation.
+15.4 In addition to the fee of the Loan
+
+<<<
+
+ Trustee pursuant to sub-clause 15.1 and normal expenses pursuant to sub-clauses 15.2 and 15.3, the Borrower shall on demand cover extraordinary expenses incurred by the Loan Trustee in connection with the Loan, as determined in separate agreement
+
+<<<
+
+ between the Borrower and the Loan Trustee. See however sub-clause 20.2.
+16 Events of Default
+16.1 It follows f?om the status of the Loan, cf. Clause 8 that the Loan Agreement must not contain provisions according to which the Loan, at the creditor
+
+<<<
+
+'s initiative, may be repaid prior to the Maturity Date.
+16.2 The individual Bondholder cannot of his own accord recover its bond(s) directly fiom the Borrower.
+17 Authority of the bondholders' meeting and the Loan Trustee
+17.1 To the extent
+
+<<<
+
+ creditor's approval is required according to law, regulation or the Loan Agreement, the bondholders' meeting may make decisions in all questions concerning the Loan, provided that such question concerns:
+12
+
+Norsk Tillitsmann ASA
+(a) change
+
+<<<
+
+ of bondholders' Loan Trustee, cf. Clause 20, or (b) any matter which is proposed or approved by the Borrower and, if necessary, the
+Danish Financial Supervisory Authority. The bondholders' meeting may attach conditions to its decisions. The
+
+<<<
+
+ bondholders' meeting cannot make decisions that are liable to give certain bondholders or others an unreasonable advantage at the expense of other bondholders. 17.2 The Loan Trustee has the right and obligation to implement all decisions validly
+
+<<<
+
+ made at the bondholders' meeting. 17.3 The Borrower and the bondholders shall be notified of decisions made in accordance with sub-clauses 17.1 as soon as possible and in a suitable manner.
+18 Procedural rules 18.1 A bondholders' meeting shall
+
+<<<
+
+ be held at the request of:
+(a) the Borrower, (b) bondholders representing at least 1/10 of Loan Outstanding, or (c) the Loan Trustee. A request of a bondholders' meeting shall be made in writing and clearly state the matters to be discussed
+
+<<<
+
+ and the provisions of this Loan Agreement on which the request is based. The request shaii be sent to the Loan Trustee. 18.2 The bondholders' meeting shall be summoned by the Loan Trustee pursuant to the provisions of sub-clause 18.3. Simultaneously
+
+<<<
+
+ with the decision to summon the bondholders' meeting, the Loan Trustee can demand that the Borrower does not increase Loan Outstanding. If the Loan Trustee has not complied with a valid request for a bondholders' meeting as set forth in sub
+
+<<<
+
+-clause 18.1within five Banking Days after having received such request, then the Borrower and the relevant bondholder(s) have the right themselves to summon the meeting pursuant to the provisions of sub-clause 18.3. 18.3 The summons to a bondholders
+
+<<<
+
+' meeting shall be dispatched and if necessary notified at the latest five Banking Days before the date of the meeting.
+13
+
+Norsk Tillitsmann ASA
+The summons shall be effected by written notification through the Securities Depository to every
+
+<<<
+
+ bondholder with known place of residence. The notification through the Securities Depository shall also state the number of bonds in the Loan (print-out) owned by the bondholder in question at the time the print-out is made.
+The summons shall
+
+<<<
+
+ clearly state the matters to be discussed at the bondholders' meeting, and the provisions of this Loan Agreement on which the request is based and inform that the relevant documents are available from the Loan Trustee, the Borrower or at such
+
+<<<
+
+ other place as stated in the summons. If any change of the Loan Agreement has been proposed, the main content of the proposal shall be stated in the summons.
+The meeting can only make decisions regarding the matters which were stated in the
+
+<<<
+
+ summons, unless all the bondholders in the Loan Outstanding agree otherwise subject to the provisions hereof.
+If in order to make a valid decision it is necessary, pursuant to Clause 19 of the Loan Agreement, to hold a new bondholders' meeting
+
+<<<
+
+ and discuss the matter a second time, such new bondholders' meeting cannot be summoned before the first meeting has been held. The summons to the second meeting shall inform of the turnout and result of the vote at the first bondholders' meeting
+
+<<<
+
+.
+18.4 The meeting shall be held at the premises of the Loan Trustee or at premises designated by the Loan Trustee.
+The meeting shall be presided over by the Loan Trustee, unless the bondholders' meeting decides otherwise. If the Loan Trustee
+
+<<<
+
+ is not present, the meeting shall be presided over by a bondholder or representative of the bondholders, elected by the bondholders.
+The minutes of the meeting shall be kept, showing the bondholders present - personally
+or by proxy - as well
+
+<<<
+
+ as how many votes each bondholder can cast. Further, the decisions made at the meeting, as well as the result of the vote, shall be recorded. The minutes shall be signed by the chairman and two bondholders or proxies. The minutes shall be kept
+
+<<<
+
+ in a safe manner by the Loan Trustee, and shall be available to the bondholders.
+18.5 Bondholders, the Borrower and the Loan Trustee have the right to attend the bondholders' meeting. The bondholders' meeting can grant entrance to the meeting
+
+<<<
+
+ to other parties. The participants at the meeting have the right to meet with an advisor andor by proxy.
+18.6 At the bondholders' meeting each bondholder has one vote for each bond he owns. The notification of the number of bonds in the Loan
+
+<<<
+
+ (print-out) which was sent to each bondholder through the Securities Depository in the summons to the meeting, see subclause 18.3, serves as proof of ownership of the bonds and of each owner's right to vote. In the event that bonds have been
+
+<<<
+
+ transferred after the print-out was made, the new bondholder must bring to the meeting the original summons and the print-out, endorsed so as to document the transfer.
+14
+
+Norsk Tillitsmann ASA
+The Borrowers' Bonds do not give the right to
+
+<<<
+
+ vote and are not taken into account when determining the number of voting bonds.
+In case of doubt, the chairman of the bondholders' meeting decides which bondholders can vote and how many votes each one has.
+18.7 In order for the bondholders
+
+<<<
+
+' meeting to be able to make valid decisions, bondholders representing at least 5/10 of the Loan Outstanding must be represented, see however Clause19.
+In the event that the bondholders present represent less than 5/10 of the Loan Outstanding
+
+<<<
+
+, decisions may only be made by a 2/3 majority of the bonds represented. If the bondholders present represent 5/10 or more of the Loan Outstanding, valid decisions may be made by a simple majority, see however Clause 18.8.
+18.8 In the following
+
+<<<
+
+ matters a majority of 2/3 of the bonds represented at the meeting must vote in favour of the decision:
+(a) change of bondholders' Loan Trustee, (b) change of borrower,
+(c) changes in the Loan Agreement's conditions, including interest, maturity
+
+<<<
+
+, term and security/collateral, or
+(d) changes in the Borrower's corporate structure which are of significant importance for the fulfilment of the Loan Agreement.
+18.9 In all matters where unanimity is not attained, the voting shall be in writing
+
+<<<
+
+ and the number of votes shall be recorded in the minutes of the meeting. In the case of a tie in the votes, the matter shall be decided by the Chairman, even if he is not a bondholder or proxy.
+Decisions made at a bondholders' meeting which
+
+<<<
+
+ entail changes to the Loan Agreement shall be attached to the Loan Agreement in the form of a certified copy of the minutes of the meeting.
+19 Repeated bondholders' meeting
+In the event that less than 211O of the Loan Outstanding are represented
+
+<<<
+
+, a valid decision may not be made at the first bondholders' meeting at which the matter is discussed. After a new meeting has been summoned and the matter discussed a second time, a valid decision may be made pursuant to the voting d e s set
+
+<<<
+
+ forth above; this also applies to cases in which less than 2/10 of the Loan Outstanding are represented.
+15
+
+Norsk TillitsmannASA
+20 Change of bondholders' representative
+20.1 In the event that the Borrower or/and bondholders wish to replace
+
+<<<
+
+ the Loan Trustee pursuant to sub-clause 17.1 (a), or a change of the Loan Trustee is necessary according to law, regulation or ordinance, or the Loan Trustee has requested such change, the Loan Trustee shall immediately summon a bondholders
+
+<<<
+
+'meeting to decide on the matter. The Loan Trustee shall put before the bondholders'meeting a proposal for a bondholders' representative. The bondholders and the Borrower can submit proposals. The bondholders shall after the bondholders'meeting
+
+<<<
+
+, be notified of the decision and the date on which the change of bondholders' representativebecomes effective.
+20.2 The Loan Trustee shall act as representative for the bondholders until a new representative has been elected. In the event that
+
+<<<
+
+ the Loan Trustee does not act properly and the interests of the bondholders suffer, the Oslo Stock Exchanges may appoint a temporary bondholders` representative. The cost of this temporary representative shall be covered by the Borrower, but
+
+<<<
+
+ may be recovered wholly or in part from the former bondholders' representative if the change is due to breach of the duties of the bondholders' representative under this Loan Agreement, or other circumstances for which the bondholders' representative
+
+<<<
+
+ is responsible.
+20.3 The Loan Trustee shall co-operate so that the new bondholders' representative is given, without undue delay after the bondholders'meeting, the documents and information necessary to perform its functions and duties under
+
+<<<
+
+ the Loan Agreement. The Loan Trustee shall provide a summary of the following up of conditions of the Loan Agreement.
+21 Governing Law
+Subject to Clause 23.1 the Loan Agreement is governed by and shall be construed in accordance with Norwegian
+
+<<<
+
+ Law.
+22 Limitation
+Claims for interest and principal shall be limited in time pursuant to the Norwegian Act relating to the Limitation Period for Claims of May 18, 1979 nr. 18.
+16
+
+Norsk Tillitsmann ASA
+23 Dispute resolution and legal venue
+
+<<<
+
+
+23.1 Disputes arising out of or in connection with the Loan Agreement which are not resolved amicably, shall be resolved in accordance with Norwegian law and in the Norwegian courts save for any questions related to the Loan's status as subordinated
+
+<<<
+
+ capital of the Borrower under Section 136 of the Financial Business Act which shall be resolved in accordance with Danish law.
+23.2 Legal suits shall be served at the competent legal venue of the Loan Trustee.
+
+Oslo, 16 November 2006
+
+a)gi
+
+<<<
+
+% SDarNordBankA/S '7
+..................... .. ..... ........
+
+Norsk Tillitsmann ASA
+37-z- Loan Trustee
+.... ..-... ..............................
+
+The Loan Agreement has been executed in 2 copies (originals), of which the Borrower and the Loan
+
+<<<
+
+ Trustee keep one each.
+
+17
+
+

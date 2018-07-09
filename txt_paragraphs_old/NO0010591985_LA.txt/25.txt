@@ -1,0 +1,9 @@
+9.4 The day count fraction in respect of the calculation o f the payable interest amount shall be "30/360", which means that the number o f days in the calculation period in respect of which payment is being made divided by 360 (the number o f days to be calculated on the basis of a year of 360 days with twelve 30-days months (unless (i) the last day of the calculation period is the 31st day o f a month but the first day o f the calculation period is a day other than the 30th or 31st day o f a month, in which case the month that includes that last day shall not be considered to be shortened to a 30day month, or (ii) the last day o f the calculation period is the last day o f the month of February, in which case the month o f February shall not be considered to be lengthened to a 30-day month)).
+Interest = Amount
+Face Value
+x
+Fixed
+Rate
+x Fixed Rate Day Count Fraction
+10 Maturity of the Bonds and Redemption
+10.1 Maturity The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.

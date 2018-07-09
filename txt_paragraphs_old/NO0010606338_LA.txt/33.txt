@@ -1,0 +1,9 @@
+The day count convention in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment is being made is divided by 360 (the "Day Count Factor").
+The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period.
+When the interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and the actual number o f calendar days up to that date shall immediately be notified to the Bondholders, the Issuer, the Paying Agent, and if the Bonds are listed, the Exchange.
+9.2.6 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+Interest = Amount
+Face Value
+x Floating Rate
+x Day Count Factor
+10 Maturity of the Bonds and Redemption 10.1 Maturity 10.1.1 The Bonds constituting the FRN Tranche shall be repaid as follows:

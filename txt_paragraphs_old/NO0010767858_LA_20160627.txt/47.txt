@@ -1,0 +1,9 @@
+9.2
+Interest Payment Date falling on 27 August 2016.
+9.3
+The relevant interest payable amount shall be calculated based on a period from, and including,
+the Issue Date or an Interest Payment Date (as the case may be) to, but excluding, the next
+following applicable Interest Payment Date.
+9.4
+The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of
+the payable interest amount shall be "Actual/360", which means that the number of days in

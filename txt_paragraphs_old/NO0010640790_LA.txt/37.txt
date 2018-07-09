@@ -1,0 +1,9 @@
+COCCP = means the Change of Control Conversion Price;
+CP = means the Conversion Premium;
+17
+Noisk Tillitsmann ASA
+Execution Version
+c = means the number of days from and including the date the Change of Control occurs to but excluding the Final Maturity Date; and
+t = means the number of days from and including the Settlement Date to but excluding the Final Maturity Date The number of Shares required to be issued shall be determined by dividing 100% of par value of the Bonds by the Change of Control Conversion Price in effect on the relevant Conversion Date.
+The respective Bondholder must notify the Paying Agent within the Change of Control Conversion Period of its election of whether or not to (a) require early redemption, or (b) convert the Bonds to Shares.
+In the event of an early redemption pursuant to this Clause, settlement shall be three (3) Business Days after the Paying Agent has received such request.

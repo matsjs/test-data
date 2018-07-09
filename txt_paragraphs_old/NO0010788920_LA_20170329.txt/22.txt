@@ -1,0 +1,9 @@
+(a) the present value on the Call Option Repayment Date of 102 per cent. of the Nominal Amount of the redeemed Bonds as if such payment originally had taken place on the First Call Date; and
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
+"Manager" means Skandinaviska Enskilda Banken AB (publ) who acts as manager for the Initial Bond Issue.
+"Margin" means 3.75 per cent, as adjusted pursuant to the Incurrence Test Grid.
+"Material Adverse Effect" means a material adverse effect on:
+(a) the Issuer's or any Guarantor's ability to perform and comply with its obligations under any of the Finance Documents, or
+(b) subject to standard qualifications and reservations in legal opinions, the validity or enforceability of any of the Finance Documents.
+"Maturity Date" means 31 March 2022, adjusted according to the Business Day Convention.
+"Maximum Issue Amount" shall have the meaning ascribed to such term in Clause 2.1 (Amount, denomination, ISINand tenor).

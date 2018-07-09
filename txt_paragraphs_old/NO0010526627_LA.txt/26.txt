@@ -1,0 +1,9 @@
+Interest = Amount
+x Floating Rate
+x Floating Rate Day Count Fraction
+10
+Maturity of the Bonds and Redemption, Call Option and Change of Control
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 10.2.1
+Call Option

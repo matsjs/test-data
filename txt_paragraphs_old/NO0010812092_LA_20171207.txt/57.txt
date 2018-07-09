@@ -1,0 +1,9 @@
+(c) Any interpolation of the interest rate will be quoted with the number of decimals corresponding to the quoted number of decimals of the Reference Rate.
+10. REDEMPTION AND REPURCHASE OF BONDS 10.1 Redemption of Bonds
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the Issuer on the Maturity Date at a price equal to 100 per cent, of the Nominal Amount.
+10.2 Voluntary early redemption - Call Option (a) The Issuer may redeem all or parts of the of the Outstanding Bonds (the "Call Option") on any Business Day from and including:
+(i) the Issue Date to, but not including, the First Call Date, at a price equal to the Make Whole Amount;
+(ii) the First Call Date to, but not including, the Interest Payment Date falling 36 months after the Issue Date, at a price equal to 103 per cent, of the Nominal Amount for each redeemed Bond;
+(iii) the Interest Payment Date falling 36 months after the Issue Date to, but not including, the Interest Payment Date falling 42 months after the Issue Date, at a price equal to 102.4 per cent, of the Nominal Amount for each redeemed Bond;
+(iv) the Interest Payment Date falling 42 months after the Issue Date to, but not including, the Interest Payment Date falling 48 months after the Issue Date, at a price equal to 101.8 per cent, of the Nominal Amount for each redeemed Bond;
+(v) the Interest Payment Date falling 48 months after the Issue Date to, but not including, the Interest Payment Date falling 54 months after the Issue Date, at a price equal to 101.2 per cent, of the Nominal Amount for each redeemed Bond;

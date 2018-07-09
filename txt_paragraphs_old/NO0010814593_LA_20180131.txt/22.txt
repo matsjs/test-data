@@ -1,0 +1,9 @@
+"Issuer's Bonds" means any Bonds which are owned by the Issuer or any Affiliate of the Issuer.
+12 (68)
+"Liquidity" means the free and unencumbered consolidated cash balance of the Group as defined in accordance with GAAP (including for the avoidance of doubt amounts standing to the credit of accounts which have been pledged in favour of the Bond Trustee (on behalf of the Bondholders), but not including any amounts standing to the Issuer's credit on the Escrow Account, the Disposal Account and the Cash Deposit account) less the amount of any Short Term Credits.
+"Longstop Date" means the date falling sixty (60) days after the Issue Date.
+"Make Whole Amount" means an amount equal to the sum of:
+(a) the present value on the Call Option Repayment Date of 104.00 per cent. of the Nominal Amount of the redeemed Bonds as if such payment originally had taken place on the First Call Date; and
+(b) the present value on the Call Option Repayment Date of the remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the First Call Date,
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation).
+"Manager" means DNB Bank ASA, DNB Markets, Dronning Eufemias gate 30, 0021 Oslo, Norway.

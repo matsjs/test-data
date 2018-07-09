@@ -1,0 +1,4096 @@
+
+
+<<<
+
+Terms and Conditions for
+Nobina Europe AB (pub!) Senior Secured Bond Issue 2012/2017
+SEK Bonds, ISIN SE0004725000 EUR Bonds, ISIN SE0004725018
+
+The distribution of this document and the private placement o f the Bonds in certain jurisdictions
+
+<<<
+
+ may be restricted by law. Persons in whose possession this document comes are required by the Issuer to inform themselves about, and to observe, such restrictions.
+The Bonds have not been and will not be registered under the U.S. Securities
+
+<<<
+
+ Act 1933, as amended, and are subject to U.S. tax law requirements. Subject to certain exemptions, the Bonds may not be offered, sold or delivered within the United States of America or to, or for the account or benefit of, U. S. persons.
+
+
+<<<
+
+
+W/2773419A/3
+
+ROSCHIER
+
+Table of Contents
+1. Definitions and Interpretation .......... 2. The Bonds................ 3. Status of the Bonds and Security.................... 4. Bonds in Book-entry Form........... ...... 5. Conversion.......
+
+<<<
+
+...... 6. Listing..... .............. 7. Interest........ ......... 8. Payments.................. 9. Maturity of the Bonds and Redemption.......... 10. Fees and Expenses....... ............. 11. Information Undertakings....... .............
+
+<<<
+
+....... 12. Undertakings............. .............. 13. Events of Default.................. 14. Application of Proceeds......... ...... 15. Bondholders' Meeting and Written Procedures................. 16. No-action Against the issuer......
+
+<<<
+
+. ........ 17. The Bond Trustee............................................ 18. Change of issuing Agent.............. 19. Amendments............. 20. Prescription.............. 21. Notices.... ........... 22. Nominee Registration ..........
+
+<<<
+
+............................................. 23. Limitation of Liability........... ......... 24. Governing Law and Jurisdiction................
+
+1 .....23 .....24
+24 .....25 ........25
+...25 .26 27 31 31 32 49 53
+........53 ...56 56 60 60
+
+<<<
+
+
+.......60 61 62 62
+.....62
+
+W/2773419/v3
+
+i
+
+The below terms and conditions (the 'Terms and Conditions") shall govern the maximum SEK 518,849,880 (ISiN SE0004725000) and the maximum EUR 3,749,550 (iSIN SE0004725018) senior secured bonds, issued
+
+<<<
+
+ by Nobina Europe AB (pub!).
+1. Definitions and Interpretation
+1.1 Definitions
+For the purpose of these terms and conditions the following definitions shall apply:
+"Account Operator" means a bank or other party duly authorized to operate as
+
+<<<
+
+ an account operator (Sw. kontoforande institut) pursuant to the Swedish Financial Instruments Accounts Act (1998:1479) and through which a Bondholder has opened a VP Account in respect of the Bonds.
+"Accounting Date" means (i) 31 August in
+
+<<<
+
+ relation to Clause 9.3 {Early Redemption in Case ofFuil Cash Coverage ("put)), and (ii) 28 February in relation to Clause 9.5 (Early Redemption in Case o f Available Excess Cash).
+"Acquired Debt" means, with respect to any specified entity
+
+<<<
+
+:
+(a) Indebtedness of any other entity existing at the time such other entity is merged with or into or became a Subsidiary of such specified entity, whether or not such Indebtedness is incurred in connection with, or in contemplation of, such
+
+<<<
+
+ other entity merging with or into, or becoming a Subsidiary of, such specified entity; and
+(b) Indebtedness assumed, or secured by a Security encumbering any asset acquired, by such specified entity.
+"Adjusted Nominal Amount" means the total
+
+<<<
+
+ nominal amount of all outstanding Bonds, less the amount of Bonds held by the issuer or any Group Company.
+"Advisor Fees" means the fees payable to Swedbank First Securities and Handelsbanken Capital Markets in accordance with separate fee
+
+<<<
+
+ agreements and Clause 10 (Fees and Expenses).
+"Affiliate" of any person or entity means any other person or entity directly or indirectly controlling or controlled by or under direct or indirect common control with such entity. For purposes
+
+<<<
+
+ of this definition, "control", as used with respect to any entity, means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of such entity, whether through the ownership of voting
+
+<<<
+
+ securities, by agreement or otherwise. For purposes of this definition, the terms "controlling," "controlled by" and "under common control with" have correlative meanings.
+"Asset Sale" means:
+(a) the sale, lease out, conveyance or other disposition
+
+<<<
+
+ of any assets or rights (other than buses) other than sales of inventory in the ordinary course of business consistent with past practices; provided that the sale, lease, conveyance or other disposition of all or substantially all of the assets
+
+<<<
+
+ of the Issuer and its Restricted Subsidiaries taken as a whole will be governed by Clause 12.1 (Mergers) and be subject to Clause 9.2 {Early Redemption upon a
+W/2773419/V3
+
+Change of Controf) and not by Clause 12.12 (Limitation on Certain
+
+<<<
+
+ Asset Sales); and
+(b) the issuance of Equity interests by any of the Company's Restricted Subsidiaries or the sale of Equity Interests in any of its Subsidiaries.
+Notwithstanding the preceding, the following items will not be deemed to be Asset
+
+<<<
+
+ Sales:
+(a) any single transaction or series of related transactions (other than sales of buses) that (i) involves assets having a fair market value of less than SEK 25.000. 000 or (ii) results in net proceeds to the Issuer and its Restricted
+
+<<<
+
+ Subsidiaries of less than SEK 25,000,000, and in each case when aggregated with the Net Proceeds of alt other such disposals does not exceed SEK 75.000. 000 from the date of these Terms and Conditions until the Maturity Date;
+(b) any transaction
+
+<<<
+
+ involving the sale of one or more buses, in the ordinary course of business, which are no longer suitable or required for use in connection with the business of the Issuer and its Restricted Subsidiaries (as determined in good faith by the
+
+<<<
+
+ Issuer's board of directors or the chief financial officer of the Issuer) (the "Surplus Buses"); provided further that any dispositions of Surplus Buses are made for fair market value (as determined in good faith by the Issuer's board of directors
+
+<<<
+
+ or the chief financial officer of the Issuer); and provided further that paragraph (b) of Clause 12.12 (Limitation on Certain Asset Sales) and Clause 9.4 (Early Redemption upon an Asset Sale) is complied with;
+(c) a transfer of assets between
+
+<<<
+
+ or among the Issuer and its Wholly Owned Restricted Subsidiaries that are Guarantors;
+(d) an issuance of Equity Interests by a Wholly Owned Restricted Subsidiary of the Issuer to the Issuer or to another Wholly Owned Restricted Subsidiary of
+
+<<<
+
+ the Issuer; and
+(e) sales of property or equipment that has become worn-out, obsolete or damaged or otherwise unsuitable for use in connection with the business of the Issuer and its Restricted Subsidiaries, provided that any dispositions made
+
+<<<
+
+ pursuant to this parenthetical are made for fair market value (as determined in good faith by the Issuer's board of directors or the chief financial officer of the Issuer), and provided further that paragraph (b) of Clause 12.12 (Limitation
+
+<<<
+
+ on Certain Asset Sales) is complied with.
+"Attributable Debt" in respect of a Sale and Leaseback Transaction means, at the time of determination, the present value of the obligation of the lessee for net rental payments during the remaining
+
+<<<
+
+ term of the lease included in such Sale and Leaseback Transaction including any period for which such lease has been extended or may, at the option of the lessor, be extended. Such present value will be calculated using a discount rate equal
+
+<<<
+
+ to the rate of interest implicit in such transaction, determined in accordance with GAAP.
+"Available Cash" means the aggregate amount of:
+2
+
+(a) the consolidated non-restricted and freely available cash and Cash Equivalents of the issuer 
+
+<<<
+
+(on a consolidated basis) as per the relevant Accounting Date; plus
+(b) any projected payments of accounts receivables to the issuer (on a consolidated basis) for the Applicable Period; less
+(c) any projected payments of accounts payables by
+
+<<<
+
+ the Issuer (on a consolidated basis) for the Applicable Period; plus or less
+(d) the consolidated net projected change in working capital (not covered by (b) and (c) above) during the Applicable Period; plus (if positive) or less (if negative
+
+<<<
+
+); plus
+(e) the consolidated net projected results of non-recurring items during the Applicable Period; less
+(f) if, for the purpose of calculation of Available Cash pursuant to 9.5 (Early Redemption in Case of Available Excess Cash), the consolidated
+
+<<<
+
+ net projected results of non-recurring items during the fourth to an including the ninth month following thereafter, if negative.
+For the purpose of determining Available Cash, the "Applicable Period" shall mean the following six calendar months
+
+<<<
+
+ from the relevant Accounting Date if applied for the calculation of Available Cash for the purpose of Clause 9.3 (Early Redemption in Case o f Full Cash Coverage (put)) and the following three calendar months from the relevant Accounting Date
+
+<<<
+
+ if applied for the calculation of Available Cash for the purpose of Clause 9.5 (Early Redemption in Case of Available Excess Cash).
+"Available Excess Cash" has the meaning set out in Clause 9.5 (Early Redemption in Case of Available Excess
+
+<<<
+
+ Cash).
+"Bid Notice" has the meaning set out in Clause 9.5 (Early Redemption in Case of Available Excess Cash).
+"Bid Period" has the meaning set out in Clause 9.5 (Early Redemption in Case of Available Excess Cash).
+"Bond" means a debt instrument
+
+<<<
+
+ (Sw. skuldförbindelse) of the type set forth in Chapter 1 Section 3 of the Swedish Financial Instruments Accounts Act (1998:1479) and which has been issued by the Issuer pursuant to these Terms and Conditions, which definition shall include
+
+<<<
+
+ the Original Bonds and New SEK Bonds.
+"Bond Trustee" means Swedish Trustee AB (pubi), a public limited liability company incorporated in Sweden with company registration number 556882-1879, or such other person that the Issuer from time to
+
+<<<
+
+ time appoints to manage certain tasks in accordance with the Finance Documents and other rules and regulations applicable to the Bonds.
+"Bondholder" means a person registered on a VP Account as Bondholder or otherwise entitled to receive payment
+
+<<<
+
+ in respect of a Bond and any person who in accordance with Clause 22 (Nominee Registration) shall be deemed to be a Bondholder.
+
+W/2773419/V3
+
+3
+
+"Bondholders' Meeting" has the meaning set forth in Clause 15 (Bondholders' Meeting).
+"Business
+
+<<<
+
+ Day" means a day (other than a Saturday or Sunday) on which banks are open for general business in Stockholm and, in relation to any date for payment or purchase of euro, any day on which TARGET is open for settlement of payments in Euro.
+
+
+<<<
+
+"Business Day Convention" means that if the relevant interest Payment Date falls on a day that is not a Business Day, that date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which
+
+<<<
+
+ case that date will be the first preceding day that is a Business Day.
+"Capital Lease Obligation" means, at the time any determination thereof is to be made, the amount of the liability in respect of a capital lease that would at that time
+
+<<<
+
+ be required to be activated on a balance sheet in accordance with GAAP.
+"Cash Equivalents" means:
+(a) Swedish Kronor, euro and US dollars;
+(b) debt securities issued or directly and fully guaranteed or insured by the government of Sweden, the
+
+<<<
+
+ United States of America or the United Kingdom or any agency or instrumentality thereof (provided that the full faith and credit of Sweden, the United States of America or the United Kingdom, respectively, is pledged in support thereof) having
+
+<<<
+
+ maturities of not more than six months from the date of acquisition;
+(c) certificates of deposit and eurodollar time deposits with maturities of six months or less from the date of acquisition, bankers' acceptances with maturities not exceeding
+
+<<<
+
+ six months and overnight bank deposits, in each case, having a rating of at least P-1 from Moody's and A-1 from S&P;
+(d) repurchase obligations with a term of not more than seven days for underlying securities of the types described in paragraphs
+
+<<<
+
+ (b) and (c) above entered into with any financial institution authorized to operate in Sweden under Swedish banking laws whose long term unsecured, unsubordinated debt rating is at least Aa3 by Moody's or AA- by S&P;
+(e) commercial paper having
+
+<<<
+
+ the highest rating obtainable from Moody's or S&P and in each case maturing within six months after the date of acquisition; and
+(f) money market funds at least 95 per cent of the assets of which constitute Cash Equivalents of the kinds described
+
+<<<
+
+ in paragraphs (a) through (e) of this definition.
+"Change of Control" means the occurrence of any of the following:
+(a) the sale, transfer, conveyance or other disposition (other than by way of merger or consolidation), in one or a series of
+
+<<<
+
+ related transactions, of all or substantially ail of the assets of the Issuer and its Subsidiaries taken as a whole;
+(b) the approval by the holders of Share Capital of the Issuer of any plan or proposal for the liquidation or dissolution of
+
+<<<
+
+ the Issuer, as applicable (whether
+4
+
+or not otherwise in compliance with the provisions of these Terms and Conditions);
+(c) any entity or group, other than the Permitted Holders, hold more than 51 per cent of the aggregate ordinary voting
+
+<<<
+
+ power represented by the issued and outstanding Share Capital of the Issuer; or
+(d) the Issuer consolidates with, or merges with or into, any entity, or any entity consolidates with, or merges with or into, the issuer, in any such event pursuant
+
+<<<
+
+ to a transaction in which any of the outstanding Voting Shares of the Issuer are converted into or exchanged for cash, securities or other property, other than any such transaction where the Voting Shares of the Issuer outstanding immediately
+
+<<<
+
+ prior to such transaction are converted into or exchanged for Voting Shares of the surviving or transferee entity constituting a majority of the outstanding shares of such Voting Shares of such surviving or transferee entity immediately after
+
+<<<
+
+ giving effect to such issuance.
+"Consolidated Cash Flow" means, with respect to any entity for any period, the Consolidated Net income of such entity for such period:
+(a) plus an amount equal to any non-recurring loss plus any net loss realized
+
+<<<
+
+ in connection with an Asset Sale, to the extent such losses were deducted in computing such Consolidated Net Income, and minus an amount equal to any extraordinary gain and minus any net gain realized in connection with an Asset Sale, to the
+
+<<<
+
+ extent such gains were included in computing such Consolidated Net Income;
+(b) plus charges classified and reflected as non-recurring on the Issue Date and for any other such period, in each case, on the issuer's consolidated financial statements
+
+<<<
+
+ prepared in accordance with GAAP;
+(c) plus provision for taxes based on income or profits of such entity and its Restricted Subsidiaries for such period (other than income or profits taxes attributable to extraordinary, unusual or nonrecurring
+
+<<<
+
+ gains or losses or taxes attributable to sales or dispositions outside the ordinary course of business), to the extent that such provision for taxes was deducted in computing such Consolidated Net income;
+(d) plus consolidated interest expense
+
+<<<
+
+ of such entity and its Restricted Subsidiaries for such period, whether paid or accrued and whether or not capitalized (including, without limitation, amortization of debt issuance costs and original issue discount, non-cash interest payments
+
+<<<
+
+, the interest component of any deferred payment obligations, the interest component of all payments associated with Capital Lease Obligations, imputed interest with respect to Attributable Debt, commissions, discounts and other fees and charges
+
+<<<
+
+ incurred in respect of letter of credit or bankers' acceptance financings, and net payments, if any, pursuant to Hedging Obligations), to the extent that any such expense was deducted in computing such Consolidated Net Income;
+(e) plus depreciation
+
+<<<
+
+, amortization (including amortization of goodwill and other intangibles but excluding amortization of prepaid cash expenses that were paid in a prior period) and other non-cash expenses (excluding any such non-cash expense to the extent that
+
+<<<
+
+ it represents an accrual of or reserve for cash expenses in any future period or amortization of a prepaid cash expense that
+
+W/2773419/V3
+
+5
+
+was paid in a prior period) of such entity and its Restricted Subsidiaries for such period to the
+
+<<<
+
+ extent that such depreciation, amortization and other non cash expenses were deducted in computing such Consolidated Net Income; and
+(f) minus non-cash items increasing such Consolidated Net Income for such period, other than items that were
+
+<<<
+
+ accrued in the ordinary course of business,
+in each case, on a consolidated basis and determined in accordance with GAAP.
+Notwithstanding the preceding, the provision for taxes based on the income or profits of, and the depreciation and amortization
+
+<<<
+
+ and other non-cash charges of, a Restricted Subsidiary of the Issuer will be added to Consolidated Net Income to compute Consolidated Cash Flow of the Issuer only to the extent that a corresponding amount would be permitted at the date of determination
+
+<<<
+
+ to be dividended to the issuer by such Restricted Subsidiary without prior approval {that has not been obtained), pursuant to the terms of its articles of association and all agreements, instruments, judgments, decrees, orders, statutes, rules
+
+<<<
+
+ and governmental regulations applicable to that Subsidiary or its shareholders.
+"Consolidated Net Income" means, with respect to any specified entity for any period, the aggregate of the Net Income of such entity and its Restricted Subsidiaries
+
+<<<
+
+ for such period, on a consolidated basis, determined in accordance with GAAP; provided that:
+(a) the Net income (but not loss) of any entity that is not a Restricted Subsidiary or that is accounted for by the equity method of accounting will
+
+<<<
+
+ be included only to the extent of the amount of dividends or distributions paid in cash to the specified entity or a Wholly Owned Restricted Subsidiary thereof;
+(b) the Net Income of any Restricted Subsidiary will be excluded to the extent
+
+<<<
+
+ that the declaration or payment of dividends or similar distributions by that Restricted Subsidiary of that Net Income is not at the date of determination permitted without any prior governmental approval (that has not been obtained) or, directly
+
+<<<
+
+ or indirectly, by operation of the terms of applicable laws, its articles of association or any agreement, instrument, judgment, decree, order, statute, rule or governmental regulation applicable to that Restricted Subsidiary or its shareholders
+
+<<<
+
+;
+(c) the Net Income of any entity acquired in a pooling of interests transaction for any period prior to the date of such acquisition will be excluded;
+(d) the Net Income (but not loss) of any Unrestricted Subsidiary will be excluded, whether
+
+<<<
+
+ or not distributed to the specified entity or one of its Subsidiaries;
+(e) the cumulative effect of a change in accounting principles will be excluded;
+(f) any restoration to income of any contingency reserve of an extraordinary, non recurring
+
+<<<
+
+ or unusual nature will be excluded, except to the extent that provision for such reserve was made out of Consolidated Net Income accrued in any period for which Consolidated Net Income is required to be calculated for purposes of these Terms
+
+<<<
+
+ and Conditions; and
+(g) for purposes of the "Restricted Payments" covenant in Clause 12.7 (,Limitation on Restricted Payments), in the case of a successor to the specified entity by consolidation or merger or as a transferee of the specified
+
+<<<
+
+ entity's
+6
+
+assets, any earnings of the successor corporation prior to such consolidation, merger or transfer of assets will be excluded.
+"Consolidated Net Worth" means, with respect to any entity as of any date, the sum of:
+(a) the consolidated
+
+<<<
+
+ equity of the common shareholders of such entity and its consolidated Subsidiaries as of such date; plus
+(b) the respective amounts reported on such entity's balance sheet as of such date with respect to any series of Preferred Shares that
+
+<<<
+
+ by its terms is not entitled to the payment of dividends unless such dividends may be declared and paid oniy out of net earnings in respect of the year of such declaration and payment, but only to the extent of any cash received by such entity
+
+<<<
+
+ upon issuance of such Preferred Shares.
+"Conversion" means a conversion from EUR Bonds to New SEK Bonds in accordance with Clause 5 (Conversion).
+"Conversion Bonds" means the EUR Bonds elected to be converted into New SEK Bonds in accordance
+
+<<<
+
+ with Clause 5 (Conversion).
+"Conversion Date" means the date of conversion of EUR Bonds into New SEK Bonds in accordance with Clause 5 (Conversion).
+"Conversion Notice" shall have the meaning set out in Clause 5 (Conversion)
+"Conversion Rate
+
+<<<
+
+" means.
+(a) for the purpose of a Conversion in accordance with Clause 5 {Conversion), the Issuing Agent's Spot Rate of Exchange on the Issue Date; and
+(b) for the purpose of Clause 15(h), the Issuing Agent's Spot Rate of Exchange on the date
+
+<<<
+
+ of the Bondholders' Meeting or on the last day of the Written Procedure (as applicable).
+"Default" means an Event of Default or any event or circumstance specified in Clause 13 (Events of Default) which would (with the expiry of a grace period
+
+<<<
+
+, the giving of notice, the making of any determination under the Finance Documents or any combination of any of the foregoing) be an Event of Default.
+"Disposal" means, in respect of an entity, the sale or disposal of such entity (whether by
+
+<<<
+
+ merger, consolidation, the sale of its Share Capital or the sale of ail or substantially all of its assets (other than by way of lease)), or the sale or disposal of any intermediary entity through which the Issuer indirectly owns such entity
+
+<<<
+
+, to any entity.
+"Equity interests" means Share Capita! and all warrants, options or other rights to purchase or acquire Share Capital (but excluding any debt security that is convertible into, or exchangeable for, Share Capital).
+"EUR"or "Euro
+
+<<<
+
+" means the lawful single currency of the Participating Member States.
+"EUR Bonds" means the Bonds issued in EUR in accordance with these Terms and Conditions, with ISIN SE0004725018.
+
+W/2773419/V3
+
+7
+
+"EUR Limit" means initially a maximum
+
+<<<
+
+ of EUR 3,749,550, which subject to Clause 5 (Conversion), may be decreased to zero.
+"Euroclear Sweden" means the issuer's central securities depositary and registrar in respect of the Bonds, from time to time, currently being Euroclear Sweden
+
+<<<
+
+ AB, reg. no. 556112-8074, Box 191, SE-101 23 Stockholm.
+"Event of Default" means any event or circumstance specified as such in Clause 13.1 (Non-Payment) through Clause 13.9 (Insolvency Proceedings).
+"Exchange" means NASDAQ OMX Stockholm or
+
+<<<
+
+ any other marketplace approved by the Bond Trustee.
+"Exercise Period" has the meaning set out in Clause 9.2 (Early Redemption upon a Change of Control (put)).
+"Excess Proceeds" shall have the meaning set out in Clause 12.12 (Limitation on Certain
+
+<<<
+
+ Asset Sales)
+"Existing Bonds" means the bonds issued by Nobina Europe AB on 24 July 2009 in the aggregate amount of EUR 130,000,000, with ISiN XS0432663143.
+"Finance Documents" means these Terms and Conditions, each Transaction Security Document
+
+<<<
+
+, the Guarantee Agreement, any fee agreement with any advisor, the Bond Trustee or the Security Agent and any other document designated as such by the Bond Trustee and the Issuer.
+"Financial Year" means the annual accounting period of the Group
+
+<<<
+
+ ending on or about 28 February in each year.
+"Fixed Charges" means, with respect to any entity for any period, the sum, without duplication, of:
+(a) the consolidated interest expense of such entity and its Restricted Subsidiaries for such period
+
+<<<
+
+, whether paid or accrued, including, without limitation, amortization of debt issuance costs and original issue discount, non-cash interest payments, the interest component of any deferred payment obligations, the interest component of ail
+
+<<<
+
+ payments associated with Capital Lease Obligations, imputed interest with respect to Attributable Debt, commissions, discounts and other fees and charges incurred in respect of letter of credit or bankers1acceptance financings, and net payments
+
+<<<
+
+, if any, pursuant to Hedging Obligations; plus
+(b) the consolidated interest of such entity and its Restricted Subsidiaries that was capitalized during such period; plus
+(c) any interest expense on Indebtedness of another entity that is Guaranteed
+
+<<<
+
+ by such entity or one of its Restricted Subsidiaries or secured by a Security on assets of such entity or one of its Restricted Subsidiaries, whether or not such Guarantee or Security is called upon; plus
+(d) the product of (i) all payments
+
+<<<
+
+ (whether by way of dividends, distributions or advances, and whether or not in cash) on any series of Preferred Shares of such entity or any of its Restricted Subsidiaries, other than dividend payments on Equity Interests payable solely in
+
+<<<
+
+ Equity Interests of the Issuer or to the
+8
+
+issuer or a Restricted Subsidiary of the issuer, times {ii) a fraction, the numerator of which is one and the denominator of which is one minus the then current total tax rate of such entity, expressed
+
+<<<
+
+ as a decima!, in each case, on a consolidated basis and in accordance with GAAP.
+"Fixed Charge Coverage Ratio" means with respect to any specified entity for any period, the ratio of the Consolidated Cash Flow of such entity and its Restricted
+
+<<<
+
+ Subsidiaries for such period to the Fixed Charges of such entity for such period. In the event that the specified entity or any of its Restricted Subsidiaries incurs, assumes, guarantees or redeems any Indebtedness (other than revolving credit
+
+<<<
+
+ borrowings) or issues or redeems Preferred Shares subsequent to the commencement of the period for which the Fixed Charge Coverage Ratio is being calculated but prior to the date on which the event for which the calculation of the Fixed Charge
+
+<<<
+
+ Coverage Ratio is made (the "Calculation Date"), then the Fixed Charge Coverage Ratio will be calculated giving pro forma effect to such incurrence, assumption, Guarantee or redemption of Indebtedness, or such issuance or redemption of Preferred
+
+<<<
+
+ Shares, as if the same had occurred at the beginning of the applicable four-quarter reference period.
+In addition, for purposes of calculating the Fixed Charge Coverage Ratio:
+(a) acquisitions that have been made by the specified entity or
+
+<<<
+
+ any of its Restricted Subsidiaries, including through mergers or consolidations and including any related financing transactions, during the four-quarter reference period or subsequent to such reference period and on or prior to the Calculation
+
+<<<
+
+ Date will be deemed to have occurred on the first day of the four-quarter reference period and Consolidated Cash Flow for such reference period will be calculated without giving effect to paragraph (c) of the proviso set forth in the definition
+
+<<<
+
+ of "Consolidated Net income";
+(b) the Consolidated Cash Flow attributable to discontinued operations, as determined in accordance with GAAP, and operations or businesses disposed of prior to the Calculation Date, wifi be excluded; and
+(c) the
+
+<<<
+
+ Fixed Charges attributable to discontinued operations, as determined in accordance with GAAP, and operations or businesses disposed of prior to the Calculation Date, will be excluded, but only to the extent that the obligations giving rise
+
+<<<
+
+ to such Fixed Charges will not be obligations of the specified entity or any of its Restricted Subsidiaries following the Calculation Date.
+"Free Cash Flow" means Consolidated Cash Flow minus Working Capita! Changes and minus the sum of Permitted
+
+<<<
+
+ Investments and Net Proceeds.
+"GAAP" means the generally accepted accounting principles, standards and practices in Sweden, including IFRS.
+"Group" means the Issuer and each of its Subsidiaries for the time being.
+"Group Company" means each
+
+<<<
+
+ company in the Group other than the Issuer.
+"Guarantee" means a guarantee other than by endorsement of negotiable instruments for collection in the ordinary course of business, direct or indirect, in any manner including by way of a pledge
+
+<<<
+
+ of assets or through letters of credit or reimbursement agreements in respect thereof, of ail or any part of any Indebtedness.
+
+W/2773419/v3
+
+9
+
+"Guarantee Agreement" means the guarantee agreement pursuant to which each Guarantor guarantees
+
+<<<
+
+ as for its own debt (Sw, proprieborgen) the timely payment and discharge of, inter alia, the Issuer's obligations under these Terms and Conditions.
+"Guarantor" means each of the following Group Companies:
+(a) Nobina Sverige AB, a limited liability
+
+<<<
+
+ company incorporated in and existing under the laws of Sweden, with company registration number 556057-0128;
+(b) Nobina Finland Oy, a limited liability company incorporated in and existing under the laws of Finland, with company registration
+
+<<<
+
+ number 0505988-8;
+(c) Nobina Busco AB, a limited liability company incorporated in and existing under the laws of Sweden, with company registration number 556583-0527;
+(d) Nobina Norge AS, a limited liability company incorporated in and existing
+
+<<<
+
+ under the laws of Norway, with company registration number 915 768 237;
+(e) Swebus Express AB, a limited liability company incorporated in and existing under the laws of Sweden, with company registration number 556358-3276;
+(f) Nobina Danmark
+
+<<<
+
+ A/S, a limited liability company incorporated in and existing under the laws of Denmark, with company registration number 29513376;
+(g) Nobina Fiexresor AB a limited liability company incorporated in and existing under the laws of Sweden, with
+
+<<<
+
+ company registration number 556416-2419; and
+(h) each company that has acceded to the Guarantee Agreement as an additional guarantor in accordance with Clause 12.20.
+"Hedging Obligations" means, with respect to any entity, the obligations of
+
+<<<
+
+ such entity under:
+(a) any arrangement with any other entity, whereby, directly or indirectly, such entity is entitled to receive from time to time periodic payments calculated by applying either a floating or a fixed rate of interest on a
+
+<<<
+
+ stated notional amount in exchange for periodic payments made by such entity calculated by applying a fixed or a floating rate of interest on the same notional amount interest rate swap, cap, floors, and collar agreements.
+(b) any foreign exchange
+
+<<<
+
+ contract, currency swap agreement or other similar agreement or arrangement designed to protect the issuer or any Restricted Subsidiary against fluctuations in currency values; and
+(c) any agreement or arrangement designed to protect the issuer
+
+<<<
+
+ against fluctuations in fuel prices.
+"incur" means, with respect to any Indebtedness or other obligation of any entity, to create, issue, incur (by conversion, exchange or otherwise), assume, Guarantee or otherwise become directly or indirectly
+
+<<<
+
+ liable in respect of such Indebtedness or other obligation including by acquisition of Subsidiaries or the recording, as required pursuant to GAAP or otherwise, of any such Indebtedness or other obligation on the balance sheet of such entity
+
+<<<
+
+ (and "Incurrence", "Incurred", "Incurrable" and "Incurring" shall have meanings correlative to the foregoing).
+10
+
+"Indebtedness" means, with respect to any specified entity, any indebtedness of such entity, whether or not contingent,
+(a)
+
+<<<
+
+ in respect of borrowed money;
+(b) evidenced by bonds, notes, debentures or similar instruments or letters of credit or bank guarantees (or reimbursement agreements in respect thereof);
+(c) in respect of banker's acceptances;
+(d) representing
+
+<<<
+
+ Capita! Lease Obligations or Attributable Debt with respect to Sale and Leaseback transactions;
+(e) representing the balance deferred and unpaid of the purchase price of any property, except any such baiance that constitutes an accrued expense
+
+<<<
+
+ or trade payable; or
+(f) representing any Hedging Obligations;
+if and to the extent any of the preceding items (other than letters of credit and Hedging Obligations) would appear as a liability upon a balance sheet of the specified entity prepared
+
+<<<
+
+ in accordance with GAAP. In addition, the term "Indebtedness" includes all Indebtedness of any other entity secured by a Security on any asset or property of the specified entity (whether or not such indebtedness is assumed by the specified
+
+<<<
+
+ entity) and, to the extent not otherwise included, the Guarantee by such entity of any indebtedness of any other entity.
+The amount of any Indebtedness outstanding as of any date will be:
+(a) the accreted value thereof, in the case of any Indebtedness
+
+<<<
+
+ issued with original issue discount; or
+(b) the principal amount thereof, together with any interest thereon that is more than 30 days past due, in the case of any other indebtedness.
+For the avoidance of doubt, Indebtedness will not include
+
+<<<
+
+ amounts owed under operating leases which would not be treated as financial indebtedness under GAAP and that would not be Attributable Debt.
+"Interest Payment Date" means 1 November and 1 May each year (with the first interest payment date
+
+<<<
+
+ being 1 May 2013 and the last interest payment date being the Redemption Date). Any adjustment will be made according to the Business Day Convention.
+"Interest Rate" means 11.00 per cent per annum.
+"Investments" means, with respect to any entity
+
+<<<
+
+, all investments by such entity in other entities (including Affiliates) in the forms of direct or indirect loans (including guarantees of Indebtedness or other obligations), advances or capital contributions (excluding commission, travel and
+
+<<<
+
+ similar advances to officers and employees made in the ordinary course of business), purchases or other acquisitions for consideration of Indebtedness, Equity Interests or other securities, together with all items that are or would be classified
+
+<<<
+
+ as investments on a balance sheet prepared in accordance with GAAP. If the Issuer or any Restricted Subsidiary of the Issuer sells or otherwise disposes of any Equity Interests of any direct or indirect Restricted Subsidiary of the
+
+W/2773
+
+<<<
+
+419/V3
+
+11
+
+Issuer such that, after giving effect to any such sale or disposition, such entity is no longer a Restricted Subsidiary of the Issuer, the Issuer will be deemed to have made an Investment on the date of any such sale or disposition
+
+<<<
+
+ equal to the fair market value of the Equity Interests of such Restricted Subsidiary not sold or disposed of in an amount determined as provided in Clause 12.7 (Limitation on Restricted Payments).
+"Issue Date" means 31 October 2012 in respect
+
+<<<
+
+ of the Original Bonds.
+"Issuer" means Nobina Europe AB (publ), a public limited liability company incorporated in Sweden with company registration number 556031-8569.
+"Issuing Agent" means Swedbank AB (publ), a public limited liability company
+
+<<<
+
+ incorporated in Sweden with company registration number 502017-7753, 105 34 Stockholm, or any other bank or issuing agent that the Issuer from time to time appoints to manage certain tasks in accordance with the legislation, rules and regulations
+
+<<<
+
+ applicable to and/or issued by Euroclear Sweden that are in force and effect from time to time.
+"Issuing Agent's Spot Rate of Exchange" means the Issuing Agent's spot rate of exchange for the purchase of the relevant currency with SEK or EUR
+
+<<<
+
+ (as applicable) in the Stockholm foreign exchange market at or about 11:00 a.m. on a particular day.
+"Joint Venture" means, with respect to any Person, any corporation, association, partnership or other business entity of which 50 per cent
+
+<<<
+
+ of the total Voting Shares thereof is owned or controlled, directly or indirectly, by such Person or one or more Wholly Owned Restricted Subsidiaries of such Person (or a combination thereof).
+"Liquidity Report" means each report delivered
+
+<<<
+
+ by the Issuer in a form agreed between the Issuer and the Bond Trustee, containing the calculations of Available Cash per a specific date.
+"Maturity Date" means 31 October 2017.
+"Net Income" means, with respect to any entity, the net income
+
+<<<
+
+ of such entity and its Restricted Subsidiaries, determined in accordance with GAAP and before any reduction in respect of preferred share dividends, excluding, however:
+(a) any gain (but not loss), together with any related provision for taxes
+
+<<<
+
+ on such gain (but not loss), realized in connection with: (a) any Asset Sale; or (b) the disposition of any securities by such entity or any of its Restricted Subsidiaries or the extinguishment of any Indebtedness of such entity or any of its
+
+<<<
+
+ Restricted Subsidiaries; and
+(b) any extraordinary gain (but not loss), together with any related provision for taxes on such extraordinary gain (but not loss).
+"Net Proceeds" means the aggregate cash proceeds received by the Issuer or any
+
+<<<
+
+ of its Restricted Subsidiaries in respect of any Asset Sale (including any cash received upon the sale or other disposition of any non-cash consideration received in any Asset Sale), net of the direct costs relating to such Asset Sale paid
+
+<<<
+
+ in cash, including, without limitation, legal, accounting and investment banking fees, and sales commissions, and any relocation expenses incurred as a result thereof, taxes paid or payable as a result thereof, in each case after taking into
+
+<<<
+
+ account any available tax credits or deductions and any tax sharing arrangements and amounts required to be applied to the
+12
+
+repayment of Indebtedness secured by a Security on the asset or assets that were the subject of such Asset Sale
+
+<<<
+
+.
+"New SEK Bonds" means any SEK Bonds issued as payment for the conversion of EUR Bonds to SEK Bonds in accordance with Clause 5 {Conversion).
+"Non-Recourse Debt" means Indebtedness:
+(a) as to which neither the Issuer nor any of its Restricted
+
+<<<
+
+ Subsidiaries (i) provides credit support of any kind (including any undertaking, agreement or instrument that would constitute Indebtedness), (ii) is directly or indirectly liable as a guarantor or otherwise, or (iii) constitutes the lender
+
+<<<
+
+;
+(b) no default with respect to which (including any rights that the holders thereof may have to take enforcement action against an Unrestricted Subsidiary) would permit upon notice, lapse of time or both any holder of any other Indebtedness
+
+<<<
+
+ (other than the Bonds) of the Issuer or any of its Restricted Subsidiaries to declare a default on such other Indebtedness or cause the payment thereof to be accelerated or payable prior to its stated maturity; and
+(c) as to which the lenders
+
+<<<
+
+ have been notified in writing that they will not have any recourse to the shares or assets of the issuer or any of its Restricted Subsidiaries.
+"Nominal Amount" has the meaning set forth in Clause 2(c) ( The Bonds).
+"Obligor" means the Issuer
+
+<<<
+
+ and each Guarantor and any other Group Company providing security pursuant to a Transaction Security Document.
+"Offer Period" has the meaning set out in Clause 9.4 (Early Redemption upon an Asset Sale).
+"Original Bonds" means the SEK Bonds
+
+<<<
+
+ and the EUR Bonds, if any, issued on the Issue Date.
+"Participating Bondholder" has the meaning set out in Clause 9.5 Early Redemption in Case of Available Excess Cash).
+"Participating Member State" means any member state of the European Union
+
+<<<
+
+ that adopts or has adopted the EUR as its lawful currency in accordance with legislation of the European Union relating to Economic and Monetary Union.
+"Permitted Business" means the business of providing public transportation services in the
+
+<<<
+
+ Nordic Region and Europe (including the Baltic States) and businesses ancillary or reasonably related or similar thereto.
+"Permitted Debt" has the meaning specified in Clause 12.6 (Limitation on Indebtedness).
+"Permitted Holder" means (i) the
+
+<<<
+
+ existing shareholder of the Issuer as of the date of these Terms and Conditions, or (ii) Nobina AB (publ).
+"Permitted investments" means:
+13
+
+(a) any Investment in the Issuer by any Restricted Subsidiary of the Issuer, provided that any Indebtedness
+
+<<<
+
+ evidencing such Investment is unsecured and subordinated, pursuant to a written agreement, to the Issuer's obligations under the Bonds and these Terms and Conditions;
+(b) any Investment by the Issuer or any Restricted Subsidiary of the Issuer
+
+<<<
+
+ in an entity primarily engaged in a Permitted Business, if (i) such entity is or, as a result of such Investment becomes, a Restricted Subsidiary of the issuer; or (ii) as a result of such Investment such entity is merged, consolidated or amalgamated
+
+<<<
+
+ with or into, or transfers or conveys substantially all of its assets to, or is liquidated into, the Issuer or a Restricted Subsidiary of the Issuer;
+(c) any Investment made as a result of the receipt of non-Cash Equivalent consideration from
+
+<<<
+
+ an Asset Sale that was made pursuant to and in compliance with Clause 12.12 (Limitation on Certain Asset Sales)',
+(d) any Investment in Cash Equivalents;
+(e) Investments in securities of trade creditors or customers received in settlement of
+
+<<<
+
+ obligations or pursuant to any plan of reorganization or similar arrangement upon the bankruptcy of insolvency of such trade creditors of customers;
+(f) loans and advances to directors, officers and employees (permitted under applicable laws
+
+<<<
+
+) of the Issuer and its Restricted Subsidiaries in the ordinary course of business for bona fide business purposes not in excess of an aggregate SEK 3,000,000 at any one time outstanding;
+(g) Hedging Obligations entered into in the ordinary
+
+<<<
+
+ course of business and not for speculative purposes;
+(h) Investments in prepaid expenses, negotiable instruments held for collection, and lease, utility and workers' compensation, performance and other similar deposits;
+(i) any prepayments
+
+<<<
+
+ on operating leases;
+(j) any Permitted Joint Venture Investment, provided that the consideration paid or payable for such Investment, when aggregated with the consideration paid or payable (measured on the date each such Investment was made
+
+<<<
+
+ and without giving effect to subsequent changes in value) for all other Investments comprising Permitted Joint Venture Investments made pursuant to this paragraph (j) does not exceed the amount, calculated at the time such Investment is made
+
+<<<
+
+, equal to (a) 25.0 per cent of the Consolidated Cash Flow of the Issuer for the period (taken as one accounting period) from the Issue Date to the end of the Issuer's most recently ended fiscal quarter for which financial statements are available
+
+<<<
+
+ at the time of such Investment, if such Consolidated Cash Flow for such period is a positive amount, plus (b) 100 per cent of the aggregate of (i) the net cash proceeds and (ii) the fair market value of Strategic Assets transferred or conveyed
+
+<<<
+
+ to the Issuer (as valued at the time of transfer or conveyance to the Issuer, and as determined in good faith by the board of directors of the Issuer and evidenced by a resolution of such board), in each case received by the Issuer at the time
+
+<<<
+
+ of or concurrently with such Investment as a contribution to the Issuer's common equity capital, provided that the amount of such net cash proceeds and the fair market value of such
+
+W/2773419/V3
+
+14
+
+Strategic Assets will be excluded from
+
+<<<
+
+ Clause 12.7(a)(iv)(C)(2) (Limitation on Restricted Payments);
+(k) any Permitted Minority Investment, provided that the consideration paid or payable for such Investment, when aggregated with the consideration paid or payable (measured on the
+
+<<<
+
+ date each such Investment was made and without giving effect to subsequent changes in value) for all other Investments comprising Permitted Minority Investments made pursuant to this paragraph (k) does not exceed the amount, calculated at the
+
+<<<
+
+ time such Investment is made, equal to (a) 7.5 per cent of the Consolidated Cash Flow of the Issuer for the period (taken as one accounting period) from the Issue Date to the end of the Issuer's most recently ended fiscal quarter for which
+
+<<<
+
+ financial statements are available at the time of such Investment, if such Consolidated Cash Flow for such period is a positive amount, plus (b) 100 per cent of the aggregate of (i) the net cash proceeds and (ii) the fair market value of Strategic
+
+<<<
+
+ Assets transferred or conveyed to the Issuer (as valued at the time of transfer or conveyance to the Issuer, and as determined in good faith by the board of directors of the Issuer and evidenced by a resolution of such board), in each case
+
+<<<
+
+ received by the Issuer at the time of or concurrently with such investment as a contribution to the Issuer's common equity capital, provided that the amount of such net cash proceeds and the fair market value of such Strategic Assets will be
+
+<<<
+
+ excluded from Clause 12.7(a)(iv)(C)(2) (Limitation on Restricted Payments); and
+(l) any other Investment in any entity having a fair market value (measured on the date such Investment was made and without giving effect to subsequent changes
+
+<<<
+
+ in value) not to exceed the sum of (i) SEK 10,000,000 minus (ii) aggregate fair market value (measured on the date each such Investment was made and without giving effect to subsequent changes in value) of all other Investments made pursuant
+
+<<<
+
+ to this paragraph (I) since the Issue Date plus (iii) to the extent that any such investment made pursuant to this paragraph (I) is sold for Cash Equivalents or otherwise liquidated or repaid for Cash Equivalents, the lesser of (A) the cash
+
+<<<
+
+ return of capital with respect to such Investment (less the cost of disposition, if any) and (B) the initial amount of such other Investment.
+"Permitted Joint Venture Investment" means the Investment by the Issuer or one or more Wholly Owned
+
+<<<
+
+ Restricted Subsidiaries of the Issuer in a Joint Venture; provided that, in any such case, such Joint Venture shall be engaged primarily in a Permitted Business.
+"Permitted Minority Investment" means the Investment by the Issuer or by a Wholly
+
+<<<
+
+ Owned Restricted Subsidiary of the Issuer in any corporation, association, partnership or other business entity of which less than 50 per cent of the total Voting Shares thereof will, upon consummation of such acquisition or other investment
+
+<<<
+
+, be owned or controlled by the Issuer or one or more of the Wholly Owned Restricted Subsidiaries of the Issuer (or a combination thereof), but over which the Issuer or one or more Wholly Owned Restricted Subsidiaries of the Issuer (or a combination
+
+<<<
+
+ thereof) maintains the power to influence or participate in the management thereof by virtue of representation on such corporation's, association's, partnership's or other business entity's board of directors (or persons performing similar
+
+<<<
+
+ functions) through a contractual relationship with such entity or with the holders of such entity's Voting Shares; provided that, in any such case, such corporation, association, partnership or other business entity shall be engaged primarily
+
+<<<
+
+ in a Permitted Business.
+
+W/2773419/V3
+
+15
+
+"Permitted Refinancing Indebtedness" means any Indebtedness of the Issuer issued in exchange for, or the net proceeds of which are used to extend, refinance, renew, replace, defease or refund other
+
+<<<
+
+ Indebtedness of the Issuer (other than intercompany indebtedness owed to any of the Issuer's Subsidiaries); provided that:
+(a) the principal amount (or accreted value, if applicable) of such Permitted Refinancing Indebtedness does not exceed
+
+<<<
+
+ the principal amount of (or accreted value, if applicable), plus accrued interest on, the Indebtedness so extended, refinanced, renewed, replaced, defeased or refunded (plus the amount of reasonable expenses incurred in connection therewith
+
+<<<
+
+);
+(b) such Permitted Refinancing Indebtedness has a final maturity date later than the final maturity date of, and has a Weighted Average Life to Maturity equal to or greater than the Weighted Average Life to Maturity of, the indebtedness being
+
+<<<
+
+ extended, refinanced, renewed, replaced, defeased or refunded; and
+(c) if the Indebtedness being extended, refinanced, renewed, replaced, defeased or refunded is subordinated in right of payment to the Bonds, such Permitted Refinancing Indebtedness
+
+<<<
+
+ has a final maturity date later than the final maturity date of, and is subordinated in right of payment to, the Bonds on terms at least as favourable to the Holders of Bonds as those contained in the documentation governing the Indebtedness
+
+<<<
+
+ being extended, refinanced renewed, replaced, defeased or refunded.
+"Permitted Security" means:
+(a) Security to secure Indebtedness incurred under the Revolving Credit Facilities, provided that (i) such Security consists either of security
+
+<<<
+
+ interests in accounts receivable (and related assets) or business mortgages up to a maximum of SEK 50,000,000; (ii) the aggregate nominal value of all such accounts receivable (less the amount of any business mortgage granted) is not more than
+
+<<<
+
+ the amount outstanding under the Revolving Credit Facilities at the time such Security is created; (iii) such Security except for the business mortgages rank pari passu with or are subordinated to the Security with respect to the Bonds granted
+
+<<<
+
+ in the same assets and (iv) such Security do not exceed, in aggregate, SEK 400,000,000;
+(b) Security to secure the Bonds;
+(c) Security to secure Permitted Refinancing Indebtedness incurred to refinance Indebtedness that was previously so secured
+
+<<<
+
+; provided that such Security do not extend to cover any property or assets of the Issuer or any Restricted Subsidiaries other than that pledged under the Security securing the Indebtedness being refinanced;
+(d) Security in favour of the Issuer
+
+<<<
+
+ or a Wholly Owned Restricted Subsidiary of the issuer that is a Guarantor;
+(e) Security on property of an entity existing at the time such entity is merged with or into or consolidated with the Issuer or any Restricted Subsidiary of the Issuer
+
+<<<
+
+; provided that such Security were in existence prior to the contemplation of such merger or consolidation and do not extend to any assets other than those of the entity merged into or consolidated with the Issuer or the Restricted Subsidiary
+
+<<<
+
+;
+16
+
+(f) Security on property existing at the time of acquisition thereof by the Issuer or any Restricted Subsidiary of the Issuer, provided that such Security were in existence prior to the contemplation of such acquisition;
+(g) Security
+
+<<<
+
+ to secure the performance of tenders or bids, government contracts or concessions, statutory obligations, surety or appeal bonds, performance bonds or other obligations of a like nature {other than obligations in respect of borrowed money)
+
+<<<
+
+ incurred in the ordinary course of business;
+(h) Security to secure Indebtedness incurred under (a) Capital Lease Obligations, mortgage financing or purchase money obligations, in each case, for the purpose of financing ail or any part of the
+
+<<<
+
+ purchase price or cost of construction or improvement of property, plant or equipment or buses or other vehicles used in the business of the Issuer or such Restricted Subsidiary and (b) Attributable Debt in respect of Sale and Leaseback Transactions
+
+<<<
+
+, provided that such Security incurred pursuant to (a) and (b) shall not exceed in aggregate SEK 100,000,000;
+(i) Security for taxes, assessments or governmental charges or claims that are not yet delinquent or that are being contested in good
+
+<<<
+
+ faith by appropriate proceedings promptly instituted and diligently concluded, provided that any reserve or other appropriate provision as will be required in conformity with GAAP will have been made therefor;
+(j) statutory Security of landlords
+
+<<<
+
+ and Security of carriers, warehousemen, mechanics, suppliers, materialmen, repairmen and other Security imposed by law incurred in the ordinary course of business for sums not yet delinquent or being contested in good faith, if such reserve
+
+<<<
+
+ or other appropriate provision, if any, as shall be required by GAAP shall have been made in respect thereof;
+(k) Security incurred or deposits made in the ordinary course of business in connection with workers' compensation, unemployment insurance
+
+<<<
+
+ and other types of social security, including any Security securing letters of credit issued in the ordinary course of business in connection therewith;
+(l) Security arising out of or related to judgments not giving rise to an Event of Default
+
+<<<
+
+ so long as such Security is adequately bonded and any appropriate legal proceedings which may have been duly initiated for review of such judgment shall not have been finally terminated or the period within which such proceedings may be initiated
+
+<<<
+
+ shall not have expired;
+(m) easements, rights-of-way, zoning restrictions and other similar charges or encumbrances in respect of real property not interfering in any material respect with the ordinary conduct of the business of the issuer
+
+<<<
+
+ or any of its Restricted Subsidiaries;
+(n) Security upon specific items of inventory or other goods and proceeds of any entity securing such entity's obligations in respect of bankers' acceptances issued or created for the account of such entity
+
+<<<
+
+ to facilitate the purchase, shipment or storage of such inventory or other goods;
+(o) Security securing reimbursement obligations with respect to commercial letters of credit which encumber documents and other property relating to such letters
+
+<<<
+
+ of credit and products and proceeds thereof;
+
+W/2773419/V3
+
+17
+
+(p) Security encumbering deposits made to secure obligations arising from statutory, regulatory, contractual or warranty requirements of the Issuer or any of its Restricted Subsidiaries
+
+<<<
+
+, including rights of offset and set-off; and
+(q) Security incurred in the ordinary course of business of the Issuer or any Restricted Subsidiary with respect to obligations that do not exceed SEK 150,000,000 at any one time outstanding less
+
+<<<
+
+ the amount of any Indebtedness secured by Security granted pursuant to paragraph (a) of this definition.
+"Preferred Shares" of any entity means any Share Capital of such entity that has any rights which are preferential to the rights of any
+
+<<<
+
+ other Share Capital of such entity with respect to dividends or redemptions or upon liquidation.
+"Record Date" means (as applicable) the fifth (5th) Business Day prior to:
+(a) an interest Payment Date;
+(b) the Redemption Date; and
+(c) the date
+
+<<<
+
+ of a Bondholders' Meeting,
+or if at the relevant time another Business Day which is falling closer to the Interest Payment Date, the Redemption Date or the date of the Bondholders' Meeting is generally applied in the Swedish bond market, such
+
+<<<
+
+ later Business Day.
+"Redemption Bid" means an offer by the Bondholders to the Issuer to redeem Bonds in accordance with Clause 9.5 (Early Redemption in Case of Available Excess Cash).
+"Redemption Date" means the Maturity Date or such earlier
+
+<<<
+
+ date that may be the case pursuant to the provisions in Clause 9 (Maturity of the Bonds and Redemption) or Clause 13.10 (Acceleration of the Bonds). Any further adjustment may be made according to the Business Day Convention.
+"Redemption Offer
+
+<<<
+
+" means an offer by the Issuer to the Bondholders to redeem Bonds in accordance with Clause 9.4 {Early Redemption upon an Asset Sale).
+"Restricted Investment" means an Investment other than a Permitted Investment.
+"Restricted Payments" has the
+
+<<<
+
+ meaning specified in Clause 12.7 (Limitation on Restricted Payments)
+"Restricted Subsidiary" means any Subsidiary of any person or entity that is not an Unrestricted Subsidiary.
+"Revolving Credit Facilities" means with respect to the Issuer
+
+<<<
+
+ or any Guarantor, one or more debt facilities or commercial paper facilities with banks, insurance companies or other institutional lenders providing for revolving credit loans, receivables financing (including, for the avoidance of doubt,
+
+<<<
+
+ accounts receivables) (including through the sale or factoring of receivables to such lenders or to special purpose entities formed to borrow from or issue securities to such lenders against such receivables), letters of credit or other forms
+
+<<<
+
+ of guarantees and assurances or other credit facilities, including overdrafts, in each case, as amended, restated, modified, renewed, refunded, replaced or refinanced in whole or in part from time to time, provided, however, that "Revolving
+
+<<<
+
+ Credit Facilities" will not mean any Indebtedness that expressly provides that it is subordinated in right of payment to any other Indebtedness.
+
+W/2773419/v3
+
+18
+
+"Sale and Leaseback Transaction" means any direct or indirect arrangement with
+
+<<<
+
+ any entity or to which any such entity is a party, providing for the leasing to the Issuer or a Restricted Subsidiary of any property, whether owned by the issuer or any Restricted Subsidiary at the first Issue Date or later acquired, which
+
+<<<
+
+ has been or is to be sold or transferred by the Issuer or such Restricted Subsidiary to such entity or to any other entity from whom funds have been or are to be advanced by such entity on the security of such property.
+"Sale Cash Equivalents
+
+<<<
+
+" shall have the meaning set out in Clause 12,12(a)(iii).
+"Secured Obligations" means the obligations of each Obligor towards the Secured Parties as defined in the Transaction Security Documents.
+"Secured Parties" means each Bondholder, the
+
+<<<
+
+ Bond Trustee and the Security Agent.
+"Security" means a mortgage, charge, pledge, lien or other security interest securing any obligation of any person or any other agreement or arrangement having a similar effect.
+"Security Agent" means the
+
+<<<
+
+ Bond Trustee in its capacity as Security Agent being appointed as such pursuant to Clause 17.3 {Appointment o f the Security Agent).
+"SEK" means the lawful currency of Sweden.
+"SEK Bonds" means the Bonds issued in SEK in accordance with these
+
+<<<
+
+ Terms and Conditions, with ISIN SE0004725000.
+"SEK Limit" means initially a maximum of SEK 518,849,880, which subject to Clause 5 (Conversion), may be increased for the purposes of issuing New SEK Bonds.
+"Share Capital" means:
+(a) in the case
+
+<<<
+
+ of a corporation, corporate stock and shares;
+(b) in the case of an association or business entity, any and all shares, interests, participations, rights or other equivalents {however designated) of corporate stock and shares;
+(c) in the case
+
+<<<
+
+ of a partnership or limited liability company, partnership or membership interests (whether general or limited); and
+(d) any other interest or participation that confers on an entity the right to receive a share of the profits and losses of
+
+<<<
+
+, or distributions of assets of, the issuing entity.
+"Stamdata" means the web site www.stamdata.se.
+"Strategic Assets" means (i) Share Capital of an entity which is engaged primarily in a Permitted Business and (ii) property, plant, equipment
+
+<<<
+
+, buses and other assets, real or personal, tangible or intangible, the use of which is necessary or useful in the conduct of the business and operations of the Issuer and its Subsidiaries at the time the same are transferred or conveyed to
+
+<<<
+
+ the Issuer.
+19
+
+"Strategic Investment" means the acquisition of, or other investment in, another entity by the Issuer or a Wholly Owned Restricted Subsidiary of the Issuer, provided that, in any such case, such other entity shall be engaged
+
+<<<
+
+ primarily in a Permitted Business.
+"Subsidiary" means in relation to any company or corporation, (a "Holding Company"), a company or corporation:
+(a) which is controlled, directly or indirectly, by the Holding Company:
+(b) more than half the
+
+<<<
+
+ issued share capital of which is owned, directly or indirectly, by the Holding Company; or
+(c) which is a subsidiary of another Subsidiary of the Holding Company,
+and, for this purpose, a company or corporation shall be treated as being controlled
+
+<<<
+
+ by another if that other company or corporation is able to determine the composition of the majority of its board of directors or equivalent body.
+"Surplus Buses" has the meaning specified to it in the definition of "Asset Sale".
+"TARGET" means
+
+<<<
+
+ the Trans-European Automated Real-time Gross Settlement Express Transfer payment system which utilises a single shared platform and which was launched on 19 November 2007.
+"Transaction Security" means the Security created or expressed to be
+
+<<<
+
+ created in favour of the Secured Parties pursuant to the Transaction Security Documents and designed to grant in all material respect the same Security to the Secured Parties as the Security granted for the Existing Bonds, provided that, the
+
+<<<
+
+ business mortgage in Nobina Sverige AB amounting to SEK 100,000,000 which secure the Existing Bonds will be replaced with a new business mortgage of the same amount but that rank behind the business mortgage amounting to SEK 50,000,000 which
+
+<<<
+
+ will secure the Revolving Credit Facilities.
+"Transaction Security Documents" means:
+(a) a pledge agreement governed by Swedish law between the Issuer, Nobina Europe Holding AB, Nobina Sverige AB, Nobina BusCo AB as pledgors and the Bond Trustee
+
+<<<
+
+ as Security Agent for the Secured Parties in respect of (i) shares held by the respective owner in the Issuer, Nobina Sverige AB, Nobina BusCo AB, Swebus Express AB and Nobina Flexresor AB; (ii) mortgage on business assets of Nobina Sverige
+
+<<<
+
+ AB; and (iii) buses owned by Nobina BusCo AB;
+(b) a pledge agreement governed by Finnish law between the Issuer as pledgor and the Bond Trustee as Security Agent for the Secured Parties in respect of shares in Nobina Finland Oy;
+(c) a pledge
+
+<<<
+
+ agreement governed by Finnish law between Nobina Finland Oy as pledgor and the Bond Trustee as Security Agent for the Secured Parties in respect of mortgage on business assets of Nobina Finland Oy;
+(d) a pledge agreement governed by Finnish
+
+<<<
+
+ iaw between Nobina BusCo AB filial i Finland as pledgor and the Bond Trustee as Security Agent for the Secured Parties in respect of mortgage on business assets of Nobina BusCo AB filial i Finland;
+20
+
+(e) a pledge agreement governed by Finnish
+
+<<<
+
+ law between Nobina BusCo AB filial i Finland as pledgor and the Bond Trustee as Security Agent for the Secured Parties in respect of buses owned by Nobina BusCo AB filial i Finland;
+(f) a pledge agreement governed by Norwegian law between the
+
+<<<
+
+ Issuer, Nobina Norge AS, Nobina BusCo Norge (the Norwegian branch of Nobina BusCo AB) as pledgors and the Bond Trustee as Security Agent for the Secured Parties in respect of (i) shares held by the Issuer in Nobina Norge AS; (ii) floating charges
+
+<<<
+
+ on certain groups of business assets of Nobina Norge AS (machinery and plant (driftstilbehør), inventory (varelager), motor vehicles and operating machinery (motorvogner og anleggsmaskiner)) and Nobina BusCo Norge (motor vehicles and operating
+
+<<<
+
+ machinery (motorvogner og anleggsmaskiner));
+(g) a pledge agreement governed by Danish law between the issuer as pledgor and the Bond Trustee as Security Agent for the Secured Parties in respect of shares in Nobina Danmark A/S; and
+(h) each
+
+<<<
+
+ other security document creating Transaction Security and any other document entered into by any Group Company creating or expressed to create any Security in favour of the Secured Parties, or any of them, over ail or any part of its assets
+
+<<<
+
+ in respect of the obligations of any of the Group Companies under any of the Finance Documents.
+"Unrestricted Subsidiary" means any Subsidiary of the Issuer that is designated by the Issuer as an Unrestricted Subsidiary, but only to the extent
+
+<<<
+
+ that such Subsidiary:
+(a) has no Indebtedness other than Non-Recourse Debt;
+(b) is not party to any agreement, contract, arrangement or understanding with the Issuer or any Restricted Subsidiary of the Issuer unless the terms of any such agreement
+
+<<<
+
+, contract, arrangement or understanding are no less favorable to the Issuer or such Restricted Subsidiary than those that might be obtained at the time of such designation from entities who are not Affiliates of the issuer;
+(c) is an entity
+
+<<<
+
+ with respect to which neither the Issuer nor any of its Restricted Subsidiaries has any direct or indirect obligation (a) to subscribe for additional Equity Interests or (b) to maintain or preserve such entity's financial condition or to cause
+
+<<<
+
+ such entity to achieve any specified levels of operating results;
+(d) has not guaranteed (pursuant to the Guarantee Agreement or any other arrangement) or otherwise directly or indirectly provided credit support for any Indebtedness of the
+
+<<<
+
+ Issuer or any of its Restricted Subsidiaries; and
+(e) has at least one director on its board of directors that is not a director or executive officer of the Issuer or any of its Restricted Subsidiaries and has at least one executive officer
+
+<<<
+
+ that is not a director or executive officer of the Issuer or any of its Restricted Subsidiaries.
+Any designation of a Subsidiary of the Issuer as an Unrestricted Subsidiary will be evidenced to the Bond Trustee by filing with the Bond Trustee
+
+<<<
+
+ a certified copy of the Board Resolution of the Issuer giving effect to such designation and an officers' certificate certifying that such designation complied with the preceding conditions and was permitted by Clause 12.7 (Limitation on Restricted
+
+<<<
+
+ Payments), if, at any time, any Unrestricted Subsidiary would fail to meet the preceding requirements as an Unrestricted Subsidiary, it will thereafter cease to be an Unrestricted Subsidiary for
+21
+
+purposes of these Terms and Conditions and
+
+<<<
+
+ any indebtedness of such Subsidiary wili be deemed to be Incurred by a Restricted Subsidiary of the Issuer as of the date it so fails to meet such requirements and, if such Indebtedness is not permitted to be Incurred as of such date under
+
+<<<
+
+ Clause 12.6 (Limitation on Indebtedness ) the Issuer will be in default of such Clause. The Issuer may at any time designate any Unrestricted Subsidiary to be a Restricted Subsidiary; provided that any Indebtedness of such Subsidiary wili be
+
+<<<
+
+ deemed to be Incurred by a Restricted Subsidiary of the Issuer of any outstanding indebtedness of such Unrestricted Subsidiary and such designation will only be permitted if (1) such Indebtedness is permitted under paragraph (a) of Clause 
+
+<<<
+
+12.6 (Limitation on indebtedness ), calculated on a pro forma basis as if such designation had occurred at the beginning of the four-quarter reference period; and (2) no Default or Event of Default would be in existence following such designation
+
+<<<
+
+.
+"VP Account" means a securities account (Sw. avstamningskonto) according to the Swedish Financial Instruments Accounts Act (1998:1479) of the issuing Agent and any such account in which each Bondholders' holding of Bonds is registered (as
+
+<<<
+
+ applicable).
+"Voting Shares" of any entity as of any date means the Share Capital of such entity that is at the time entitled to vote (without regard to the occurrence of any contingency) in the election of the board of directors (or persons
+
+<<<
+
+ performing similar functions) of such entity.
+"Weighted Average Life to Maturity" means, when applied to any Indebtedness at any date, the number of years obtained by dividing:
+(a) the sum of the products obtained by multiplying (i) the amount
+
+<<<
+
+ of each then remaining instalment, sinking fund, serial maturity or other required payments of principal, including payment at final maturity, in respect thereof, by (ii) the number of years (calculated to the nearest one-twelfth) that will
+
+<<<
+
+ elapse between such date and the making of such payment; by
+(b) the then principal amount or liquidation preference of such Indebtedness.
+"Wholly Owned Restricted Subsidiary" of any entity means a Restricted Subsidiary of such entity all of
+
+<<<
+
+ the outstanding Share Capital or other ownership interests of which (other than directors' qualifying shares) shall at the time be owned by such entity and/or by one or more Wholly Owned Restricted Subsidiaries of such entity.
+"Working Capital
+
+<<<
+
+ Changes" means the change in the inventory, current liabilities and current receivables, each on a basis and determined in accordance with GAAP.
+Interpretation
+(a) Unless a contrary indication appears, any reference in these Terms and Conditions
+
+<<<
+
+ to:
+(i) "assets" includes present and future properties, revenues and rights of every description;
+(ii) any agreement or instrument is a reference to that agreement or instrument as replaced, supplemented, amended, novated or varied from time
+
+<<<
+
+ to time;
+22
+
+(iii) a "regulation" includes any regulation, rule or official directive (whether or not having the force of law) of any governmental, intergovernmental or supranational body, agency, department or regulatory, selfregulatory or
+
+<<<
+
+ other authority or organisation;
+(iv) a "person" or "entity" includes any person, firm, company, corporation, government, state or agency of a state or any association, trust or partnership (whether or not having separate legal personality
+
+<<<
+
+) of two or more of the foregoing;
+(v) the singular of any defined term shall include the plural and vice versa as the context shall admit or require;
+(vi) a provision of law is a reference to that provision as amended or re enacted; and
+(vii
+
+<<<
+
+) a time of day is a reference to Stockholm time unless otherwise indicated or the context otherwise requires.
+(b) A reference to the Bond Trustee is always a reference to the Bond Trustee acting for itself and on behalf of the Bondholders and
+
+<<<
+
+ a reference to the Security Agent is always a reference to the Security Agent acting for itself and on behalf of the Finance Parties (unless expressly stated otherwise).
+(c) Section, Clause, paragraph and Schedule headings are for ease of reference
+
+<<<
+
+ only.
+(d) Unless a contrary indication appears, a term used in any other Finance Document or in any notice given under or in connection with any Finance Document has the same meaning in that Finance Document or notice as in these Terms and
+
+<<<
+
+ Conditions.
+(e) A Default (other than an Event of Default) is "continuing" if it has not been remedied or waived and an Event of Default is "continuing" if it has not been waived.
+2. The Bonds
+(a) By virtue of being registered as a Bondholder
+
+<<<
+
+ (directly or indirectly) on a VP Account, each Bondholder is bound by these Terms and Conditions, without any further action required to be taken or formalities to be complied with.
+(b) The maximum aggregate amount of the Bonds shall be an
+
+<<<
+
+ amount equal to:
+(i) the SEK Limit, in respect of the SEK Bonds; and
+(ii) the EUR Limit, in respect of the EUR Bonds.
+(c) Each SEK Bond shall have a nominal amount of SEK 1 and each EUR Bond shall have a nominal amount of EUR 1 (the "Nominal
+
+<<<
+
+ Amount").
+(d) All Bonds will be issued at an issue price of 100 per cent of the Nominal Amount.
+
+W/2773419/V3
+
+23
+
+(e) Minimum permitted investment amount upon issuance of the Original Bonds is EUR 100,000 or SEK 1,000,000 respectively.
+(f
+
+<<<
+
+) The New SEK Bonds will rank pari passu and have identical terms as the Original Bonds, other than with respect to the date of issuance and date from which interest will accrue. The Original Bonds and any New SEK Bonds shall be treated as a
+
+<<<
+
+ single class of Bonds for all purposes under these Terms and Conditions, including waivers, amendments and redemptions.
+(g) The Issuer undertakes to make payments in relation to the Bonds in accordance with these Terms and Conditions.
+(h) The
+
+<<<
+
+ Original Bonds shall be applied for the purposes of refinancing the outstanding capital amount on the Existing Bonds by way of exchange.
+(i) These Terms and Conditions are available to anyone and may be obtained from the Bond Trustee or the
+
+<<<
+
+ Issuer, and may be made public at Stamdata. The Issuer shall ensure that these Terms and Conditions are available to the general public throughout the entire term of the Bonds.
+3. Status of the Bonds and Security
+(a) The Bonds constitute unsubordinated
+
+<<<
+
+, direct, unconditional and secured obligations of the Issuer and shall at all time rank at least pari passu with all other senior obligations of the issuer, other than the obligations which are mandatory preferred by law. The Bonds shall rank
+
+<<<
+
+ without any preference among them.
+(b) The Bonds, including accrued but unpaid interest, fees and expenses, shall be secured with the Security created or expressed to be created under the Transaction Security.
+4. Bonds in Book-entry Form
+(a
+
+<<<
+
+) The Bonds will be issued in electronic book-entry form and be registered in a debt register (Sw. skuldbok) kept by Eurociear Sweden. No physical notes will be issued. Accordingly, the Bonds will be registered in accordance with the Swedish
+
+<<<
+
+ Financial Instruments Accounts Act (1998:1479).
+(b) Bondholders' registration requests relating to the Bonds shall be directed to an Account Operator.
+(c) Those who, according to an assignment, pledge, the provisions of the Swedish Children
+
+<<<
+
+ and Parents Code (Sw. Fdr3ldrabalken), conditions of will or deed of gift or otherwise have acquired a right to receive payments in respect of a Bond shall be required to register their entitlement to receive such payment in accordance with
+
+<<<
+
+ the Swedish Financial Instruments Accounts Act (1998:1479).
+(d) The issuer shall be entitled to obtain information from the debt register (Sw. Skuldbok) kept by Eurociear Sweden in respect of the Bonds. At the request of the Issuing Agent or
+
+<<<
+
+ the Bond Trustee, the Issuer shall request and provide such information to the Issuing Agent and/or the Bond Trustee (as applicable).
+
+W/2773419/V3
+
+24
+
+5. Conversion
+As long as there are any EUR Bonds outstanding, each Bondholder (a "Converting
+
+<<<
+
+ Bondholder") holding such EUR Bonds shall have the right to convert its EUR Bonds into SEK Bonds, in the following manner:
+(a) a Converting Bondholder shall notify the Issuer and the Issuing Agent at least twenty (20) Business Days prior to
+
+<<<
+
+ the designated Conversion Date (the "Conversion Notice");
+(b) the Conversion Notice shall set out the Conversion Date, the amount and number of Conversion Bonds that shall be converted into New SEK Bonds;
+(c) following receipt by the Issuing
+
+<<<
+
+ Agent and the issuer of the Conversion Notice, the Issuing Agent shall (A) request a debt register from Euroclear Sweden, detailing each Bondholder and VP Account, and (B) instruct Euroclear Sweden to issue New SEK Bonds corresponding to the
+
+<<<
+
+ amount of the Conversion Bonds (including the amount of any accrued but unpaid interest on such Conversion Bonds) at the Conversion Rate (as calculated by the Issuing Agent and instructed to Euroclear Sweden), which pending the Conversion shall
+
+<<<
+
+ be transferred to the Issuing Agent's VP Account;
+(d) the Converting Bondholder shall prior to the Conversion Date ensure that its Conversion Bonds have been transferred to the Issuing Agent's VP Account, On the relevant Conversion Date, the
+
+<<<
+
+ Issuing Agent shall transfer the relevant New SEK Bonds held on the Issuing Agent's VP Account to the Converting Bondholder's VP Account as payment for the Conversion Bonds; and
+(e) following the Conversion process set out above, the Issuer
+
+<<<
+
+ and the Issuing Agent shall transfer the Conversion Bonds to the cancellation account (Sw. makuleringskonto) at Euroclear Sweden, together with a simultaneous instruction to Euroclear Sweden to cancel the relevant Conversion Bonds, whereafter
+
+<<<
+
+ such Conversion Bonds shall be cancelled and may not be re issued.
+6. Listing
+(a) The Issuer shall within four (4) months from the Issue Date apply for listing of the Bonds on the Exchange.
+(b) The Issuer will use all efforts to obtain and
+
+<<<
+
+ maintain the listing on the Bonds on the Exchange as long as any Bond is outstanding, however no longer than up to and including the last day on which trading in the Bonds on the Exchange, according to the regulations applied by the Exchange
+
+<<<
+
+ and Euroclear Sweden at such date, can reasonably take place prior to the Redemption Date.
+7. interest
+(a) The Bonds will bear interest at the Interest Rate applied to the Nominal Amount from the Issue Date up to and including the Redemption
+
+<<<
+
+ Date.
+(b) The interest will be paid in arrears on each Interest Payment Date and shall be calculated on a 30/360-days basis.
+
+W/2773419/V3
+
+25
+
+(c) If the Issuer fails to pay any amount due, the Issuer shall pay default interest on such amount
+
+<<<
+
+ at a rate per annum corresponding to the applicable interest rate plus three (3) per cent, calculated on the amount due during the period of delay.
+(d) If the delay is due to an existence of an obstacle for Euroclear Sweden as set out in Clause
+
+<<<
+
+ 23(a) (Limitation o f liability), the default interest shall however not exceed the Interest Rate.
+8. Payments
+(a) The obligation of the Issuer is to pay pro rata to the Bondholders and not in any other order or proportions.
+(b) Payment of
+
+<<<
+
+ the Nominal Amount and/or interest will be made to any person who is a Bondholder on the Record Date. Payments shall be made in SEK for the SEK Bonds, in EUR for the EUR Bonds and by way of issuing New SEK Bonds as payment for Conversion Bonds
+
+<<<
+
+.
+(c) If a Bondholder, through an Account Operator, has registered that payments of principal and interest shall be made to a specified bank account, the payment will be effected by Euroclear Sweden on the relevant due date, in other cases,
+
+<<<
+
+ payments will be effected by Euroclear Sweden to the Bondholder at the address registered with Euroclear Sweden on the Record Date.
+(d) Should Euroclear Sweden, due to an obstacle attributable to the Issuer or any other obstacle, not be able
+
+<<<
+
+ to effect the payment of amounts according to the aforesaid, Euroclear Sweden will pay such amount as soon as possible after such obstacle has been removed.
+(e) Should the Issuer not be able to fulfill its payment obligations through Euroclear
+
+<<<
+
+ Sweden due to obstacles set forth in Clause 23(a) (Limitation of liability), the Issuer shall have the right to postpone the payment until the obstacle has been removed. In such case interest shall accrue in accordance with Clause 7(c) {interest
+
+<<<
+
+).
+(f) If a person to whom payment has been made in accordance with the above was not entitled to receive such payment, the Issuer and Euroclear Sweden shall nevertheless be deemed to have fulfilled their obligations, provided that the issuer
+
+<<<
+
+ and/or Euroclear Sweden did not have knowledge that such payment was made to a person not entitled to receive such payment and that the Issuer and/or Euroclear Sweden have acted with normal care.
+(g) Except as otherwise expressly provided,
+
+<<<
+
+ ail amounts payable under the Finance Documents shall be payable in the same currency as the Bonds are denominated in, depending on the amount payable refers to SEK Bonds or EUR Bonds.
+(h) Amounts payable in respect of costs, expenses, taxes
+
+<<<
+
+ and other liabilities of a similar nature shall be payable in the currency in which they are incurred.
+(i) The Issuer may not apply or perform any counterclaims or set-off against any payment obligations pursuant to any Finance Document.
+
+W
+
+<<<
+
+/2773419/V3
+
+26
+
+(j) If principal amount, interest, fees, costs and expenses are due and payable and the available funds are insufficient to discharge alf the amounts due and payable, the available funds shall first cover payment of all fees
+
+<<<
+
+, costs and expenses, secondly interest and, thirdly, payment of the principal amount.
+9. Maturity of the Bonds and Redemption
+9.1 Maturity
+Unless previously redeemed, or purchased and cancelled in accordance with these Terms and Conditions
+
+<<<
+
+, the Issuer shall redeem all outstanding Bonds on the Maturity Date.
+9.2 Early Redemption upon a Change of Control (put)
+(a) Upon the occurrence of a Change of Control, each Bondholder shall have a right to request an early redemption of all
+
+<<<
+
+ (but not less than alf) Bonds held by such Bondholder.
+(b) The request for early redemption must be submitted to the Bond Trustee within thirty (30) Business Days after the Issuer has given notification to the Bondholders, the Bond Trustee
+
+<<<
+
+ and the Issuing Agent of a Change of Control (the "Exercise Period"). Such notification shall be given by the Issuer as soon as possible after a Change of Control has taken place. The request for early redemption shall be made in writing to
+
+<<<
+
+ the e-mail address of the Bond Trustee in accordance with Clause 21 (Notices). The Bond Trustee shall notify the Issuer and the Issuing Agent of any request for early redemption as soon as possible after receipt of such early redemption request
+
+<<<
+
+.
+(c) The Issuer shall redeem all Bonds in accordance with this Clause 9.2 on a date occurring fifteen (15) Business Days following the end of the Exercise Period.
+(d) Each Bond shall be redeemed at a price of 102 per cent of Nominal Amount
+
+<<<
+
+ plus accrued interest thereon from the preceding Interest Payment Date (or, if such date has not occurred, the Issue Date) up to (and including) the relevant early Redemption Date.
+(e) Any Bondholder who has requested an early redemption pursuant
+
+<<<
+
+ to this Clause 9.2 shall transfer its Bonds that are to be redeemed to the Issuing Agent's VP Account. On the relevant early Redemption Date, the Issuing Agent shall, on behalf of the Issuer, arrange for payment to be made of the relevant redemption
+
+<<<
+
+ amount to each person who is a Bondholder on the Record Date and that holds Bonds that are to be redeemed and which have been transferred to the Issuing Agent's VP Account in accordance with this Clause 9.2.
+9.3 Early Redemption in Case of
+
+<<<
+
+ Full Cash Coverage (put)
+(a) The Issuer shall provide a Liquidity Report to the Bond Trustee no later than on 30 September 2014. If the Liquidity Report delivered to the Bond Trustee shows that the Available Cash of the Issuer exceeds SEK 
+
+<<<
+
+675,000,000 on 31 August 2014, each Bondholder shall have the right to request an early redemption of all (but not less than all) Bonds held by such Bondholder.
+
+W/2773419/V3
+
+27
+
+Following the receipt by the Bond Trustee of the Liquidity Report
+
+<<<
+
+, the Bond Trustee shall notify each Bondholder within ten (10) Business Days.
+(b) Any request for early redemption must be submitted to the Bond Trustee within twenty (20) Business Days after the Issuer has delivered the relevant Liquidity
+
+<<<
+
+ Report. The request for early redemption shall be made in writing to the e-mail address of the Bond Trustee in accordance with Clause 21 {Notices). The Bond Trustee shall notify the issuer and the Issuing Agent of the request for early redemption
+
+<<<
+
+ within thirty (30) Business Days after the Issuer has delivered the relevant Liquidity Report.
+(c) The Issuer shall redeem all Bonds in accordance with this Clause 9.3 on 31 December 2014.
+(d) Each Bond shall be redeemed at a price of 100 per
+
+<<<
+
+ cent of Nominal Amount plus accrued interest thereon from the preceding Interest Payment Date up to (and including) the relevant early Redemption Date.
+(e) Any Bondholder who has requested an early redemption pursuant to this Clause 9.3 shall
+
+<<<
+
+ transfer its Bonds that are to be redeemed to the Issuing Agent's VP Account. On the relevant early Redemption Date, the Issuing Agent shall, on behalf of the Issuer, arrange for payment to be made of the relevant redemption amount to each
+
+<<<
+
+ person who is a Bondholder on the Record Date and that holds Bonds that are to be redeemed and which have been transferred to the Issuing Agent's VP Account in accordance with this Clause 9.3,
+9.4 Early Redemption upon an Asset Sale (Redemption
+
+<<<
+
+ Offer)
+(a) If at any time following an Asset Sale by the Issuer or a Restricted Subsidiary, the aggregate amount of Excess Proceeds exceeds SEK 10,000,000, the Issuer will notify the Bond Trustee and send a redemption offer to all Bondholders
+
+<<<
+
+, to redeem the maximum Nominal Amount of Bonds, on a pro rata basis, that may be redeemed out of the Excess Proceeds (a "Redemption Offer"). The Redemption Offer price under this Clause 9.4 will be equal to 100 per cent of Nominal Amount plus
+
+<<<
+
+ accrued and unpaid interest, from the preceding Interest Payment Date up to (and including) the early Redemption Date.
+(b) The Redemption Offer must be submitted by the issuer to the Bond Trustee as soon as possible after the Excess Proceeds
+
+<<<
+
+ threshold set out in paragraph (a) above has been exceeded. The Redemption Offer shall be made in writing to the e-mai! address of the Bond Trustee in accordance with Clause 21 (Notices) and shall be irrevocable. The Redemption Offer shall
+
+<<<
+
+ be open for acceptance for a period of twenty 20 Business Days following the submission of the Redemption Offer (the "Offer Period").
+(c) The Bondholders who accept the Redemption Offer may elect to tender their Bonds in whole or in part (up
+
+<<<
+
+ to its pro rata portion of the Excess Proceeds) and shall notify the Bond Trustee, within the Offer Period, of the amount and number of Bonds to be redeemed. The notice shall be made in writing to the email address of the Bond Trustee in accordance
+
+<<<
+
+ with Clause 21 (Notices). The Bond Trustee shall promptly notify the Issuer and the Issuing Agent of the amount and number of Bonds to be redeemed. The relevant Bondholders shall
+
+W/2773419/V3
+
+28
+
+thereafter ensure that the relevant Bonds
+
+<<<
+
+ are transferred to the Issuing Agent's VP Account prior to the early Redemption Date. On the relevant early Redemption Date, the Issuing Agent shall, on behalf of the issuer, arrange for payment to be made of the relevant redemption amount
+
+<<<
+
+ to each person who is a Bondholder on the Record Date and that holds Bonds that are to be redeemed and which have been transferred to the Issuing Agent's VP Account in accordance with this Clause 9,4.
+(d) The early Redemption Date shall, for
+
+<<<
+
+ the purposes of this Clause 9.4, occur on the last day of the Offer Period.
+(e) If any Excess Proceeds remain after consummation of the redemption pursuant to this Clause 9.4, the issuer may use such Excess Proceeds for any purpose not otherwise
+
+<<<
+
+ prohibited by these Terms and Conditions.
+(f) Upon completion of redemption pursuant to this Clause 9.4, the amount of Excess Proceeds utilised for the redemption will be deemed reset at zero.
+9.5 Early Redemption in Case of Available Excess
+
+<<<
+
+ Cash (Redemption Bid)
+(a) The Issuer shall on 15 May each year deliver a Liquidity Report to the Bond Trustee. If such Liquidity Report shows that the Available Cash of the Issuer on the last day of the previous Financial Year exceeds SEK 
+
+<<<
+
+125,000,000, the Issuer shall simultaneously with the delivery of the Liquidity Report invite the Bondholders (via the Bond Trustee) to accept redemption of the maximum Nominal Amount of Bonds, that may be redeemed out of the surplus of the
+
+<<<
+
+ Available Cash over SEK 125,000,000 (the "Available Excess Cash"). The redemption price for any Bonds redeemed pursuant to this Clause 9.5 shall be determined based on a sealed first-price tendering process, in accordance with this Clause 
+
+<<<
+
+9.5 (Early Redemption in Case of Available Excess Cash)
+(b) Following the receipt by the Bond Trustee of the Liquidity Report evidencing the Available Excess Cash, the Bond Trustee shall notify each Bondholder within ten (10) Business Days of
+
+<<<
+
+ the amount of the Available Excess Cash that may be applied towards redemption of the Bonds and invite each Bondholder to participate in the sealed first-price tendering process (the "Bid Notice").
+(c) Each Bondholder that wishes to participate
+
+<<<
+
+ in the sealed first-price tendering process (a "Participating Bondholder") shall, within ten (10) Business Days of the receipt of the Bid Notice (the "Bid Period"), submit to the Bond Trustee a redemption bid (a "Redemption Bid"). The Redemption
+
+<<<
+
+ Bid shall be made in writing to the e-mail address of the Bond Trustee in accordance with Clause 21 (Notices) and shall be irrevocable. For the avoidance of doubt, should no Redemption Bids be submitted during the Bid Period, the Issuer will
+
+<<<
+
+ retain its redemption rights pursuant to Clause 9.6 (Redemption at the Issuer's Option).
+(d) The Redemption Bid shall detail (i) the gross capital amount and number of Bonds that the Participating Bondholder wishes to have redeemed out of the
+
+<<<
+
+ Available Excess Cash (the "Redemption Bonds"), and (ii) the redemption price offered by the Participating Bondholder for such Redemption Bonds. Each Redemption Bid shall be sealed and kept confidential by the Bond Trustee until ail Redemption
+
+<<<
+
+ Bids have been submitted or the Bid Period has expired. Upon the expiry of the Bid Period, the Bond Trustee shall announce to the Participating Bondholders and the Issuer the lowest redemption price offered in the submitted Redemption Bids
+
+<<<
+
+, following which, the Available
+
+W/2773419/v3
+
+29
+
+Excess Cash shall be applied towards redemption of the Redemption Bonds held by the Participating Bondholder who has offered the lowest redemption price, at such price. Any Redemption Bid
+
+<<<
+
+ containing a redemption price offer exceeding 100 per cent of the Nominal Amount shall be considered null and void.
+(e) Should the Available Excess Cash exceed the amount of Redemption Bonds held by the Participating Bondholder with the lowest
+
+<<<
+
+ redemption bid, the remainder shall be applied towards redemption of the Redemption Bonds held by each Participating Bondholder in the order of the offered redemption price.
+(f) Should two or more Participating Bondholders submit the same lowest
+
+<<<
+
+ Redemption Bid, the Available Excess Cash shall be applied towards redemption of the Redemptions Bonds held by those Participating Bondholders, pro rata to their holdings.
+(g) The early Redemption Date shall, for the purposes of this Clause
+
+<<<
+
+ 9.5, occur on the date falling ten (10) Business Days following the expiry of the Bid Period.
+(h) Any Participating Bondholder whose Redemption Bonds are subject to an early redemption pursuant to this Clause 9.5, shall transfer its Redemptions
+
+<<<
+
+ Bonds to the issuing Agent's VP Account prior to the relevant early Redemption Date. On the relevant eariy Redemption Date, the Issuing Agent shall, on behalf of the Issuer, arrange for payment to be made of the relevant redemption amount to
+
+<<<
+
+ each person who is a Participating Bondholder on the Record Date and that holds Redemption Bonds that are to be redeemed and which have been transferred to the Issuing Agent's VP Account in accordance with this Clause 9.5.
+9.6 Redemption at
+
+<<<
+
+ the Issuer's Option
+(a) The Issuer may redeem any or all Bonds on any Business Day by giving the Bondholders notice in accordance with Clause 21 (Notices) not less than thirty (30) days and not more than sixty (60) days prior to the proposed
+
+<<<
+
+ early Redemption Date. The notice shall be irrevocable and state the early Redemption Date and the relevant Record Date, and in case of a partial redemption the amount and number of bonds to be redeemed ("Partial Redemption Bonds"). The Bonds
+
+<<<
+
+ shall be redeemed at 100 per cent of the Nominal Amount plus accrued interest in accordance with Clause 7 (Interest) from the preceding Interest Payment Date up to and including the relevant eariy Redemption Date.
+(b) in case of a partial redemption
+
+<<<
+
+ pursuant to paragraph (a) above, each Bondholder shall ensure that its Partial Redemption Bonds are transferred to the issuing Agent's VP Account prior to the relevant eariy Redemption Date. On the relevant eariy Redemption Date, the Issuing
+
+<<<
+
+ Agent shall, on behalf of the Issuer, arrange for payment to be made in cash of the relevant redemption amount to each Bondholder that has transferred its Partial Redemption Bonds to the Issuing Agent's VP Account, whereafter the Issuer and
+
+<<<
+
+ the Issuing Agent shall transfer the Partial Redemption Bonds to the cancellation account (Sw. makuteringskonto) at Eurod ear Sweden, together with a simultaneous instruction to Eurociear Sweden to cancel the relevant Partial Redemption Bonds
+
+<<<
+
+, whereafter such Partial Redemption Bonds shall be cancelled and may not be re-issued.
+
+W/2773419/v3
+
+30
+
+9.7 Issuer's Purchase of Bonds
+Subject to applicable law, the Issuer or any Group Company may at any time purchase Bonds on the market
+
+<<<
+
+ or in any other way. The Bonds held by the Issuer or any Group Company may at the Issuer's or any Group Company's discretion be retained, sold or, if held by the Issuer, cancelled.
+10. Fees and Expenses
+(a) The Issuer shall cover all costs
+
+<<<
+
+ and expenses incurred by it (including Advisor Fees) in connection with the Finance Documents (including legal costs) and the fulfillment of its obligations under the Finance Documents, including the negotiation, preparation, execution and
+
+<<<
+
+ enforcement of the Finance Documents and any registration or notifications relating thereto (including any stamp duty) and the listing of the Bonds on an Exchange (if applicable).
+(b) The fees, costs and expenses payable to the Bond Trustee
+
+<<<
+
+ and/or the Security Agent shall be paid by the Issuer and are set forth in a separate agreement between the issuer and the Bond Trustee and/or the Security Agent.
+(c) Fees, costs and expenses payable to the Bond Trustee or the Security Agent
+
+<<<
+
+ which, due to the Issuer's insolvency or similar circumstances, are not reimbursed in any other way may be covered by making an equivalent reduction in the proceeds to the Bondholders hereunder of any costs and expenses incurred by the Bond
+
+<<<
+
+ Trustee or the Security Agent in connection with the restructuring or default of the Bond Issue and the enforcement of any Security.
+(d) Any public fees levied on the trade of Bonds in the secondary market shall be paid by the Bondholders,
+
+<<<
+
+ unless otherwise provided by law or regulation, and the Issuer is not responsible for reimbursing any such fees.
+(e) The Issuer is responsible for withholding any withholding tax imposed by applicable law on any payments to the Bondholders
+
+<<<
+
+.
+(f) If any withholding tax is imposed due to subsequent changes in applicable laws, the Issuer shall gross-up ail payments to the Bondholders, and the Issuer shall have the right to cal! the Bonds at Nominal Amount plus accrued interest in
+
+<<<
+
+ accordance with Clause 7 (Interest) from the preceding Interest Payment Date up to and including the relevant early Redemption Date. Such call shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least 30 Business
+
+<<<
+
+ Days prior to the settlement date of the call.
+11. Information Undertakings
+(a) As long as any Bonds remain outstanding, the Issuer undertakes to:
+(i) without being requested to do so, as soon as possible and in any event no later than 15 Business
+
+<<<
+
+ Days after the Issuer becomes aware or should reasonably become aware of the occurrence of an Event of Default, inform the Bond Trustee of any Event of Default and any other events or circumstances which have occurred or may occur and which
+
+<<<
+
+ is likely to constitute a material adverse effect;
+
+W/2773419/V3
+
+31
+
+(ii) without being requested to do so, immediately inform the Bond Trustee of a Change of Control as well as of any circumstances likely to lead to a Change of Control;
+
+<<<
+
+
+(iii) at the request of the Bond Trustee, report the balance of Bonds held by the Issuer and any Group Company;
+(iv) without being requested to do so, inform the Bond Trustee if the Issuer has agreed to sell or dispose of all or a substantial
+
+<<<
+
+ part of its assets or operations, or change the nature of its business;
+(v) without being requested to do so, send the Bond Trustee copies of any statutory notifications of the Issuer, including but not limited to mergers, de-mergers and reduction
+
+<<<
+
+ of the issuer's share capital or equity;
+(vi) without being requested to do so (if applicable), send a copy to the Bond Trustee of its notices to the Exchange;
+(vii) without being requested to do so (if applicable), inform the Bond Trustee
+
+<<<
+
+ of its and/or the rating of the Bond Issue, and any changes to such rating;
+(viii) as soon as they become available but no later than 120 days after the expiry of each Financial Year, make available on its website (alternatively by sending
+
+<<<
+
+ them to the Bond Trustee for publication at Stamdata) its annual audited financial statements (prepared in accordance with GAAP, unless the Bondholders at the request of the Issuer have agreed to substitute GAAP with other principles);
+(ix
+
+<<<
+
+) as soon as they become available but no later than 60 days after the end of each fiscal quarter, make available on its website (alternatively by sending them to the Bond Trustee for publication at Stamdata) its quarterly financial statements
+
+<<<
+
+ (prepared in accordance with GAAP, unless the Bondholders at the request of the Issuer have agreed to substitute GAAP with other principles); and
+(x) provide such other information about the Group's financial condition as the Bond Trustee may
+
+<<<
+
+ reasonably request.
+(b) At the request of the Bond Trustee, the Issuer shall provide the documents and information necessary to enabie the Bond Trustee to carry out its rights and duties pursuant to the Finance Documents, as well as to comply
+
+<<<
+
+ with laws and regulations applicable to the appointment.
+(c) The Issuer's obligation to provide information pursuant to these Terms and Conditions shall apply to the extent it is not contrary to laws, rules or regulations applicable to the
+
+<<<
+
+ Issuer or a Group Company as a consequence of such entity's shares or instruments of debt being listed on an Exchange.
+12. Undertakings
+The undertakings in this Clause 12 remain in force for as long as any Bonds remain outstanding.
+
+W/2773
+
+<<<
+
+419/V3
+
+32
+
+12.1 Mergers
+(a) The issuer may not, directly or indirectly: (x) merge or consolidate with or into another entity; or{y) sell, assign, transfer, lease, convey, demerge or otherwise dispose of (or cause or permit any Restricted Subsidiary
+
+<<<
+
+ of the Issuer to sell, assign, transfer, lease, convey, demerge or otherwise dispose of) all or substantially ail of the Issuer's properties and assets (determined on a consolidated basis for the issuer and the Issuer's Restricted Subsidiaries
+
+<<<
+
+), in one or more related transactions, to another entity unless:
+(i) either
+(A) the Issuer is the surviving corporation; or
+(B) the entity formed by or surviving any such consolidation or merger (if other than the Issuer) or which acquires
+
+<<<
+
+ by sale, assignment, transfer, lease, conveyance, demerger or other disposition the properties and assets of the Issuer and of the Issuer's Restricted Subsidiaries substantially as an entirety (the "Receiving Entity"): (1) is a corporation
+
+<<<
+
+ organized and validly existing under the laws of Sweden, the United States (or any state thereof) or any member state of the European Union (as comprised at the Issue Date); and (2) expressly assumes all the obligations of the Issuer under
+
+<<<
+
+ the Bonds, these Terms and Conditions, and each Finance Document to which the Issuer is a party pursuant to agreements reasonably satisfactory to the Bond Trustee;
+(ii) immediately after giving effect to such transaction and the assumption
+
+<<<
+
+ contemplated by paragraph (a)(i) above (including giving effect to any Indebtedness and Acquired Debt incurred or anticipated to be incurred in connection with or in respect of such transaction), on a pro forma basis the Issuer or such Receiving
+
+<<<
+
+ Entity, as the case may be, (i) will have a Consolidated Net Worth equal to or greater than the Consolidated Net Worth of the Issuer immediately prior to such transaction and (ii)(A) will be able to incur at least SEK 1.0 of additional indebtedness
+
+<<<
+
+ (other than Permitted Debt) pursuant to the Fixed Charge Coverage Ratio test set forth in Clause 12.6(a) (Limitation on Indebtedness ) or (B) will have a Fixed Charge Coverage Ratio for its most recently ended four full fiscal quarters for
+
+<<<
+
+ which internal financial statements are available immediately preceding the date of such transaction, determined on a pro forma basis as if such transaction had occurred (including giving effect to any Indebtedness and Acquired Debt incurred
+
+<<<
+
+ or anticipated to be incurred in connection with or in respect of such transaction) at the beginning of such four-quarter period, greater than the Fixed Charge Coverage Ratio of the Issuer immediately prior to such transaction;
+(Hi) consummation
+
+<<<
+
+ of such transaction will not conflict with or result in a breach or violation of the terms of, or constitute a default under, or result in the expiration, termination or loss of, any lease, transportation agreement, license, permit, concession
+
+<<<
+
+ or other contract or governmental or quasi- governmental approval which, individually or in the aggregate, would have a material adverse effect on the Issuer and its Restricted Subsidiaries taken as a whole;
+
+W/2773419/V3
+
+33
+
+(iv) immediately
+
+<<<
+
+ before and immediately after giving effect to such transaction and the assumption contemplated by paragraph (a)(i) above (including, without limitation, on a pro forma basis giving effect to any Indebtedness and Acquired Debt incurred or anticipated
+
+<<<
+
+ to be incurred and any Security granted in connection with or in respect of such transaction, and the expiration, termination or loss or anticipated expiration, termination or loss, of any lease, transportation agreement, license, permit, concession
+
+<<<
+
+ or other contract or governmental or quasigovernmentai approval as a result of the consummation of such transaction), no Default shall have occurred and be continuing; and
+(v) the Issuer (if the surviving entity) or the Receiving Entity, as
+
+<<<
+
+ the case may be, has delivered to the Bond Trustee an officers' certificate and an opinion of counsel, each in form and substance satisfactory to the Bond Trustee and each stating that such merger or consolidation, or such sale, assignment
+
+<<<
+
+, transfer, lease, conveyance, demerger or other disposition, as the case may be, comply with the applicable provisions of these Terms and Conditions and that all conditions precedent in these Terms and Conditions relating to such transaction
+
+<<<
+
+ have been satisfied.
+(b) The Issuer shall not permit a Guarantor to, in a single transaction or through a series of related transactions, consolidate with or merge with or into any other entity (other than the Issuer or another Guarantor) or
+
+<<<
+
+ sell, assign, convey, transfer, lease, demerge or otherwise dispose of all or substantially all of its properties and assets to any person, entity or group of entities (other than the Issuer or another Guarantor), or permit any of its Restricted
+
+<<<
+
+ Subsidiaries to enter into any such transaction or series of transactions, if such transaction or series of transactions, in the aggregate, would result in a sale, assignment, conveyance, transfer, lease, demerger or disposition of all or substantially
+
+<<<
+
+ all of the properties and assets of such Guarantor and its Restricted Subsidiaries, on a consolidated basis, to any other person, entity or group of entities (other than the Issuer or another Guarantor), unless at the time of the transaction
+
+<<<
+
+ and after giving effect thereto:
+(i) either:
+(A) the Guarantor will be the surviving corporation; or
+(B) the entity (if other than such Guarantor) formed by such consolidation or into which such Guarantor is merged or the entity which acquires
+
+<<<
+
+ by sale, assignment, conveyance, transfer, lease, demerger or disposition all or substantially all of the properties and assets of such Guarantor and its Restricted Subsidiaries on a consolidated basis (the "Receiving Guarantor Entity"): (
+
+<<<
+
+1) is a corporation organized and validly existing under the laws of Sweden, Norway, Finland, Denmark, the United States (or any state thereof) or any member of the EU (as comprised at the Issue Date) on the date of these Terms and Conditions
+
+<<<
+
+; and (2) such entity expressly assumes all the obligations of such Guarantor under the Bonds, these Terms and Conditions and each Finance Document to which such Guarantor is a party, pursuant to agreements reasonably satisfactory to the Bond
+
+<<<
+
+ Trustee;
+
+W/2773419/v3
+
+34
+
+(ii) immediately before and immediately after giving effect to such transaction on a pro forma basis no Default shall have occurred and be continuing; and
+(iii) at the time of the transaction, the Guarantor or the
+
+<<<
+
+ Receiving Guarantor Entity, as the case may be, shall have delivered, or caused to be delivered, to the Bond Trustee, in form and substance satisfactory to the Bond Trustee, an officers' certificate and an opinion of counsel, each to the effect
+
+<<<
+
+ that such consolidation, merger, transfer, sale, assignment, conveyance, lease, demerger or other transaction comply with these Terms and Conditions and that all conditions precedent therein provided for relating to such transaction have been
+
+<<<
+
+ complied with;
+provided, however, that this paragraph shall not apply to any Guarantor who has been released from its obligations under the Guarantee Agreement to which it is a party.
+(c) Paragraph (a) and (b) of this Clause 12.1 (Mergers)
+
+<<<
+
+ will not apply to a sale, assignment, transfer, conveyance, demerger or other disposition of assets between or among the Issuer and any of its Wholly Owned Restricted Subsidiaries.
+(d) If any transaction {other than a lease) described in and
+
+<<<
+
+ complying with the conditions listed in paragraph (a) above occurs and the Issuer is not the surviving corporation, upon the assumption contemplated by paragraph (a)(i)(B)(2) above, the Receiving Entity shall succeed to, and be substituted
+
+<<<
+
+ for, and may exercise every right and power of, and shall assume and be bound to perform ail obligations and covenants of, the Issuer under these Terms and Conditions, the Bonds and each Finance Document to which the Issuer is a party and thereafter
+
+<<<
+
+ the issuer will, except in the case of such a lease of assets, be discharged from all its obligations and covenants under these Terms and Conditions and the Bonds.
+(e) If any transaction (other than a lease) described in and complying with
+
+<<<
+
+ the conditions listed in paragraph (b) above occurs in respect of a Guarantor, and such Guarantor is not the surviving corporation, upon the assumption contemplated by paragraph (b)(i)(B)(2) above, the Receiving Guarantor Entity shall succeed
+
+<<<
+
+ to, and be substituted for, and may exercise every right and power of, and shall assume and be bound to perform all obligations and covenants of, such Guarantor under these Terms and Conditions, the Bonds and each Finance Document to which
+
+<<<
+
+ such Guarantor is a party and thereafter such Guarantor will, except in the case of such a lease of assets, be discharged from all its obligations and covenants under these Terms and Conditions and the Bonds.
+12.2 Existence
+Subject to Clause
+
+<<<
+
+ 12.1 (Mergers), each of the Issuer and the Guarantors will do or cause to be done all things necessary to preserve and keep in full force and effect its existence, rights (charter and statutory) and franchises; provided, however, that the Issuer
+
+<<<
+
+ and each Guarantor shall not be required to preserve any such right or franchise if its board of directors in good faith shall determine that the preservation thereof is no longer desirable in the conduct of the business of the issuer, or such
+
+<<<
+
+
+
+W/2773419/V3
+
+35
+
+Guarantor, as the case may be, and that the loss thereof is not disadvantageous in any materia! respect to the Bondholders.
+12.3 Maintenance of Properties
+The Issuer shall cause all properties used or useful in the conduct
+
+<<<
+
+ of its business or the business of any Restricted Subsidiary of the Issuer to be maintained and kept in good condition, repair and working order and supplied with all necessary equipment and will cause to be made all necessary repairs, renewals
+
+<<<
+
+, replacements, betterments and improvements thereof, all as in the judgment of the Issuer may be necessary so that the business carried on in connection therewith may be properly and advantageously conducted at all times; provided, however
+
+<<<
+
+, that nothing in this Clause 12.3 shall prevent the Issuer from discontinuing the operation or maintenance of any of such properties if such discontinuance is, as determined by its board of directors in good faith, desirable in the conduct
+
+<<<
+
+ of its business or the business of any Restricted Subsidiary and not disadvantageous in any material respect to the Bondholders.
+12.4 Payment of Taxes and other Claims
+The Issuer shall pay or discharge or cause to be paid or discharged, before
+
+<<<
+
+ the same shall become delinquent, (i) ail taxes, assessments and governmental charges levied or imposed upon the Issuer or any of its Restricted Subsidiaries or upon the income, profits or property of the Issuer or any of its Restricted Subsidiaries
+
+<<<
+
+, and (ii) all lawful claims for labour, materials and supplies which, if unpaid, might by law become a lien upon the property of the issuer or any of its Restricted Subsidiaries; provided, however, that the Issuer shall not be required to pay
+
+<<<
+
+ or discharge or cause to be paid or discharged any such tax, assessment, charge or claim whose amount, applicability or validity is being contested in good faith by appropriate proceedings.
+12.5 Maintenance of Insurance
+The Issuer shall, and
+
+<<<
+
+ shall cause its Restricted Subsidiaries to, keep insurance with insurers believed by the Issuer to be responsible of such type and in such amounts as the Issuer reasonably believes are customary for similar companies.
+12.6 Limitation on Indebtedness
+
+<<<
+
+
+(a) The Issuer shall not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, incur any Indebtedness (including Acquired Debt); provided, however, that if no Default will have occurred and be continuing at the
+
+<<<
+
+ time of or as a consequence of the incurrence of any such Indebtedness (or if such Default does exist, such Default is cured concurrently with such incurrence), (1) the Issuer may incur Indebtedness, and (2) any Guarantor may incur Indebtedness
+
+<<<
+
+ if such Indebtedness is (A) Indebtedness incurred under the Revolving Credit Facilities, (B) Indebtedness represented by Capital Lease Obligations, (C) Indebtedness represented by purchase money obligations or (D) Acquired Debt, in the case
+
+<<<
+
+ of both of (1) and (2) if the Fixed Charge Coverage Ratio for the Issuer's most recently ended four full fiscal quarters for which internal financial statements are available immediately preceding the date on which such additional Indebtedness
+
+<<<
+
+ is incurred would have been at least 2.25 to 1.0, determined on a pro forma basis (including a pro forma application of the net proceeds therefrom), as if the additional Indebtedness had been incurred, at the beginning of such four-quarter
+
+<<<
+
+ period. In computing the Fixed Charge Coverage Ratio for the purpose of this paragraph (a), the Issuer shall use audited financial statements for the portions of the relevant
+
+W/2773419/V3
+
+36
+
+period for which audited financial statements
+
+<<<
+
+ are available on the date of determination and unaudited financial statements based on the books and records of the Issuer for the remaining portion of such period, The Issuer will be permitted to reiy in good faith on the financial and other
+
+<<<
+
+ data derived from its books and records that are available on the date of determination in preparing such unaudited financial statements. If the Issuer incurs Indebtedness that, at the time of Incurrence, would in the good faith determination
+
+<<<
+
+ of the Issuer be permitted under the requirements of these Terms and Conditions, such Indebtedness will be deemed to have been Incurred in compliance with these Terms and Conditions notwithstanding any adjustments made in good faith to the
+
+<<<
+
+ Issuer's financial statements after such Indebtedness is incurred which effect the Fixed Charge Coverage Ratio for any period; provided, however, that any such adjustments will be taken into account in computing the Fixed Charge Coverage Ratio
+
+<<<
+
+ in respect of any subsequent Incurrence of Indebtedness.
+(b) So long as no Default will have occurred and be continuing or would be caused thereby, paragraph (a) of this Clause 12.6 will not prohibit the incurrence of any of the following items
+
+<<<
+
+ of Indebtedness (collectively, "Permitted Debt"):
+(i) the incurrence by the Issuer of Indebtedness represented by the Bonds and Indebtedness of the Guarantors pursuant to the Guarantee Agreement;
+(ii) the incurrence by the Issuer and its Restricted
+
+<<<
+
+ Subsidiaries of Permitted Refinancing Indebtedness in exchange for, or the net proceeds of which are used to refund, refinance or replace, indebtedness (other than intercompany Indebtedness between or among the issuer and any of its Restricted
+
+<<<
+
+ Subsidiaries) that was permitted by these Terms and Conditions to be incurred under paragraph (a) of this Clause 12.6 or sub-clause (i) of this paragraph;
+(iii) the incurrence by the Issuer or any Guarantor of intercompany indebtedness provided
+
+<<<
+
+ by Nobina AB (publ), if such loans are subordinated to the satisfaction of the Bond Trustee (provided that the terms of such subordination shall include full subordination, cash-less interest during the term of the loan and, in respect of loans
+
+<<<
+
+ provided by Nobina AB (publ) to the Issuer or a Guarantor, an express carve out allowing the Issuer to make repayments of capital and interest on maturity on any new loans provided after the date of these Terms and Conditions); provided, however
+
+<<<
+
+, that (a) any subsequent issuance or transfer of Equity Interests that results in any such Indebtedness being held by an entity other than the Issuer or a Wholly Owned Restricted Subsidiary that is a Guarantor thereof and (b) any sale or other
+
+<<<
+
+ transfer of any such Indebtedness to an entity that is not either the Issuer or a Wholly Owned Restricted Subsidiary that is a Guarantor thereof; shall be deemed, in each case, to constitute an incurrence of such Indebtedness by the Issuer
+
+<<<
+
+ or such Restricted Subsidiary, as the case may be, that was not permitted by this paragraph (iii);
+(iv) the incurrence by the Issuer or any of its Restricted Subsidiaries of Hedging Obligations (i) that are incurred for the purpose of fixing
+
+<<<
+
+ or hedging interest rate risk with respect to any floating rate Indebtedness, or fixing or hedging foreign currency exchange rate risk with respect to any Indebtedness, in each case that is permitted by the terms of these
+
+W/2773419/V3
+
+37
+
+<<<
+
+
+
+Terms and Conditions to be outstanding or (ii) that are incurred for the purpose of fixing or hedging fuel price risk incurred in the ordinary course of business provided that if in accordance with GAAP such incurrence must be recorded as
+
+<<<
+
+ a liability in the balance sheet of the Issuer or one of its Restricted Subsidiaries, such Hedging Obligations so recorded shall not exceed EUR 15,000,000 at any time outstanding;
+(v) the guarantee by the Issuer of Indebtedness of a Restricted
+
+<<<
+
+ Subsidiary of the Issuer that was permitted to be incurred by another provision of this Clause 12.6;
+(vi) the incurrence by the issuer or any Guarantor of additional Indebtedness in an aggregate principal amount (or accreted value, as applicable
+
+<<<
+
+) at any time outstanding, including all Permitted Refinancing Indebtedness incurred to refund, refinance or replace any Indebtedness incurred pursuant to this paragraph (vi), not to exceed SEK 400,000,000, such additional Indebtedness to rank
+
+<<<
+
+ pari passu with the Bonds;
+(vii) the accrual of interest, the accretion or amortization of original issue discount, the capitalization of interest, the payment of interest on any Indebtedness in the form of additional Indebtedness with the
+
+<<<
+
+ same terms as the Indebtedness on which such interest accrued, provided, in each such case, that the amount thereof is included in Fixed Charges of the Issuer as accrued
+(viii) the incurrence of Indebtedness of the Issuer or any of its Restricted
+
+<<<
+
+ Subsidiaries representing or comprising any obligations under performance and surety bonds provided by the Issuer or any of its Restricted Subsidiaries in the ordinary course of business;
+(ix) the incurrence of Indebtedness by the Issuer or
+
+<<<
+
+ any of its Restricted Subsidiaries represented by letters of credit, bankers' acceptances, surety bonds, performance bonds or similar instruments for the account of the Issuer or such Restricted Subsidiary, as the case may be, in order to provide
+
+<<<
+
+ for security for workers; compensation claims, payment obligations in connection with seif-insurance or similar requirements in the ordinary course of business;
+(x) the incurrence of Indebtedness by the Issuer or any of its Restricted Subsidiaries
+
+<<<
+
+ arising from agreements either providing for indemnification, adjustment of purchase price, earn out or other similar obligations, in each case incurred or assumed in connection with the disposition of any business or assets of the Issuer or
+
+<<<
+
+ a Restricted Subsidiary of the Issuer or the disposition of a Restricted Subsidiary, other than Guarantees of Indebtedness incurred by any entity acquiring all or any portion of such business, assets or Restricted Subsidiary for the purpose
+
+<<<
+
+ of financing such acquisition, provided, however, that the maximum assumable liability in respect of all such Indebtedness will at no time exceed the gross proceeds actually received by the Issuer and its Restricted Subsidiaries in connection
+
+<<<
+
+ with such disposition; and
+(xi) Guarantees by any Restricted Subsidiary made in compliance with Clause 12.14 (Limitation on issuances o f Guarantees of Indebtedness).
+
+W/2773419/v3
+
+38
+
+(c) If any Non-Recourse Debt of an Unrestricted Subsidiary
+
+<<<
+
+ ceases to be NonRecourse Debt, such event will be deemed to constitute an incurrence of Indebtedness by a Restricted Subsidiary of the Issuer.
+(d) For purposes of determining compliance with this Clause 12.6, in the event that an item of proposed
+
+<<<
+
+ Indebtedness meets the criteria of more than one of the categories of Permitted Debt described in paragraphs (b)(i) through (b)(xi) above, or is entitled to be incurred pursuant to paragraph (a) of this Clause 12,6, the Issuer (i) will be permitted
+
+<<<
+
+ to classify such item of indebtedness on the date of its incurrence in any manner that complies with this Clause 12.6 and (ii) may from time to time reclassify such item of Indebtedness in any manner that complies with this Clause 12.6, in
+
+<<<
+
+ each case without duplication.
+(e) For purposes of determining compliance with any Swedish Kronor denominated restriction on the incurrence of indebtedness denominated in another currency, the SEK principal amount of all Indebtedness will be
+
+<<<
+
+ calculated based on the Issuing Agent's Spot Rate of Exchange in effect on the date of such incurrence; provided that, if any Indebtedness denominated in a currency other than SEK is subject to a currency hedging agreement covering all principal
+
+<<<
+
+, premium, if any, and interest payable on such Indebtedness, the amount of such'Indebtedness expressed in SEK will be as provided in such currency hedging agreement. The principal amount of any Indebtedness incurred to refinance other Indebtedness
+
+<<<
+
+, if incurred in a different currency from the Indebtedness being refinanced, will be calculated based on the Issuing Agent's Spot Rate of Exchange in effect on the date of such refinancing applicable to the currencies in which such respective
+
+<<<
+
+ Indebtedness is denominated.
+12.7 Limitation on Restricted Payments
+(a) The Issuer shall not, and will not cause or permit any of its Restricted Subsidiaries to, directly or indirectly:
+(i) declare or pay any dividend or make any other payment
+
+<<<
+
+ or distribution on account of or with respect to the Issuer's or any of its Restricted Subsidiaries' Equity Interests (including, without limitation, any payment in connection with any merger or consolidation involving the Issuer or any of
+
+<<<
+
+ its Restricted Subsidiaries) or to the direct or indirect holders of the Issuer's or any of its Restricted Subsidiaries' Equity Interests in their capacity as such (other than dividends or distributions payable in Equity Interests of the Issuer
+
+<<<
+
+ or payable to the issuer or by a Wholly Owned Restricted Subsidiary of the issuer to another Wholly Owned Restricted Subsidiary of the Issuer that is a Guarantor);
+(ii) purchase, redeem or otherwise acquire or retire for value (including, without
+
+<<<
+
+ limitation, in connection with any merger or consolidation involving the Issuer or any of its Restricted Subsidiaries) any Equity Interests of the Issuer or of any direct or indirect parent of the Issuer or of any Restricted Subsidiary of the
+
+<<<
+
+ Issuer or of any Unrestricted Subsidiary of the Issuer (other than any Equity Interests of any Restricted Subsidiary owned by the Issuer or any Wholly Owned Restricted Subsidiary of the Issuer that is a Guarantor);
+(iii) make any payment on
+
+<<<
+
+ account of or with respect to, or purchase, redeem, defease, prepay, decrease or otherwise acquire or retire for
+
+W/2773419/V3
+
+39
+
+value any indebtedness that is subordinated in right of payment to the Bonds, except a payment of interest
+
+<<<
+
+ or principal at the stated maturity thereof; or
+(iv) make any Restricted Investment (together with all such payments and other actions set forth in paragraphs (i) through (iii) above being collectively referred to as "Restricted Payments")
+
+<<<
+
+,
+unless, at the time of and after giving effect to such Restricted Payment:
+(A) no Default will have occurred and be continuing or would occur as a consequence thereof; and
+(B) the issuer would, at the time of such Restricted Payment and after
+
+<<<
+
+ giving pro forma effect thereto as if such Restricted Payment had been made at the beginning of the applicable four-quarter period, have been permitted to incur at least SEK 1.0 of additional Indebtedness pursuant to the Fixed Charge Coverage
+
+<<<
+
+ Ratio test set forth in Clause 12.6(a) (Limitation on indebtedness); and
+(C) such Restricted Payment, together with the aggregate amount of all other Restricted Payments made by the Issuer and its Restricted Subsidiaries after the issue Date
+
+<<<
+
+ (excluding Restricted Payments permitted by paragraph (b)(ii) below, but including Restricted Payments permitted by paragraphs (b)(i) and (b)(ii) below, is less than the sum, without duplication, of: (1) 50 per cent of the Consolidated Net
+
+<<<
+
+ Income of the Issuer for the period (taken as one accounting period) from the Issue Date to the end of the Issuer's most recently ended fiscal quarter for which financial statements are available at the time of such Restricted Payment (or,
+
+<<<
+
+ if such Consolidated Net Income for such period is a deficit, less 100 per cent of such deficit), plus (2) 100 per cent of the aggregate net cash proceeds received by the issuer since the Issue Date as a contribution to its common equity capital
+
+<<<
+
+ or from the issue or sale of Equity Interests of the Issuer and excluding any such proceeds to the extent used to redeem Bonds, plus (3) to the extent that any Restricted Investment that was made after the Issue Date is sold for Cash Equivalents
+
+<<<
+
+ or otherwise liquidated or repaid for Cash Equivalents, the lesser of (x) the cash return of capital with respect to such Restricted Investment (less the cost of disposition, if any) and (y) the initial amount of such Restricted Investment
+
+<<<
+
+.
+(b) So long as no Default has occurred and is continuing or would be caused thereby, the preceding provisions will not prohibit:
+(i) the payment of any dividend within 60 days after the date of declaration thereof, if at said date of declaration
+
+<<<
+
+ such payment would have complied with the provisions of these Terms and Conditions;
+(ii) the redemption, repurchase, retirement, defeasance or other acquisition of any subordinated Indebtedness of the Issuer or of any
+
+W/2773419/V3
+
+40
+
+Equity
+
+<<<
+
+ Interests of the issuer or any Restricted Subsidiary in exchange for, or out of the net cash proceeds of the substantially concurrent sale (other than to a Subsidiary of the Issuer) of, Equity interests of the Issuer; provided that the amount
+
+<<<
+
+ of any such net cash proceeds that are utilized for any such redemption, repurchase, retirement, defeasance or other acquisition wiil be excluded from paragraph (a)(iv)(C)(2) above;
+(iii) the defeasance, redemption, repurchase or other acquisition
+
+<<<
+
+ of any Indebtedness of the Issuer that is subordinated in right of payment to the Bonds with the net cash proceeds from an incurrence of Permitted Refinancing Indebtedness;
+(iv) other Restricted Payments in an aggregate amount not to exceed
+
+<<<
+
+ SEK 2 0 , 000, 000;
+(v) the payment of distributions, dividends or contributions of up to 50 per cent of Free Cash Flow in excess of the sum of SEK 100,000,000 in any given Financial Year; and
+(vi) any such further distribution or payment to
+
+<<<
+
+ the parent company of the Issuer, in relation to Excess Proceeds required by Clause 9.4 (Early Redemption upon an Asset Sale).
+The amount of all Restricted Payments (other than cash) wilt be the fair market value on the date of the Restricted
+
+<<<
+
+ Payment of the asset(s) or securities proposed to be transferred or issued by the issuer or such Restricted Subsidiary, as the case may be, pursuant to the Restricted Payment. The fair market value of any assets or securities that are required
+
+<<<
+
+ to be valued by this Clause 12.7 will be determined by the board of directors of the Issuer, whose resolution with respect thereto (or an officer's certificate certifying such determination of the board of directors) will be delivered to the
+
+<<<
+
+ Bond Trustee. The board of directors' determination must be based upon an opinion or appraisal issued by an appraisal or investment banking firm of international standing if the fair market value exceeds SEK 800,000,000. Not later than the
+
+<<<
+
+ date of making any Restricted Payment in an amount in excess of SEK 80,000,000, the Issuer will deliver to the Bond Trustee an officers' certificate stating that such Restricted Payment is permitted and setting forth the basis upon which the
+
+<<<
+
+ calculations required by this Clause 12.7 were computed, together with a copy of any fairness opinion or appraisal required by these Terms and Conditions.
+In computing Consolidated Net income of the Issuer for the purpose of the foregoing paragraph
+
+<<<
+
+ (a)(iv)(C)(1), the Issuer will use audited financial statements for the portions of the relevant period for which audited financial statements are available on the date of determination and unaudited financial statements based on the books
+
+<<<
+
+ and records of the Issuer for the remaining portion of such period. The Issuer will be permitted to reiy in good faith on the financial and other data derived from its books and records that are available on the date of determination in preparing
+
+<<<
+
+ such unaudited financial statements. If the Issuer makes a Restricted Payment that, at the time of the making of it, would in the good faith determination of the Issuer be permitted under the requirements of these Terms and Conditions, such
+
+<<<
+
+ Restricted Payment will be deemed to have been made in compliance with these Terms and Conditions notwithstanding any adjustments made in good faith to the Issuer's financial
+
+W/2773419/V3
+
+41
+
+statements after such Restricted Payment is made
+
+<<<
+
+ which effect Consolidated Net Income of the Issuer for any period; provided, however, that any such adjustments will be taken into account in computing Consolidated Net Income in respect of any subsequent Restricted Payment.
+12.8 Limitations
+
+<<<
+
+ on Dividends and Other Payment Restrictions Affecting Subsidiaries
+(a) The issuer shall not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, create or permit to exist or become effective any encumbrance or
+
+<<<
+
+ restriction on the ability of any Subsidiary to:
+(i) pay dividends or make any other distributions on its Share Capital or with respect to any other interest or participation in, or measured by, its profits or reserves, to the Issuer or any
+
+<<<
+
+ of the issuer's Restricted Subsidiaries, or pay any indebtedness owed to the Issuer or any of the Issuer's Restricted Subsidiaries;
+(ii) make loans or advances to the Issuer or any of the Issuer's Restricted Subsidiaries; or
+(iii) transfer
+
+<<<
+
+ any of its properties or assets to the Issuer or any of the Issuer's Restricted Subsidiaries.
+(b) However, the restrictions in paragraph (a) above will not apply to encumbrances or restrictions existing under or by reason of:
+(i) these Terms
+
+<<<
+
+ and Conditions, the Bonds and the Transaction Security Documents;
+(ii) applicable law;
+(iii) any instrument governing Indebtedness or Share Capital of an entity acquired by the Issuer or any of its Restricted Subsidiaries as in effect at the
+
+<<<
+
+ time of such acquisition (except to the extent such Indebtedness was incurred in connection with or in contemplation of such acquisition), which encumbrance or restriction is not applicable to any entity, or the properties or assets of any
+
+<<<
+
+ entity, other than the entity, or the property or assets of the entity, so acquired, provided that, in the case of indebtedness, such indebtedness was permitted by the terms of these Terms and Conditions to be incurred;
+(iv) customary non-assignment
+
+<<<
+
+ provisions in leases entered into in the ordinary course of business and consistent with then current industry practices;
+(v) purchase money obligations for property acquired in the ordinary course of business that impose restrictions on the
+
+<<<
+
+ transfer or encumbrance of the property so acquired;
+(vi) any agreement for sale or other disposition of a Restricted Subsidiary that restricts distributions or transfers or assets by such Restricted Subsidiary pending the consummation or such
+
+<<<
+
+ sale or other disposition; and
+
+W/2773419/V3
+
+42
+
+(vii) Security securing Indebtedness otherwise permitted to be incurred pursuant to Clause 12.9 (Limitation on Security) that limit the right of the Issuer or any of its Restricted Subsidiaries
+
+<<<
+
+ to dispose of the assets subject to such Security.
+12.9 Limitation on Security
+The Issuer shall not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, create, incur, assume or suffer to exist any Security of
+
+<<<
+
+ any kind securing Indebtedness, Attributable Debt or trade payables on any property or asset now owned or hereafter acquired, except Permitted Security. The Issuer will not, and the issuer will not permit any of its Restricted Subsidiaries
+
+<<<
+
+ to, grant to any entity other than the Security Agent, for the benefit of any registered holder of the Bonds, and the holders of the Bonds and any other beneficiaries described in the Transaction Security Documents, any interest whatsoever
+
+<<<
+
+ in any of the Transaction Security, except that the issuer may sell or dispose of assets, including property or assets which constitute Transaction Security, if such sale or disposition is made in compliance with or not otherwise prohibited
+
+<<<
+
+ by Clause 12.12 (Limitation on Certain Asset Sales).
+12.10 Limitation on Sate and Leaseback Transactions
+(a) The Issuer shall not, and will not permit any of its Restricted Subsidiaries to, enter into any Sale and Leaseback Transactions; provided
+
+<<<
+
+ that the Issuer may enter into a Sale and Leaseback Transaction if:
+(i) the Issuer could have:
+(A) incurred Indebtedness in an amount equal to the Attributable Debt relating to such Sale and Leaseback Transaction under the Fixed Charge Coverage
+
+<<<
+
+ Ratio test in paragraph (a) of Clause 12.6 (Limitation on Indebtedness); and
+(B) incurred a Security to secure such Indebtedness (without securing the Bonds) pursuant to Clause 12.9 (Limitation on Security);
+(ii) the gross cash proceeds of
+
+<<<
+
+ such Sale and Leaseback Transaction are at least equal to the fair market value, as determined in good faith by the board of directors of the Issuer and set forth in an officers' certificate delivered to the Bond Trustee, of the property that
+
+<<<
+
+ is the subject of such Sale and Leaseback Transaction; and
+(iii) the transfer of assets in such Sale and Leaseback Transaction is permitted by, and the issuer applies the proceeds of such transaction in compliance with Clause 12.12 (Limitation
+
+<<<
+
+ on Certain Asset Sales).
+(b) Notwithstanding the above, the Issuer and any of its Guarantors may enter into Sale and Leaseback Transactions between or among the Issuer and any of its Guarantors, provided such transactions are not otherwise
+
+<<<
+
+ prohibited by these Terms and Conditions.
+
+W/2773419/V3
+
+43
+
+12.11 Limitation on Transactions with Affiliates and Related Persons
+(a) The Issuer shall not, and will not permit any of its Restricted Subsidiaries to, make any payment to, or
+
+<<<
+
+ sell, lease, transfer or otherwise dispose of any of its properties or assets to, or purchase any property or assets from, or enter into or make or amend any transactions, contract, agreement, understanding, loan, advance or guarantee with
+
+<<<
+
+, or for the benefit of, any Affiliate (each, an "Affiliate Transaction"), unless:
+(i) such Affiliate Transaction is on terms that are no less favourable to the Issuer or the relevant Restricted Subsidiary than those that would have been obtained
+
+<<<
+
+ in a comparable transaction at such time on an arm's length basis by the issuer or such Restricted Subsidiary with an entity which is not an Affiliate of the Issuer or such Restricted Subsidiary; and
+(ii) the Issuer delivers to the Bond Trustee
+
+<<<
+
+:
+(A) with respect to any Affiliate Transaction or series of related Affiliate Transactions involving aggregate consideration in excess of SEK 10,000,000, a resolution of its board of directors, certified in an officers' certificate, resolving
+
+<<<
+
+ that such Affiliate Transaction complies with this Clause 12.11 and that such Affiliate Transaction has been approved by a majority of the disinterested members of its board of directors; and
+(B) with respect to any Affiliate Transaction or
+
+<<<
+
+ series of related Affiliate Transactions involving aggregate consideration in excess of SEK 100,000,000, an opinion in form and substance satisfactory to the Bond Trustee as to the fairness to the Bondholders of such Affiliate Transaction from
+
+<<<
+
+ a financial point of view issued by an appraisal or investment banking firm of international standing;
+(b) The following items will not be deemed to be Affiliate Transactions and, therefore, will not be subject the provisions of paragraph 
+
+<<<
+
+(a) of this Clause 12. 11:
+(i) reasonable fees and compensation paid to and indemnity provided on behalf of, officers, directors, employees or consultants of the Issuer or any Restricted Subsidiary of the Issuer in the ordinary course of business
+
+<<<
+
+ and consistent with the past practice of the Issuer or such Restricted Subsidiary, all as determined in good faith by the Issuer's board of directors or senior management;
+(ti) transactions exclusively between or among the Issuer and any of
+
+<<<
+
+ its Wholly Owned Restricted Subsidiaries or exclusively between or among such Wholly Owned Restricted Subsidiaries, provided such transactions are not otherwise prohibited by these Terms and Conditions; and
+(iii) Restricted Payments that are
+
+<<<
+
+ not Permitted Investments and that are permitted by Clause 12.7 (Limitation on Restricted Payments).
+
+W/2773419/V3
+
+44
+
+12.12 Limitation on Certain Asset Sales
+(a) The Issuer shall not, and will not permit any of its Restricted Subsidiaries
+
+<<<
+
+ to, consummate an Asset Sale unless:
+(i) the Issuer or the Restricted Subsidiary, as the case may be, receives consideration at the time of such Asset Sale at least equal to the fair market value of the assets or Equity Interests issued or
+
+<<<
+
+ sold or otherwise disposed;
+(ii) such fair market value is determined in good faith by the Issuer's board of directors and evidenced by a resolution of the Issuer's board of directors delivered to the Bond Trustee. In the case of the sale of
+
+<<<
+
+ Surplus Buses, such officer's certificate shall be delivered to the Bond Trustee within thirty (30) calendar days after completion of the sale of any Surplus Buses;
+(iii) at least 75 per cent of the consideration therefore received by the Issuer
+
+<<<
+
+ or such Restricted Subsidiary is in the form of Sale Cash Equivalents and is received at the time of such issuance, sale or disposition. For purposes of this provision, each of the following will be deemed to be "Sale Cash Equivalents":
+(A
+
+<<<
+
+) any liabilities (as shown on the Issuer's or such Restricted Subsidiary's most recent balance sheet), of the Issuer or any Restricted Subsidiary (other than contingent liabilities and liabilities that are by their terms subordinated in right
+
+<<<
+
+ of payment to the Bonds) that are assumed by the transferee of any such assets pursuant to a customary novation agreement that releases the Issuer or such Restricted Subsidiary from such liabilities;
+(B) any securities, notes or other obligations
+
+<<<
+
+ received by the Issuer or any such Restricted Subsidiary from such transferee that are (subject to ordinary settlement periods) converted within 30 days by the Issuer or such Restricted Subsidiary into Cash Equivalents (to the extent of the
+
+<<<
+
+ Cash Equivalents received in that conversion);
+(iv) such Asset Sale is made in compliance with the Transaction Security Documents or, in the case of pledged assets, with the consent of the Security Agent.
+(b) Within 360 days after receipt of
+
+<<<
+
+ any Net Proceeds from an Asset Sale, the Issuer will apply, or cause such Restricted Subsidiary to apply, such Net Proceeds at its option to make an investment in properties and assets that replace the properties and assets that were the subject
+
+<<<
+
+ of such Asset Sale or in properties and assets that will be used in a Permitted Business ("Replacement Assets") and provided that if such sold properties or assets were subject to Transaction Security then such Replacement Assets shall be pledged
+
+<<<
+
+ to the Security Agent pursuant to an effective and perfected security interest. Pending the final application of any such Net Proceeds, the Issuer or any Restricted Subsidiary may temporarily reduce revolving credit borrowings of the Issuer
+
+<<<
+
+ or the Restricted Subsidiary (as applicable) or otherwise invest such Net Proceeds in any manner that is not prohibited by these Terms and Conditions.
+
+W/2773419/V3
+
+45
+
+Any Net Proceeds from Asset Sales that are not applied or invested as
+
+<<<
+
+ provided for in this paragraph will constitute "Excess Proceeds".
+
+(c) In the event of the transfer of substantially all (but not all) of the property and assets of the Issuer and its Restricted Subsidiaries as an entirety to an entity in a
+
+<<<
+
+ transaction permitted under 12.1 (Mergers), the receiving entity will be deemed to have sold the properties and assets of the Issuer and its Restricted Subsidiaries not so transferred for purposes of this Clause 12.12, and such receiving entity
+
+<<<
+
+, in lieu of the Issuer and its Restricted Subsidiaries, shall comply with the provisions of this Clause 12.12 with respect to such deemed sale as if it were an Asset Sale. In addition, the fair market value (as determined in good faith by the
+
+<<<
+
+ Issuer's board of directors and evidenced by a resolution of such board of directors) of such properties and assets of the Issuer or its Restricted Subsidiaries deemed to be sold will be deemed to be Net Proceeds for the purposes of this Clause
+
+<<<
+
+ 12.12.
+
+12.13 Limitation on Sales and issuances of Equity interests in Restricted Subsidiaries
+
+(a) The Issuer shall not, and will not permit any of its Restricted Subsidiaries to, transfer, convey, sell, lease or otherwise dispose, directly
+
+<<<
+
+ or indirectly, of any Equity Interests (other than Share Capital constituting directors' qualifying shares) in any Restricted Subsidiary of the Issuer to any entity (other than the Issuer or a Wholly Owned Restricted Subsidiary of the issuer
+
+<<<
+
+ that is a Guarantor, provided that any such Equity Interest is pledged to the Security Agent pursuant to an effective and perfected security interest at the time of such transfer, conveyance, sale, lease or other disposition), unless;
+
+(i)
+
+<<<
+
+
+
+such transfer, conveyance, sale, lease or other disposition is of all the
+
+Equity Interests in such Restricted Subsidiary; and the cash Net
+
+Proceeds from such transfer, conveyance, sale, lease or other
+
+disposition are applied in accordance
+
+<<<
+
+ with Clause 12.12 (Limitation on
+
+Certain Asset Sales);
+
+(ii) immediately after giving effect to such transfer, conveyance, sale or other disposition such Restricted Subsidiary would no longer constitute a Subsidiary or is designated as an
+
+<<<
+
+ Unrestricted Subsidiary, the Net Proceeds from such transfer, conveyance, sale or other disposition are applied in accordance with Clause 12.12 (Limitation on Certain Asset Sales), and any remaining Investment in such entity would have been
+
+<<<
+
+ permitted to be made under Clause 12.7 (Limitation on Restricted Payments) if made on the date of such transfer, conveyance, sale or other disposition; or
+
+(iii) a sale of the type described in the proviso to the definition of Sale and Leaseback
+
+<<<
+
+ Transaction in these Terms and Conditions.
+
+(b) In addition, the Issuer shall not and will not permit any Restricted Subsidiary of the Issuer to issue any of its Equity Interests (other than, if necessary, shares of its Share Capital constituting
+
+<<<
+
+ directors' qualifying shares) to any entity other than to the Issuer or a Wholly Owned Restricted Subsidiary of the Issuer that is a Guarantor) or permit any entity (other than the Issuer or a Wholly Owned Restricted Subsidiary of the Issuer
+
+<<<
+
+ that is a Guarantor) to own any Preferred Shares of any Restricted Subsidiary of the Issuer.
+
+W/2773419/v3
+
+46
+
+12.14 Limitation on Issuances of Guarantees of Indebtedness
+(a) The Issuer will not permit any of its Restricted Subsidiaries that
+
+<<<
+
+ are not Guarantors, directly or indirectly, to Guarantee the payment of any other Indebtedness of the Issuer unless (i) such Restricted Subsidiary simultaneously accedes to the Guarantee Agreement, except that if such Indebtedness is by its
+
+<<<
+
+ express terms subordinated in right of payment to the Bonds, any such assumption, Guarantee or other liability of such Restricted Subsidiary with respect to such Indebtedness shall be subordinated in right of payment to such Restricted Subsidiary
+
+<<<
+
+'s assumption, Guarantee or other liability with respect to the Bonds substantially to the same extent as such Indebtedness is subordinated to the Bonds and (ii) such Restricted Subsidiary waives, and wilt not in any manner whatsoever claim
+
+<<<
+
+ or take the benefit or advantage of, any rights of reimbursement, indemnity or subrogation or any other rights against the Issuer or any other Restricted Subsidiary as a result of any payment by such Restricted Subsidiary under the Guarantee
+
+<<<
+
+ Agreement until payment in full of the outstanding principal amount of the Bonds, together with any premium, accrued and unpaid interest and other amounts then due and owing; provided that this paragraph shall not be applicable to any Guarantee
+
+<<<
+
+ of any Restricted Subsidiary that existed at the time such entity became a Restricted Subsidiary and was not incurred in connection with, or in contemplation of, such entity becoming a Restricted Subsidiary.
+(b) Neither the Issuer nor any Restricted
+
+<<<
+
+ Subsidiary shall create or acquire any Subsidiary unless:
+(i) such Subsidiary simultaneously accedes to the Guarantee Agreement;
+(ii) such Subsidiary executes one or more Transaction Security Documents granting to the Security Agent, for the
+
+<<<
+
+ benefit of the Secured Parties, a first priority security interest in substantially all the assets of such Subsidiary;
+(iii) such Subsidiary takes all requisite steps under applicable law and undertakes other customary procedures in connection
+
+<<<
+
+ with the granting and perfection (if relevant) of such security interests;
+(iv) such Subsidiary delivers to the Security Agent and the Bond Trustee an opinion of counsel and officers' certificates (accompanied by resolutions and constituent
+
+<<<
+
+ documents of such Subsidiary) with respect to corporate and collateral matters in connection with the Guarantee and Transaction Security Documents, in form and substance reasonably satisfactory to the Security Agent and the Bond Trustee; and
+
+<<<
+
+
+(v) the issuer or such Restricted Subsidiary pledges all the shares in such created or acquired Subsidiary to the Security Agent, for the benefit of the Secured Parties, pursuant to a valid and effective security interest.
+12.15 Designation
+
+<<<
+
+ of Restricted and Unrestricted Subsidiaries
+(a) The board of directors of the Issuer may designate any Restricted Subsidiary to be an Unrestricted Subsidiary if that designation would not cause a Default. If a Restricted Subsidiary is designated
+
+<<<
+
+ as an Unrestricted Subsidiary, ail
+
+W/2773419/V3
+
+47
+
+outstanding Investments owned by the Issuer and its Restricted Subsidiaries in the Subsidiary so designated will be deemed to be an Investment made as of the time of such designation and
+
+<<<
+
+ will reduce the amount available for Restricted Payments under paragraph (a) of Clause 12.7 (Limitation on Restricted Payments) or Permitted Investments, as applicable. All such outstanding Investments will be valued at their fair market value
+
+<<<
+
+ at the time of such designation. That designation will only be permitted if such Restricted Payment would be permitted at that time and if such Restricted Subsidiary otherwise meets the definition of an Unrestricted Subsidiary. The Issuer's
+
+<<<
+
+ board of directors may redesignate any Unrestricted Subsidiary to be a Restricted Subsidiary if such redesignation would not result in a Default.
+(b) Any designation pursuant to this Clause 12.15 by the Issuer's board of directors will be evidenced
+
+<<<
+
+ to the Bond Trustee by the prompt filing with the Bond Trustee of a certified copy of the resolution of such board of directors giving effect to such designation and an officers' certificate certifying that such designation complied with the
+
+<<<
+
+ foregoing conditions.
+12.16 Payments for Consent
+The Issuer will not, and the Issuer will not permit any of its Subsidiaries to, directly or indirectly, pay or cause to be paid any consideration to or for the benefit of any Bondholder for or
+
+<<<
+
+ as an inducement to any consent, waiver or amendment of any of the terms or provisions of these Terms and Conditions or the Bonds unless such consideration is offered to be paid and is paid to all Bondholders that consent, waive or agree to
+
+<<<
+
+ amend in the time frame set forth in the solicitation documents relating to such consent, waiver or agreement.
+12.17 Permitted Activities and Amendment of Transaction Security Documents
+(a) The Issuer shall not engage in any business activity
+
+<<<
+
+ other than, in the case of the Issuer, acting as a direct holding company of its Subsidiaries, including activities being undertaken on the Issue Date that are ancillary to such role. The Issuer shall not Incur any material liabilities not
+
+<<<
+
+ directly related to such activities other than the Incurrence of Indebtedness in accordance with t these Terms and Conditions.
+(b) The Issuer will not, and will not permit any Guarantor to, amend any of the Finance Documents in a manner adverse
+
+<<<
+
+ to the interests of the Bondholders.
+12.18 Advances to Subsidiaries
+All advances to Restricted Subsidiaries made by the Issuer after the issue Date will be evidenced by intercompany notes or loan agreements in favour of the Issuer. Each intercompany
+
+<<<
+
+ note will be issued and each intercompany loan agreement will be executed by the relevant Restricted Subsidiary of the Issuer in favour of the Issuer to evidence advances by the issuer and will provide that such advances will be payable upon
+
+<<<
+
+ demand,
+12.19 Transaction Security
+(a) The Issuer undertakes to procure, with respect to any Transaction Security to be perfected by way of registration, that all necessary applications required to
+
+W/2773419/V3
+
+48
+
+be filed for perfection
+
+<<<
+
+ purposes are filed on the Issue Date and that final registrations are accomplished as soon as practicably possible.
+(b) The Bond Trustee undertakes to, upon request of the Issuer, exchange the business mortgage certificate amounting to SEK
+
+<<<
+
+ 100,000,000 (within SEK 1100.000. 000) over assets in Nobina Sverige AB with new business mortgage certificate(s) amounting to SEK 100,000,000 (within SEK 50,000,001-SEK 150.000. 000).
+12.20 Additional Guarantors
+The Issuer shall procure that
+
+<<<
+
+ any Subsidiary, which together with its Subsidiaries (on a consolidated basis) has earnings before interest, tax, depreciation and amortization ("EBITDA"), representing five (5) per cent or more of the total consolidated EBITDA of the Group
+
+<<<
+
+ or has gross assets, net assets or turnover (excluding intra-group items) representing five (5) per cent, or more of the gross assets, net assets or turnover of the Group, calculated on a consolidated basis, accedes to the Guarantee Agreement
+
+<<<
+
+ as a Guarantor, within 30 Business Days following any Interest Payment Date on which the relevant thresholds were acceded by the relevant Subsidiary.
+13. Events of Default
+The Bond Trustee is, on behalf of the Bondholders, entitled to declare
+
+<<<
+
+ all, but not only some of the Bonds due for payment immediately or at such later date as the Bond Trustee determines by notice to the Issuer (such later date not being a date falling after the Maturity Date), if any of the following events
+
+<<<
+
+ or circumstances occurs.
+13.1 Non-Payment
+(a) The Issuer, a Guarantor or any of their Restricted Subsidiaries is in a default for 30 days in the payment when due of interest or any other amounts hereunder (except for amounts under paragraph
+
+<<<
+
+ (b) below), if any, on the Bonds, whether or not such payment is prohibited or restricted by any applicable law or regulation.
+(b) The Issuer, a Guarantor or any of their Restricted Subsidiaries is in a default in payment when due of the principal
+
+<<<
+
+ of or premium, if any, on the Bonds, whether or not such payment is prohibited or restricted by any applicable law or regulation.
+13.2 Breach of General Undertakings
+Any failure by the issuer or any of its Restricted Subsidiaries to comply
+
+<<<
+
+ with any of the provisions of Clauses 12.6 (Limitation on Indebtedness ), 12.7 (Limitation on Restricted Payments), 12.9 (Limitation on Security), 12.10 (Limitation on Sale and Leaseback Transactions), 12,12 (Limitation on Certain Asset Sales
+
+<<<
+
+), 12.13 (Limitation on Sales and Issuances of Equity Interests in Restricted Subsidiaries) and 12.17 {Permitted Activities and Amendment of Transaction Security Documents) or otherwise take any action which is not permitted by or omit to take
+
+<<<
+
+ any action which is required by such Clause whether or not required or compelled to do so by or upon the direction of the holders of the Issuer's Share Capital or otherwise.
+
+W/2773419/V3
+
+49
+
+13.3 Breach of other obligations
+Any failure by
+
+<<<
+
+ the Issuer or any of its Restricted Subsidiaries for 30 days after notice from the Bond Trustee to comply with any of the covenants or provisions in these Terms and Conditions (other than a covenant or warranty a default in whose performance
+
+<<<
+
+ or whose breach is dealt with specifically elsewhere in this Clause 13).
+13.4 insolvency
+(a) The Issuer or any of its Restricted Subsidiaries is unable or admits inability to pay its debts as they fall due or declared to be unable to pay its
+
+<<<
+
+ debts under applicable law, suspends or threatens to suspend making payments on any of its debts or, by reason of actual or anticipated financial difficulties, commences negotiations with one or more of its creditors with a view to rescheduling
+
+<<<
+
+ any of its indebtedness.
+(b) A moratorium is declared in respect of any indebtedness of the Issuer or any of its Restricted Subsidiaries, if a moratorium occurs, the ending of the moratorium will not remedy any Event of Default caused by that
+
+<<<
+
+ moratorium,
+13.5 Cross Default
+Any default under any mortgage, Security, guarantee or instrument under which there may be issued or by which there may be secured or evidenced any Indebtedness (which for the avoidance of doubt shall include
+
+<<<
+
+ any financial lease arrangements regarding busses or otherwise) for money borrowed by the Issuer or any of its Restricted Subsidiaries (or the payment of which is guaranteed by the Issuer or any of its Restricted Subsidiaries) whether such
+
+<<<
+
+ Indebtedness or guarantee now exists, or is created after the Issue Date, if that default is caused by a failure to pay principal of or premium, if any, on such Indebtedness prior to the expiration of the grace period provided in such Indebtedness
+
+<<<
+
+ on the date of such default; or results in the acceleration of such Indebtedness prior to its stated maturity, and, in each case, the principal amount of any such Indebtedness, together with the principal amount of any other such Indebtedness
+
+<<<
+
+ the maturity of which has been so accelerated, aggregates SEK 40,000,000 or more.
+13.6 Judgments
+The Issuer or any of its Restricted Subsidiaries fails to pay judgments aggregating in excess of SEK 40,000,000, which judgments are not paid,
+
+<<<
+
+ discharged or stayed for a period of sixty (60) days.
+13.7 Invalidity of the Guarantee Agreement
+The Guarantee Agreement ceases to be in full force and effect for any reason (other than the release of the Guarantee Agreement in accordance with
+
+<<<
+
+ its terms and these Terms and Conditions or the satisfaction in full of alt obligations hereunder) or is declared invalid or unenforceable, or any Guarantor repudiates, denies or disaffirms any of its material obligations hereunder.
+
+W/277
+
+<<<
+
+3419/v3
+
+50
+
+13.8 Default under the Transaction Security Documents
+Any default by the Issuer, a Guarantor or any of their Restricted Subsidiaries in the performance of its obligations under the Transaction Security Documents (after the lapse
+
+<<<
+
+ of any applicable grace periods and the giving of any required notice) which materially adversely affects the enforceability, validity, perfection or priority of the Bondholders', the Bond Trustee's or Security Agent's Security on the Transaction
+
+<<<
+
+ Security as set out in the Transaction Security Documents or which adversely affects the condition or value of the Transaction Security, in either case taken as a whole, in any materia! respect, disaffirmation by the Issuer, any Guarantor or
+
+<<<
+
+ any subsidiary of any Guarantor of its obligations under the Transaction Security Documents or the determination in a judicial proceeding that the Transaction Security Documents are unenforceable or invalid against the issuer, any Guarantor
+
+<<<
+
+ or any subsidiary of any Guarantor as to a materia! portion of the Transaction Security for any reason.
+13.9 Insolvency Proceedings
+(a) The entry by a court having jurisdiction of:
+(i) a decree or order for relief in respect of the Issuer or
+
+<<<
+
+ any of its Restricted Subsidiaries in an involuntary case or proceeding under any applicable insolvency law in connection with the insolvency of the Issuer or such Restricted Subsidiary, or
+(ii) a decree or order adjudging the Issuer or any
+
+<<<
+
+ such Restricted Subsidiary a bankrupt or insolvent under any applicable insolvency law, or appointing a custodian, receiver, liquidator, assignee, trustee, reconstructor, sequestrator or other similar official of the Issuer or any such Restricted
+
+<<<
+
+ Subsidiary or of any substantial part of the property of the Issuer or any such Restricted Subsidiaries, or ordering the winding up or liquidation of the affairs of the Issuer or any such Restricted Subsidiary, and the continuance of any such
+
+<<<
+
+ decree or order for relief or any such other decree or order unstayed and in effect for a period of 90 consecutive days.
+(b) The commencement by the Issuer or any Restricted Subsidiary of a voluntary case or proceeding under any applicable
+
+<<<
+
+ insolvency law or of any other case or proceeding to be adjudicated a bankrupt or insolvent, or the consent by the issuer or any such Restricted Subsidiary to the entry of a decree or order for relief in respect of the Issuer or any such Restricted
+
+<<<
+
+ Subsidiary in an involuntary case or proceeding under any applicable insolvency law or to the commencement of any bankruptcy or insolvency case or proceeding against the Issuer or any such Restricted Subsidiary, or the filing by the Issuer
+
+<<<
+
+ or any such Restricted Subsidiary of a petition or answer or consent seeking reorganization or relief under any applicable insolvency law, or the consent by the Issuer or any such Restricted Subsidiary to the filing of such petition or to the
+
+<<<
+
+ appointment of or taking possession by a custodian, receiver, liquidator, assignee, trustee, reconstructor, sequestrator or similar official of the Issuer or any such Restricted Subsidiary or of any substantial part of the property of the issuer
+
+<<<
+
+ or any such Restricted Subsidiary, or an assignment for the benefit of creditors generally.
+(c) The seeking or making by the Issuer or any Restricted Subsidiary of a composition with its creditors or the admission by the Issuer or any such
+
+<<<
+
+
+
+W/2773419/v3
+
+51
+
+Restricted Subsidiary in writing of its inability to pay its debts generally as they become due.
+13.10 Acceleration of the Bonds
+(a) If an Event of Default has occurred or might occur, the Issuer is obliged to inform the
+
+<<<
+
+ Bond Trustee as soon as possible and in any event no later than 15 Business Days after the Issuer becomes aware or should reasonable become aware of the occurrence of an Event of Default or that an Event of Default might occur. Should the Bond
+
+<<<
+
+ Trustee not receive such information, the Bond Trustee is entitled to assume that no Event of Default exists or can be expected to occur, provided that the Bond Trustee does not have knowledge of such circumstance.
+(b) If the Bond Trustee has
+
+<<<
+
+ been notified by the Issuer or otherwise has determined (acting reasonably) that an Event of Default has occurred and is continuing, the Bond Trustee shall be entitled to (but is not obliged to), in order to protect the interests of the Bondholders
+
+<<<
+
+, declare the Bonds, including accrued interest, costs and expenses immediately due and payable.
+(c) If an Event of Default has occurred and is continuing, the Bond Trustee shall promptly by written notice to the Issuer declare the outstanding
+
+<<<
+
+ Bonds including accrued interest, costs and expenses to be in default and due for payment if:
+(i) the Bond Trustee receives a demand in writing from Bondholders representing at least 20 per cent of the Adjusted Nominal Amount, which for the
+
+<<<
+
+ avoidance of doubt shall not require a Bondholders' Meeting, or
+(ii) the Bondholders' Meeting has with simple majority decided that the Bonds shall be declared immediately due and payable.
+In either case the Bond Trustee shall take every measure
+
+<<<
+
+ necessary to recover the amounts due under the Bonds.
+For the avoidance of doubt, if the Bondholders' Meeting has decided that no acceleration in respect of a specific Event of Default shall be initiated, no individual Bondholder may initiate
+
+<<<
+
+ an acceleration in accordance with paragraph (c) (i) above with respect to such Event of Default.
+(d) If the Bonds are declared due and payable, the issuer shall redeem the Bonds at a price of 100 per cent of the Nominal Amount together with
+
+<<<
+
+ accrued interest in accordance with Clause 7 (Interest) from the preceding Interest Payment Date up to and including the relevant Redemption Date.
+(e) If the right to accelerate the Bonds is based upon a decision of a court of law or a government
+
+<<<
+
+ authority, it is not necessary that the decision has acquired legal force or that the period of appeal has expired in order for cause of acceleration to be deemed to exist.
+(f) The Bond Trustee may at its sole discretion, take every measure
+
+<<<
+
+ necessary to recover the amounts due under the Bonds, and all other amounts outstanding under the Finance Documents.
+
+W/2773419/V3
+
+52
+
+14. Application of Proceeds
+(a) When the Bonds have been accelerated in accordance with Clause 13.10 (Acceleration
+
+<<<
+
+ of the Bonds), all proceeds received from an acceleration of the Bonds or an enforcement of Security created under the Transaction Security Documents and/or the Guarantee Agreement shall, subject to the rights of creditors mandatorily preferred
+
+<<<
+
+ by law applying to companies generally, be applied for the satisfaction of the respective Secured Obligations distributed in the following order of priority:
+(i) first, in or towards payment of any unpaid fees, costs, expenses and liabilities
+
+<<<
+
+ {and any interest thereon) incurred by or on behalf of the Bond Trustee and the Security Agent and the remuneration of the Bond Trustee and the Security Agent pari passu between themselves in connection with carrying out its duties or exercising
+
+<<<
+
+ powers or discretions under the Finance Documents;
+(ii) secondly, in or towards payment to the Bondholders pro rata of amounts due under the Bonds; and
+(iii) thirdly, the balance, if any, to the Issuer or to such other person as a court of
+
+<<<
+
+ competent jurisdiction shall direct in writing.
+(b) Proceeds that the Bond Trustee or the Security Agent receives in connection with an acceleration of the Bonds or an enforcement of any Security created under the Transaction Security Documents
+
+<<<
+
+ and/or the Guarantee Agreement shall constitute escrow funds (Sw. redovisningsmedei) and must be held on a separate account on behalf of the Bondholders. The Bond Trustee or the Security Agent shall promptly arrange for payments to be made
+
+<<<
+
+ to the Bondholders.
+15. Bondholders' Meeting and Written Procedures
+(a) The Bond Trustee may and shall upon the written request of the Issuer, the Exchange or Bondholders, which on the date of the request represent at least ten (10) per cent
+
+<<<
+
+ of the Adjusted Nominal Amount, convene a physical Bondholders' meeting ("Bondholders' Meeting") or call upon a Bondholders' meeting by written procedure ("Written Procedure"). Requests for a Bondholders' Meeting or Written Procedures shall
+
+<<<
+
+ be made by written notice to the Bond Trustee pursuant to Clause 21 (Notices) and shall clearly state that the matter is urgent. Subject to paragraph (b) below, a notice of a Bondholders' Meeting or Written Procedure shall be sent to the Bondholders
+
+<<<
+
+, the Security Agent and the Issuer in accordance with Clause 21 (Notices) no later than twenty (20) Business Days prior to the Bondholders' Meeting or the end of the time for replies in case of a Written Procedure. The notice shall also be
+
+<<<
+
+ sent to the Exchange for publication if the Bonds are listed.
+(b) In case of a Written Procedure, as soon as the Bond Trustee has received submitted answers representing at least 75% of the Adjusted Nominal Amount of the Bonds voting in favour
+
+<<<
+
+ of the matter(s) which shall be resolved upon pursuant to the notice sent by the Bond Trustee in accordance with paragraph (a) above, the relevant resolution(s) shall be deemed passed. Any votes submitted thereafter shall be disregarded.
+
+W
+
+<<<
+
+/2773419/V3
+
+53
+
+(c) The notice shall include (i) time for the Bondholders' Meeting or the last day for replies in case of a Written Procedure, (ii) place for the Bondholders' Meeting or address details in case of a Written Procedure and (iii
+
+<<<
+
+) the agenda for the Bondholders' Meeting or the Written Procedure. If the voting shall be made electronically, instructions for such voting procedure shall be included in the notice. Further, the notice shall include information regarding the
+
+<<<
+
+ matters that shall be discussed and resolved upon by the meeting. The main content of each proposal (if any) shall be described in the notice. Only matters that have been included in the notice may be resolved upon by the meeting. Should prior
+
+<<<
+
+ notification by the Bondholders be required in order to attend the meeting, such requirement shall explicitly be included in the notice. A proxy form shall be appended to the notice, or in case of a Written Procedure, a voting form which sets
+
+<<<
+
+ out the relevant voting options.
+(d) The Bondholders' Meeting may be attended (besides by the Bondholders, the Bond Trustee, the Security Agent and their respective representatives and assistants) by the directors of the boards, the managing
+
+<<<
+
+ directors and other officials of the Issuer, the Issuer's auditors and legal counsels and representatives of the Exchange. Representatives of Bondholders shall present a duly executed proxy or other documents establishing their authority, to
+
+<<<
+
+ be approved by the chairman of the Bondholders' Meeting.
+(e) The Bondholders' Meeting shall start with the appointment of a chairman and the person/persons to verify the minutes. Unless otherwise decided by the Bondholders' Meeting, the Bond
+
+<<<
+
+ Trustee shall be appointed as chairman.
+(f) The Bond Trustee shall arrange for the supply of an excerpt of the debt register kept by Euroclear Sweden as of the Record Date. The chairman shall prepare a list of Bondholders and representatives
+
+<<<
+
+/proxies present and entitled to vote on the meeting including also information on the Nominal Amount and portion of the Adjusted Nominal Amount each Bondholder represents (the "Voting List") (Sw. rostlangd). For the purpose of these Terms and
+
+<<<
+
+ Conditions, Bondholders that have voted electronically or by ballot paper or similar, shall be deemed present at the Bondholders' Meeting. Only persons being Bondholders or representatives of Bondholders and participants in the Adjusted Nominal
+
+<<<
+
+ Amount at the Record Date shall be entitled to vote and shall be listed in the Voting List. Thereafter, the Voting List shall be approved by the Bondholders' Meeting.
+(g) The chairman shall arrange for the minutes to be kept at the Bondholders
+
+<<<
+
+' Meeting. The minutes shall include information on the place and date of the meeting, persons attending the meeting, matters discussed, the result of the voting and which resolutions that have been passed. The Voting List shall be represented
+
+<<<
+
+ in or appended to the minutes. The minutes shall be verified by the chairman, unless the chairman has kept the minutes, and at least one more person appointed at the meeting to verify the minutes. Thereafter, the minutes shall be deposited
+
+<<<
+
+ with the Bond Trustee and shall be available to the Bondholders. The Bond Trustee or anyone acting on behalf of the Bond Trustee shall arrange for new or revised terms and conditions applicable to the Bonds, if any, to be sent to and registered
+
+<<<
+
+ with Euroclear Sweden.
+(h) A resolution is passed by means of voting at a Bondholders' Meeting (or, in the case of a Written Procedure, through calculation by the Bond Trustee of the replies), at which each Bondholder holding EUR Bonds who
+
+<<<
+
+ is entitled to vote shall have one (1) vote per SEK Bond held by it and each Bondholder holding
+
+W/2773419/V3
+
+54
+
+EUR Bonds who is entitled to vote shall have one (1) vote per the EUR Bond multiplied with the SEK/EUR Conversion Rate. A Bondholder
+
+<<<
+
+ must vote in the same manner for all Bonds held by it. However, a representative who represents different Bondholders may vote differently for different Bondholders.
+(i) The resolution of the Bondholders shall be the opinion which represents
+
+<<<
+
+ the majority of the Adjusted Nomina! Amount for the Bonds represented at the meeting, in respect of the issues below, the following qualified majority is required among the votes cast (or, in the case of a Written Procedure answers received
+
+<<<
+
+) in order for a resolution to be validly passed ("Qualified Majority"):
+(i) subject to sub-paragraph (ii), a simple majority in respect of (A) any waiver and/or amendment of any of the conditions and/or undertakings set out in Clause 11 {Information
+
+<<<
+
+ Undertakings), or Clause 12 (General Undertakings), or the conditions set out in Clause 13 (Events of Default) or (B) a change of Bond Trustee and/or Security Agent; and
+(ii) 75 per cent in respect of (A) a reduce in principal amount, interest
+
+<<<
+
+ rate or interest amount which shall be paid by the Issuer, (B) a change of the denomination of the Bonds (unless such change is prescribed by iaw), (C) any amendment of any payment date for principal or interest amount, including any waivers
+
+<<<
+
+ or amendment relating to any payment defaults, (D) a release of any Security created or expressed to be created under the Transaction Security Documents (other than in accordance with the terms of the Transaction Security Documents) and (E
+
+<<<
+
+) any amendment of the conditions in this paragraph (i).
+(j) A quorum exists where (i) Bondholders representing at least 20 per cent of the Adjusted Nominal Amount attend the meeting (or, in the case of a Written Procedure, provide replies)
+
+<<<
+
+, or (ii) where any decision requiring a Qualified Majority is at issue, Bondholders representing at least 50 per cent of the aggregate outstanding Adjusted Nominal Amount attend the meeting (or, in the case of a Written Procedure, provide answers
+
+<<<
+
+), if a quorum is not achieved within thirty (30) minutes from the fixed time (or, in the case of a Written Procedure, through received answers at the end of the time for replies), the meeting shall be adjourned (or, in the case of a Written
+
+<<<
+
+ Procedure, the time for replies shall be extended) to the tenth Business Day thereafter. Notice containing information regarding time and place for a continued meeting (or, in the case of a Written Procedure, information regarding extended
+
+<<<
+
+ time for replies) shall promptly be provided to the Bondholders in accordance with Clause 21 (Notices). At a continued meeting (or, in the case of a Written Procedure, at a new calculation) a resolution can be passed through an ordinary resolution
+
+<<<
+
+ (or, if required in accordance with paragraph (i) above, through Qualified Majority) by Bondholders entitled to vote irrespective of the Adjusted Nomina! Amount for the Bonds represented at the meeting (or, in the case of a Written Procedure
+
+<<<
+
+, provide answers).
+(k) A resolution that has been passed at a duly convened and held Bondholders' Meeting or by a Written Procedure is binding for ail Bondholders irrespective of them participating in the meeting or not and irrespective of
+
+<<<
+
+ how they have been voting at the meeting. Bondholders that have adopted a resolution at the Bondholders' Meeting shall not be liable for any damages that the resolution may cause any other Bondholder.
+
+W/2773419/V3
+
+55
+
+(l) The Issuer shall
+
+<<<
+
+ bear all reasonable costs for the Bond Trustee, the Security Agent and Eurociear Sweden (but shall not bear the Bondholders' costs) in connection with a Bondholders' Meeting.
+(m) The Bondholders' Meeting may not adopt resolutions which may
+
+<<<
+
+ give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+(n) For the purpose of this Clause 15, a Bondholder that has a Bond that is nominee registered shall be deemed as the Bondholder of such Bond
+
+<<<
+
+ (instead of the nominee) provided that the Bondholder presents a certificate from the nominee stating that the relevant Bondholder was the Bondholder of the Bond on the Record Date and the Nominal Amount of Bonds held by such Bondholder on
+
+<<<
+
+ the Record Date. A nominee of a Bond that is nominee registered may participate in a Bondholders' Meeting and represent such Bonds for which the nominee has been authorised to represent by the Bondholder.
+16. No-action Against the issuer
+(a
+
+<<<
+
+) A Bondholder may not take any legal steps whatsoever to declare the Issuer in default or to recover any amount due or owing to it pursuant to the Finance Documents, or file an application for, or otherwise take any legal steps in respect of
+
+<<<
+
+, the winding-up, bankruptcy, or liquidation of the Issuer or the making of an administration order in relation to the Issuer or the service of a notice of intention to appoint an administrator in relation to the Issuer in respect of any of
+
+<<<
+
+ the liabilities of the Issuer whatsoever, other than to the extent expressly permitted under the Finance Documents.
+(b) Notwithstanding paragraph (a) above, if the Bond Trustee does not have the legal right (Sw. taleratt) to bring an action
+
+<<<
+
+ or initiate a proceeding under or in connection with the Finance Documents before the courts or other authority (the "Relevant Action"), the Bondholders shall jointly be entitled to take the Relevant Action against the Issuer to enforce their
+
+<<<
+
+ rights under the Finance Documents, subject to first following the procedures set out in (c) below.
+(c) Before the Bondholders may take the Relevant Action pursuant to (b) above, the Bondholders shall notify the Bond Trustee of its intention
+
+<<<
+
+ to take the Relevant Action and shall request the Bond Trustee to convene a meeting of Bondholders in accordance with the procedures set forth in these Terms and Conditions for the purpose of determining whether the Bondholders should take
+
+<<<
+
+ the Relevant Action jointly against the Issuer, which resolution may be passed by a simple majority.
+17. The Bond Trustee
+17.1 Appointment of the Bond Trustee
+(a) By virtue of being registered as Bondholder on a VP Account, each Bondholder
+
+<<<
+
+ appoints the Bond Trustee to act as its agent in all matters relating to the Bonds, these Terms and Conditions and the other Finance Documents, and each Bondholder authorises the Bond Trustee to act on behalf of the Bondholder (without first
+
+<<<
+
+ having to obtain that Bondholder's consent, except as
+
+W/2773419/V3
+
+56
+
+explicitly set out in these Terms and Conditions) in any legal or arbitration proceedings relating to the Bonds held by such Bondholder.
+(b) Each Bondholder shall immediately
+
+<<<
+
+ upon request provide the Bond Trustee with any such documents, including a written power of attorney (in form and substance to the Bond Trustee's satisfaction), that the Bond Trustee deems necessary for the purpose of carrying out its duties
+
+<<<
+
+ under the Finance Documents. The Bond Trustee is under no obligation to represent a Bondholder which does not comply with such request.
+17.2 The Role and Authority of the Bond Trustee
+(a) The Bond Trustee shall monitor the compliance by the
+
+<<<
+
+ Issuer of its obligations under these Terms and Conditions and applicable laws and regulations which are relevant to the provisions in these Terms and Conditions, including supervision of timely and correct payment of principal or interest
+
+<<<
+
+, (however, this shall not restrict the Bond Trustee from discussing matters of confidentiality with the Issuer), arrange Bondholders' Meetings, and make the decisions and implement the measures resolved pursuant to these Terms and Conditions
+
+<<<
+
+. The Bond Trustee is not obligated to assess the Issuer's financial situation beyond what is directly set forth in these Terms and Conditions.
+(b) The Bond Trustee shall carry out its duties under the Transaction Documents in a reasonable,
+
+<<<
+
+ proficient and professional manner, with reasonable care and skill.
+(c) The Bond Trustee may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+(d) The Bond Trustee
+
+<<<
+
+ receives an annual fee in accordance with a separate agreement with the Issuer. The Bond Trustee is entitled to engage external experts to a reasonable extent, at the Issuer's expense, in accordance with a separate agreement, for the purpose
+
+<<<
+
+ of carrying out its duties under the Finance Documents.
+(e) The Bond Trustee may take any step that it in its sole discretion considers necessary or advisable to ensure the rights of the Bondholders in all matters pursuant to these Terms and
+
+<<<
+
+ Conditions and is entitled to rely on advice from professional advisors. The Bond Trustee may in its sole discretion postpone taking action until such matter has been decided upon by the Bondholders' Meeting.
+(f) The Bond Trustee is not obliged
+
+<<<
+
+ to take any steps to ascertain whether any Event of Default has occurred and until it has actual knowledge or express notice to the contrary the Bond Trustee is entitled to assume that no Event of Default has occurred.
+(g) The Bondholders'
+
+<<<
+
+ Meeting can decide to replace the Bond Trustee without the Issuer's approval.
+(h) The Bond Trustee may act as bond trustee for several bond issues relating to the Issuer notwithstanding potential conflicts of interest. The Bond Trustee may
+
+<<<
+
+ delegate exercise of its powers to other professional parties.
+
+W/2773419/V3
+
+57
+
+(i) Notwithstanding any other provision of these Terms and Conditions and the other Finance Documents to the contrary, the Bond Trustee is not obliged to do
+
+<<<
+
+ or omit to do anything if it would or might in its reasonable opinion constitute a breach of any law or regulation or a breach of a fiduciary duty or duty of confidentiality.
+17.3 Appointment of the Security Agent
+(a) By virtue of being registered
+
+<<<
+
+ as Bondholder on a VP Account, each Bondholder appoints the Bond Trustee as Security Agent to act as its agent in all matters relating to the Security granted under the Finance Documents, and each Bondholder authorises the Security Agent to
+
+<<<
+
+ act on behalf of the Bondholder (without first having to obtain that Bondholder's consent, except as explicitly set out in these Terms and Conditions), including in relation to any legal or arbitration proceeding relating to the perfection
+
+<<<
+
+, preservation, protection or enforcement of any Security created or expressed to be created under the Transaction Security Documents.
+(b) The main functions of the Security Agent includes holding Security on behalf of the Bondholders and monitoring
+
+<<<
+
+ compliance by the Obligors and other relevant parties of their respective obligations under these Terms and Conditions and/or the Transaction Security Documents with respect to the Security.
+(c) Notwithstanding any other provision of the Transaction
+
+<<<
+
+ Security Documents or these Terms and Conditions to the contrary, the Security Agent is not obliged to do or omit to do anything if it would or might in its reasonable opinion constitute a breach of any law or regulation or a breach of a fiduciary
+
+<<<
+
+ duty or duty of confidentiality.
+(d) The Security Agent may take any step that it in its sole discretion considers necessary or advisable to ensure the rights of the Bondholders in all matters pursuant to the Security and the Finance Documents
+
+<<<
+
+ and is entitled to rely on advice from professional advisors. The Security Agent may in its sole discretion postpone taking action until such matter has been decided upon by the Bondholders' Meeting.
+(e) The Security Agent will not be liable
+
+<<<
+
+ for any delay (or any related consequences) in crediting an account with an amount required under the Transaction Security Documents or these Terms and Conditions to be paid by it if it has taken all necessary steps as soon as reasonably practicable
+
+<<<
+
+ to comply with the regulations or operating procedures of any recognised clearing or settlement system used by it for that purpose.
+(f) The Security Agent is entitled to engage external experts to a reasonable extent, at the Issuer's expense
+
+<<<
+
+, in accordance with a separate agreement for the for the purpose of carrying out its duties under the Finance Documents.
+17.4 Liability and Indemnity
+(a) The Bond Trustee and the Security Agent are liable only for direct losses incurred by
+
+<<<
+
+ Bondholders or the issuer as a result of gross negligence or wilful misconduct by the Bond Trustee or the Security Agent (as applicable) in performing its functions and duties as set forth in these Terms and Conditions.
+
+W/2773419/V3
+
+58
+
+
+
+<<<
+
+(b) The Bond Trustee is not liable for the content of information provided to the Bondholders on behalf of the Issuer.
+(c) The Issuer is liable for, and shall indemnify the Bond Trustee and the Security Agent fully in respect of, all losses
+
+<<<
+
+, expenses and liabilities incurred by the Bond Trustee and the Security Agent as a result of negligence by the Issuer (including its directors, management, officers, employees, agents and representatives) to fulfill its obligations under the
+
+<<<
+
+ Finance Documents, including losses incurred by the Bond Trustee and the Security Agent as a result of the Bond Trustee's or the Security Agent's actions based on misrepresentations made by the Issuer in connection with the establishment and
+
+<<<
+
+ performance of the Finance Documents.
+(d) The Bond Trustee and the Security Agent shall, as a condition for carrying out an instruction from the Bondholders, have the right to require satisfactory security and indemnities for any possible liability
+
+<<<
+
+ and anticipated costs and expenses, from those Bondholders who requested that instruction and/or those who voted in favour of the decision to instruct the Bond Trustee or the Security Agent. Any instructions from the Bondholders may be put
+
+<<<
+
+ forward to the Bondholders' Meeting by the Bond Trustee before taking any action.
+17.5 Change of Bond Trustee
+(a) The Bond Trustee and the Security Agent may retire from its assignment according to these Terms and Conditions provided that the
+
+<<<
+
+ Issuer has approved that a successor Bond Trustee or Security Agent (as applicable) accedes as new Bond Trustee or Security Agent at the same time as the current Bond Trustee or Security Agent retires.
+(b) If the Bond Trustee or the Security
+
+<<<
+
+ Agent is subject to bankruptcy or financial reconstruction according to law or regulations from a supervising authority or if a resolution is passed at a Bondholders' Meeting to replace the Bond Trustee or Security Agent, the Issuer shall immediately
+
+<<<
+
+ appoint a new Bond Trustee or Security Agent (as applicable) who immediately shall replace the current Bond Trustee or Security Agent as Bond Trustee or Security Agent (as applicable) in accordance with these Terms and Conditions.
+(c) The Bond
+
+<<<
+
+ Trustee shall continue to carry out its duties as bond trustee until such time that a new Bond Trustee is appointed.
+(d) The Security Agent shall continue to carry out its duties as security agent until such time that a new Security Agent is
+
+<<<
+
+ appointed.
+(e) The fees and expenses of a new bond trustee shall be covered by the Issuer pursuant to the terms set out in Clause 10 {Fees and expenses), but may be recovered wholly or partially from the Bond Trustee or Security Agent (as applicable
+
+<<<
+
+) if the change is due to a breach by the Bond Trustee or Security Agent of its duties pursuant to these Terms and Conditions or other circumstances for which the Bond Trustee or Security Agent is liable.
+(f) The Bond Trustee and the Security
+
+<<<
+
+ Agent undertakes to co-operate so that the new bond trustee or security agent receives without undue defay the documentation and information necessary to perform the functions as set forth under these Terms and Conditions.
+
+W/2773419/V3
+
+5
+
+<<<
+
+9
+
+18. Change of Issuing Agent
+The Issuing Agent may resign its appointment at any time, provided that no resignation by the Issuing Agent shall take effect until a new Issuing Agent has been appointed by the Issuer. The appointment of the
+
+<<<
+
+ Issuing Agent shall forthwith terminate if the Issuing Agent is subject to bankruptcy or financial reconstruction according to law of regulations from a supervisory authority or if a resolution is passed at a Bondholders' Meeting to replace
+
+<<<
+
+ the Issuing Agent, in such circumstances, the Issuer shall promptly appoint a new Issuing Agent.
+19. Amendments
+(a) Subject to paragraph (c) below, the Issuer and the Bond Trustee may, with binding effect on all Bondholders, agree to amend
+
+<<<
+
+ the Finance Documents, provided that:
+(i) in the Bond Trustee's opinion, it is appropriate or necessary and such amendment, in the opinion of the Bond Trustee, does not adversely affect the rights and interests of the Bondholders in any material
+
+<<<
+
+ respect; or
+(ii) such amendment is of a formal, minor or technical nature or is made to correct a clear and manifest error; or
+{iii) applicable law, court rulings or decisions by relevant authorities so require; or
+(iv) such amendment has been
+
+<<<
+
+ duly approved by a Bondholder's Meeting.
+(b) The Bond Trustee may, on behalf of the Bondholders, agree with the Issuer to amend the Finance Documents to the extent applicable law, court rulings or decisions by relevant authorities so require
+
+<<<
+
+, or if it in any other way, in the Bond Trustee's discretion, for practical reasons is appropriate or necessary and the Bondholders' rights are not materially adversely affected
+(c) The Bond Trustee and the Issuer may, however, not agree to
+
+<<<
+
+ amendments to the Finance Documents if such amendments relate to matters that would require a Qualified Majority.
+(d) The Issuer shall without delay notify the Bondholders of any amendments made to any Finance Document. Such notice shall set
+
+<<<
+
+ out the date from which the amendments are effective.
+20. Prescription
+(a) The right to receive payment of the Nominal Amount shall be prescribed and become void ten (10) years from the Redemption Date. The right to receive payment of interest
+
+<<<
+
+ shall be prescribed (Sw. preskriberad) and become void three (3) years from the relevant Interest Payment Date. The Issuer is entitled to any funds set aside for payments in respect of which the Bondholders right to receive payment has been
+
+<<<
+
+ prescribed and has become void.
+(b) If such term of limitation periods are duly interrupted, in accordance with the Swedish Act on Limitations (1981:130), a new limitation period of ten (10)
+
+W/2773419/V3
+
+60
+
+years with respect to the Nominal
+
+<<<
+
+ Amount, and of three (3) years with respect to interest payments will commence, in both cases calculated from the date of interruption of the limitation period as such date is determined pursuant to the provisions of the Swedish Act on Limitations
+
+<<<
+
+.
+
+21. Notices
+
+(a) Notices to the Bondholders shall be given to the Bondholders at their addresses as registered with Euroclear Sweden. The notice shall be considered as received by the Bondholder three Business Days after it has been dispatched
+
+<<<
+
+. Notices to the Bondholders may also be published at Stamdata.
+
+(b) Notices to the Issuing Agent shall be given to the Issuing Agent at the following address, or any substitute address notified to the Bondholders, the Bond Trustee and the Issuer
+
+<<<
+
+:
+
+Swedbank AB Attn: Settlements Team Large Corporates & Institutions FX/FI Operations (E600) Stockholm 10534 Sweden
+
+(c) Notices to the Issuer shall be given to the Issuer at the following address, or any substitute address notified to the
+
+<<<
+
+ Bondholders, the Bond Trustee and the issuer:
+
+Nobina Europe AB Attn: CEO Armégatan 38 171 71 Solna SWEDEN
+
+(d) Notices to the Bond Trustee (and the Security Agent) shall be given to the Bond Trustee at the following address, or any substitute
+
+<<<
+
+ address notified to the Bondholders, the Bond Trustee and the Issuer:
+
+Swedish trustee AB (pub!) c/o Ackordscentraien Strandvägen 35 SE-114 56 Stockholm mail@swedishtrustee.se
+
+(e) Any communication or document made or delivered by one person
+
+<<<
+
+ to the Issuer, the Bond Trustee or the Issuing Agent under or in connection with the Bonds shall be considered as received by the recipient:
+
+(i)
+
+if by way of fax, when a receipt confirming the successful transmission
+
+is received; or
+
+(ii
+
+<<<
+
+) if by way of letter, when it has been left at the relevant address or five Business Days after being deposited in the post postage prepaid in an envelope addressed to it at that address.
+
+W/2773419/V3
+
+61
+
+(f) A copy of any notice to the
+
+<<<
+
+ Issuer shall be sent to the Bond Trustee.
+Nominee Registration
+In respect of Bonds registered with authorised nominees in accordance with the Swedish Financial instruments Accounts Act {1998:1479), the authorised nominee shall be deemed to
+
+<<<
+
+ be the Bondholder for the purpose of applying these Terms and Conditions (subject to the provisions about the voting right of the Bondholders in Clause 15(m) {Bondholders' Meeting)).
+Limitation of Liability
+(a) The Issuer, the Bond Trustee
+
+<<<
+
+, the Security Agent, the Issuing Agent and Euroclear Sweden (each a "Relevant Party") shall have no liability for damage caused by Swedish or foreign enactment, action taken by a Swedish or foreign authority, war, strike, blockade, boycott
+
+<<<
+
+, lockout or other similar circumstance. This limitation of liability in the case of a strike, blockade, boycott or lockout also applies if any of the Relevant Parties would itself initiate or become subject to such conflict.
+(b) The Bond Trustee
+
+<<<
+
+ shall have no liability for damage caused by the Bond Trustee when acting as a representative for the Bondholders, pursuant to the decisions made in accordance with Clause 15 (Bondholders' Meeting).
+(c) A Relevant Party shall have no liability
+
+<<<
+
+ (i) for damage caused provided that the relevant person has acted with normal care, or (ii) for indirect damage.
+(d) Should a Relevant Party be prevented from performing its obligations under the Finance Documents to which it is a party due
+
+<<<
+
+ to the circumstances mentioned in paragraph (a) above, performance may be postponed until performance is no longer prevented by such circumstances.
+(e) The provisions in this Clause 23 apply unless they are inconsistent with the provisions
+
+<<<
+
+ of the Swedish Financial Instruments Accounts Act (1998:1479) which provisions shall take precedence
+Governing Law and Jurisdiction
+(a) These Terms and Conditions shall be governed by and construed in accordance with Swedish law.
+(b) Any dispute
+
+<<<
+
+ or claim arising in relation to these Terms and Conditions shall be determined by Swedish courts, with the District Court of Stockholm (Sw. Stockholms tingsratt) to be the court of first instance.
+62
+
+We hereby certify that the above terms
+
+<<<
+
+ and conditions are binding upon ourselves. Stockholm, 26 October 2012
+Nobina Europe AB (publ)
+
+W/2773419/v3
+
+63
+
+Stockholm, 26 October 2012 Swedish Trustee AB (publ)
+
+W/2773419/V3
+
+64
+
+

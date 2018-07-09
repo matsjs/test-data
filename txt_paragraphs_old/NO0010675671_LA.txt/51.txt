@@ -1,0 +1,9 @@
+L_3786242_VJ Oi.05.13 92656-093
+Subordination Agreement and otherwise on terms satisfactory to the Trustee acting reasonably.
+"Subsequent Disbursements" means any disbursement from the Escrow Account after the First Disbursement.
+"Subsidiary'" means a company over which another company or person has Decisive influence.
+"Surplus Amount" means the approximate net value of any Surplus Volume reflecting Price, Opex and Tax calculated as follows:
+Surplus Amount = Surplus Volume * (Price - Opex) * 1,000,000 * (1 - Tax) * WI
+where:
+(a) Surplus Volume means the volume of cumulative sales gas produced at the end of a Semiannual Period in excess of the Accumulated Production Threshold, less the sum of any Surplus Volumes produced in previous Semiannual Periods and paid out as Surplus Amount (provided such Surplus Volume is always a positive number), calculated as follows:
+Surplus Volume = AGP - (EAGP * 110%) --T (previous Surplus Volumes paid out as Surplus Amount)

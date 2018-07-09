@@ -1,0 +1,9 @@
+-528 -243 - 286·*
+F o re ig n e xch a n g e -- s e n s itiv ity a na lysis o n fin a n c ia l in stru m e n ts
+The following foreign exchange sensitivity analysis calculates the sensitivity of derivatives and non-derivative financial instruments on net profit and equity, based on a defined appreciation/ depreciation of NOK against relevant currencies, keeping all other variables constant. The analysis is based on several assumptions, including:
+· Norske Skog as a group comprises entities with different functional currencies. Derivative and non-derivative financial instruments of a monetary nature, denominated in currencies different from the functional currency of the entity, create foreign exchange rate exposure on the consolidated income statement. Moreover, foreign currency risk will also affect equity.
+F-49
+NORSKE SKOGINDUSTRIER ASA
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+8. FINANCIAL RISK AND HEDGE ACCOUNTING (Continued)
+· Financial instruments denominated in the functional currency of the entity have no currency risk and will therefore not be applicable to this analysis. Furthermore, the foreign currency exposure of translating financial accounts of subsidiaries into the group's presentational currency is not part of this analysis.

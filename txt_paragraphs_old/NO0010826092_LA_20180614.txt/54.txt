@@ -1,0 +1,9 @@
+29
+13.16
+Incurrence Test
+The incurrence test is met if the Leverage Ratio is not greater than 3.00:1.00 and the Interest Cover Ratio is equal to or above 3.00:1.00 (the "Incurrence Test").
+The calculation of the Leverage Ratio shall be made as per a testing date determined by the Issuer, falling no earlier than one month prior to the event(s) relevant for the application of the Incurrence Test.
+The Total Net Debt shall be measured on the relevant testing date so determined, but take into account, on a pro forma basis, any transaction in respect of which the Incurrence Test is made so that:
+(a) the full commitment of any new Financial Indebtedness shall be included, but any cash balance resulting from the incurrence of such Financial Indebtedness shall be disregarded; and
+(b) the amount of any Permitted Distribution shall increase Total Net Debt.
+The figures for the Adjusted EBITDA for the Relevant Period ending on the last day of the financial quarter immediately prior to the testing date (unless the testing date is the last day of a financial quarter) shall be used for the Incurrence Test, but adjusted so that:

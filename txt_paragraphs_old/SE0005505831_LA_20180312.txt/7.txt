@@ -1,0 +1,9 @@
+"Escrow Account Pledge Agreement" means the pledge agreement entered into between the Issuer and the Bond Trustee on or about the Issue Date in respect of a first priority pledge over the Escrow Account and all funds held on the Escrow Account from time to time, granted in favour of the Bond Trustee and the Holders (represented by the Bond Trustee).
+"EURIBOR" means:
+(a) the applicable percentage rate per annum displayed on Reuters screen EURIBOR01 (or through another system or website replacing it) as of or around 11.00 a.m. (Brussels time) on the Quotation Day for the offering of deposits in Euro and for a period comparable to the relevant Interest Period; or
+(b) if no screen rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places), as supplied to the Issuing Agent at its request quoted by Nordea Bank AB (publ), Svenska Handelsbanken AB (publ) and Skandinaviska Enskilda Banken AB (publ) (or such other banks as
+4
+may be appointed by the Issuing Agent in consultation with the Issuer), for deposits of EUR 10,000,000 for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b) above, the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Euro offered for the relevant period; and
+if any such rate is below zero, EURIBOR will be deemed to be zero.
+"Euro" and "EUR" means the currency used by the institutions of the European Union and is the official currency of the Eurozone.

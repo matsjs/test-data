@@ -1,0 +1,9 @@
+Norsk Tillitsmann ASA
+Bonds redeemed by the Borrower in accordance with this clause shall be discharged against the Remaining Loan.
+10.3 If a Change of Control Event has occurred, each Bondholder shall at any time during the Change of Control Conversion Period have the right to (at each Bondholder's discretion):
+(a) to require early redemption of its Bonds (put option) at 101 % of par value plus accrued interest; or
+(b) to convert the Bonds at the Change of Control Conversion Price, which shall be calculated in accordance with the formula set out below, but in each case adjusted, if appropriate, under the provisions of Clauses 14 and 15 (provided that no adjustment to the Conversion Price will be made in respect of such Change of Control Event other than pursuant to this Clause 10.3 in respect of exercise of the conversion right in the Change of Control Conversion Period):
+COCCP = OCP / (1 + (CP X (c/t))) where:
+COCCP =Change of Control Conversion Price;
+OCP = Conversion Price;
+CP = means 30 per cent;

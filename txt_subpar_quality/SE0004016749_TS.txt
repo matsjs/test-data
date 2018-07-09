@@ -1,0 +1,1382 @@
+Prospekt avseende inregistrering av obligationslån i form av förlagslån med rörlig
+ränta om 445 miljoner svenska kronor och förlagslån med fast/rörlig ränta om 755 miljoner
+svenska kronor utgivna av Länsförsäkringar Bank AB (publ)
+
+2(43)
+Viktig information
+Detta prospekt ("Prospektet") har upprättats av Länsförsäkringar Bank AB (publ), ("Banken"), med anledning av Bankens ansökan om inregistrering av två obligationslån i form av förlagslån ("Förlagslån" och tillsammans "Förlagslånen"), emitterade den 30 juni 2011, vid NASDAQ OMX Stockholm AB ("NASDAQ OMX Stockholm"). Detta Prospekt utgör inte till någon del ett erbjudande från Banken om teckning eller förvärv av Förlagslånen.
+Detta Prospekt har upprättats i enlighet med reglerna i lag (1991:980) om handel med finansiella instrument och Kommissionens förordning (EG) nr 809/2004 av den 29 april 2004 om genomförande av Europaparlamentets och rådets direktiv 2003/71/EG. Prospektet har den 17 november 2011 godkänts och registrerats av Finansinspektionen i enlighet med 2 kap. 25 och 26 §§ lag om handel med finansiella instrument. Detta innebär dock inte någon garanti från Finansinspektionen att sakuppgifterna i Prospektet är riktiga eller fullständiga.
+Detta Prospekt ska läsas tillsammans med varje dokument som blivit en del av Prospektet genom hänvisning samt lånevillkor för Förlagslånen ("Lånevillkor"). Prospektet och de dokument som blivit en del av Prospektet genom hänvisning finns tillgängliga på www.lansforsakringar.se/finansielltbank och kan även kostnadsfritt erhållas via Bankens huvudkontor. Begrepp och termer som används i Prospektet har samma innebörd som i avsnittet "Lånevillkor" såvida inte annat uttryckligen framgår av Prospektet.
+En investering i Förlagslånen är förenad med risk och risktagande. Den som överväger att investera i Förlagslånen uppmanas därför att noggrant studera Prospektet och speciellt avsnitten som avser riskfaktorer.
+Varje presumtiv investerare måste, mot bakgrund av investerarens egna förutsättningar, besluta om lämpligheten av placeringen. I synnerhet bör varje investerare;
+i. ha tillräcklig kunskap och erfarenhet för att göra en meningsfull utvärdering av Lånevillkoren. Göra en bedömning av fördelarna och riskerna med att placeringen utifrån den information som finns i detta Prospekt, den information som har införlivats genom hänvisning samt den information vilken hänvisas till i detta Prospekt;
+ii. ha kunskap om de rättsliga begränsningar eller andra begränsningar, beroende på t.ex. lagstiftning eller interna beslut, som gäller för investeringsverksamheten. Ha kännedom om de regler och begränsningar som gäller och huruvida en investering i Förlagslånen är en tillåten placering;
+iii. ha tillgång till och kunskap om lämpliga analytiska verktyg för att mot bakgrund av sin egen särskilda ekonomiska situation utvärdera en placering och dess betydelse för investerarens hela placeringsportfölj;
+
+3(43)
+iv. ha tillräckliga ekonomiska resurser och tillräcklig likviditet för att bära alla risker som en placering medför;
+v. vara bekant med hur relevanta index och finansiella marknader fungerar; och
+vi. kunna utvärdera (antingen själv eller med hjälp av en ekonomisk rådgivare) möjliga scenarier för ekonomiska faktorer, räntefaktorer och andra faktorer som kan påverka investerarens placering och hans förmåga att bära ifrågavarande risker.
+Prospektet får inte distribueras i något land där distributionen eller försäljning kräver ytterligare prospekt, registrering eller andra åtgärder än de som följer av svensk rätt eller strider mot regler i sådant land. Innehavare av Prospektet eller emitterade Förlagslån måste därför informera sig om och iaktta eventuella restriktioner.
+Tvist rörande detta Prospekt ska avgöras enligt svensk lag och av svensk domstol exklusivt.
+Försäkran beträffande Prospektet
+Banken ansvarar för Prospektet och försäkrar att rimliga försiktighetsåtgärder vidtagits för att säkerställa att uppgifterna i Prospektet, såvitt Banken vet, överensstämmer med faktiska förhållanden och att ingenting är utelämnat som skulle kunna påverka Prospektets innebörd. I den omfattning som följer av lag ansvarar även Bankens styrelse för innehållet i detta Prospekt och har vidtagit alla rimliga försiktighetsåtgärder för att säkerställa att uppgifterna i Prospektet, såvitt Bankens styrelse vet, överensstämmer med faktiska förhållanden och att ingenting är utelämnat som skulle kunna påverka Prospektets innebörd.
+
+4(43)
+Innehållsförteckning
+Viktig information................................................................................................................2 Försäkran beträffande Prospektet.........................................................................................3 1. Introduktion till Förlagslånen....................................................................................... 6 2. Riskfaktorer.................................................................................................................. 8
+2.1 Allmänt............................................................................................................... 8 2.2 Kreditrisker......................................................................................................... 8 2.3 Finansiella risker................................................................................................. 9 2.4 Operativa risker................................................................................................ 10 2.5 Efterställda lån.................................................................................................. 10 2.6 Fordringshavarmöte.......................................................................................... 11 2.7 Lösenmöjlighet för Banken.............................................................................. 11 2.8 Ränterisk........................................................................................................... 11 2.9 Andrahandsmarknad och likviditet................................................................... 11 2.10 Clearing och Euroclear-systemet...................................................................... 11 2.11 Valutakursrisk och valutarestriktioner.............................................................. 12 2.12 Legala risker och ändrad lagstiftning............................................................... 12 2.13 Rättsliga åtgärder.............................................................................................. 13 2.14 EM U................................................................................................................. 13 2.15 Omvärldsrisker................................................................................................. 13 3. Lånevillkor................................................................................................................. 14 3.1 Förlagslån med Rörlig Ränta ........................................................................... 14 3.2 Förlagslån med Fast/Rörlig Ränta....................................................................23 4. Länsförsäkringar Bank............................................................................................... 33 4.1 En del av Länsförsäkringar............................................................................... 33 4.2 Positionering och strategi................................................................................. 33 4.3 Bankens verksamhetsinriktning........................................................................ 34 4.4 Utlåningsportfölj en........................................................................................... 34 4.5 Kapitaltäckning................................................................................................. 34 4.6 Kreditvärdering................................................................................................. 35 5. Övrig information....................................................................................................... 37 5.1 Tendenser och finansiell ställning................................................................. 37 5.2 Väsentliga avtal................................................................................................ 37
+
+5(43)
+5.3 Beslut från Banken........................................................................................... 37 5.4 Information från tredje man.............................................................................. 37 5.5 Rättsliga förfaranden........................................................................................ 37 5.6 Kostnader för upptagande till handel................................................................ 37 5.7 Handlingar tillgängligaför inspektion............................................................... 37 6. Styrelse, ledningsgrupp, kontrollorgan och revisor................................................... 39 6.1 Styrelse............................................................................................................. 39 6.2 Ledningsgrupp.................................................................................................. 40 6.3 Kontrollorgan.................................................................................................... 41 6.4 Revisor ............................................................................................................. 41 6.5 Intressekonflikter ............................................................................................. 41 7. Införlivande av information ...................................................................................... 42 8. Kontaktuppgifter........................................................................................................ 43
+
+6(43)
+
+1.
+
+Introduktion till Förlagslånen
+
+Detta avsnitt ska enbart uppfattas som en introduktion till Prospektet avseende inregistrering av Förlagslånen vid NASDAQ OMX Stockholm. Ett beslut att investera i Förlagslånen ska därför baseras på en bedömningfrån investerarens sida av Prospektet i dess helhet, inklusive de handlingar som är införlivade genom hänvisning. Defullständiga villkorenför Förlagslånenframgår av 3.1, "Lånevillkor - Förlagslån med Rörlig Ränta"och 3.2, "Lånevillkor - Förlagslån med Fast/Rörlig Ränta".
+
+Emittent
+
+Länsförsäkringar Bank AB (publ), ett publikt aktiebolag registrerat i Sverige med org. nr. 516401-9878.
+
+Förlagslånen
+
+Två förlagslån, varav ett löper med rörlig ränta ("Förlagslån med Rörlig Ränta"), och ett löper med fast/rörlig ränta ("Förlagslån med Fast/Rörlig Ränta").
+
+Efterställd rätt till betalning
+
+Förlagslånen är efterställda lån som i händelse av Bankens likvidation eller konkurs medför rätt till betalning ur dess tillgångar först efter icke efterställda fordringar mot Banken.
+
+ISIN-kod
+
+SE0004016749 (Förlagslån med Rörlig Ränta) respektive SE0004016731 (Förlagslån med Fast/Rörlig Ränta).
+
+Lånebelopp
+
+Förlagslånens sammanlagda nominella belopp uppgår till 1,2 miljarder kronor, varav 445 miljoner kronor avser Förlagslån med Rörlig Ränta och 755 miljoner kronor avser Förlagslån med Fast/Rörlig ränta.
+
+Utgivningsdag
+
+30 juni 2011.
+
+Valör, nominellt belopp och handelspost
+
+Förlagslånen representeras av Förlagsbevis, vardera med ett nominellt belopp om 1 miljon kronor.
+
+Totalt antal värdepapper
+
+Det totala antalet värdepapper som ska tas upp till handel är 1 200, varav 445 hänför sig till Förlagslån med Rörlig Ränta och 755 hänför sig till Förlagslån med Fast/Rörlig ränta.
+
+Ränta
+
+På Förlagslån med Rörlig Ränta utgår ränta med tre månaders STIBOR med tillägg av 2,5 procentenheter. På Förlagslån med Fast/Rörlig ränta utgår fast ränta med 5,64 procent per år från den 30 juni 2011 till den 30 juni 2016, eller den dag då förtida inlösen sker till följd av regulatoriska förändringar (se vidare punkt 8.2 i Lånevillkoren). Efter den 30 juni 2016 utgår rörlig ränta med tre månaders STIBOR med tillägg av 2,5
+
+7(43)
+
+procentenheter.
+
+Återbetalningsdag
+
+Den 30 juni 2021.
+
+Förtida inlösen
+
+Banken äger rätt att återbetala Förlagslånen i förtid i enlighet med punkt 8.1 i Lånevillkoren. Förtida inlösen kan ske tidigast fem år efter Lånedatum och förutsätter att Finansinspektionen ger sitt medgivande.
+
+Banken äger vidare rätt att återbetala Förlagslånen i förtid enligt punkt 8.2 i Lånevillkoren, för det fall Banken efter konsultation med Finansinspektionen bedömer att de inte längre får inräknas till Bankens supplementära kapital till följd av regulatoriska förändringar som inte kunde förutses den 30 juni 2011.
+
+Euroclear-registrering
+
+Förlagslånen är anslutna till Euroclear Sweden AB:s ("Euroclear") kontobaserade system och inga fysiska värdepapper representerande Förlagslånen har givits ut. Detta innebär att innehaven av Förlagslånen registreras på respektive innehavares VP-konto eller depå. Utbetalning av ränta och nominellt belopp görs av Euroclear. Euroclear eller förvaltare (vid förvaltarregistrerade värdepapper) verkställer avdrag för preliminär skatt, för närvarande 30 procent på utbetald ränta, för fysisk person bosatt i Sverige och för svenskt dödsbo.
+
+Inregistrering vid NASDAQ OMX Stockholm
+
+Ansökan om inregistrering av Förlagslånen vid NASDAQ OMX Stockholm kommer att göras i samband med Finansinspektionens godkännande av detta Prospekt. Förlagslånen förväntas tas upp till handel vid NASDAQ OMX Stockholm i slutet av november månad 2011.
+
+Emissionsinstitut
+
+Skandinaviska Enskilda Banken AB (publ) ("SEB")
+
+Kreditvärdering
+
+Förlagslånen har inte åsatts någon kreditvärdering av något kreditvärderingsföretag. Banken har erhållit kreditbetygen A (stable) från Standard & Poor's och A 2 (stable) från Moody's. För vidare information, se avsnitt 4.6 nedan.
+
+Tillämplig lag
+
+Förlagslånen regleras av och tolkas i enlighet med svensk rätt. Eventuella tvister eller anspråk i anledning av Förlagslånen ska avgöras i svensk domstol med Stockholms tingsrätt som första instans.
+
+8(43)
+
+2.
+
+Riskfaktorer
+
+2.1
+
+Allmänt
+
+I detta avsnitt redovisas och diskuteras ett antal riskfaktorer; generella risker hänförliga till Bankens verksamhet, risker förenade med Förlagslånen i egenskap av finansiella instrument samt övriga risker. De riskfaktorer som beskrivs nedan kan komma att negativt påverka såväl värdet av Förlagslånen som Bankens förmåga att fullgöra sina förpliktelser i enlighet med villkoren för respektive Förlagslån. Även om de risker som beskrivs utgör de huvudsakliga riskerna vid en placering i Förlagslånen, bör framhållas att andra faktorer indirekt kan utgöra risker. Riskfaktorerna nedan är inte framställda i prioritetsordning och gör inte anspråk på att vara uttömmande. Presumtiva investerare uppmanas även att läsa den detaljerade information som framgår av Lånevillkoren samt av de handlingar som har införlivats genom hänvisning, och göra en egen, självständig riskbedömning. Risker är i förekommande fall associerade med antingen Banken eller den koncern i vilken Länsförsäkringar AB (publ) är moderbolag.
+
+Riskerförenade med Bankens verksamhet
+
+Banken är utsatt för ett antal risker såsom;
+
+· Kreditrisker · Finansiella risker · Operativa risker
+
+2.2
+
+Kreditrisker
+
+Innehavare av ett Förlagsbevis har en kreditrisk på Banken, vilket innebär att belopp som en innehavare ska erhålla är beroende av att Banken kan infria sina åtaganden, vilket i sin tur bland annat är beroende av att Bankens kunder och motparter infriar sina åtaganden mot Banken. Med kreditrisk i Bankens positioner avses risken för att en motpart inte fullgör sina förpliktelser mot Banken och att ställda säkerheter inte täcker Bankens fordran. Bankens kreditrisk uppstår i första hand genom utlåning till kunder, men även genom garantiåtaganden, derivatkontrakt och värdepappershandel. Turbulens på de globala finansiella marknaderna och i den globala ekonomin kan komma att negativt påverka kreditrisken. Banken gör avsättningar för kreditförluster och de baseras på tillgänglig information, uppskattningar och antaganden. Bankens kreditförluster är fortsatt låga och uppgick netto till 30 miljoner kronor den 30 juni 2011, vilket motsvarar en kreditförlustnivå på 0,05 procent. Reserverna uppgick till 321 miljoner kronor och reserver i förhållande till utlåning uppgick till 0,25 procent. Det finns en risk för att avsättningarna inte är tillräckliga för att täcka de kreditförluster som uppstår vilket i förlängningen kan innebära att Banken inte kan infria sina åtaganden mot innehavare av Förlagslånen.
+
+9(43)
+
+2.3
+
+Finansiella risker
+
+Finansiella risker är en naturlig del av Bankens verksamhet. De finansiella riskerna består bl.a. av;
+
+· Likviditetsrisk · Ränterisk · Finansieringsrisk · Valutarisk · Motpartsrisk
+
+2.3.1 Likviditetsrisk
+
+Likviditetsrisken definieras som risken att, vid brist på likvida medel, ej kunna fullgöra sina åtaganden eller att de endast kan fullgöras genom upplåning av likvida medel till avsevärt ökad kostnad. Om Banken inte kan fullgöra sina åtaganden finns det risk för att de belopp som Banken har lånat inte kan återbetalas som beräknat. Definitionen av likviditetsrisk har en nära koppling till definitionen av finansieringsrisken. Likviditetsrisken avser också risken att finansiella instrument inte omedelbart kan omsättas i likvida medel utan att förlora i värde. Likviditet definieras som kontanta medel och värdepapper. Likviditeten måste vara tillgänglig senast inom tre dagar. Turbulens på de globala finansiella marknaderna och i den globala ekonomin kan komma att påverka Bankens likviditet negativt.
+
+2.3.2 Ränterisk
+
+Ränterisk är risken att värdet på tillgångar och skulder förändras på ett ofördelaktigt sätt när räntenivåer ändras. Ränterisk uppstår om tillgångar, skulder och derivat inte har en löptidsmatchning. Banken är utsatt för ränterisk när det uppstår skillnader mellan räntebindningsperioder, volymer eller referensräntor på tillgångar, skulder och derivat. För Banken ofördelaktiga ränteändringar kan påverka Bankens resultat negativt, vilket kan leda till att värdet av Förlagslånen försämras eller att Banken inte kan infria sina åtaganden.
+
+2.3.3 Finansieringsrisk
+
+Finansieringsrisken är att vid finansieringsförfall inte lyckas återfinansiera förfallet eller endast lyckas låna till kraftigt ökade kostnader. Definitionen har en nära koppling till definitionen av likviditetsrisk. Bankens och koncernens likviditets- och finansieringsbehov sker genom användning av kunders inlåning och genom tillgång till interbanklånemarknader, inklusive genom upptagande av långfristiga marknadslån, såsom förlagslån och säkerställda obligationer. Dessa finansieringskällors volym, och då särskilt långfristig finansiering, kan begränsas under tider av likviditetspåfrestning. Turbulens på de globala finansiella marknaderna och i den globala ekonomin kan komma att negativt påverka Bankens finansiering vilket kan innebära att värdet av Förlagslånen försämras eller att Banken inte kan infria sina åtaganden.
+
+10(43)
+
+2.3.4 Valutarisk
+
+Med valutarisk avses risken att en valuta ändrar värde gentemot en annan valuta. Risken består i att en förlust kan uppstå om valutakursen förändras negativt. Banken har delar av sin finansiering i euro och schweiziska francs, vid sidan av svenska kronor, varför det finns en valutarisk i Banken. Om Bankens ekonomiska resultat försämras till följd av att en valutakurs utvecklas negativt, finns det risk för att värdet av Förlagslånen sjunker. I förlängningen föreligger det även risk för att Banken inte kan infria sina åtaganden mot innehavare av Förlagslånen.
+
+2.3.5 Motpartsrisk
+
+Banken utför rutinmässigt transaktioner med motparter inom finansbranschen. Flertalet av dessa transaktioner utsätter Banken för motpartsrisker. Motpartsrisk innebär risken att en motpart inte kan fullgöra sina åtaganden gentemot bolaget, vilket kan leda till förluster. Motpart avser här motparter för t.ex. ränte- och valutaswappar. På grund av utvecklingen på finansmarknaden har denna risk ökat i och med att säkerheter som Banken kan ha kanske inte kan realiseras eller likvideras till tidigare antagna värden. Om en motpart inte kan fullfölja ingångna avtal och Banken tvingas ingå motsvarande avtal med en annan motpart kan detta innebära en ökning av kostnaden för Banken beroende på rådande marknadsförhållanden.
+
+2.4
+
+Operativa risker
+
+Operativ risk definieras som risken för förluster till följd av icke ändamålsenliga eller otillräckliga interna rutiner, mänskliga fel och felaktiga system eller en yttre händelse. Det kan röra sig om risker kopplade till fel och brister i produkter och tjänster, bristfällig intern kontroll, oklara ansvarsförhållanden, bristfälliga tekniska system, olika former av brottsliga angrepp och bristande beredskap inför störningar. Operativa risker existerar i alla delar av Bankens verksamhet. Operativa brister kan i förlängningen medföra skadeståndskrav från t.ex. kunder som drabbas på grund av bristerna. Därutöver kan brister i hanteringen av operativ risk negativt påverka Bankens renommé och verksamhet. För det fall Bankens ekonomiska resultat försämras till följd av hanteringen av en operativ risk kan det leda till att värdet av Förlagslånen sjunker eller att Banken inte kan infria sina åtaganden mot innehavare av Förlagslånen.
+
+Riskerförenade med Förlagslånen
+
+2.5
+
+Efterställda lån
+
+Förlagslån är s.k. efterställda lån vilket innebär att en investerare, i händelse av likvidation eller konkurs, erhåller betalning först efter det att fordringshavare med icke efterställda fordringar fått fullt betalt. För det fall Banken inte har medel att reglera samtliga förpliktelser finns en risk att återbetalning av Förlagslånen inte kan ske. Efterställda lån löper oftast med en högre räntesats än jämförbara lån som inte är efterställda eftersom efterställda lån innebär en högre risk. Varje investerare bör vara medveten om att det finns en risk för att den som investerar i Förlagslånen kan förlora hela, eller delar av sin placering om Banken blir försatt i konkurs eller likvidation.
+
+11(43)
+
+2.6
+
+Fordringshavarmöte
+
+Lånevillkoren innehåller vissa bestämmelser avseende Fordringshavarmöte som kan hållas i syfte att avgöra frågor som rör Fordringshavares intressen. Dessa bestämmelser tillåter angivna majoriteter att binda alla innehavare av Förlagslånen, inklusive innehavare av Förlagslånen som inte har deltagit och röstat vid det aktuella mötet eller som har röstat på annat vis än majoriteten, till beslut som är fattade vid ett i behörig ordning sammankallat och genomfört Fordringshavarmöte. Risken är således att en innehavare av Förlagslånen kan bli bunden av beslut som den inte aktivt har ställt sig bakom.
+
+2.7
+
+Lösenmöjlighet för Banken
+
+I Lånevillkoren ges möjlighet för Banken till förtida inlösen. Då Banken kan välja att förtidslösa Förlagslånen kommer marknadsvärdet på Förlagslånen i allmänhet inte att stiga väsentligt över den kurs till vilken de kan lösas. Detta kan också gälla före en lösenperiod. Banken kan förväntas att lösa Förlagslånen när dess upplåningskostnader är lägre än räntan på Förlagslånen. Vid dessa tidpunkter skulle en investerare i allmänhet inte kunna återinvestera lösenlikviden till en effektiv ränta som är lika hög som räntan på Förlagslånen utan kan kanske göra detta endast till en lägre ränta. Presumtiva investerare bör överväga återinvesteringsrisken mot bakgrund av andra placeringar som kan göras vid samma tillfälle. En presumtiv investerare bör även vara medveten om att Banken kan välja att inte förtidsinlösa Förlagslånen fem år efter Lånedatum, trots att denna möjlighet finns, samt att Finansinspektionen kan förhindra att förtida inlösen genomförs i vissa situationer. En investerare kan således inte räkna med att Förlagslånen kommer att lösas i förtid utan måste istället vara beredd på att återbetalning sker först på Återbetalningsdagen, dvs den 30 juni 2021.
+
+2.8
+
+Ränterisk
+
+Ränteändringar kan ha negativ effekt på värdet av en investering i Förlagslån med Fast/Rörlig ränta. Ändringar i räntenivåer kan även ha en negativ påverkan på en investering i Förlagslån med Rörlig Ränta. Värdet av ett Förslagslån med Fast/Rörlig ränta kan försämras om de allmänna räntenivåerna stiger.
+
+2.9
+
+Andrahandsmarknad och likviditet
+
+Även om Förlagslånen är upptagna till handel vid en reglerad marknad uppstår normalt ingen betydande handel med Förlagslånen. Detta kan gälla under hela deras löptid. För det fall det inte utvecklas en marknad kan likviditeten komma att försämras. Risken för en investerare i Förlagslånen kan vara att det är förknippat med svårigheter att erhålla ett pris och snabbt sälja Förlagslånen jämfört med liknande investeringar som har en väl fungerande andrahandsmarknad.
+
+2.10 Clearing och Euroclear-systemet
+
+Förlagslånen är anslutna till det kontobaserade systemet hos Euroclear ("Euroclearsystemet"), varför inga fysiska värdepapper ges ut. Clearing och avveckling vid handel
+
+12(43)
+sker i Euroclear-systemet liksom utbetalning av ränta och återbetalning av kapitalbelopp. Innehavarna av Förlagslån måste förlita sig på ovan nämnda system för att få betalning avseende aktuella Förlagslån.
+2.11 Valutakursrisk och valutarestriktioner
+Banken erlägger nominellt belopp och avkastning på Förlagslånen i svenska kronor. Detta kan medföra vissa risker kopplade till valutaomräkning om valutan avviker från investerarens egen valuta vari investerarens finansiella verksamhet främst sker. Detta inkluderar risken för kraftiga valutakursförändringar (inklusive devalvering och revalvering) såväl som införande eller ändringar av valutaregleringar. Risken för en investerare i Förlagslånen består i att det sker en förstärkning av den egna valutan jämfört med den valuta placeringen är denominerad, dvs. svenska kronor, vilket skulle minska värdet av en investering i Förlagslånen. Regeringar och myndigheter kan införa valutakontroller/-regleringar som får negativ effekt på valutakursen. Resultatet av detta kan innebära att innehavare av Förlagslånen riskerar erhålla lägre avkastning, slutlikvid eller nominellt belopp än förväntat.
+Övriga risker
+2.12 Legala risker och ändrad lagstiftning
+Bankens affärsverksamhet är föremål för en betydande reglering och tillsyn. På senare år har många lagar och förordningar som Banken har att följa, tillkommit eller ändrats. Framtida förändringar av regelverket, inklusive ändrad redovisningsstandard och krav på kapitaltäckning, kan få en negativ effekt och inverkan på Bankens sätt att bedriva verksamheten och på det ekonomiska resultatet. Ett försämrat ekonomiskt resultat för Banken kan innebära att värdet av en investering i Förlagslånen försämras och i förlängningen även att Banken inte kan infria sina åtaganden mot innehavare av Förlagslånen. Bankens affärsverksamhet och resultat påverkas även av nya och förändrade lagar, förordningar och andra regler beslutade av olika myndigheter i Sverige, EU och utländska stater och myndigheter.
+2.12.1 Basel III
+Den 16 december 2010 beslutade Baselkommittén om de så kallade Basel III-reglerna som innebär ytterligare förändringar av kapitaltäckningsreglerna och nya regler för likviditetsrisker. Baselkommittén för banktillsyn ("the Basel Committe on Banking Supervision"), utgör ett globalt nätverk för tillsynsmyndigheter och tar fram standarder, riktlinjer och rekommendationer som är normgivande för de flesta tillsynsmyndigheter. Den 20 juli 2011 presenterade EU-kommissionen ett förslag, Capital Requirements Directive IV ("CRD IV"), för hur dessa regler ska implementeras inom EU. CRD IV väntas vara implementerade och träda ikraft i Sverige den 1januari 2013.
+CRD IV innehåller ett antal bestämmelser som kan få stor betydelse för huruvida Förlagslånen får räknas in i Bankens supplementära kapital. Till exempel föreslås det att förlagslån, för att omfattas av en finansiell institutions supplementära kapital, måste innehålla en s.k. loss absorption-mekanik, enligt vilken värdet av ett förlagslån ska skrivas ned i sin helhet eller omvandlas till eget kapital för det fall den finansiella
+
+13(43)
+institutionen är på obestånd. En möjlig utveckling är således att Förlagslånen som utgivits av Banken, delvis eller i sin helhet, inte längre får inräknas i Bankens supplementära kapital med anledning av att reglerna i CRD IV träder ikraft. Om Förlagslånen inte får räknas in i Bankens supplementära kapital finns det risk för att Banken inte kan uppfylla de kapitaltäckningskrav som framöver kan komma att uppställas för att bedriva bankverksamhet. Uppfyller Banken inte gällande kapitaltäckningskrav finns det inte förutsättningar för Banken att fortsätta sin verksamhet. Det föreligger även risk för att Banken, efter konsultation med Finansinspektionen, återbetalar Förlagslånen i förtid (se vidare punkten 8.2 i Lånevillkoren). Viktigt att poängtera är att eftersom EU-kommissionen, vid tidpunkten för upprättandet av detta Prospekt, endast presenterat ett förslag, går det inte i dagsläget att förutse hur de slutliga reglerna kommer att vara utformade.
+2.13 Rättsliga åtgärder
+Banken är för närvarande inte part i tvistemål eller i domstol med anledning av dess normala affärsverksamhet eller eljest, som menligt kan påverka Bankens finansiella styrka. Det är emellertid möjligt att det i framtiden görs anspråk eller vidtas rättsliga åtgärder (inklusive regleringar) mot Banken som kan få betydande ogynnsam effekt på Bankens finansiella ställning, resultat eller marknadsposition.
+2.14 EMU
+Om Sverige går med i den europeiska monetära unionen ("EMU") före Återbetalningsdagen för Förlagslånen kan detta möjligen få en negativ effekt för innehavare av Förlagslånen. Det är möjligt att Sverige före Återbetalningsdagen för ett Förlagslån ansluts till EMU och att den officiella valutan för länder anslutna till EMU, Euro ("Euro"), blir den lagliga valutan i Sverige. Om detta sker kommer alla belopp denominerade i svenska kronor att erläggas i motvärdet av Euro, vilket kan innebära att det kan bli tillåtet eller krävas enligt lag att utestående Förlagslån ska konverteras till Euro och att ytterligare andra åtgärder ska vidtas avseende Förlagslånen.
+2.15 Omvärldsrisker
+Risken påverkas av generella förändringar på bankmarknaden t.ex. förändringar av kundbeteenden och konkurrenters beteende. Banken möter en stark konkurrens inom alla områden och marknader. Konkurrenterna utgörs av lokala och internationella finansiella institutioner och banker, försäkringsbolag etc. Även om Banken anser sig ha en stark position och ställning för att möta konkurrensen, kan ingen försäkran ges för att ökad konkurrens inte på ett negativt sätt påverkar Banken inom ett eller flera områden som Banken verkar. Efterfrågan på Bankens produkter är även beroende av kundernas framtidstro, marknadsräntor och andra faktorer som påverkar kundernas ekonomiska situation. För det fall Bankens ekonomiska resultat försämras finns det risk för att värdet av Förlagslånen sjunker och även att Banken inte kan infria sina åtaganden mot innehavare av Förlagslånen.
+
+14(43)
+
+3.
+
+Lånevillkor
+
+3.1
+
+Förlagslån med Rörlig Ränta
+
+VILLKOR FÖR LÄNSFÖRSÄKRINGAR BANK AB:s (PUBL) OBLIGATIONSLÅN I FORM AV FÖRLAGSLÅN (RÖRLIG RÄNTA) 2011/2021 (ISIN-kod: SE0004016749) TILL ETT BELOPP OM 445 000 000 MILJONER KRONOR, LÅNENUMMER: F1
+
+1.
+
+DEFINITIONER
+
+I föreliggande villkor skall följande benämningar ha den innebörd som anges nedan.
+
+"Avstämningsdagen" har den innebörd som framgår av punkt 5.2.
+
+"Bankdag" innebär en dag som inte är söndag eller annan allmän helgdag eller som beträffande betalning av skuldebrev inte är likställd med allmän helgdag i Sverige.
+
+"Banken" innebär Länsförsäkringar Bank AB (publ), org nr 516401-9878, Tegeluddsvägen 11-13, 115 41 Stockholm.
+
+"Emissionsinstitut" innebär Skandinaviska Enskilda Banken AB (publ), Kungsträdgårdsgatan 8, 106 40 Stockholm.
+
+"Euroclear Sweden" innebär Euroclear Sweden AB, Klarabergsviadukten 63, 101 23 Stockholm.
+
+"Extraordinärt Beslut" har den innebörd som framgår av punkt 11.8.
+
+"Fordringshavare" innebär den som är antecknad på VP-konto som borgenär eller som berättigad att i andra fall ta emot betalning under ett Förlagsbevis.
+
+"Fordringshavarmöte" har den innebörd som framgår av punkt 11.1.
+
+"Förlagsbevis" innebär ensidig skuldförbindelse som registrerats enligt lag (1998:1479) om kontoföring av finansiella instrument, avsedd för allmän omsättning och som utgivits av Banken i enlighet med dessa villkor.
+
+"Förlagslån" innebär efterställt lån som i händelse av låntagarens likvidation eller konkurs medför rätt till betalning ur låntagarens tillgångar först efter icke efterställda fordringar mot låntagaren och som är avsett för allmän omsättning.
+
+"ISIN-kod" innebär SE0004016749.
+
+15(43)
+"Kontoförande Institut" innebär bank eller annan som har medgivits rätt att vara kontoförande institut enligt lag (1998:1479) om kontoföring av finansiella instrument och hos vilken Fordringshavare öppnat VP-konto avseende Förlagsbevis.
+"Lånet" har den innebörd som framgår av punkt 2.1.
+"Lånedatum" innebär den 30 juni 2011.
+"Referensbanker" innebär tre av de större affärsbankerna i Sverige, som vid aktuell tidpunkt kvoterar STIBOR, som utses av Emissionsinstitutet.
+"Räntebestämningsdag" innebär för den första Ränteperioden den 30 juni 2011 och därefter den dag som infaller två (2) Bankdagar före den första dagen i den Ränteperiod för vilken Räntesatsen skall bestämmas.
+"Ränteförfallodag" innebär den 30 mars, 30 juni, 30 september och 30 december varje år med början den 30 september 2011 eller, om sådan dag inte är en Bankdag, närmast påföljande Bankdag, förutsatt att sådan påföljande Bankdag inte infaller i en ny kalendermånad, för vilken händelse Ränteförfallodagen istället skall vara närmast föregående Bankdag. Den sista Ränteförfallodagen skall infalla på Återbetalningsdagen eller i förekommande fall på den tidigare dag då förtida återbetalning av Lånet sker enligt punkt 8 (Förtida inlösen).
+"Ränteperiod" innebär en period omfattande cirka tre (3) månader där (i) för den första Ränteperioden, är perioden från Lånedatumet till och med den första Ränteförfallodagen och (ii) för följande Ränteperioder, är perioden från en Ränteförfallodag till och med nästa Ränteförfallodag.
+"Räntesats" innebär den ränta som skall utgå i enlighet med punkt 4.1.
+"Röstlängd" har den innebörd som framgår av punkt 11.5, andra meningen.
+"STIBOR" innebär den räntesats som (i) omkring kl. 11.00 på Räntebestämningsdagen noteras på Reuters sida "SIOR" (eller genom sådant annat system eller på sådan annan sida som ersätter nämnda system respektive sida); eller - om sådan notering ej finns - (ii) vid nyss nämnda tidpunkt enligt Emissionsinstitutet motsvarar (a) genomsnittet av Referensbankernas erbjudna utlåningsräntor för depositioner av SEK 100.000. 000 för aktuell period på interbankmarknaden i Stockholm eller om endast en eller inget sådant erbjudande ges - (b) Emissionsinstitutets bedömning av den ränta svenska affärsbanker erbjuder för utlåning av SEK 100.000. 000 för aktuell period på interbankmarknaden i Stockholm.
+"VP-konto" innebär värdepapperskonto (avstämningskonto enligt lag (1998:1479) om kontoföring av finansiella instrument) där respektive Fordringshavares innehav av Förlagsbevis är registrerat.
+"Svenska kronor" eller "SEK" innebär den officiella valutan i Sverige.
+
+16(43)
+
+"Återbetalningsdag" innebär den 30 juni 2021.
+
+2.
+
+LÅNEBELOPP OCH BETALNINGSFÖRBINDELSE
+
+2.1
+
+Lånebeloppet uppgår till SEK fyrahundrafyrtiofem miljoner (445.000.000)
+
+och representeras av Förlagsbevis på samma belopp i valören SEK en miljon
+
+(1.000.000) eller hela multiplar därav.
+
+2.2
+
+Banken förbinder sig härmed att i enlighet med dessa villkor återbetala Lånet
+
+och erlägga ränta.
+
+2.3
+
+Lånet är efterställt i enlighet med punkt 9 (Efterställd rätt till betalning).
+
+3.
+
+REGISTRERING AV FÖRLAGSBEVISEN
+
+3.1
+
+Förlagsbevisen skall för Fordringshavares räkning registreras på VP-konto,
+
+varför inga fysiska värdepapper kommer att utfärdas.
+
+3.2
+
+Begäran om viss registreringsåtgärd avseende Förlagsbevisen skall riktas till
+
+Kontoförande Institut.
+
+3.3
+
+Den som på grund av uppdrag, pantsättning, bestämmelserna i
+
+föräldrabalken, villkor i testamente eller gåvobrev eller eljest förvärvat rätt att
+
+ta emot betalning under ett Förlagsbevis skall låta registrera sin rätt till
+
+betalning.
+
+4.
+
+RÄNTA
+
+4.1
+
+På Lånet utgår ränta motsvarande tre (3) månaders STIBOR med tillägg av
+
+2,5 procentenheter från Lånedatumet till och med Återbetalningsdagen eller i
+
+förekommande fall den tidigare dag då förtida återbetalning av Lånet sker
+
+enligt punkt 8 (Förtida inlösen).
+
+4.2
+
+Räntan erläggs i efterskott på respektive Ränteförfallodag och beräknas på
+
+faktiskt antal förflutna dagar under Ränteperioden och ett år om 360 dagar.
+
+4.3
+
+Räntan för respektive Ränteperiod fastställs på respektive
+
+Räntebestämningsdag.
+
+5.
+
+ÅTERBETALNING AV LÅNET SAMT BETALNING AV
+
+RÄNTA
+
+5.1
+
+Lånet förfaller till betalning i dess helhet på Återbetalningsdagen.
+
+5.2
+
+Återbetalning av Lånet och betalning av ränta skall ske till den som är
+
+Fordringshavare på femte (5) Bankdagen före respektive förfallodag, eller på
+
+17(43)
+
+den Bankdag närmare respektive förfallodag som generellt kan komma att tillämpas på den svenska obligationsmarknaden (Avstämningsdagen).
+
+5.3
+
+Har Fordringshavaren genom Kontoförande Institut låtit registrera att kapital
+
+respektive räntebelopp skall insättas på visst bankkonto, sker insättning
+
+genom Euroclear Swedens försorg på vederbörande förfallodag. I annat fall
+
+översänder Euroclear Sweden beloppet sistnämnda dag till Fordringshavaren
+
+under dennes hos Euroclear Sweden på Avstämningsdagen registrerade
+
+adress. Infaller förfallodag på dag som inte är Bankdag insättes respektive
+
+översändes beloppet först närmast påföljande Bankdag, förutsatt att sådan
+
+påföljande Bankdag inte infaller i en ny kalendermånad, för vilken händelse
+
+förfallodagen istället skall vara närmast föregående Bankdag.
+
+5.4
+
+Skulle Euroclear Sweden på grund av dröjsmål från Bankens sida eller på
+
+grund av annat hinder inte kunna utbetala belopp enligt vad nyss sagts,
+
+utbetalas detta av Euroclear Sweden så snart hindret må ha upphört till den
+
+som på Avstämningsdagen var Fordringshavare.
+
+5.5
+
+Om Banken ej kan fullgöra betalningsförpliktelse genom Euroclear Sweden
+
+enligt ovan på grund av hinder för Euroclear Sweden som avses i punkt 15.1,
+
+skall Banken ha rätt att skjuta upp betalningsförpliktelsen tills dess hindret
+
+har upphört. I sådant fall skall ränta utgå enligt punkt 6.2.
+
+5.6
+
+Visar det sig att den som tillställts belopp enligt vad ovan sagts saknade rätt
+
+att mottaga detta, skall Banken och Euroclear Sweden likväl anses ha
+
+fullgjort sina ifrågavarande skyldigheter. Detta gäller dock ej om Banken
+
+respektive Euroclear Sweden hade kännedom om att beloppet kom i orätta
+
+händer eller åsidosatt den aktsamhet som efter omständigheterna skäligen
+
+bort iakttas.
+
+6.
+
+DRÖJSMÅLSRÄNTA
+
+6.1
+
+Vid betalningsdröjsmål avseende Lånetoch/eller ränta därpå utgår
+
+dröjsmålsränta på det förfallna beloppet från förfallodagen till och med den
+
+dag då full betalning erläggs efter en räntesats som motsvarar räntan enligt
+
+punkt 4.1 med tillägg av två (2) procentenheter.
+
+6.2
+
+Beror dröjsmålet enbart av sådant hinder för Emissionsinstitutet respektive
+
+Euroclear Sweden som avses i punkt 15.1, skall dröjsmålsränta dock ej utgå
+
+efter högre räntesats än Räntesatsen.
+
+7.
+
+PRESKRIPTION
+
+7.1
+
+Rätten till betalning av kapitalbeloppet preskriberas tio (10) år efter
+
+Återbetalningsdagen. Rätten till räntebetalning preskriberas tre (3) år efter
+
+respektive Ränteförfallodag. De medel som avsatts för betalning men
+
+preskriberats tillkommer Banken.
+
+18(43)
+
+7.2
+
+Om preskriptionsavbrott sker löper ny preskriptionstid om tio (10) år i fråga
+
+om kapitalbelopp och tre (3) år beträffande räntebelopp, i båda fallen räknat
+
+från dag som framgår av bestämmelserna i preskriptionslag (1981:130) om
+
+verkan av preskriptionsavbrott.
+
+8.
+
+FÖRTIDA INLÖSEN
+
+8.1
+
+Banken äger rätt att återbetala hela Lånet (till par med tillägg för upplupen
+
+ränta) i förtid på den Ränteförfallodag som infaller fem (5) år efter
+
+Lånedatumet och på varje därefter följande Ränteförfallodag. Återbetalning i
+
+förtid förutsätter (i) att Fordringshavarna underrättats därom senast 30
+
+kalenderdagar i förväg samt (ii) att Finansinspektionen lämnat sitt
+
+medgivande till sådan förtida återbetalning.
+
+8.2
+
+Banken äger vidare rätt att återbetala hela Lånet (till par med tillägg för
+
+upplupen ränta) i förtid, för det fall att Banken efter konsultation med
+
+Finansinspektionen bedömer att Lånet inte längre får inräknas till Bankens
+
+supplementära kapital till följd av regulatoriska förändringar som inte kunde
+
+förutses på Lånedatumet. Återbetalning i förtid enligt denna bestämmelse
+
+förutsätter att Fordringshavarna underrättats därom senast 30 kalenderdagar i
+
+förväg.
+
+9.
+
+EFTERSTÄLLD RÄTT TILL BETALNING
+
+9.1
+
+Fordringshavarna har endast rätt att förklara Lånet j ämte ränta därå förfallet
+
+till betalning före Återbetalningsdagen om Banken försätts i konkurs eller
+
+träder i likvidation.
+
+9.2
+
+Förlagsbevisen skall i händelse av Bankens likvidation eller konkurs medföra
+
+rätt till betalning ur Bankens tillgångar först efter icke efterställda fordringar
+
+mot Banken men minst jämsides (paripassu) med övriga av Banken utgivna
+
+och utestående Förlagslån.
+
+9.3
+
+Banken kan i framtiden utge nya Förlagslån och därvid föreskriva att dessa
+
+lån och skuldförbindelser skall medföra lika eller sämre rätt till betalning,
+
+dock ej bättre rätt till betalning ur Bankens tillgångar i konkurs eller
+
+likvidation som Förlagsbevis utgivna under detta Lån.
+
+9.4
+
+Ingen säkerhet har ställts, eller skall ställas, för Lånet.
+
+10. ÄNDRING AV VILLKOR
+10.1 Banken och Emissionsinstitutet äger justera klara och uppenbara fel i dessa villkor. Övriga ändringar av dessa villkor sker genom beslut vid Fordringshavarmöte enligt punkt 11 (Fordringshavarmöte).
+
+19(43)
+10.2 Ändring av lånevillkoren enligt föregående stycke skall av Banken snarast meddelas till Fordringshavarna i enlighet med punkt 13 (Meddelanden).
+10.3 Om viss ändring kräver Finansinspektionens medgivande, skall Banken inhämta detta.
+11. FORDRINGSHAVARMÖTE
+11.1 Emissionsinstitutet äger rätt att, och skall efter skriftlig begäran från Banken eller Fordringshavare som på dagen för kallelsen representerar minst en tiondel av Lånet, kalla till Fordringshavarmöte. Kallelsen skall minst tjugo (20) Bankdagar i förväg tillställas Banken och samtliga Fordringshavare i enlighet med punkt 13 (Meddelanden).
+11.2 Kallelsen till Fordringshavarmöte skall ange tidpunkt och plats för mötet samt dagordning för mötet. För det fall att röstning får ske via ett elektroniskt röstningsförfarande skall de närmare detaljerna för detta tydligt framgå av kallelsen. Vidare skall i kallelsen anges de ärenden som skall behandlas och beslutas vid mötet. Ärendena skall vara numrerade. Det huvudsakliga innehållet i varje framlagt förslag skall anges. Endast ärenden som upptagits i kallelsen får beslutas vid Fordringshavarmötet.
+11.3 Mötet skall inledas med att ordförande utses, protokollförare och en eller flera justeringsmän utses. Emissionsinstitutet skall utse ordföranden om inte Fordringshavarmötet bestämmer annat.
+11.4 Vid Fordringshavarmöte äger, utöver Fordringshavare samt deras respektive ombud och biträden, även styrelseledamöter, verkställande direktören och andra högre befattningshavare i Banken samt Bankens revisorer och juridiska rådgivare rätt att delta.
+11.5 Emissionsinstitutet skall tillse att det vid Fordringshavarmötet finns en utskrift av det av Euroclear Sweden förda avstämningsregistret från slutet av femte (5) Bankdagen före dagen för Fordringshavarmötet. Ordföranden skall upprätta en förteckning över närvarande röstberättigade Fordringshavare med uppgift om den andel av Lånet varje Fordringshavare företräder. Där röstning får ske via elektroniskt röstningsförfarande, röstsedel eller motsvarande, skall vid tillämpning av dessa bestämmelser Fordringshavare som avgivit röst på sådant vis anses såsom närvarande vid Fordringshavarmötet. Endast de som på femte (5) Bankdagen före dagen för Fordringshavarmöte var Fordringshavare, respektive ombud för sådan Fordringshavare, är röstberättigade och skall tas upp i Röstlängden. Röstlängden skall godkännas av Fordringshavarmötet.
+11.6 Genom ordförandens försorg skall föras protokoll vid Fordringshavarmötet, vari skall antecknas dag och ort för mötet, vilka som närvarat, vad som avhandlats, hur omröstning har utfallit och vilka beslut som har fattats. Röstlängden skall nedtecknas i eller biläggas protokollet. Protokollet skall
+
+20(43)
+
+11.7 11.8
+11.9
+11.10 11.11
+
+undertecknas av protokollföraren. Det skall justeras av ordföranden om denne inte fört protokollet samt av minst en på Fordringshavarmötet utsedd justeringsman. Därefter skall protokollet överlämnas till Emissionsinstitutet. Senast tio (10) Bankdagar efter Fordringshavarmötet skall protokollet tillställas Fordringshavarna enligt punkt 13 (Meddelanden). Nya eller ändrade villkor skall biläggas protokollet och tillställas Euroclear Sweden genom Emissionsinstitutets eller annan av Emissionsinstitutet utsedd parts försorg. Protokollet skall på ett betryggande sätt förvaras av Emissionsinstitutet.
+Fordringshavarmötet är beslutfört om Fordringshavare representerande minst en femtedel av Lånet är närvarande vid Fordringshavarmötet.
+I följande slag av ärenden erfordras dock att Fordringshavare representerande minst hälften av Lånet är närvarande vid Fordringshavarmötet;
+(a) Godkännande av överenskommelse med Banken eller annan om ändring av Återbetalningsdagen, nedsättning av Lånet, ändring av föreskriven valuta för Lånet (om ej detta följer av lag) samt ändring av Ränteförfallodag eller annat räntevillkor;
+(b) Godkännande av gäldenärsbyte; samt
+(c) Godkännande av ändring av denna punkt 11 (Fordringshavarmöte).
+Om Fordringshavarmöte sammankallats på begäran av Fordringshavare och den för beslutförhet erforderliga andel av Lånet som Fordringshavarna representerar inte har uppnåtts inom trettio (30) minuter från utsatt tid för Fordringshavarmöte, kan mötet ajourneras till den dag som infaller en vecka senare (eller - om den dagen inte är en Bankdag - nästföljande Bankdag). Om mötet nått beslutsförhet för vissa men inte alla frågor som skall beslutas vid mötet skall mötet ajourneras efter det att beslut fattats i frågor för vilka beslutsförhet föreligger. Meddelande om att Fordringshavarmöte ajournerats och uppgift om tid och plats för fortsatt möte skall snarast tillställas Fordringshavarna genom Euroclear Swedens försorg. När ajournerat Fordringshavarmöte återupptas äger mötet fatta beslut, inklusive Extraordinärt Beslut, om Fordringshavare som på dagen för kallelsen representerar minst en tiondel av Lånet infinner sig till mötet.
+Beslut vid Fodringshavarmöte fattas genom omröstning om någon Fodringshavare begär det. Varje röstberättigad Fodringshavare skall vid votering ha en röst per SEK en miljon (1.000.000) av det sammanlagda nominella beloppet av Lånet som innehas av denne. Fodringshavarmötets ordförande skall ha utslagsröst vid lika röstetal.
+Extraordinärt Beslut är giltigt endast om det biträtts av Fodringshavare representerande minst nio tiondelar av det sammanlagda nominella beloppet av närvarande röstberättigande Fodringshavares innehav av Lånet. För samtliga övriga beslut gäller den mening som fått mer än hälften av de angivna rösterna.
+
+21(43)
+
+11.12
+11.13
+11.14 11.15 11.16 11.17
+
+Vid tillämpningen av denna punkt 11 (Fordringshavarmöte) ska innehavare av förvaltarregistrerade Förlagsbevis betraktas som Fordringshavare istället för förvaltaren om innehavaren uppvisar ett intyg från förvaltaren som utvisar att vederbörande per den femte (5) Bankdagen före Fordringshavarmöte var innehavare av Förlagsbevis och storleken på dess innehav. Förvaltare av förvaltarregistrerade Förlagsbevis skall anses närvarande vid Fordringshavarmöte med det antal Förlagsbevis som förvaltaren fått i uppdrag att företräda.
+Beslut som har fattats vid ett i behörig ordning sammankallat och genomfört Fordringshavarmöte är bindande för samtliga Fordringshavare oavsett om de har varit närvarande vid, och oberoende av om och hur de har röstat på mötet. Fordringshavare som biträtt på Fordringshavarmöte fattat beslut skall inte kunna hållas ansvarig för den skada som beslutet kan komma att åsamka annan Fordringshavare.
+Om viss ändring eller beslut kräver Finansinspektionens medgivande, skall Banken inhämta detta.
+Emissionsinstitutets och Euroclear Swedens skäliga kostnader i samband med Fordringshavarmöte skall betalas av Banken.
+Emissionsinstitutet äger, i samband med tillämpningen av denna punkt 11 (Fordringshavarmöte), rätt till utdrag ur det av Euroclear Sweden förda avstämningsregistret för aktuellt Lån. Emissionsinstitutet är berättigat (men inte skyldigt) att tillhandahålla en kopia av utdraget till Banken.
+Begäran om Fordringshavarmöte skall tillställas Emissionsinstitutets adress. Sådan försändelse skall ange att ärendet är brådskande.
+
+12. UPPTAGANDE TILL HANDEL PÅ REGLERAD MARKNAD
+Ansökan om att inregistrera Lånet kan komma att inges till NASDAQ OMX Stockholm AB förutsatt att godkänt prospekt upprättats i enlighet med 2 kap. lag (1991:980) om handel med finansiella instrument.
+
+13. MEDDELANDEN
+Meddelanden rörande Lånet skall i den mån annat inte föreskrivits i dessa villkor tillställas Fordringshavare under dennes hos Euroclear Sweden registrerade adress.
+
+22(43)
+14. FÖRVALTARREGISTRERING
+För Förlagsbevis som är förvaltarregistrerad enligt lag (1998:1479) om kontoföring av finansiella instrument skall vid tillämpningen av dessa villkor förvaltaren betraktas som Fordringshavare, med undantag för vad som anges i punkt 11.12.
+15. BEGRÄNSNING AV EMISSIONSINSTITUTETS OCH EUROCLEAR SWEDENS ANSVAR
+15.1 I fråga om de på Emissionsinstitutet respektive Euroclear Sweden ankommande åtgärderna gäller (beträffande Euroclear Sweden med beaktande av bestämmelserna i lag (1998:1479) om kontoföring av finansiella instrument) att ansvarighet inte kan göras gällande för skada som beror av svenskt eller utländskt lagbud, svensk eller utländsk myndighets åtgärd, krigshändelse, strejk, blockad, bojkott, lockout eller annan liknande omständighet. Förbehållet i fråga om strejk, blockad, bojkott och lockout gäller även om Emissionsinstitutet själv eller Euroclear Sweden själv är föremål för eller vidtar sådan konfliktåtgärd.
+15.2 Skada som uppkommer i andra fall än vad som anges i punkt 15.1 skall inte ersättas av Emissionsinstitutet om Emissionsinstitutet varit normalt aktsam. Inte i något fall skall ersättning utgå för indirekt skada (inklusive men ej begränsat till utebliven vinst).
+15.3 Föreligger hinder för Emissionsinstitutet eller Euroclear Sweden på grund av sådan omständighet som angivits i punkt 15.1 att vidta åtgärd enligt dessa allmänna villkor, får åtgärden uppskjutas tills hindret har upphört.
+16. TILLÄMPLIG LAG OCH JURISDIKTION
+16.1 Dessa villkor skall styras av och tolkas i enlighet med svensk rätt.
+16.2 Tvist skall avgöras vid svensk domstol, i första instans Stockholms tingsrätt.
+Härmed bekräftas att ovanstående villkor är för oss bindande.
+Stockholm den 27 juni 2011
+LÄNSFÖRSÄKRINGAR BANK AB (publ)
+
+23(43)
+
+3.2
+
+Förlagslån med Fast/Rörlig Ränta
+
+VILLKOR FÖR LÄNSFÖRSÄKRINGAR BANK AB:s (PUBL) OBLIGATIONSLÅN I FORM AV FÖRLAGSLÅN (FAST/RÖRLIG RÄNTA) 2011/2021 (ISIN-kod: SE0004016731) TILL ETT BELOPP
+OM 755 000 000 MILJONER KRONOR, LÅNENUMMER: F2
+
+1.
+
+DEFINITIONER
+
+I föreliggande villkor skall följande benämningar ha den innebörd som anges nedan.
+
+"Avstämningsdagen" har den innebörd som framgår av punkt 5.2.
+
+"Bankdag" innebär en dag som inte är söndag eller annan allmän helgdag eller som beträffande betalning av skuldebrev inte är likställd med allmän helgdag i Sverige.
+
+"Banken" innebär Länsförsäkringar Bank AB (publ), org nr 516401-9878, Tegeluddsvägen 11-13, 115 41 Stockholm.
+
+"Emissionsinstitut" innebär Skandinaviska Enskilda Banken AB (publ), Kungsträdgårdsgatan 8, 106 40 Stockholm.
+
+"Euroclear Sweden" innebär Euroclear Sweden AB, Klarabergsviadukten 63, 101 23 Stockholm.
+
+"Extraordinärt Beslut" har den innebörd som framgår av punkt 11.8.
+
+"Fordringshavare" innebär den som är antecknad på VP-konto som borgenär eller som berättigad att i andra fall ta emot betalning under ett Förlagsbevis.
+
+"Fordringshavarmöte" har den innebörd som framgår av punkt 11.1.
+
+"Förlagsbevis" innebär ensidig skuldförbindelse som registrerats enligt lag (1998:1479) om kontoföring av finansiella instrument, avsedd för allmän omsättning och som utgivits av Banken i enlighet med dessa villkor.
+
+"Förlagslån" innebär efterställt lån som i händelse av låntagarens likvidation eller konkurs medför rätt till betalning ur låntagarens tillgångar först efter icke efterställda fordringar mot låntagaren och som är avsett för allmän omsättning.
+
+24(43)
+"ISIN-kod" innebär SE0004016731.
+"Kontoförande Institut" innebär bank eller annan som har medgivits rätt att vara kontoförande institut enligt lag (1998:1479) om kontoföring av finansiella instrument och hos vilken Fordringshavare öppnat VP-konto avseende Förlagsbevis.
+"Lånet" har den innebörd som framgår av punkt 2.1.
+"Lånedatum" innebär den 30 juni 2011.
+"Referensbanker" innebär tre av de större affärsbankerna i Sverige, som vid aktuell tidpunkt kvoterar STIBOR, som utses av Emissionsinstitutet.
+"Räntebestämningsdag" innebär för Ränteperioder med Rörlig Ränta den dag som infaller två (2) Bankdagar före den första dagen i den Ränteperiod med Rörlig Ränta för vilken Räntesatsen skall bestämmas.
+"Ränteförfallodag" innebär Ränteförfallodag med Fast Ränta eller Ränteförfallodag med Rörlig Ränta.
+"Ränteförfallodag med Fast Ränta" innebär den 30 juni varje år med början 2012. Den sista Ränteförfallodagen med Fast Ränta skall infalla 30 juni 2016 eller i förekommande fall på den tidigare dag då förtida återbetalning av Lånet sker enligt punkt 8.2 (Förtida inlösen).
+"Ränteförfallodag med Rörlig Ränta" innebär den 30 mars, 30 juni, 30 september och 30 december varje år med början den 30 september 2016, eller, om sådan dag inte är en Bankdag, närmast påföljande Bankdag, förutsatt att sådan påföljande Bankdag inte infaller i en ny kalendermånad, för vilken händelse Ränteförfallodagen med Rörlig Ränta istället skall vara närmast föregående Bankdag. Den sista Ränteförfallodagen med Rörlig Ränta skall infalla på Återbetalningsdagen eller i förekommande fall på den tidigare dag då förtida återbetalning av Lånet sker enligt punkt 8 (Förtida inlösen).
+"Ränteperiod" innebär Ränteperiod med Fast Ränta eller Ränteperiod med Rörlig Ränta.
+"Ränteperiod med Fast Ränta" innebär en period omfattande tolv (12) månader där (i) för den första Ränteperioden med Fast Ränta, är perioden från Lånedatumet till och med den första Ränteförfallodagen med Fast Ränta och (ii) för följande Ränteperioder med Fast Ränta, är perioden från en Ränteförfallodag med Fast Ränta till och med nästa Ränteförfallodag med Fast Ränta.
+"Ränteperiod med Rörlig Ränta" innebär en period omfattande cirka tre (3) månader där (i) för den första Ränteperioden med Rörlig Ränta, är perioden från den femte (5) Ränteförfallodagen med Fast Ränta till och med den första Ränteförfallodagen med Rörlig Ränta och (ii) för följande Ränteperioder med
+
+25(43)
+
+Rörlig Ränta, är perioden från en Ränteförfallodag med Rörlig Ränta till och med nästa Ränteförfallodag med Rörlig Ränta.
+"Räntesats" innebär den ränta som skall utgå i enlighet med punkt 4.1 för Ränteperioder med Fast Ränta respektive den ränta som skall utgå i enlighet med punkt 4.2 för Ränteperioder med Rörlig Ränta.
+"Röstlängd" har den innebörd som framgår av punkt 11.5, andra meningen.
+"STIBOR" innebär den räntesats som (i) omkring kl. 11.00 på Räntebestämningsdagen noteras på Reuters sida "SIOR" (eller genom sådant annat system eller på sådan annan sida som ersätter nämnda system respektive sida); eller - om sådan notering ej finns - (ii) vid nyss nämnda tidpunkt enligt Emissionsinstitutet motsvarar (a) genomsnittet av Referensbankernas erbjudna utlåningsräntor för depositioner av SEK 100.000. 000 för aktuell period på interbankmarknaden i Stockholm eller om endast en eller inget sådant erbjudande ges - (b) Emissionsinstitutets bedömning av den ränta svenska affärsbanker erbjuder för utlåning av SEK 100.000. 000 för aktuell period på interbankmarknaden i Stockholm.
+"VP-konto" innebär värdepapperskonto (avstämningskonto enligt lag (1998:1479) om kontoföring av finansiella instrument) där respektive Fordringshavares innehav av Förlagsbevis är registrerat.
+"Svenska kronor" eller "SEK" innebär den officiella valutan i Sverige.
+"Återbetalningsdag" innebär den 30 juni 2021.
+
+2.
+
+LÅNEBELOPP OCH BETALNINGSFÖRBINDELSE
+
+2.1
+
+Lånebeloppet uppgår till SEK sjuhundrafemtiofem miljoner (755.000.000)
+
+och representeras av Förlagsbevis på samma belopp i valören SEK en miljon
+
+(1.000.000) eller hela multiplar därav.
+
+2.2
+
+Banken förbinder sig härmed att i enlighet med dessa villkor återbetala Lånet
+
+och erlägga ränta.
+
+2.3
+
+Lånet är efterställt i enlighet med punkt 9 (Efterställd rätt till betalning).
+
+3.
+
+REGISTRERING AV FÖRLAGSBEVISEN
+
+3.1
+
+Förlagsbevisen skall för Fordringshavares räkning registreras på VP-konto,
+
+varför inga fysiska värdepapper kommer att utfärdas.
+
+3.2
+
+Begäran om viss registreringsåtgärd avseende Förlagsbevisen skall riktas till
+
+Kontoförande Institut.
+
+26(43)
+
+3.3
+
+Den som på grund av uppdrag, pantsättning, bestämmelserna i
+
+föräldrabalken, villkor i testamente eller gåvobrev eller eljest förvärvat rätt att
+
+ta emot betalning under ett Förlagsbevis skall låta registrera sin rätt till
+
+betalning.
+
+4.
+
+RÄNTA
+
+4.1
+
+På Lånet utgår fast ränta med 5,64 procent per år från Lånedatumet till och
+
+med den Ränteförfallodagen med Fast Ränta som infaller 2016.
+
+4.2
+
+Efter den Ränteförfallodagen med Fast Ränta som infaller 2016, utgår rörlig
+
+ränta motsvarande tre (3) månaders STIBOR med tillägg av
+
+2,5 procentenheter på Lånet till och med Återbetalningsdagen eller i
+
+förekommande fall den tidigare dag då förtida återbetalning av Lånet sker
+
+enligt punkt 8 (Förtida inlösen).
+
+4.3
+
+Räntan erläggs i efterskott på respektive Ränteförfallodag och beräknas för (i)
+
+Ränteperiod med Fast Ränta på 360/360-dagarbasis och för (ii) Ränteperiod
+
+med Rörlig Ränta på faktiskt antal förflutna dagar under Ränteperioden och
+
+ett år om 360 dagar. Om Ränteförfallodag med Fast Ränta inte är en Bankdag
+
+utbetalas räntan på nästkommande Bankdag, ränta utgår härvid dock endast
+
+till och med Ränteförfallodagen med Fast Ränta.
+
+4.4
+
+Räntan för respektive Ränteperiod med Rörlig Ränta fastställs på respektive
+
+Räntebestämningsdag.
+
+5.
+
+ÅTERBETALNING AV LÅNET SAMT BETALNING AV
+
+RÄNTA
+
+5.1
+
+Lånet förfaller till betalning i dess helhet på Återbetalningsdagen.
+
+5.2
+
+Återbetalning av Lånet och betalning av ränta skall ske till den som är
+
+Fordringshavare på femte (5) Bankdagen före respektive förfallodag, eller på
+
+den Bankdag närmare respektive förfallodag som generellt kan komma att
+
+tillämpas på den svenska obligationsmarknaden (Avstämningsdagen).
+
+5.3
+
+Har Fordringshavaren genom Kontoförande Institut låtit registrera att kapital
+
+respektive räntebelopp skall insättas på visst bankkonto, sker insättning
+
+genom Euroclear Swedens försorg på vederbörande förfallodag. I annat fall
+
+översänder Euroclear Sweden beloppet sistnämnda dag till Fordringshavaren
+
+under dennes hos Euroclear Sweden på Avstämningsdagen registrerade
+
+adress. Infaller förfallodag på dag som inte är Bankdag insättes respektive
+
+översändes beloppet först närmast påföljande Bankdag, förutsatt att sådan
+
+påföljande Bankdag inte infaller i en ny kalendermånad, för vilken händelse
+
+förfallodagen istället skall vara närmast föregående Bankdag.
+
+27(43)
+
+5.4
+
+Skulle Euroclear Sweden på grund av dröjsmål från Bankens sida eller på
+
+grund av annat hinder inte kunna utbetala belopp enligt vad nyss sagts,
+
+utbetalas detta av Euroclear Sweden så snart hindret må ha upphört till den
+
+som på Avstämningsdagen var Fordringshavare.
+
+5.5
+
+Om Banken ej kan fullgöra betalningsförpliktelse genom Euroclear Sweden
+
+enligt ovan på grund av hinder för Euroclear Sweden som avses i punkt 15.1,
+
+skall Banken ha rätt att skjuta upp betalningsförpliktelsen tills dess hindret
+
+har upphört. I sådant fall skall ränta utgå enligt punkt 6.2.
+
+5.6
+
+Visar det sig att den som tillställts belopp enligt vad ovan sagts saknade rätt
+
+att mottaga detta, skall Banken och Euroclear Sweden likväl anses ha
+
+fullgjort sina ifrågavarande skyldigheter. Detta gäller dock ej om Banken
+
+respektive Euroclear Sweden hade kännedom om att beloppet kom i orätta
+
+händer eller åsidosatt den aktsamhet som efter omständigheterna skäligen
+
+bort iakttas.
+
+6.
+
+DRÖJSMÅLSRÄNTA
+
+6.1
+
+Vid betalningsdröjsmål avseende Lånet och/eller ränta därpå utgår
+
+dröjsmålsränta på det förfallna beloppet från förfallodagen till och med den
+
+dag då full betalning erläggs efter en räntesats som motsvarar den relevanta
+
+Räntesatsen med tillägg av två (2) procentenheter.
+
+6.2
+
+Beror dröjsmålet enbart av sådant hinder för Emissionsinstitutet respektive
+
+Euroclear Sweden som avses i punkt 15.1, skall dröjsmålsränta dock ej utgå
+
+efter högre räntesats än den relevanta Räntesatsen.
+
+7.
+
+PRESKRIPTION
+
+7.1
+
+Rätten till betalning av kapitalbeloppet preskriberas tio (10) år efter
+
+Återbetalningsdagen. Rätten till räntebetalning preskriberas tre (3) år efter
+
+respektive Ränteförfallodag. De medel som avsatts för betalning men
+
+preskriberats tillkommer Banken.
+
+7.2
+
+Om preskriptionsavbrott sker löper ny preskriptionstid om tio (10) år i fråga
+
+om kapitalbelopp och tre (3) år beträffande räntebelopp, i båda fallen räknat
+
+från dag som framgår av bestämmelserna i preskriptionslag (1981:130) om
+
+verkan av preskriptionsavbrott.
+
+8.
+
+FÖRTIDA INLÖSEN
+
+8.1
+
+Banken äger rätt att återbetala hela Lånet (till parmed tillägg för upplupen
+
+ränta) i förtid på den Ränteförfallodag med Fast Ränta som infaller fem (5) år
+
+efter Lånedatumet och på varje därefter följande Ränteförfallodag med Rörlig
+
+Ränta. Återbetalning i förtid förutsätter (i) att Fordringshavarna underrättats
+
+28(43)
+
+därom senast 30 kalenderdagar i förväg samt (ii) att Finansinspektionen lämnat sitt medgivande till sådan förtida återbetalning.
+
+8.2
+
+Banken äger vidare rätt att återbetala hela Lånet (till par med tillägg för
+
+upplupen ränta) i förtid, för det fall att Banken efter konsultation med
+
+Finansinspektionen bedömer att Lånet inte längre får inräknas till Bankens
+
+supplementära kapital till följd av regulatoriska förändringar som inte kunde
+
+förutses på Lånedatumet. Återbetalning i förtid enligt denna bestämmelse
+
+förutsätter att Fordringshavarna underrättats därom senast 30 kalenderdagar i
+
+förväg.
+
+9.
+
+EFTERSTÄLLD RÄTT TILL BETALNING
+
+9.1
+
+Fordringshavarna har endast rätt att förklara Lånet j ämte ränta därå förfallet
+
+till betalning före Återbetalningsdagen om Banken försätts i konkurs eller
+
+träder i likvidation.
+
+9.2
+
+Förlagsbevisen skall i händelse av Bankens likvidation eller konkurs medföra
+
+rätt till betalning ur Bankens tillgångar först efter icke efterställda fordringar
+
+mot Banken men minst jämsides (paripassu) med övriga av Banken utgivna
+
+och utestående Förlagslån.
+
+9.3
+
+Banken kan i framtiden utge nya Förlagslån och därvid föreskriva att dessa
+
+lån och skuldförbindelser skall medföra lika eller sämre rätt till betalning,
+
+dock ej bättre rätt till betalning ur Bankens tillgångar i konkurs eller
+
+likvidation som Förlagsbevis utgivna under detta Lån.
+
+9.4
+
+Ingen säkerhet har ställts, eller skall ställas, för Lånet.
+
+10. ÄNDRING AV VILLKOR
+10.1 Banken och Emissionsinstitutet äger justera klara och uppenbara fel i dessa villkor. Övriga ändringar av dessa villkor sker genom beslut vid Fordringshavarmöte enligt punkt 11 (Fordringshavarmöte).
+10.2 Ändring av lånevillkoren enligt föregående stycke skall av Banken snarast meddelas till Fordringshavarna i enlighet med punkt 13 (Meddelanden).
+10.3 Om viss ändring kräver Finansinspektionens medgivande, skall Banken inhämta detta.
+
+11. FORDRINGSHAVARMÖTE
+11.1 Emissionsinstitutet äger rätt att, och skall efter skriftlig begäran från Banken eller Fordringshavare som på dagen för kallelsen representerar minst en tiondel av Lånet, kalla till Fordringshavarmöte. Kallelsen skall minst tjugo
+
+29(43)
+(20) Bankdagar i förväg tillställas Banken och samtliga Fordringshavare i enlighet med punkt 13 (Meddelanden).
+11.2 Kallelsen till Fordringshavarmöte skall ange tidpunkt och plats för mötet samt dagordning för mötet. För det fall att röstning får ske via ett elektroniskt röstningsförfarande skall de närmare detaljerna för detta tydligt framgå av kallelsen. Vidare skall i kallelsen anges de ärenden som skall behandlas och beslutas vid mötet. Ärendena skall vara numrerade. Det huvudsakliga innehållet i varje framlagt förslag skall anges. Endast ärenden som upptagits i kallelsen får beslutas vid Fordringshavarmötet.
+11.3 Mötet skall inledas med att ordförande utses, protokollförare och en eller flera justeringsmän utses. Emissionsinstitutet skall utse ordföranden om inte Fordringshavarmötet bestämmer annat.
+11.4 Vid Fordringshavarmöte äger, utöver Fordringshavare samt deras respektive ombud och biträden, även styrelseledamöter, verkställande direktören och andra högre befattningshavare i Banken samt Bankens revisorer och juridiska rådgivare rätt att delta.
+11.5 Emissionsinstitutet skall tillse att det vid Fordringshavarmötet finns en utskrift av det av Euroclear Sweden förda avstämningsregistret från slutet av femte (5) Bankdagen före dagen för Fordringshavarmötet. Ordföranden skall upprätta en förteckning över närvarande röstberättigade Fordringshavare med uppgift om den andel av Lånet varje Fordringshavare företräder. Där röstning får ske via elektroniskt röstningsförfarande, röstsedel eller motsvarande, skall vid tillämpning av dessa bestämmelser Fordringshavare som avgivit röst på sådant vis anses såsom närvarande vid Fordringshavarmötet. Endast de som på femte (5) Bankdagen före dagen för Fordringshavarmöte var Fordringshavare, respektive ombud för sådan Fordringshavare, är röstberättigade och skall tas upp i Röstlängden. Röstlängden skall godkännas av Fordringshavarmötet.
+11.6 Genom ordförandens försorg skall föras protokoll vid Fordringshavarmötet, vari skall antecknas dag och ort för mötet, vilka som närvarat, vad som avhandlats, hur omröstning har utfallit och vilka beslut som har fattats. Röstlängden skall nedtecknas i eller biläggas protokollet. Protokollet skall undertecknas av protokollföraren. Det skall justeras av ordföranden om denne inte fört protokollet samt av minst en på Fordringshavarmötet utsedd justeringsman. Därefter skall protokollet överlämnas till Emissionsinstitutet. Senast tio (10) Bankdagar efter Fordringshavarmötet skall protokollet tillställas Fordringshavarna enligt punkt 13 (Meddelanden). Nya eller ändrade villkor skall biläggas protokollet och tillställas Euroclear Sweden genom Emissionsinstitutets eller annan av Emissionsinstitutet utsedd parts försorg. Protokollet skall på ett betryggande sätt förvaras av Emissionsinstitutet.
+11.7 Fordringshavarmötet är beslutfört om Fordringshavare representerande minst en femtedel av Lånet är närvarande vid Fordringshavarmötet.
+
+30(43)
+
+11.8
+11.9
+11.10 11.11 11.12 11.13
+
+I följande slag av ärenden erfordras dock att Fordringshavare representerande minst hälften av Lånet är närvarande vid Fordringshavarmötet;
+(a) Godkännande av överenskommelse med Banken eller annan om ändring av Återbetalningsdagen, nedsättning av Lånet, ändring av föreskriven valuta för Lånet (om ej detta följer av lag) samt ändring av Ränteförfallodag eller annat räntevillkor;
+(b) Godkännande av gäldenärsbyte; samt
+(c) Godkännande av ändring av denna punkt 11 (Fordringshavarmöte).
+Om Fordringshavarmöte sammankallats på begäran av Fordringshavare och den för beslutförhet erforderliga andel av Lånet som Fordringshavarna representerar inte har uppnåtts inom trettio (30) minuter från utsatt tid för Fordringshavarmöte, kan mötet ajourneras till den dag som infaller en vecka senare (eller - om den dagen inte är en Bankdag - nästföljande Bankdag). Om mötet nått beslutsförhet för vissa men inte alla frågor som skall beslutas vid mötet skall mötet ajourneras efter det att beslut fattats i frågor för vilka beslutsförhet föreligger. Meddelande om att Fordringshavarmöte ajournerats och uppgift om tid och plats för fortsatt möte skall snarast tillställas Fordringshavarna genom Euroclear Swedens försorg. När ajournerat Fordringshavarmöte återupptas äger mötet fatta beslut, inklusive Extraordinärt Beslut, om Fordringshavare som på dagen för kallelsen representerar minst en tiondel av Lånet infinner sig till mötet.
+Beslut vid Fordringshavarmöte fattas genom omröstning om någon Fordringshavare begär det. Varje röstberättigad Fordringshavare skall vid votering ha en röst per SEK en miljon (1.000.000) av det sammanlagda nominella beloppet av Lånet som innehas av denne. Fordringshavarmötets ordförande skall ha utslagsröst vid lika röstetal.
+Extraordinärt Beslut är giltigt endast om det biträtts av Fordringshavare representerande minst nio tiondelar av det sammanlagda nominella beloppet av närvarande röstberättigande Fordringshavares innehav av Lånet. För samtliga övriga beslut gäller den mening som fått mer än hälften av de angivna rösterna.
+Vid tillämpningen av denna punkt 11 (Fordringshavarmöte) ska innehavare av förvaltarregistrerade Förlagsbevis betraktas som Fordringshavare istället för förvaltaren om innehavaren uppvisar ett intyg från förvaltaren som utvisar att vederbörande per den femte (5) Bankdagen före Fordringshavarmöte var innehavare av Förlagsbevis och storleken på dess innehav. Förvaltare av förvaltarregistrerade Förlagsbevis skall anses närvarande vid Fordringshavarmöte med det antal Förlagsbevis som förvaltaren fått i uppdrag att företräda.
+Beslut som har fattats vid ett i behörig ordning sammankallat och genomfört Fordringshavarmöte är bindande för samtliga Fordringshavare oavsett om de
+
+31(43)
+
+11.14 11.15 11.16
+11.17
+
+har varit närvarande vid, och oberoende av om och hur de har röstat på mötet. Fordringshavare som biträtt på Fordringshavarmöte fattat beslut skall inte kunna hållas ansvarig för den skada som beslutet kan komma att åsamka annan Fordringshavare.
+Om viss ändring eller beslut kräver Finansinspektionens medgivande, skall Banken inhämta detta.
+Emissionsinstitutets och Euroclear Swedens skäliga kostnader i samband med Fodringshavarmöte skall betalas av Banken.
+Emissionsinstitutet äger, i samband med tillämpningen av denna punkt 11 (Fordringshavarmöte), rätt till utdrag ur det av Euroclear Sweden förda avstämningsregistret för aktuellt Lån. Emissionsinstitutet är berättigat (men inte skyldigt) att tillhandahålla en kopia av utdraget till Banken.
+Begäran om Fordringshavarmöte skall tillställas Emissionsinstitutets adress. Sådan försändelse skall ange att ärendet är brådskande.
+
+12. UPPTAGANDE TILL HANDEL PÅ REGLERAD MARKNAD
+Ansökan om att inregistrera Lånet kan komma att inges till NASDAQ OMX Stockholm AB förutsatt att godkänt prospekt upprättats i enlighet med 2 kap. lag (1991:980) om handel med finansiella instrument.
+
+13. MEDDELANDEN
+Meddelanden rörande Lånet skall i den mån annat inte föreskrivits i dessa villkor tillställas Fordringshavare under dennes hos Euroclear Sweden registrerade adress.
+
+14. FÖRVALTARREGISTRERING
+För Förlagsbevis som är förvaltarregistrerad enligt lag (1998:1479) om kontoföring av finansiella instrument skall vid tillämpningen av dessa villkor förvaltaren betraktas som Fordringshavare, med undantag för vad som anges i punkt 11.12.
+
+15. BEGRÄNSNING AV EMISSIONSINSTITUTETS OCH EUROCLEAR SWEDENS ANSVAR
+15.1 I fråga om de på Emissionsinstitutet respektive Euroclear Sweden ankommande åtgärderna gäller (beträffande Euroclear Sweden med beaktande av bestämmelserna i lag (1998:1479) om kontoföring av
+
+32(43)
+finansiella instrument) att ansvarighet inte kan göras gällande för skada som beror av svenskt eller utländskt lagbud, svensk eller utländsk myndighets åtgärd, krigshändelse, strejk, blockad, bojkott, lockout eller annan liknande omständighet. Förbehållet i fråga om strejk, blockad, bojkott och lockout gäller även om Emissionsinstitutet själv eller Euroclear Sweden själv är föremål för eller vidtar sådan konfliktåtgärd. 15.2 Skada som uppkommer i andra fall än vad som anges i punkt 15.1 skall inte ersättas av Emissionsinstitutet om Emissionsinstitutet varit normalt aktsam. Inte i något fall skall ersättning utgå för indirekt skada (inklusive men ej begränsat till utebliven vinst). 15.3 Föreligger hinder för Emissionsinstitutet eller Euroclear Sweden på grund av sådan omständighet som angivits i punkt 15.1 att vidta åtgärd enligt dessa allmänna villkor, får åtgärden uppskjutas tills hindret har upphört.
+16. TILLÄMPLIG LAG OCH JURISDIKTION
+16.1 Dessa villkor skall styras av och tolkas i enlighet med svensk rätt. 16.2 Tvist skall avgöras vid svensk domstol, i första instans Stockholms tingsrätt.
+Härmed bekräftas att ovanstående villkor är för oss bindande. Stockholm den 27 juni 2011
+LÄNSFÖRSÄKRINGAR BANK AB (publ)
+
+33(43)
+
+4.
+
+Länsförsäkringar Bank
+
+4.1
+
+En del av Länsförsäkringar
+
+Banken, org. nr. 516401-9878, är ett bankaktiebolag med säte i Stockholms län, Stockholms kommun, Sverige. Banken är bildad i Sverige den 7 mars 1996 och registrerad den 12 mars 1996. Banken ägs till 100 procent av Länsförsäkringar AB (publ) (org. nr. 556549-7020). Bankkoncernen ("Bankkoncernen") består av moderbolaget Banken samt de helägda dotterbolagen Länsförsäkringar Hypotek AB (publ) (org. nr. 556244-1781), Wasa Kredit AB (org. nr. 556311-9204) och Länsförsäkringar Fondförvaltning AB (publ) (org. nr. 556364- 2783). Länsförsäkringar AB-koncernen ägs i sin tur av 23 lokala länsförsäkringsbolag och tillsammans bildar de länsförsäkringsgruppen. Bankens verksamhet regleras av aktiebolagslagen (2005:551) och lagen (2004:297) om bank- och finansieringsrörelse och i övrigt enligt svensk rätt.
+
+Länsförsäkringar AB är det finansiella navet i länsförsäkringsgruppen och ansvarar för gemensam affärsverksamhet inom sakförsäkring, livförsäkring och bank, bedriver strategiskt utvecklingsarbete och sköter service inom områden som ger skalfördelar och effektivitet. Syftet är att skapa förutsättningar för länsförsäkringsbolagen att fortsätta växa och bli framgångsrika på sina respektive marknader. Ett brett utbud av försäkringar, pensionslösningar, banktjänster och andra finansiella lösningar erbjuds de 3,4 miljoner kunderna och i länsförsäkringsgruppen finns 5 900 medarbetare.
+
+Länsförsäkringsgruppen har ett brett utbud av finansiella tjänster för företag, lantbrukare och privatpersoner och är marknadsledande inom svensk sakförsäkring med en marknadsandel på 28,9 procent den 30 juni 2011 (källa: Försäkringsförbundet). Marknadsandelen inom liv- och pensionsförsäkring var 6,8 procent den 30 juni 2011 (källa: Försäkringsförbundet). Inom bank var marknadsandelen 4,5 procent den 30 juni 2011 (källa: SCB). Bank- och bolåneverksamheten är tillsammans med sak- och livförsäkringsverksamheten, en av länsförsäkringsgruppens tre kärnverksamheter. Banken är beroende av Länsförsäkringar AB för tillskott av kapital och i övrigt för sin finansiella situation.
+
+4.2
+
+Positionering och strategi
+
+Bankkoncernen är Sveriges femte största retailbank med 857 000 (793 000) kunder den 30 juni 2011 (källa: SCB) och en affärsvolym på 247 (214) miljarder kronor (siffran i parantes avser motsvarande tidpunkt föregående år). En stark lokal förankring och ett komplett och prisvärt erbjudande till hushåll och lantbruk har gett en stark position. Bankkoncernen har Sveriges mest nöjda kunder på privatmarknaden för sjätte gången på sju år och Sveriges mest nöjda bolånekunder på privatmarknaden för sjätte året i rad, enligt Svenskt Kvalitetsindex 2010. Grunden för bankverksamheten är länsförsäkringsgruppens stora kundbas och starka varumärke, samt den lokala närvaron och förankringen. Kundkontakten hanteras på 125 av de 23 lokala länsförsäkringsbolagens kontor runt om i Sverige samt via internt och telefon samt på Länsförsäkringar Fastighetsförmedlings bobutiker runt om i Sverige.
+
+Visionen är att vara det självklara valet inom bank och försäkring för kunden. Affärsidén för bankverksamheten är att erbjuda privatpersoner och lantbrukare ett
+
+34(43)
+
+komplett utbud av prisvärda banktjänster. Målet är att ha en lönsam tillväxt med de mest nöjda kunderna och en ökad kundandel som har en nära relation till Länsförsäkringar. Prioriterade målgrupper är de uppskattningsvis 1,7 miljoner boendeförsäkringskunderna och de 190 000 lantbrukskunderna med behov av bolån, lån till lantbruk och vardagsekonomitj änster.
+
+4.3
+
+Bankens verksamhetsinriktning
+
+Bankkoncernen har ett komplett utbud av banktjänster för privatpersoner och lantbrukare. Sedan 2010 finns även ett erbjudande under utveckling till småföretagare. Banktjänsterna är enkla, tydliga och prisvärda för kunderna och har gett verksamheten en bred och kraftig tillväxt inom alla områden. All bankverksamhet finns i Sverige och kundaffären bedrivs av de 23 lokala, självständiga och kundägda länsförsäkringsbolagen runt om i Sverige.
+
+Bankkoncernen växer brett inom i alla produktområden. Utlåningen till allmänheten ökade till 126 (109) miljarder kronor den 30 juni 2011, varav bostadsutlåningen i Länsförsäkringar Hypotek ökade till 85 (74) miljarder kronor. Marknadsandelen av bostads- och hushållsutlåning ökade till 4,5 (4,2) procent den 30 juni 2011 (källa: SCB). Bottenlån för lantbruksfastigheter ökade till 12,3 (9,4) miljarder kronor och totalt ökade lantbruksutlåningen till 15,5 (12,5) miljarder kronor. Inlåning från allmänheten ökade till 45 (39) miljarder kronor och marknadsandelen av inlåning ökade till 3,6 (3,5) procent (källa: SCB). Antalet bankkort ökade till 287 000 (247 000) den 30 juni 2011.
+
+Från Banken sker all inlåning och viss utlåning. Utlåning till allmänheten ökade per den 30 juni 2011 till 30 (26) miljarder kronor och inlåning från allmänheten ökade till 45 (39) miljarder kronor.
+
+4.4
+
+Utlåningsportföljen
+
+Bankkoncernens utlåning sker enbart i Sverige och i svenska kronor och utlåningsportföljen har en god geografisk spridning i landet. Portföljen består till 81 (83) procent av hushållskrediter per den 30 juni 2011. Merparten av den totala portföljen, 73 (75) procent, är bostadsutlåning med säkerhet i villor till 80 (81) procent och säkerhet i bostadsrätter till 20 (19) procent. Lantbruksutlåning utgör 12 (11) procent av låneportföljen och det genomsnittliga lantbruksengagemanget är lågt. Av lantbruksutlåningen är 80 (75) procent bottenlån till främst familjeägda lantbruk.
+
+Kreditförlusterna är fortsatt låga och uppgick netto till 30 (31) miljoner kronor den 30 juni 2011, vilket motsvarar en kreditförlustnivå på 0,05 (0,06) procent. Reserverna uppgick till 321 (343) miljoner kronor och reserver i förhållande till utlåning uppgick till 0,25 (0,31) procent. Osäkra fordringar minskade till 262 (300) miljoner kronor, vilket motsvarar en andel osäkra fordringar på 0,20 (0,27) procent.
+
+4.5
+
+Kapitaltäckning
+
+Bankkoncernen tillämpar reglerna om intern riskklassificering (IRK). Den avancerade riskklassificeringsmetoden ger störst möjligheter att strategiskt och operativt hantera kreditrisker och den används för alla hushållsexponeringar. Grundläggande IRK-metod
+
+35(43)
+
+används för lantbruksexponeringar. För övriga exponeringar används schablonmetoden för beräkning av kapitalkravet för kreditrisk. Övergångsreglerna från Basel I till Basel II har förlängts till 2015 och innebär att kapitalkravet uppgår till minst 80 procent av det kapitalkrav som gällde enligt Basel I. Kapitalbasen stärktes till 6 512 (5 736) miljoner kronor och kapitaltäckningsgraden enligt Basel II uppgick till 14,1 (13,4) procent. Primärkapital, netto, stärktes till 5 571 (4 959) miljoner kronor och primärkapitalrelationen enligt Basel II uppgick till 12,1 (11,6) procent. Målnivån för primärkapitalrelationen är 12 procentenheter enligt Basel II. Kapitalmålet kan variera med +/- 0,5 procentenheter.
+Under januari - juni 2011 har Banken från moderbolaget LFAB erhållit 326 miljoner kronor i villkorat aktieägartillskott.
+
+4.6
+
+Kreditvärdering
+
+Bankens kreditvärdighet granskas fortlöpande av två oberoende internationella kreditvärderingsinstitut; Moody's och Standard & Poors. Kreditvärdighet är en bedömning av Bankens förmåga att klara av sina finansiella åtaganden. Ju högre kreditvärdighet, desto högre bedöms bankens förmåga att klara av sina åtaganden. Aktuell kreditvärdighet, s.k. rating, anges i fet stil i tabellen nedan och på www.lansforsakringar.se/finansielltbank. Notera att Förlagslånen inte har åsatts någon kreditvärdering och att kreditvärderingsbetygen nedan således endast avser Bankens kreditvärdighet för icke efterställda förpliktelser. En närmare förklaring av innebörden i ett visst kreditvärderingsbetyg kan erhållas från respektive instituts hemsida. En rating kan omprövas eller dras tillbaka vid varje given tidpunkt.
+
+Moody's Rating för lång upplåning Aaa Aa1 Aa2 Aa3 A1 A2 A3 Baa1 Baa2 Baa3 Ba1 Ba2 Ba3 B1 B2 B3 Caa1 Caa2
+
+Standard & Poors Rating för lång upplåning AAA AA+ AA AAA+ A ABBB+ BBB BBBBB+ BB BBB+ B BCCC+ CCC
+
+Caa3 Ca C D
+
+CCCCC C D
+
+36(43)
+
+37(43)
+
+5.
+
+Övrig information
+
+5.1
+
+Tendenser och finansiell ställning
+
+Inga väsentliga negativa förändringar har ägt rum i Bankens framtidsutsikter sedan de senaste reviderade finansiella rapporterna offentliggjordes. Det har heller inte inträffat händelser som kan förväntas ha väsentlig inverkan på bedömningen av Bankens affärsutsikter under det räkenskapsår som började den 1januari 2011. Banken bekräftar vidare att det inte har inträffat några väsentliga förändringar i koncernens finansiella ställning efter offentliggörandet den 24 oktober 2011 av delårsrapporten som avser tiden mellan 1januari 2011 och 30 september 2011.
+
+5.2
+
+Väsentliga avtal
+
+Banken har inga avtal utanför den löpande affärsverksamheten som kan innebära att ett bolag inom Bankkoncernen tilldelas en rättighet eller åläggs en skyldighet som väsentligt kan påverka Bankens förmåga att uppfylla sina förpliktelser gentemot innehavare av Förlagslånen som emitteras under Prospektet.
+
+5.3
+
+Beslut från Banken
+
+Beslut om att emittera Förlagslånen fattades av Bankens styrelse den 21 februari 2011.
+
+5.4
+
+Information från tredje man
+
+Banken har förvissat sig om att information lämnad av tredje man återgivits exakt och att den inte är felaktig eller missvisande i förhållande till andra av sådan tredje man offentliggjorda uppgifter.
+
+5.5
+
+Rättsliga förfaranden
+
+Banken har under de tolv senaste månaderna inte varit part i rättsliga förfaranden eller i förlikningsförfaranden (inklusive ännu icke avgjorda ärenden och ärenden som Banken är medveten om kan uppkomma) som haft eller skulle kunna få betydande effekter på Bankens eller Bankkoncernens finansiella ställning eller lönsamhet.
+
+5.6
+
+Kostnader för upptagande till handel
+
+Banken uppskattar att de samlade kostnaderna i samband med ansökan om upptagande till handel uppgår till högst 250 000 kronor, vilket bland annat inkluderar konsultarvode, kostnader för godkännande av Prospektet hos Finansinspektionen och avgifter till NASDAQ OMX Stockholm.
+
+5.7
+
+Handlingar tillgängliga för inspektion
+
+Kopior av följande handlingar i pappersform finns att tillgå på Bankens huvudkontor så länge Prospektet är utestående:
+
+38(43)
+i. Bankens stiftelseurkund och bolagsordning; ii. Bankens delårsrapport avseende tidsperioden 1januari-30 september 2011; iii. Bankens, Länsförsäkringar Hypotek AB:s och Länsförsäkringar Fondförvaltning AB:s
+reviderade årsredovisningar per den 31 december 2009 och 2010; iv. Wasa Kredit AB:s reviderade årsredovisningar per den 30 juni 2009 och 30 juni 2010;
+och v. Prospektet samt Lånevillkor.
+Informationen under ii), iii) och iv) ovan finns även tillgänglig på www.lansforsakringar.se/finansielltbank.
+
+39(43)
+
+6. Styrelse, ledningsgrupp, kontrollorgan och revisor
+
+6.1
+
+Styrelse
+
+Sten Dunér, f 1951
+
+Ingemar Larsson, f 1949
+Christian Bille, f 1962
+Per-Åke Holgersson, f 1953
+Leif Johanson, f 1952
+Christer Villard, f 1949
+
+· Ordförande sedan 2009
+· Verkställande direktör och koncernchef Länsförsäkringar AB
+· Övriga styrelseuppdrag: Ordförande Länsförsäkringar Sak Försäkrings AB, Försäkringsförbundet och FAO. Ledamot i Länsförsäkringar Liv Försäkrings AB och fastighetsaktiebolaget Balder.
+· Vice ordförande sedan 2008
+· Verkställande direktör Länsförsäkringar Göteborg och Bohuslän
+· Övriga styrelseuppdrag: Ordförande i Länsförsäkringar Mäklarservice AB.
+· Ledamot sedan 2010
+· Verkställande direktör Länsförsäkringar Halland
+· Övriga styrelseuppdrag: Ledamot i Movement Medical AB.
+· Ledamot sedan 2010
+· Ordförande Länsförsäkring Kronoberg
+· Övriga styrelseuppdrag: Ledamot i Svensk fågels stiftelse, Älmeboda LRF och Korrö Gård AB.
+· Ledamot sedan 2004
+· Verkställande direktör Länsförsäkringar Västernorrland
+· Övriga styrelseuppdrag: Ledamot i Länsförsäkringar Västernorrland och VN Pensionsplaneraren AB.
+· Ledamot sedan 2006
+· Övriga styrelseuppdrag: Ordförande i Länsförsäkringar Stockholm, Wallenstam AB, Aptic
+
+40(43)
+
+Örian Söderberg, f 1952
+
+AB, Stockholms köpmansklubb, Drottningholmsteaterns vänförening och Segulah III och IV.
+· Ledamot i AB Segulah.
+· Ledamot sedan 2009
+· Verkställande direktör i Länsförsäkringar Jönköping
+· Övriga styrelseuppdrag: Ordförande i Destination Jönköping och ledamot i Wasa Kredit AB.
+
+Utsedda av de anställda
+
+Ingrid Ericson, f 1958
+
+· Ledamot sedan 2004, SACO
+· Övriga styrelseuppdrag: Ledamot i Länsförsäkringar AB:s lokala SACO-styrelse.
+
+Katarina Säther, f 1967
+
+· Ledamot sedan 2001, FTF · Inga övriga styrelseuppdrag.
+
+Torleif Carlsson, f 1953
+
+· Suppleant sedan 2010. LFP
+· Övriga styrelseuppdrag: Suppleant LFP Länsförsäkringar Fondförvaltning.
+
+6.2
+
+Ledningsgrupp
+
+Rikard Josefson, f 1965
+
+· Verkställande direktör
+
+Anders Borgcrantz, f 1961
+
+· Vice vd och CFO
+
+Göran Zakrisson, f 1954
+
+· Chef Riskcontrol
+
+Maria Jerhamre Engström, f 1969
+
+· Chef Affärsstöd
+
+Bengt Jerning,
+
+· Chef Kredit
+
+41(43)
+
+f 1953
+Bengt Clemedtson, f 1964
+Eva Gottfridsdotter Nilsson, f 1960 Paul Björling, f 1953
+
+· Övriga styrelseuppdrag: Styrelseledamot i Wasa Kredit AB.
+· Chef Affär och produkt
+· Övriga styrelseuppdrag: Styrelseledamot i Wasa Kredit AB och Superb Produkter.
+· Verkställande direktör Länsförsäkringar Fondförvaltning AB
+· Tillförordnad verkställande direktör Wasa Kredit AB
+
+6.3
+
+Kontrollorgan
+
+Göran Zakrisson
+
+· Risk control
+
+Susanne Uväng
+
+· Compliance
+
+Desirée Nordkvist
+
+· Internrevision
+
+6.4
+
+Revisor
+
+KPMG AB
+
+Johan Bæckstrom (medlem i FAR) Box 16106 103 23 Stockholm Telefon 08 723 91 00
+
+6.5
+
+Intressekonflikter
+
+Inga potentiella intressekonflikter föreligger mellan Bankens intressen och ovanstående personers privata intressen. Någon potentiell intressekonflikt förekommer heller inte mellan Banken och SEB.
+
+42(43)
+
+7.
+
+Införlivande av information
+
+Nedanstående hänvisningar refererar till information om Banken, vilken har offentliggjorts och getts in till Finansinspektionen. Informationen utgör enligt 2 kap. 20 § lag om handel med finansiella instrument en del av detta Prospekt:
+
+· Bankens reviderade och konsoliderade årsredovisningar per den 31 december 2009 och 31 december 2010; samt
+· Bankens delårsrapport per den 30 September 2011.
+
+Nedanstående förteckning innehåller sidhänvisningar till olika delar i respektive årsredovisning samt till respektive delårsrapport:
+
+Dokument
+
+Sid
+
+Årsredovisning för 2009
+
+Balansräkning
+
+67
+
+Resultaträkning
+
+67
+
+Kassaflödesanalys
+
+68
+
+Redovisningsprinciper
+
+70
+
+Noter
+
+70
+
+Revisionsberättelse
+
+85
+
+Årsredovisning för 2010
+
+Balansräkning
+
+70
+
+Resultaträkning
+
+70
+
+Kassaflödesanalys
+
+71
+
+Redovisningsprinciper
+
+73
+
+Noter
+
+73
+
+Revisionsberättelse
+
+86
+
+Delårsrapport för perioden 1 juli - 30 september 2011
+
+Balansräkning
+
+17
+
+Resultaträkning
+
+16
+
+Kassaflödesanalys
+
+18
+
+Redovisningsprinciper
+
+19
+
+Noter
+
+19
+
+Årsredovisningarna för åren 2009 och 2010 är reviderade av Bankens revisor Johan Backström. Delårsrapporten avseende juli-september 2011 har inte granskats av Johan Backström. Anmärkningar eller motsvarande har inte framförts av Johan Backström vid revision av årsredovisningarna för åren 2009 och 2010.
+
+8.
+
+Kontaktuppgifter
+
+Emittent Länsförsäkringar Bank AB Tegeluddsvägen 11-13 115 41 Stockholm Telefon: 08 562 834 60 Webbplats: www.lansforsakringar.se
+
+Clearing- och avvecklingsinstitut Euroclear Sweden AB Box 191 101 23 Stockholm Besöksadress: Klarabergsviadukten 63 Telefon: 08 402 90 00 Webbplats: www.euroclear.com
+
+Emissionsinstitut Skandinaviska Enskilda Banken AB (publ) Kungsträdgårdsgatan 8 106 40 Stockholm Telefon: 0771 62 10 00 Webbplats: www.seb.se
+
+43(43)
+
+

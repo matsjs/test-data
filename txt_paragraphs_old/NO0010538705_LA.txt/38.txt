@@ -1,0 +1,9 @@
+N x VWAP
+the number of Shares determined by dividing USD 100,000 (being the face value of each Bond) by the Conversion Price in effect on such Dealing Day (rounded down, if necessary, to the nearest whole number of Shares).
+the Volume Weighted Average Price of a Share on such Dealing Day (provided that if on any such Dealing Day the Shares shall have been quoted cum-Dividend or cum-any other entitlement, the closing price on such Dealing Day shall be deemed to be the amount thereof reduced by an amount equal to the Fair Market Value of any such Dividend or entitlement per Share as at the date of first public announcement of such Dividend or entitlement (or, if that is not a Dealing Day, the immediately preceding Dealing Day)), translated into USD at the Prevailing Rate on such Dealing Day.
+14
+Norsk Tillitsmann ASA
+10.3 If a Change of Control Event has occurred, each Bondholder shall at any time in the Change of Control Conversion Period be entitled, at its option, to:
+(a) require early redemption of its Bonds (put option) at 100 % of their par value plus accrued interest;
+or
+(b) convert its Bonds at the Change of Control Conversion Price, which shall be calculated as set out below, but in each case adjusted, if appropriate, under the provisions of clauses 14 and 15 (provided that no adjustment to the Conversion Price will be made in respect of such Change of Control Event other than pursuant to this clause 10.3 in respect of exercise of the conversion right in the Change of Control Conversion Period):

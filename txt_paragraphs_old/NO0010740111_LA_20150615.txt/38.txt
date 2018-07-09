@@ -1,0 +1,9 @@
+Floating Rate
+10
+Maturity of the Bonds and Change of Control
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 Change a/Control
+10.2.1 Upon the occurrence of a Change of Control Event, each Bondholder shall have the right to require that the Issuer redeems its Bonds (a "Put Option") at a price of 100 % of par plus accrued interest.
+14/33
+10.2.2 The Put Option must be exercised within 60 days after the Issuer has given notification to the Bond Trustee of a Change of Control Event. Such notification shall be given as soon as possible after a Change of Control Event has taken place.

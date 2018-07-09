@@ -1,0 +1,9 @@
+9.4 The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.
+When the interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and the actual number of calendar days up to that date shall immediately be notified to the Bondholders, the Issuer, the Paying Agent, and if the Bonds are listed, the Exchange.
+13
+Norsk Tillitsmann ASA
+9.6 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+Interest = Amount Fraction
+Face Value
+X
+Floating

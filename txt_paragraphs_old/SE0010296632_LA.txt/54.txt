@@ -1,0 +1,9 @@
+12.1 Maintenance Test
+(a) The Maintenance Test is met if:
+(i)
+the Asset Cover Ratio is not less than 140 per cent. at any time;
+(ii) the minimum amount of Cash in the Issuer is not less than the interest payable under the Bonds for the next three (3) calendar months; and
+(iii) the Interest Coverage Ratio exceeds 1.10 at all times.
+(b) The Maintenance Test shall be tested on each Reference Date with respect to the Reference Period ending on such Reference Date. The first test date shall be 31 March 2018.
+12.1.2 Equity Cure
+(a) If there is a breach of the Maintenance Test, no Event of Default will occur if, within ten Business Days of a delivery of a Compliance Certificate evidencing that breach, the Issuer has deposited an amount sufficient to ensure compliance with the Maintenance Test, as at the relevant test date (the "Cure Amount") on a bank account (the "Cure Account") pledged in favour of the bondholders and the Agent.

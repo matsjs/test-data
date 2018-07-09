@@ -1,0 +1,9 @@
+85
+Upon the occurrence of a Suspension Event, the Issuer will notify the Trustee.
+CERTAIN COVENANTS
+The Indenture will contain, among others, the following covenants:
+Limitation on Debt
+(1) The Issuer will not, and will not permit any Restricted Subsidiary to, create, issue, incur, assume, guarantee or in any manner become directly or indirectly liable with respect to or otherwise become responsible for, contingently or otherwise, the payment of (individually and collectively, to "incur" or, as appropriate, an "incurrence"), any Debt (including any Acquired Debt); provided that the Issuer and any Guarantor will be permitted to incur Debt (including Acquired Debt) if, after giving effect to the incurrence of such Debt and the application of the proceeds thereof, on a pro forma basis, the Consolidated Fixed Charge Coverage Ratio for the four full fiscal quarters for which financial statements are available immediately preceding the incurrence of such Debt, taken as one period, would be greater than 2.0 to 1.0.
+(2) This covenant will not, however, prohibit the following (collectively, "Permitted Debt"):
+(a) the incurrence by the Issuer and the Guarantors of Debt represented by the Notes issued on the Issue Date and the related Guarantees;
+(b) the incurrence by the Issuer or any Restricted Subsidiary of Debt under Credit Facilities in an aggregate principal amount at any time outstanding and any Permitted Refinancing Debt incurred to renew, refund, replace, refinance, defease or discharge any Debt incurred pursuant to this clause (b) not to exceed 50.0 million;

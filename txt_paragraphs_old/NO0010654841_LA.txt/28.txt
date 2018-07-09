@@ -1,0 +1,9 @@
+Floating Rate
+Day Count Fraction
+10 Maturity of the Bonds and Redemption
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 Call Option
+10.2.1 The Issuer may redeem parts o f the Bond Issue or the entire Bond Issue as follows (Call Option):
+(i) anytime from and including the interest payment date one year after Issue Date to, but not including, the Interest Payment Date in July 2014 at a price equal to 110% o f par value (plus accrued interest on redeemed nominal amount);
+(ii) anytime from and including the Interest Payment Date in July 2014 to, but not including, the Interest Payment Date in July 2015 at a price equal to 108% of par value (plus accrued interest on redeemed nominal amount); and

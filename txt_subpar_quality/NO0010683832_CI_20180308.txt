@@ -1,0 +1,193 @@
+LA TINA OFFSHORE LIMITED - USD 306.25M BOND
+
+# o f days in period
+
+31
+
+Calculation of Excess Cash Flow & Cash Flow Sw eep
+
++ Revenue and/or factoring proceeds
+
+USD
+
+- Operating Expenses
+
+"
+
+- SG&A
+
+"
+
+- Capital Expenditures
+
+- Taxes (paid or accrued)
+
+- Factoring costs
+
+"
+
+= CF for interest
+
+"
+
+- N ext interest (1/6th)
+
+= CF for amortization
+
+- N ext am ortization (1/6th)
+
+= CF for Cash Flow Sweep
+
+"
+
+Jan-18 10,907,262 (2,358,784)
+(465,000) (375,089)
+7,708,388 (2,264,974) 5,443,415
+5,443,415
+
+= CF for Cash Flow Sweep = Minimum free cash = Available free cash = Available CF for Cash Flow Sw eep
++ CF for Cash Flow Sweep - Deferred interest amount = CF for Build-up of Retained Am ount - Build-up of Retained Am ount = CF for Deferred Am ortization - Deferred Am ortization = Surplus CF
+
+USD
+
+5,443,415
+
+"
+
+2,000,000
+
+"
+
+-
+
+"
+
+-
+
+USD
+
+-
+
+"
+
+(13,589,844)
+
+"
+
+(13,589,844)
+
+-
+
+"
+
+(13,589,844)
+
+-
+
+"
+
+(13,589,844)
+
+Actual cost per day Operating Expenses SG&A Capital Expenditures
+
+USD/d "
+"
+
+Jan-18 38,045
+7,500 6,050
+
+Max cost per day Operating Expenses SG&A Capital Expenditures
+
+USD/d "
+"
+
+Jan-18 29,700
+8,250 6,027
+
+Check Operating Expenses SG&A Capital Expenditures
+
+USD/d "
+"
+
+Jan-18 FAIL OK OK
+
+28
+Feb-18 5,890,000 (1,662,281) (420,000) (338,406) (700,213)
+2,769,100 (2,264,974)
+504,126 -
+504,126
+504,126 2,000,000 1,477,241 1,477,241
+1,477,241
+1,477,241 -
+1,477,241 -
+1,477,241
+Feb-18 29,684
+7,500 6,043
+Feb-18 29,700
+8,250 6,027
+Feb-18 OK OK OK
+
+Balance, accounts Deferred Interest, BoP +/- Change Deferred Interest, EoP
+Retained Amount, BoP +/- Change Retained Amount, EoP
+Deferred Am ortization, BoP +/- Change Deferred Am ortization, EoP
+
+Jan-18
+
+USD
+
+13,589,844
+
+(13,589,844)
+
+-
+
+Feb-18 -
+
+USD
+
+5,000,000
+
+5,000,000
+
+"
+
+-
+
+-
+
+5,000,000
+
+5,000,000
+
+USD
+
+40,000,000
+
+40,000,000
+
+"
+
+-
+
+-
+
+"
+
+40,000,000
+
+40,000,000
+
+Cash Free cash, BoP +/- CF pre debt service and transfer to Retained Accour - Interest cost - Am ortization - Transfer to Retained Account Shareholder loan Free cash, EoP + Retained Am ount Total cash, EoP
+
+USD " " " "
+" " "
+
+Jan-18 6,589,597 7,708,388 (13,589,844)
+-
+708,142 5,000,000 5,708,142
+
+Feb-18 708,142 2,769,100
+-
+3,477,241 5,000,000 8,477,241
+
+

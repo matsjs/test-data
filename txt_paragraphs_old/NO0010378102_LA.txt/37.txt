@@ -1,0 +1,9 @@
+The average price is the average of the weighted average of official daily trading price on the exchange during the subscription period. Days without trading are not included in the calculation.
+14.3 In the event of a capital write-down of the Borrower's share capital and subsequent repayment to shareholders,
+17
+Norsk Tillitsmann ASA
+(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
+NTew E^ xercise P,,n.ce = -s-h-a--r-e-p--r-i-c-e--l-e-s-s--a--m--o-u--n-t--r-e-p--a-i-d--p-e--r-s--h-a-r-e- x ol,d, E_xerci.se P_nc. e share price
+The share price is the average of the weighted average of official daily trading price on the exchange the last three days shares are quoted including rights.
+(ii) if the Shares are not listed, the Exercise Price shall be reduced with an amount equal to the amount repaid pr share.
+Reduction of the share capital without repayment to the shareholders shall have no influence on the Exercise Price.

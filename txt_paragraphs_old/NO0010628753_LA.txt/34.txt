@@ -1,0 +1,9 @@
+11.1 Payment mechanics
+11.1.2
+Payment shall be considered to have been made once the amount has been credited to the bank which holds the bank account nominated by the Bondholder in question, but if the paying bank and the receiving bank are the same, payment shall be considered to have been made once the amount has been credited to the bank account nominated by the Bondholder in question, see however Clause 11.2.
+11.2 Currency
+11.2.1
+If the Bonds are denominated in other currencies than NOK, each Bondholder has to provide the Paying Agent (either directly or through its Account Manager) with specific payment instmctions, including foreign exchange bank account details. Depending on the currency exchange settlement agreements between the Bondholders' bank and the Paying Agent, cash settlement may be delayed, in which case no default interest or other penalty shall accrue for the amount of the Issuer.
+11.2.2
+Except as otherwise expressly provided, all amounts payable under this Bond Agreement and any other Finance Document shall be payable in the same currency as the Bonds are denominated in. If, however, the Bondholder has not given instmction as set out in Clause 11.2.1, within 5 Business Days prior to a Payment Date, the cash settlement will be exchanged into NOK and credited to the NOK bank account registered with the Bondholders account in the Securities Register.
+11.2.3 Amounts payable in respect of costs, expenses, taxes and other liabilities shall be payable in the currency in which they are incurred.

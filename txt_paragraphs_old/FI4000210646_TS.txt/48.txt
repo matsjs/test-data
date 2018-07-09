@@ -1,0 +1,9 @@
+= Total equity + net debt + net defined benefit and other long-term employee benefit obligations + net interest rate derivative liabilities + net accrued interest expenses - net assets held for sale - loans receivable - available-for-sale financial assets - investments at fair value through profit or loss - investments in associated companies and joint ventures
+= Capital employed + net deferred tax liability
+Return on equity (ROE)
+Net result for the financial period (4-quarter rolling) = ---------------------------------------------------------------------
+Total equity (4-quarter rolling average)
+x 100
+Return on capital employed (ROCE)
+EBIT (4-quarter rolling) = ---------------------------------------------------------------------
+Capital employed (4-quarter rolling average)

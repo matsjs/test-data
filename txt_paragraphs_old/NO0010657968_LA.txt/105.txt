@@ -1,0 +1,9 @@
+the relevant offer attributable to one Subsea Share.
+4.10 If a Change of Control shall occur, then upon any exercise of Exchange Rights where the Exchange Date falls during the Change of Control Period, the Exchange Price (the "Change of Control Exchange Price") shall be determined as set out below, but in each case adjusted, if appropriate, under this Clause 4.
+COCEP = OEP / (1 + (EP x C/T))
+where:
+COCEP OEP
+EP
+= means the Change of Control Exchange Price = means the Exchange Price in effect immediately prior to the Change of
+Control = means 30 per cent, (expressed as fraction)
+46

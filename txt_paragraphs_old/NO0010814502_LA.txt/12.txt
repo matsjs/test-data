@@ -1,0 +1,9 @@
+"Mid-Swap Rate" means the linearly interpolated Reference Rate in the currency of the Bonds for the actual period on the day falling two Business Days before the notification to the Bondholders of the Make Whole Amount pursuant to Clause 10.2(b), or, if such is not quoted, the mid-swap rate for the leading banks in the relevant interbank market, based on the last quoted Reference Rate or mid-swap rate in the currency of the Bonds for the actual period.
+7(38)
+"Nominal Amount" means the Initial Nominal Amount (less the aggregate amount by which each Bond has been partially redeemed, if any) pursuant to Clause 10 (.Redemption and repurchase o fBonds) or any other amount following a split of Bonds pursuant to Clause 16.2, paragraph (j).
+"NOK" means Norwegian kroner, being the lawful currency of Norway.
+"Outstanding Bonds" means any Bonds not redeemed or otherwise discharged.
+"Overdue Amount" means any amount required to be paid by the Issuer under any of the Finance Documents but not made available to the Bondholders on the relevant Payment Date or otherwise not paid on its applicable due date.
+"Partial Payment" means a payment that is insufficient to discharge all amounts then due and payable under the Finance Documents.
+"Paying Agent" means the legal entity appointed by the Issuer to act as its paying agent with respect to the Bonds in the CSD.
+"Payment Date" means any Interest Payment Date or any Repayment Date.

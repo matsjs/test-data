@@ -1,0 +1,9 @@
+42
+12.9 Limitation on Security
+The Issuer shall not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, create, incur, assume or suffer to exist any Security of any kind securing Indebtedness, Attributable Debt or trade payables on any property or asset now owned or hereafter acquired, except Permitted Security. The Issuer will not, and the issuer will not permit any of its Restricted Subsidiaries to, grant to any entity other than the Security Agent, for the benefit of any registered holder of the Bonds, and the holders of the Bonds and any other beneficiaries described in the Transaction Security Documents, any interest whatsoever in any of the Transaction Security, except that the issuer may sell or dispose of assets, including property or assets which constitute Transaction Security, if such sale or disposition is made in compliance with or not otherwise prohibited by Clause 12.12 (Limitation on Certain Asset Sales).
+12.10 Limitation on Sate and Leaseback Transactions
+(a) The Issuer shall not, and will not permit any of its Restricted Subsidiaries to, enter into any Sale and Leaseback Transactions; provided that the Issuer may enter into a Sale and Leaseback Transaction if:
+(i) the Issuer could have:
+(A) incurred Indebtedness in an amount equal to the Attributable Debt relating to such Sale and Leaseback Transaction under the Fixed Charge Coverage Ratio test in paragraph (a) of Clause 12.6 (Limitation on Indebtedness); and
+(B) incurred a Security to secure such Indebtedness (without securing the Bonds) pursuant to Clause 12.9 (Limitation on Security);
+(ii) the gross cash proceeds of such Sale and Leaseback Transaction are at least equal to the fair market value, as determined in good faith by the board of directors of the Issuer and set forth in an officers' certificate delivered to the Bond Trustee, of the property that is the subject of such Sale and Leaseback Transaction; and

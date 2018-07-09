@@ -1,0 +1,9 @@
+such claims which are preferred by bankruptcy, insolvency, liquidation or
+debt.
+8.2 The Bonds, including accrued but unpaid interest, costs and expenses, shall be secured by the Security Interest.
+9
+Interest
+9.1 The Issuer shall pay interest quarterly on the par value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating R ate").
+9.2 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date falling in March 2015. All interest payment shall be made as PIK in the form of additional Bonds (based on the Face Value), calculated based on the total number of Bonds at each Interest Payment Date, rounded down to the nearest Bond.
+9.3 The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date to, but excluding, the next following applicable Interest Payment Date, and thereafter from and including, that Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+9.4 The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.

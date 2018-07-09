@@ -1,0 +1,9 @@
+10.3 If a Change of Control Event has occurred, each Bondholder shall at any time in the Change o f Control Conversion Period be entitled, at its option, to:
+A12446721/0.16/22 Oct 2010
+11
+10.3.2
+convert its Bonds at the Change of Control Conversion Price, which shall be calculated as set out below, but in each case adjusted, if appropriate, under the provisions of clauses 14 and 15 (provided that no adjustment to the Conversion Price will be made in respect of such Change of Control Event other than pursuant to this clause 10.3 in respect of exercise of the conversion right in the Change of Control Conversion Period):
+COCCp lR P x (N -n )]+ [(O C P x n )] N
+where:
+COCCP
+is the Change of Control Conversion Price;

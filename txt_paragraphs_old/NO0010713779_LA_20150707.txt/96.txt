@@ -1,0 +1,9 @@
+The payable interest amount per Bond for a relevant calculation period shall be calculated as
+Interest Amount
+Face
+X
+Value
+Fixed
+x
+Rate/PIK Interest
+Fixed Rate/PIK Interest Day Count Fraction

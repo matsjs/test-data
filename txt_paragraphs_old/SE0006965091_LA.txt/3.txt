@@ -1,0 +1,9 @@
+"Applicable Amount" means:
+(b) the present value on the relevant Record Date of the remaining Interest payments (less any accrued but unpaid Interest) through and including the Interest Payment Date in March 2018; and
+(c) any accrued but unpaid Interest,
+calculating both paragraphs (a) and (b) by using a discount rate of 50 basis points over the comparable SEK treasury rate (i.e. comparable to the remaining duration of the Bonds until the Interest Payment Date in March 2018, and where "relevant Record Date" shall mean a date agreed upon between the Agent, the CSD and the Issuer in connection with such redemption.
+LEGAL#9321348v15
+EXECUTION VERSION 2(46)
+For the purpose of calculating the Applicable Amount, the "SEK treasury rate" means direct obligations of Sweden (statsobligationer) with a fixed maturity (as officially compiled and published in the most recent financial statistics that has become publicly available not more than five (5) and not less than two (2) Business Days prior to the Record Date (or if such financial statistics are not published or available, any publicly available source of similar market data selected by the Issuer acting in good faith) most nearly equal to the period from the Record Date to the Interest Payment Date in March 2018, provided that:
+(a) if the period from the Record Date to the Interest Payment Date in March 2018 is not equal to the fixed maturity of a direct obligation of Sweden for which a weekly average yield is given, the SEK treasury rate shall be obtained by linear interpolation from the weekly average yields of direct obligations of Sweden for which such yields are given; and
+(b) if the period from the Record Date to the Interest Payment Date in March 2018 is less than one (1) year, the weekly average yield on actually traded direct obligations of Sweden adjusted to a fixed maturity of one year shall be used.

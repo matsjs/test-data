@@ -1,0 +1,9 @@
+"Securities Act" has the meaning set forth in Clause 6.5.
+"Senior Debt" means the SEK 200,000,000 revolving credit facility agreement (of which SEK 100,000,000 is drawn at the Issue Date) entered into by Danske Bank A/S as lender and the Issuer as borrower on 27 November 2013 as amended and restated on 29 January 2014.
+"Senior Debt Security" means all security and guarantees provided in relation to the Senior Debt.
+"STIBOR" means:
+10
+(a) the applicable percentage rate per annum displayed on NASDAQ OMX Stockholm's website for STIBOR fixing (or through another website replacing it) as of or around 11.00 a.m. on the Quotation Day for the offering of deposits in SEK and for a period comparable to the relevant Interest Period; or
+(b) if no rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by leading banks in the Stockholm interbank market reasonably selected by the Issuing Agent, for deposits of SEK. 100,000,000 for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in SEK. offered in the Stockholm interbank market for the relevant period; and
+if any such rate is below zero, STIBOR will be deemed to be zero.

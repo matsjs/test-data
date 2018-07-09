@@ -1,0 +1,9 @@
+Call Option (American):
+Call Option (Acquisition or New Issue Failure):
+Notwithstanding any other provision, the Issuer may in case of an Acquisition Failure Event or a New Issue Failure, redeem all, but not only some, of the Bonds in full on any Business Day before the Final Redemption Date at 101 % of the Nominal Amount together with accrued but unpaid interest.
+Call Option Price:
+(a) The Make Whole Price if the Call Option is exercised before the First Call Date; (b) 100.00% plus 25.00% of the Interest Rate margin of the Nominal Amount if the
+Call Option is exercised on or after the First Call Date up to (but excluding) the date falling 42 months after the First Issue Date; (c) 100.00% plus 15.00% of the Interest Rate margin of the Nominal Amount if the Call Option is exercised on or after the date falling 42 months after the First Issue Date up to Final Redemption Date; or (d) 100.00% of the Nominal Amount if the Call Option is exercised on or after the date falling 45 months after the First Issue Date up to Final Redemption Date, provided the Bonds are refinanced with a Market Loan.
+First Call Date:
+The date falling 36 months after the First Issue Date or, to the extent such day is not a Business Day, the Business Day following from an application of the Business Day Convention.
+Make Whole Price:

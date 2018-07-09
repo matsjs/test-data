@@ -1,0 +1,9 @@
+"STIBOR" means: (a) the applicable percentage rate per annum displayed on NASDAQ Stockholm's
+8
+1.2 1.2.1
+around 11.00 a.m. on the Quotation Day for the offering of deposits in Swedish Kronor and for a period comparable to the relevant Interest Period; or
+(b) if no rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by leading banks in the Stockholm interbank market reasonably selected by the Issuing Agent, for deposits of SEK 100,000,000 for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Swedish Kronor offered in the Stockholm interbank market for the relevant period; and
+if any such rate is below zero, STIBOR will be deemed to be zero.
+"Subsequent Notes" means any Notes issued after the First Issue Date on one or more occasions.
+"Subsidiary" means, in relation to any person, any Swedish or foreign legal entity (whether incorporated or not), which at the time is a subsidiary (dotterföretag) to such person, directly or indirectly, as defined in the Swedish Companies Act (aktiebolagslagen (2005:551)).

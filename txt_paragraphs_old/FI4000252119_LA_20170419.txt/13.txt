@@ -1,0 +1,9 @@
+"EURIBOR" means:
+4(46)
+11.00 a.m. (Brussels time) on the Quotation Day for the offering of deposits in Euro and for a period comparable to the relevant Interest Period; or
+(b) if no screen rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places), as supplied to the Issuing Agent at its request quoted by banks reasonably selected by the Issuing Agent, for deposits of the relevant amount for the relevant period; or
+(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Euro offered for the relevant period; and
+if any such rate is below zero, EURIBOR will be deemed to be zero.
+"Event of Default" means an event or circumstance specified in paragraphs (a) to (h) of Clause 13.1.
+"Existing Financial Indebtedness" means Financial Indebtedness incurred under (i) the senior facilities agreement originally dated 28 August 2013 (including all amendments up to date) and (ii) the mezzanine facilities agreement originally dated 8 May 2015 (including all amendments up to date).
+"Final Maturity Date" means 19 April 2021.

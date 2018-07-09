@@ -1,0 +1,3615 @@
+ISINNO 001 0732811
+between Aksjeselskapet av 17. oktober 2014 AS
+(as Issuer) and
+Nordic Trustee ASA (as Bond Trustee) on behalf of the Bondholders in the bond issue
+FRN Aksjeselskapet av 17. oktober 2014 AS Senior Secured Callable Bond Issue
+
+<<<
+
+ 2015/2021
+
+I Vil IIU 3111J S]hi I Mhl I1
+I fNTERPRETATION 2 THEBONDS 3 LISTING 4 REGISTRATION IN THE SECURTTIES DEPOSITORY 5 PURCHASE AND TRANSFER OF BONDS 6 CONDITIONS PRECEDENT 7 REPRESENTATIONS AND WARRANTIES 8 STATUS OF THE BONDS AND SECURITY
+
+<<<
+
+ 9 INTEREST 10 MATURITY OF THE BONDS AND REDEMPTION 11 PAYMENTS 12 ISSUER'S ACQUISITION OF BONDS 13 COVENANTS 14 FEES AND EXPENSES 15 EVENTS OF DEFAULT 16 BONDHOLDERS' MEETING 17 THE BOND TRUSTEE 18 MISCELLANEOUS
+
+Nordic Trustee ASA
+3 19 20
+
+<<<
+
+ 20 21 21 23 25 26 26 29 31 31 38 39 41 44 46
+
+3/56
+
+This agreement has been entered into on 11 March 2015 between:
+
+(1) Aksjeselskapet av 17. oktober 2014 AS, a company existing under the laws of Norway with registration number 813 914 04
+
+<<<
+
+2, as issuer (the "Issuer"), and
+
+(2) Nordic Trustee ASA, a company existing under the laws of Norway with registration number 963 342 624, as bond trustee (the "Bond Trustee").
+
+i
+
+Interpretation
+
+1.1 Dejinitions
+
+In this Bond Agreement, the
+
+<<<
+
+ foliowing terms shall have the foliowing meanings:
+
+"Account Manager" means a Bondholder's account manager in the Securities Depository.
+
+"Accounting Principles" means IFRS.
+
+"Additional Guarantor" means each Material Group Company and/or Group
+
+<<<
+
+ Company which becomes a "Guarantor" in accordance with the Security Principles.
+
+"Additional Security" means the guarantees and security interests required to be created in accordance with the Security Principles.
+
+"Affiliate" means, in relation
+
+<<<
+
+ to any person, a Subsidiary of that person or a Holding Company of that person or any other Subsidiary of that Holding Company.
+
+"Attachment" means each of the attachments to this Bond Agreement.
+
+"Basket" means the sum of (a) USD 1,500,00
+
+<<<
+
+0, (b) 50% of the aggregated consolidated net profit of the Group since the financial quarter which ended on or prior to the Issue Date and (c) 100% of net cash proceeds received by the Issuer from the Parent in any Permitted Equity In] ection
+
+<<<
+
+ after the Disbursement Date but after deducting any Financial Indebtedness incurred under paragraph (m) of the definition of Permitted Financial Indebtedness.
+
+"BidCo" means 24 October Holding AG, a company incorporated in Switzerland with
+
+<<<
+
+ registration number CHE-239.269.01 i and registered address C/o KENDRIS AG, Wengistrasse 1, 8004 Zürich, Switzerland.
+
+"BidCo Guarantee" means a Guarantee provided by BidCo.
+
+"BidCo Share Pledge" means a first priority Swiss law share pledge
+
+<<<
+
+ in favour of the Security Agent over the shares in BidCo.
+
+"Bond Agreement" means this bond agreement, including the Attachments, each as
+
+amended from time to time.
+
+/
+
+4/56
+"Bond Defeasance" shall have the meaning given to it in Clause 
+
+<<<
+
+18.2.
+"Bond Issue" means the bond issue constituted by the Bonds.
+"Boncl Liabilities" means all amounts outstanding under the Finance Documents, including but not limited to principal, interest, fees and expenses.
+"Bond Reference Rate" means
+
+<<<
+
+ three months LIBOR.
+"Bondholder" means a holder of Bond(s), as registered in the Securities Depository, from time to time.
+'Bondho!ders' Meeting" means a meeting ofBondholders, as set out in Clause 16.
+"Bonds" means the debt instruments issued
+
+<<<
+
+ by the Issuer pursuant to this Bond Agreement.
+"Business Day" means any day on which commercial banks are open for general business and can settie foreign currency transactions in Oslo, London and New York.
+"Business Day Convention" means that
+
+<<<
+
+ if the relevant Payment Date originally falls on a day that is not a Business Day, an adjustment of the Payment Date will be made so that the relevant Payment Date will be the first following day that is a Business Day unless that day falls
+
+<<<
+
+ in the next calendar month, in which case that date will be the first preceding day that is a Business Day (Modified Foliowing Business Day Convention).
+"Ca!! Option" shall have the meaning set out in Clause 10.2.
+"Change of Control Event"
+
+<<<
+
+ means
+(i) prior to a Flotation, the occurrence of either of the foliowing:
+(a) the Sponsors, collectively, cease to own a combined shareholding, directly or indirectly, of more than 50% of the aggregate of the shares in the Issuer; and/or
+
+
+<<<
+
+(b) the Sponsors, collectively, cease to control, directly or indirectly, more than 50% of the voting rights in respect of the Issuer; and
+(ii) after a Flotation, an event whereby:
+(c) the Sponsors collectively, cease to have a Decisive Influence
+
+<<<
+
+ in the Issuer,
+provided that a change of ownership as a result of a Flotation shall not constitute a Change of Control Event pursuant to Clause (a) or (b) above.
+"Compliance Certificate" means a certificate, materially in the form set out in
+
+<<<
+
+ Attachment i A or Attachment 1 B hereto (as applicable) and otherwise in form and substance reasonably satisfactory to the Bond Trustee, signed by the Issuer certifying (i) ifprovided in connection with its Financial Reports, that so far as
+
+<<<
+
+ it is aware no Event of Default is continuing or, if it is aware that such event is continuing,
+_v
+(
+
+5/56
+specifying the event and steps, if any, being taken to remedy it and (ii) if provided in connection with an application of the Incurrence
+
+<<<
+
+ Test, including calculations and figures in respect of the ratio of Total Net Debt to Consolidated EBITDA and the Interest Coverage Ratio.
+"Consolidated EBITDA" means, in respect of any Relevant Period, the consolidated operating profit of
+
+<<<
+
+ the Group according to the latest Financial Report:
+(a) before deducting any amount oftax on profits, gains, capital (including, without limitation, withholding taxes) or income or franchise taxes paid or payable by any Group Company, whether
+
+<<<
+
+ or not paid, estimated, allowed or required to be remitted to the relevant tax agency;
+(b) before deducting any Net Finance Charges;
+(c) before taking into account any items (positive or negative) of a one off, nonrecurring, extraordinary,
+
+<<<
+
+ unusual or exceptional nature (including, without limitation, restructuring expenditures);
+(d) before taking into account any unrealised gains or losses on any derivative instrument (other than any derivative instruments which are accounted
+
+<<<
+
+ for on a hedge account basis);
+(e) before deducting any costs in relation to (i) the Bond Issue, (ii) the Merger or (iii) any future divestments or acquisitions;
+(f) after adding back or deducting, as the case may be, the amount of any loss
+
+<<<
+
+ or gain against book value arising on a disposal of any asset (other than in the ordinary course oftrading) and any loss or gain arising from an upward or downward revaluation of any asset;
+(g) after deducting the amount of any profit (or adding
+
+<<<
+
+ back the amount of any loss) of any Group Company which is attributable to minority interests;
+(h) after adding back or deducting, as the case may be, the Group' s share of the profits or losses ofentities which are not part of the Group;
+
+
+<<<
+
+(i) after adding back any amount attributable to the amortisation, depreciation, impairment or depletion of assets of Group Companies;
+(i) before deducting any interest, commission, fees, discounts, prepayment fees, premiums or charges in respect
+
+<<<
+
+ of Financial Indebtedness and other finance payments, whether paid, payable or capitalised; and
+(k) before deducting the amount of management, monitoring consulting and advisory fee and related expenses paid in such period to the Sponsors,
+
+<<<
+
+
+in each case, without double counting and only to the extent added, deducted or taken into account for the purpose of determining the operating profit of the Group.
+"Decisive Influence" means a person having, as a result of an agreement or
+
+<<<
+
+ through the ownership of shares or interests in another person:
+
+6/56
+(a) a mai ority of the voting rights in that other person; or
+(b) a right to elect or r-emove a majority of the members of the board ofdirectors of that other person.
+When
+
+<<<
+
+ determining the relevant person's number of voting rights in the other person or the right to elect and remove members of the board of directors, rights held by the parent company of the relevant person and the parent company's Subsidiaries
+
+<<<
+
+ shall be included.
+"Defeasance Security" shall have the meaning given to it in Clause 18.2.
+"Disbursement Date" means the date on which the Proceeds are released from the Escrow Account.
+"Equity Offering" means (i) a sale of shares in the Issuer
+
+<<<
+
+ (other than any convertible or redeemable shares) or (ii) a sale of shares (other than to an Affihiate of the Issuer or a Material Group Company) the proceeds of which are contributed to the equity of, or as subordinated shareholder funding
+
+<<<
+
+ to, the Issuer or any of the Material Group Companies, in each case after the Disbursement Date.
+"Escrow Account" means an account in the name of the Issuer, blocked and pledged on a first priority basis in favour of the Bond Trustee pursuant
+
+<<<
+
+ to the Escrow Account Pledge as security for the Issuer's obligations under the Finance Documents (unless released pursuant to Clause 6.7).
+"Escrow Account Pledge" means the pledge over the Escrow Account and the claim against the account bank
+
+<<<
+
+ pertaining to the Escrow Account from time to time, granted in favour of the Bond Trustee (on behalf of itseif and the Bondholders), where the bank operating the account has waived any set-off rights.
+"Escrow End Date" means 10 May 2015.
+"Event
+
+<<<
+
+ of Default" means the occurrence of an event or circumstance specified in Clause 15.1.
+"Exchange" means (i) a securities exchange or other reputable regulated market, or (ii) Oslo Børs ASA's Nordic ABM, on which the Bonds are listed, or where
+
+<<<
+
+ the Issuer has applied for listing of the Bonds.
+"Face Value" means the denomination of each of the Bonds, as set out in Clause 2.2.
+"Finance Charges" means, for the Relevant Period, the aggregate amount of the accrued interest, commission
+
+<<<
+
+, fees, discounts, payment fees, premiums or charges and other finance payments in respect of Financial Indebtedness whether paid, payable or capitalised by any Group Company according to the latest Financial Report(s) (calculated on a consolidated
+
+<<<
+
+ basis) without taking into account any Transaction Costs or any unrealised gains or losses on any derivative instruments other than any derivative instruments which are accounted for on a hedge accounting basis.
+
+7/56
+"Finance Documents" means
+
+<<<
+
+ (i) this Bond Agreement, (ii) the agreement between the Bond Trustee and the Issuer referred to in Clause 14.2, (iii) the Security Documents (including any notice, acknowledgement and other aneillary documentation relating thereto), (v) the
+
+<<<
+
+ Intercreditor Agreement, and (vi) any other document designated by the Issuer and the Bond Trustee as a Finance Document.
+"Finance Lease" means any lease or hire purchase contract which would, in accordance with the Accounting Principles, be
+
+<<<
+
+ treated as a finance or capital lease but excluding any liability under any real property lease which is or would be treated as an operating lease in accordance with the Accounting Principles as applied by the Group Companies as at the date
+
+<<<
+
+ of the Bond Agreement but which would be treated as a finance or capital lease in accordance with the Accounting Principles as applied by Group Companies as at any later date.
+"Financial Indebteclness" means any indebtedness in respeci of:
+
+<<<
+
+
+(a) moneys borrowed;
+(b) any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument;
+(c) the amount of any liability in respect of Finance Leases;
+(d) receivables sold or discounted (other than
+
+<<<
+
+ any receivables to the extent they are sold on a non-recourse basis and meet any requirement for de-recognition under the Accounting Principles);
+(e) any derivative or foreign exchange transaction (and, when caleulating the value of that derivative
+
+<<<
+
+ or foreign exchange transaction, only the marked to market value (or, if any actual amount is due as a result of the termination or close-out of that derivative transaction, that amount) shall be taken into account);
+(f) any counter-indemnity
+
+<<<
+
+ obligation in respeet of a guarantee, bond, standby or documentary letter of credit or any other instrument issued by a bank or financial institution in respect of an underlying liability of an entity which is not a Group Company which liability
+
+<<<
+
+ would fall within one of the other paragraphs of this definition;
+(g) any amount of any liability under an advance or deferred purchase agreement if (i) one of the primary reasons behind entering into the agreement is to raise finance or to
+
+<<<
+
+ finance the acquisition or construction of the asset or service in question or (ii) the agreement is in respect of the supply of assets or services and payment is due more than 120 days after the date of supply;
+(h) any amount raised under
+
+<<<
+
+ any other transaction (including any forward sale or purchase, sale and sale back or sale and leaseback agreement) having the conimercial effect of a borrowing or otherwise ciassified as borrowings under the Accounting Principles; and
+(i) 
+
+<<<
+
+(without double counting) the amount of any liability in respect of any guarantee for any of the items referred to in any of the preceding paragraphs. /
+/
+
+8/56
+"Financial Reports" means the Financial Statements and the Interim Accounts.
+"Financial
+
+<<<
+
+ Statements" means the audited consolidated annual financial statements of the Group for any financial year, drawn up according to the Accounting Prineiples, such accounts to include a profit and loss account, balance sheet, cash flow statement
+
+<<<
+
+ and report from the Board of Directors.
+"First Tranche" means the Bonds issued on the Issue Date.
+"Floating Rate" shall have the meaning ascribed to such term in Clause 9.1.
+"Flotation" means the admission to trading on any stock exchange or
+
+<<<
+
+ other regulated market of shares in the Issuer.
+"Fund VIII" means Nordic Capital VIII Limited, acting in its capacity as General Partner to Nordic Capital VIII Alpha, L.P. and Nordic Capital VIII Beta, L.P.
+"Funds Flow Statement" means the
+
+<<<
+
+ description of flow of the funds disbursed from the Escrow Account and other account(s) held by the Issuer, the Parent and/or the BidCo for the purpose of applying the Proceeds in accordance with Clause 2,3 (Purpose and utilization).
+"Group
+
+<<<
+
+" means the Issuer, and, following the completion of the Merger, the Target and all oftheir respective Subsidiaries from time to time (each a "Group Company").
+"Guarantee" means an unconditional and irrevocable Norwegian law guarantee (Nw: seivskyldnergaranti
+
+<<<
+
+) from any Guarantor securing all amounts outstanding under the Finance Documents.
+"Guarantors" means BidCo and any Additional Guarantor.
+"Holding Company" means, in relation to a person, any other person in respect of which it is a Subsidiary
+
+<<<
+
+.
+"IFRS" means the international financial reporting standards within the meaning of Regulation i 606/2002/EC (or as otherwise adopted or amended from time to time).
+"Incurrence Test" means a test which is met if:
+(a) the ratio of Total Net
+
+<<<
+
+ Debt to Consolidated EBITDA for the four most recently ended full fiscal quarters is:
+(i) for the period from (and including) the Issue Date to (but excluding) the date that falls 18 months after the Issue Date, not greater than 3.50 to 1.
+
+<<<
+
+00; and
+(ii) for the period from (and including) the date that falls 18 months after the Issue Date to (but excluding) the Maturity Date, not greater than 3.25 to 1.00, and
+(b) the Interest Coverage Ratio exceeds 2.00 to 1.00.
+/
+/v
+
+9/56
+The
+
+<<<
+
+ caleulation of the ratio of Total Net Debt to Consolidated EBITDA shall be made as per a testing date determined by the Issuer, falling no more than one month prior to the incurrence of the new Financial Indebtedness or the payment of the relevant
+
+<<<
+
+ Restricted Payment (as applicable). The Total Net Debt shall be measured on the relevant testing date so determined, but include the Restricted Payment or new Financial Indebtedness (as applicable), provided such Financial Indebtedness is an
+
+<<<
+
+ interest bearing obligation (however, any cash balance resulting from the incurrence of the new Financial Indebtedness shall not reduce the Total Net Debt). Consolidated EBITDA of the Group shall be calculated as set out below.
+The calculation
+
+<<<
+
+ of the Interest Coverage Ratio shall be made for the Relevant Period ending on the last day of the period covered by the most recent Financial Report, after giving effect to the incurrence of such Financial Indebtedness and the application
+
+<<<
+
+ of the proceeds thereof, on a pro forma basis.
+The figures for Consolidated EBITDA, Finance Charges and Net Finance Charges for the Relevant Period ending on the last day of the period covered by the most recent Financial Report shall be used
+
+<<<
+
+ for the Incurrence lest, but adjusted so that:
+A. entities acquired or disposed of by the Group during the Relevant Period, or after the end of the Relevant Period but before the relevant testing date, shall be included or excluded (as applicable
+
+<<<
+
+), pro forma, for the entire Relevant Period;
+B. any entity to be acquired with the proceeds from new Financial Indebtedness shall be included, pro forma, for the entire Relevant Period; and
+C. the pro forma caleulation of Consolidated EBITDA
+
+<<<
+
+ takes into account the net cost savings and other reasonable synergies, as the case may be, realisable for the Group within twelve months from the acquisition as a result of acquisitions and/or disposals of entities referred to in A. and B
+
+<<<
+
+. above, provided that such net cost savings and other reasonable synergies, as the case may be, have been verified by an independent financial advisor, acceptable to the Bond lrustee.
+"Initial Security" means the Escrow Account Pledge and the
+
+<<<
+
+ PreDisbursement Security. The Initial Security is subj ect to the Security Principles.
+"Intercreditor Agreement" means the intercreditor agreement dated on or about the date of this Bond Agreement entered into by, inter alia, the Bond Trustee
+
+<<<
+
+ (on behalf of itself and the Bondholders), the Security Agent, the creditor representative for the Super Senior Debt Liabilities, any subordinated creditor and any relevant Group Company as borrower.
+"Interest Coverage Ratio" means the ratio
+
+<<<
+
+ of Consolidated EBITDA to Net Finance Charges.
+"Interest Payment Date" means 30 March, 30 June, 30 September and 30 December each year, commencing on 30 Sune 2015, and the Maturity Date. Any adjustment will be made according to the Business
+
+<<<
+
+ Day Convention.
+/
+/7
+
+10/56
+"Interim Accounts" means the unaudited consolidated quarterly financial statements of the Group for any quarter ending on a Quarter Date, drawn up according to the Accounting Principles.
+"Intra-Group Loan Assignments
+
+<<<
+
+" means the first priority assignment over intraGroup loans provided or to be provided by the Issuer to BidCo in connection with the Merger.
+"ISIN" means International Securities Identification Number -the identification number of the Bond Issue
+
+<<<
+
+.
+"Issue Date" means 13 March 2015.
+"Issuer Bank Account Pledges" means a first priority pledge in favour of the Security Agent over the Issuers bank account(s), other than the Escrow Account.
+"Issuer Share Pledge" means the first priority Norwegian
+
+<<<
+
+ law share pledge in favour of the Security Agent over the shares in the Issuer.
+"Issuer's Bonds" means any Bonds owned by the Issuer, any person or persons who has Decisive Influence over the Issuer, or any person or persons over whom the Issuer
+
+<<<
+
+ has Decisive Influence.
+"LIBOR" means the interest rate which (a) is published on Reuters Screen LIBORO 1 Page (or through another system or on another website replacing the said system or website respectively) approximately 11.00 a.m., London
+
+<<<
+
+ time, or, if such publication does not exist, (b) at that time corresponds to (i) the average of the quoted lending rates of comrnercial banks on the interbank market in New York city or, if only one or no such quotes are provided, (ii) the
+
+<<<
+
+ assessment of the Bond Trustee of the interest rate, which in the Bond Trustee' s determination is equal to what is offered comrnercial banks in the New York city interbank market, for the applicable period. If any such rate is below zero,
+
+<<<
+
+ LIBOR will be deemed to be zero.
+"Manager" means the manager for the Bond Issue, being Nordea Markets, a part of Nordea Bank Norge ASA.
+"Margin" means seven point one hundred and twenty five percentage points (7.125%) per annum.
+"Material Adverse
+
+<<<
+
+ Effect" means a material adverse effect on: (a) the business, financial condition or operations of the Group (taken as a whole), (b) the Issuer or any Guarantor' s ability to perform and comply with their respective payment obligations under
+
+<<<
+
+ any of the Finance Documents; or (c) the validity or enforceability of any of the Finance Documents.
+"Material Group Companies" means each Subsidiary of the Issuer representing more than 10% of either (i) the total gross assets of the Group
+
+<<<
+
+ on a consolidated basis (for the avoidance of doubt, excluding any goodwill and intra-group transactions) or (ii) the Consolidated EBITDA according to the latest Financial Report.
+"Maturity Date" means 13 March 2021. Any adjustment will be
+
+<<<
+
+ made according to the Business Day Convention.
+/
+..
+
+11/56
+"Merger" means the successful acquisition of the Target by BidCo by means of a reverse triangular merger.
+"Net Finance Charges" means, for the Relevant Period, the Finance Charges
+
+<<<
+
+ according to the latest Financial Report(s), after deducting any interest payable for that Relevant Period to any Group Company (and excluding any payment-in-kind interest capitalised on Structural Loans and interest payable by other Group
+
+<<<
+
+ Companies),
+"NOK" means Norwegian kroner, being the lawftil currency of Norway.
+"Non-Obligor" means a Group Company which is not an Obligor.
+"Obligor" means the Issuer and each Guarantor.
+"Outstanding Bonds" means the Bonds not redeemed or
+
+<<<
+
+ otherwise discharged.
+"Parent" means Aksjeselskapet av 16. oktober 2014 AS, a company incorporated in Norway with registration number 913 895 991 and registered address Ruseløkkveien 26, 0251 Oslo, Norway.
+"Pari Passu Creditor" means the Bond
+
+<<<
+
+ Trustee (on behalf of itseif or the Bondholders) and each creditor (or creditor representative acting on its behalf) in respect of any Permitted Pari Passu Liabilities.
+"Party" means a party to this Bond Agreement (including its successors
+
+<<<
+
+ and permitted transferees).
+"Paying Agent" means the legal entity appointed by the Issuer to act as its paying agent in the Securities Registry with respect to the Bonds.
+"Payment Date" means a date for payment of principal or interest under
+
+<<<
+
+ this Bond Agreement.
+"Permitted Acquisition" shall have the meaning ascribed to such term in Clause 13.4(e) (Acquisitions).
+"Permitted Disposal" shall have the meaning ascribed to such term in Clause 13.3(d) (Disposals).
+"Permitted Equity Injection
+
+<<<
+
+" means any amount contributed to the Issuer in the form of a Structural Loan or in a share issue by the Issuer (other than any convertible or redeemable shares) permitted under the terms of the Bond Agreement, but excluding any amount contributed
+
+<<<
+
+ to the Issuer to enable any member of the Group to pay taxes payable in connection with (a) the completion of the Merger and (b) the subsequent liquidation of the Target (as referred to in the Structure Memorandum).
+"Permitted Financial Indebtedness
+
+<<<
+
+" means any Financial Indebtedness:
+(a) incurred by the Issuer provided that (i) the Incurrence Test is complied with, (ii) such Financial Indebtedness ranks pari passu with the Bond Liabilities, (iii) such Financial Indebtedness has a final
+
+<<<
+
+ maturity date (or, if applicable, early
+/
+.7
+/
+
+12/56
+redemption dates or instalment dates) which occurs after the Maturity Date and (iv) (unless waived by the Bond Trustee) the creditor(s) of such Financial Indebtedness become(s) party to
+
+<<<
+
+ the Intercreditor Agreement;
+(b) arising under the Finance Documents;
+(c) in the form of Super Senior Liabilities;
+(d) of any person acquired by a Group Company after the Disbursernent Date which is incurred under arrangements in existence
+
+<<<
+
+ at the date of acquisition, but not incurred or increased or having its maturity date extended in contemplation of, or since, that acquisition and, in any event, is discharged within three months of the date of acquisition;
+(e) arising under
+
+<<<
+
+ an interest rate or foreign exchange hedging transaction for spøt or forward delivery or commodity hedging (other than for investment or speculative purposes);
+(f) constituting Permitted Financial Support;
+(g) any deferred payment of the consideration
+
+<<<
+
+ payable to effect the Merger;
+(h) in the form of Subordinated Debt and/or Structural Loans;
+(i) arising in the ordinary course of business of the Group, in the form of supplier credits, taxes, customer advance payments and commitments in respect
+
+<<<
+
+ of seifinsurance or performance bonds or guarantees;
+(j) under any customary cash management, cash pooling or netting or setting off arrangements entered into in the ordinary course of business;
+(k) in the form of Finance Leases provided that
+
+<<<
+
+ the aggregate amount of all such Finance Leases does not exceed the greater of 7.5% of Consolidated EBITDA and USD 3,000,000 (or its equivalent in other currencies) in aggregate for the Group at any time;
+(1) local lines of credit or working
+
+<<<
+
+ capital facilities up to a cap in aggregate of USD 3,000,000 for the Group at any time;
+(m) indebtedness in an aggregate amount not exceeding 100% of the proceeds of any Permitted Equity Injection after the Disbursement Date, to the extent
+
+<<<
+
+ such proceeds are not relied upon under sub-clause (c) of the definition of the Basket for the purposes of making any Restricted Payments;
+(n) under any pension and tax liabilities incurred in the ordinary course of business;
+(o) arising from
+
+<<<
+
+ agreements of any Group Company providing for customary indemnification obligations in respect of eam-outs or other adjustments of purchase price or similar obligations, in each case incurred or assumed in connection with an acquisition or
+
+<<<
+
+ disposal, provided that the maximum liability of the Group in respect of all such Financial Indebtedness shall at no time
+2
+
+13/56
+exceed the gross proceeds, ineluding the fair market value of non-cash proceeds (measured at the time reeeived
+
+<<<
+
+ and without giving effect to any subsequent changes in value), actually received by the Group in connection with such disposition;
+(p) any debt incurred to refinance, extend, renew or refund any existing Permitted Financial Indebtedness, provided
+
+<<<
+
+ that such refinancing debt shall be ineurred by the same Group Company which is the borrower of, and shall not exceed the amount of, or be repayable prior to the original term of, the original Permitted Financial Indebtedness; and
+(q) any Financial
+
+<<<
+
+ Indebtedness not covered by (a) to (p) above up to an aggregate amount of the greater of (x) USD 3,000,000 (or its equivalent in any other currency) and (y) 0.75% of consolidated total assets at any time.
+"Permitted Financial Support" means
+
+<<<
+
+:
+(a) guarantees granted in respeet of the Bond Liabilities, the Super Senior Liabilities and/or the Permitted Pari Passu Liabilities which are subj ect to the provisions of the Interereditor Agreement;
+(b) any guarantee granted in respect of
+
+<<<
+
+ the liabilities of another Group Company ineurred in that Group Company's ordinary course of business;
+(c) any guarantee or indemnity given in respect of a Permitted Acquisition permitted under the terms hereof or Permitted Disposal which is
+
+<<<
+
+ in a customary form and subject to customary limitations;
+(d) any guarantee granted by any person acquired by a Group Company after the Disbursement Date and existing at the time of such acquisition but not ineurred or the amount guaranteed
+
+<<<
+
+ increased or its maturity date extended in contemplation of, or since, the acquisition and which is discharged within three months foliowing the date of acquisition;
+(e) any Financial Indebtedness made or granted by a Group Company to:
+(i)
+
+<<<
+
+ an Obligor, and/or
+(ii) a Non-Obligor,
+provided that, in the case of (i) above only, from the earlier of (x) the end of the liquidation process relating to the Target (as referred to in the Structure Memorandum) and (y) the date that falls
+
+<<<
+
+ 180 days after the Issue Date, the relevant loan must be fully subordinated to, inter alia, the Bond Liabilities in accordance with the terms of the Intercreditor Agreement except that (if the creditor is a Non-Obligor) the relevant loan is
+
+<<<
+
+ not required to be fully subordinated as mentioned above if the prineipal amount of Financial Indebtedness owed to (A) that individual Non-Obligor by any Obligors does not exceed USD 1,500,000 (or its equivalent in other curreneies) and (B
+
+<<<
+
+) all Non-Obligors by Obligors does not in aggregate exceed USD 6,000,000 (or its equivalent in other currencies);
+/
+/
+/7
+
+14/56
+(f) any loan or credit granted by any person acquired by a Group Company after the Disbursement Date and existing
+
+<<<
+
+ at the time of such acquisition but not incurred or the amount inereased or its maturity date extended in contemplation of,or since, the relevant acquisition;
+(g) any trade credit or guarantee extended by a Group Company in the ordinary course
+
+<<<
+
+ of its trading activities;
+(h) any guarantee or loan arising by operation of law and in the ordinary course of trading and not as a result of any default or omission;
+(i) any guarantee or loan arising in the ordinary course of banking arrangements
+
+<<<
+
+ for the purposes of netting debt and credit balances of the Group Companies;
+(j) any loan made or extended pursuant to, and any guarantee arising in connection with, any netting or cash pooling arrangement permitted pursuant to paragraph (j
+
+<<<
+
+) of the definition of Permitted Financial Indebtedness;
+(k) any loan made to employees or directors of any Group Company if the amount of that loan when aggregated with the amount of all loans to such employees and directors does not exceed
+
+<<<
+
+ USD 750,000 (or its equivalent in other currencies) in aggregate for the Group at any time;
+(1) the Structural Parent Loan, provided that:
+(i) the Issuer has received or will, contemporaneously with the making of the Structural Parent Loan
+
+<<<
+
+, receive proceeds from:
+(a) Structural Loans from the Parent in an amount of no less than NOK 625,000,000; and
+(b) a capital inerease in the Issuer in an amount of no less than NOK 40,500,000; and
+(ii) BidCo has received or will, contemporaneously
+
+<<<
+
+ with the making of the Structural Loan, receive proceeds of a grandfather contribution from the Parent in an amount of no less than NOK 1,442,400,000; and
+(m) any loan, credit or guarantee or other form of financial support not covered by 
+
+<<<
+
+(a) to (1) above up to an aggregate amount of the greater of (x) USD 3,000,000 (or the equivalent in another currency) and (y) 0.75% of consolidated total assets at any time.
+"Permitted Liquidation" means any liquidation involving any Subsidiary
+
+<<<
+
+ of the Issuer (a "Liquidation") that is made on a solvent basis, provided that:
+(a) any payments or assets distributed in connection with such Liquidation remain within the Issuer and/or any Group Company; and
+(b) if any shares or other assets
+
+<<<
+
+ distributed in connection with such a Liquidation were subj ect to Transaction Security, substantially equivalent Transaction Security must be granted over such shares or assets.
+/ /
+
+15/56
+'Permitted Pari Passu Liabilities" means liabilities
+
+<<<
+
+ incurred in accordance with paragraphs (a) and (b) of the definition of "Permitted Financial Indebtedness".
+"Permitted Security" means any Security:
+(a) granted under the Finance Documents;
+(b) granted in respect of the Super Senior Liabilities
+
+<<<
+
+ and/or the Perinitted Pari Passu Liabilities provided that the relevant Security (i) is in the form of cash cover with respect to any letter of eredit or a guarantee which constitutes Super Senior Liabilities, (ii) anses in respect of any netting
+
+<<<
+
+ or set-off arrangement relating to an ancillary facility which constitutes Super Senior Liabilities, (iii) anses as a consequence of any finance lease or (iv) also secures the Bond Liabilities in accordance with the terms of the Intercreditor
+
+<<<
+
+ Agreement;
+(c) over (A) any asset acquired by a Group Company or (B) any ass et of any person acquired by a Group Company, after the Disbursement Date if (i) the Security was not ereated in contemplation of the relevant acquisition, (ii) the
+
+<<<
+
+ principal amount secured has not been inereased in contemplation of or since the relevant acquisition and (iii) the Security is removed or discharged within three months of the date of acquisition;
+(d) arising by operation of law and not as
+
+<<<
+
+ a result of any default or omission by any Group Company;
+(e) arising in the ordinary course of banking arrangements for the purpo ses of netting debt and credit balances of the Group Companies;
+(f) arising under any retention of title, hen
+
+<<<
+
+, hire purchase or conditional sale arrangement or arrangements having similar effect entered into in the ordinary course of trading and not arising as a result of any default or omission by any Group Company;
+(g) arising as a consequence of
+
+<<<
+
+ any Finance Lease permitted pursuant to paragraph (k) of the definition of "Permitted Financial Indebtedness";
+(li) arising under a rent deposit deed entered into on arm's length terms and in the ordinary course of business securing the obligations
+
+<<<
+
+ of a Group Company in relation to property leased to a Group Company; and
+(i) falling within a general basket of the greater of (x) USD 3,000,000 (or equivalent in another currency) and (y) 0.75% of consolidated total assets at any time.
+"Pre
+
+<<<
+
+-Disbursement Security" means the Issuer Share Pledge, the BidCo Share Pledge, the Intra-Group Loans Assignments, the Structural Loans Assignment, the Structural Parent Loans Assignment, the Issuer Bank Account Pledges and the BidCo Guarantee
+
+<<<
+
+.
+"Proceeds" means the gross proceeds from the issue of the First Tranche of the Bonds before any deduction.
+/
+/
+
+16/56
+"Quarter Date" means each 31 March, 30 June, 30 September and 31 December.
+"Relevant Period" means the four most recently
+
+<<<
+
+ ended full fiscal quarters.
+"Restricted Payment" shall have the meaning ascribed to such term in Clause 13.4(a).
+"Sale Event" means the sale of all, or substantially all, of the assets of the Group (taken as a whole) whether in a single transaction
+
+<<<
+
+ or a series of related transactions, to a person who is not a member of the Group.
+"Secured Parties" means the Bond Trustee (on behalf of itseif and the Bondholders), the Security Agent (in its capacity as security agent for itseif and for
+
+<<<
+
+ the other Secured Parties and as creditor of the Security Agent Liabilities), each Super Senior Creditor and any Pari Passu Creditor.
+"Securities Depository" means the securities depository in which the Bond Issue is registered, being Verdipapirsentralen
+
+<<<
+
+ ASA (VPS) in Norway.
+"Security" means an encumbrance, mortgage, charge, pledge, hen or other security interest securing any obligation of any person or any other agreement or arrangement having a similar effect.
+"Security Agent" means the Bond
+
+<<<
+
+ Trustee in its capacity as security agent and/or security trustee pursuant to Clause 17,4.
+"Security Agent Liabilities" means all the liabilities owing by the Issuer or any other Group Company to the Security Agent (in its capacity as security
+
+<<<
+
+ agent for the Secured Parties) under or in respect of the Finance Documents.
+"Security Documents" means, collectively, each of the documents entered into by a Group Company creating or expressed to create any Transaction Security or any other
+
+<<<
+
+ Security over all or any part of its assets in respect of the obligations of the Obligors under the Finance Documents.
+"Security Principles" means the Security Principles set out in Attachment 3 (Security Principles).
+"Special Termination Date
+
+<<<
+
+" shall have the meaning aseribed to such term in Clause 6.8.
+"Sponsors" means each of: (i) Fund VIII; and (iii) any other ftmds launched as a "Nordic Capital Fund" from time to time.
+"Stamdata" means the web site www.stamdata.no, maintained
+
+<<<
+
+ by the Bond Trustee.
+"Structural Loan" means any loan made by the Parent to the Issuer, each ofwhich shall be unsecured and subordinated pursuant to the Intercreditor Agreement.
+"Structural Loan Assignments" means the first priority assignment
+
+<<<
+
+ over any Structural Loans provided or to be provided in connection with the Merger.
+/
+//
+
+17/56
+"Structural Parent Loan" means the loan in an amount not exceeding NOK 400,000,000 to be made available by the Issuer to the Parent on the Disbursement
+
+<<<
+
+ Date.
+"Structural Parent Loan Assignment" means the first priority assignment over the Structural Parent Loan provided or to be provided in connection with the Merger.
+"Structure Memorandum" means the final structure report prepared by KPMG
+
+<<<
+
+ in relation to the Merger dated 5 March 2015.
+"Subordinated Debt" means any debt which (i)(a) according to its terms and pursuant to the Intercreditor Agreement, is subordinated to the obligations of the Issuer under the Finance Documents,
+
+<<<
+
+ (b) according to its terms has a final redemption date or, when applicable, early redemption dates or instalment dates which occur after the Maturity Date aud (c) according to its terms yields only payment-in-kind interest, or (ii) is otherwise
+
+<<<
+
+ subordinated to the satisfaction of the Bond Trustee (aeting reasonably).
+"Subsidiary" means any legal entity over which another legal entity has a Decisive Influence.
+"Super Senior Creditors" means each creditor (or ereditor representative
+
+<<<
+
+ aeting on its behalf) in respect of any Super Senior Liabilities.
+"Super Senior Debt Liabilities" means all liabilities owing by any Group Company under or in respect of any working capital and/or acquisition facility entered into by the Issuer
+
+<<<
+
+ and/or any other Group Company, provided that the aggregate principal amount of all such facilities does not exceed the higher of (A) USD 20,000,000 and (B) 50% of Consolidated EBITDA at the time the facility was entered into or increased,
+
+<<<
+
+ as applicable.
+"Super Senior Hedging Liabilities" means all liabilities owing by any Group Company under or in respect of any derivative or foreign exchange transaction entered into in connection with the protection against, or the benefit
+
+<<<
+
+ from, any fluctuation in any rate or price provided that the derivative or foreign exchange transaetion is entered into (a) in the ordinary course of business and not for speculative purposes, (b) in respect of any Permitted Pari Passu Liabilities
+
+<<<
+
+ and/or (c) in respect of the Super Senior Debt Liabilities.
+"Super Senior Liabilities" means the Super Senior Debt Liabilities, the Super Senior Hedging Liabilities aud the Security Agent Liabilities.
+"Tap Issue" means subsequent issues of
+
+<<<
+
+ Bonds after the Issue Date up to the maximum amount described in Clause 2.2.1.
+"Target" means \Tizrt Ltd., a company incorporated in Israel with registration number 52-004434-8 aud registered address at Shefayim Commercial Center - 3rd floor
+
+<<<
+
+, Shefayim 6099000, Israel.
+"Total Net Debt" means on a Group consolidated basis (i) the aggregate amount of all interest-bearing obligations (not including any affiliate debt permitted under the Bond Agreement and any Structural Loans or any
+
+<<<
+
+ eam-out payments in respect of
+1
+
+18/56
+any acquisition permifted under the Bond Agreement) (ineluding financial lease obligations which aceording to IFRS shall be treated as debt, but not including current or future leases, which as at the
+
+<<<
+
+ date hereof are considered as operating leases) less (ii) cash in hand or at a bank and short-term, highly liquid investments that are readily convertible to cash and which are subject to an insignificant risk of changes in value.
+"Transaction
+
+<<<
+
+ Costs" means all fees, costs and expenses incurred by a Group Company in connection with (a) the issue of Bonds pursuant to this Bond Agreement, (b) the repayment of the existing Financial Indebtedness, (c) the listing of the Bonds, (d) the
+
+<<<
+
+ Merger and (e) any other ftiture acquisition and divestment of entities or assets (provided such fees, costs and expenses are reasonable).
+"Transaction Documents" means the Finance Documents, acquisition documents entered into in respect of
+
+<<<
+
+ the Merger and the documents entered or to be entered into in respect of the Super Senior Liabilities and/or any Permitted Pari Passu Liabilities.
+"Transaction Security" means the Initial Security, any Additional Security, and any other guarantee
+
+<<<
+
+ and other Security ereated or expressed to be created in favour of the Security Agent (on behalf of the Secured Parties and as creditor of the Security Agent Liabilities) pursuant to the Security Documents.
+"US Securities Act" means the U.S
+
+<<<
+
+. Securities Act of 1933, as amended.
+"USD" means US Dollars, being the legal currency of the United States ofAmerica.
+"U.S. Treasury Rate" means, as of any redemption date, the yield to maturity as of such redemption date of United States Treasury
+
+<<<
+
+ securities with a constant maturity (as compiled and published in the most recent Federal Reserve Statistical Release H. 15 (519) that has become publicly available at least two (2) Business Days prior to the redemption date (or, if such Statistical
+
+<<<
+
+ Release is no longer published, any publicly available source of similar market data)) most nearly equal to the period from the redemption date to 13 March 2018; provided, however, that if the period from the redemption date to 13 March 20
+
+<<<
+
+18 is less than one year, the weekly average yield on actually traded United States Treasury securities adjusted to a constant maturity of one year will be used.
+"Voting Bonds" means the Outstanding Bonds less the Issuer's Bonds.
+1.2 Construction
+
+<<<
+
+
+In this Bond Agreement, unless the context otherwise requires:
+(a) headings are for ease of reference only;
+(b) words denoting the singular number shall include the plural and vice versa;
+(c) references to Clauses are references to the Clauses
+
+<<<
+
+ of this Bond Agreement;
+(d) references to a time is a reference to Oslo time;
+
+19/56
+(e) references to a provision of law is a reference to that provision as it may be amended or re-enacted, and to any regulations made by the appropriate authority
+
+<<<
+
+ pursuant to such law, including any determinations, rulings, judgments and other binding decisions relating to such provision or regulation;
+
+(f)
+
+an Event of Default is "continuing" ifit has not been remedied or waived;
+
+and
+
+(g) references
+
+<<<
+
+ to a "person" shall include any individual, firm, company, corporation, government, state or agency of a state or any association, trust, joint venture, consortium or partnership (whether or not having separate legal personality).
+
+2
+
+The Bonds
+
+<<<
+
+
+
+2.1 Binding nature of this BondAgreement
+
+2.1.1
+
+By virtue of being registered as a Bondholder (directly or indirectly) with the Securities Depository, the Bondholders are bound by the terms of this Bond Agreement and any other Finance Document
+
+<<<
+
+, without any further action required to be taken or formalities to be complied with, see also Clause 18.1.
+
+2.1.2 This Bond Agreement is available to anyone and may be obtained from the Bond Trustee or the Issuer. The Issuer shall ensure that
+
+<<<
+
+ this Bond Agreement is available to the general public throughout the entire term of the Bonds. This Bond Agreement may be published on Stamdata or such other venues as decided by the Bond Trustee.
+
+2.1.3
+
+Copies of the Intercreditor Agreement
+
+<<<
+
+ will foliowing the Issue Date be made available for inspection to the Bondholders or prospective Bondholders at the offices of the Bond Trustee. The Bond Trustee may, at its discretion, remove certain details in the documents for confidentiality
+
+<<<
+
+ reasons.
+
+2.2 The Bonds
+
+2.2.1
+
+The Issuer has resolved to issue a series of Bonds in the maximum aggregate amount ofUSD 190,000,000 (US Dollars one hundred and ninety million). The Bonds may comprise one or more tranches issued on different
+
+<<<
+
+ issue dates. The First Tranche will be in the amount of the USD 113,3 00,000.
+
+2.2.2 The Bond Issue is an open bond issue and the Issuer may issue Tap Issues up to the date falling 5 Business Days prior to the Maturity Date provided that:
+
+
+<<<
+
+
+(a) the aggregate principal amount of the Bonds (including such Tap Issue) does not exceed the maximum issue amount as set out in Clause 2.2.1;
+
+(b) the Incurrence Test is met;
+
+(c) no Event of Default exists at the time of issuance of such
+
+<<<
+
+ Tap Issue or would occur as a result of such issuance; and
+
+/
+/ (
+
+20/56
+(d) the Issuer confirms (i) that the documents earlier received by the Bond Trustee, c.f. Clause 6.1 (other than those listed in items (1) and (m) ofClause 6. 1), are
+
+<<<
+
+ still valid, or provides updates of such documents to the Bond Trustee, (ii) the representations and warranties contained in this Bond Agreement remain true and correct and are repeated by the Issuer, and (iii) that such Tap Issue is in compliance
+
+<<<
+
+ with applicable laws and regulations as at the time of such Tap Issue.
+
+2.2.3
+
+All Tap Issues will be subject to identical terms in all respects. The rights and obligations of all parties to the Bond Agreement also apply for later Tap Issues
+
+<<<
+
+. Any Tap Issue will be documented by an addendum to the Bond Agreement, which may also include, inter alia, representations and warranties to be given and conditions precedent to disbursement of the proceeds from such Tap Issue.
+
+2.2.4 The
+
+<<<
+
+ Face Value is USD 1.00. The Bonds shall rankparipassu between themselves.
+
+2.2.5 The Bond Issue will be described as "FRN Aksjeselskapet av 17. oktober 2014 AS Senior Secured Callable Bond Issue 2015/2021".
+
+2.2.6 The ISIN of the Bond Issue
+
+<<<
+
+ will beNO 001 0732811.
+
+2.2.7 The tenor of the Bonds is from and including the Issue Date to the Maturity Date and the Bonds cannot be prepaid other than as set out in this Bond Agreement.
+
+2.3 Purpose and utilization
+
+The Proceeds shall be
+
+<<<
+
+ used by way of onlending within the Group (in respect of the Structural Parent Loan, via the Parent) towards the payment of the merger consideration payable in respect of the Target, the payrnent of any transaction fees and expenses in relation
+
+<<<
+
+ thereto or to the Bond Issue and/or for general corporate purpo ses.
+
+Listing
+
+3.1 The Issuer shall ensure that an application is made for the Bonds to be listed on the Oslo Stock Exchange (Mw. Oslo Børs) within six months of the Issue Date
+
+<<<
+
+.
+
+3.2 If the Bonds are listed, the Issuer shall ensure that the Bonds remain listed until they have been discharged in full.
+
+4
+
+Registration in the Securities Depository
+
+4.1 The Bond Issue and the Bonds shall prior to disbursement be registered
+
+<<<
+
+ in the Securities Depository according to the Norwegian Securities Depository Act (Act 2002/64) and the terms and conditions of the Securities Depository.
+4.2 The Issuer shall ensure that correct registration in the Securities Depository is
+
+<<<
+
+ made and shall notify the Securities Depository of any changes in the terms and conditions of this Bond Agreement. The Bond Trustee shall receive a copy of the notification. The registration may be executed by the Paying Agent.
+
+//
+
+21/56
+
+<<<
+
+
+4.3 The Bonds have not been registered under the US Securities Act, and the Issuer is under no obligation to arrange for registration of the Bonds under the US Securities Act.
+
+5
+
+Purchase and transfer of Bonds
+
+5.1 Bondholders may be subject
+
+<<<
+
+ to purchase or transfer restrietions with regard to the Bonds, as applicable from time to time under local laws to which a Bondholder may be subject (due e.g. to its nationality, its residency, its registered address, its place(s) for doing
+
+<<<
+
+ business). Bach Bondholder must ensure compliance with applicable local laws and regulations at its own cost and expense.
+
+5.2 Notwithstanding the above, a Bondholder which has purchased the Bonds in breach of applicable mandatory restrictions
+
+<<<
+
+ may nevertheless utilize its rights (including, hut not limited to, voting rights) under this Bond Agreement.
+
+6
+
+Conditions Precedent
+
+6.1 The settlement of the Bond Issue and the disbursement of the Proceeds to the Escrow Account will be
+
+<<<
+
+ subject to the Bond Trustee having received the documents listed below, in form and substance satisfactory to it, at least two Business Days prior to the Issue Date:
+
+(a) this Bond Agreement, duly executed by all parties thereto;
+
+(b) certified
+
+<<<
+
+ copies of all necessary corporate resolutions of the Issuer to issue the Bonds and approving the terms of and transactions contemplated by the Finance Documents to which it is a party;
+
+(c) a power of attomey from the Issuer to relevant individuals
+
+<<<
+
+ for their execution of the relevant Finance Documents, or extracts from the relevant register or similar documentation evidencing such individuals' authorisation to execute the Finance Documents on behalf of the Issuer;
+
+(d) certified copies
+
+<<<
+
+ of (i) the Certificate of Incorporation or other similar official document for the Issuer, evidencing that it is validly registered and existing and (ii) the Articies of Association of the Issuer;
+
+(e) the Issuer' s latest Financial Statements
+
+<<<
+
+ and Interim Accounts (if any);
+
+(f)
+
+confirmation from the Manager that the requirements set out in Chapter 7 of
+
+the Norwegian Securities Trading Act (implementing the EU prospectus
+
+directive (2003/71 EC) concerning prospectuses have been
+
+<<<
+
+ fulfihled;
+
+(g) to the extent necessary, any public authorisations required for the Bond Issue;
+
+(h) confirmation that the Bonds have been registered in the Securities Depository;
+
+(i)
+
+the Bond Trustee fee agreement set out in Clause 14.2
+
+<<<
+
+, duly executed;
+
+/
+
+/
+
+// //
+
+22/56
+
+(j)
+
+copies of any written documentation used in the marketing of the Bonds or
+
+made public by the Issuer or the Manager in conneetion with the Bond
+
+Issue;
+
+(k) any statement or legal opinion reasonably
+
+<<<
+
+ required by the Bond Trustee;
+
+(1)
+
+a copy of the security document required to be entered into in order to create
+
+the Escrow Account Pledge together with a copy of the notice and
+
+acknowledgment relating thereto, in each case, duly executed
+
+<<<
+
+ by the parties
+
+thereto; and
+
+(m) evidence that the Sponsors have prefunded into the Escrow Account or obtained letters of credit or provided guarantees from funds managed or advised by the Sponsors to the benefit of the Bond Trustee (on behalf
+
+<<<
+
+ of itseif and the Bondhoiders) to ensure payment of the difference between the amount required to be paid upon release from the Escrow Account and the funds deposited into the Escrow Account.
+
+6.2 The Bond Trustee may, in its sole discretion
+
+<<<
+
+, waive the deadline or requirements for documentation as set out in Clause 6.1.
+
+6.3 Disbursement of the Proceeds to the Escrow Account is further subject to the Bond Trustee' s written notice to the Issuer, the Manager and the Paying Agent
+
+<<<
+
+ that the documents have been controlled and that the required conditions precedent are fulfilled.
+
+6.4 On the Issue Date, subject to receipt of confirmation from the Bond Trustee pursuant to Clause 6.3, the Manager shall transfer the Proceeds
+
+<<<
+
+ to the Escrow Account.
+
+6.5 The Bond Trustee's approval of the disbursement from the Escrow Account of the Proceeds for application in accordance with Clause 2.3 (Furpose and utilization) is subject to the following documents having been received
+
+<<<
+
+ by the Bond Trustee, in form and substance satisfactory to the Bond Trustee (acting reasonably):
+
+(a) a release notice duly executed by the Issuer in the form set out in Attachment 2 (Release Notice) (together with an executed instruction to
+
+<<<
+
+ the account bank to execute the payments as set out in the Funds Flow Statement from the Escrow Account);
+
+(b) the Intercreditor Agreement duly executed by the parties thereto;
+
+(c) copies of each Security Document pertaining to the Pre-Disbursement
+
+<<<
+
+ Security duly executed by the parties thereto;
+
+(d) copies (or, if required by local law, originals) of all notices and all other documents and instruments required for the perfection of the PreDisbursement Security, in each case duly executed
+
+<<<
+
+ by the parties thereto;
+
+(e) a copy of (i) a resolution of the board of directors of the Parent and BidCo and (ii) if applicable, a copy of a resolution from the shareholders in BidCo, in each case, approving the terms of, and the transactions
+
+<<<
+
+ contemplated by, the Finance Documents to which it is a party;
+
+// .
+
+(/
+
+23/56
+(f) a statement from the Issuer that (x) no Event of Default has occurred and is continuing, (y) foliowing the release of the Proceeds from the Escrow Account
+
+<<<
+
+, it will have sufficient funds available in order to pay the merger consideration and all Transaction Costs (other than costs referred to in paragraph (e) of that definition) and (z) all the conditions for the completion of the Merger (other
+
+<<<
+
+ than conditions that by their nature would only become satisfied as of the ciosing of the Merger, including, but not limited to, the payment of the merger consideration and the issuance of the merger certificate from the Israeli Companies Register
+
+<<<
+
+) have been fulfihled;
+
+(g) a copy of an escrow agreement between, among others, BidCo, the Bond Trustee and the paying agent named therein, and any assignment relating thereto;
+
+(h) a copy of the Structure Memorandum setting out in reasonable
+
+<<<
+
+ detail the taxes payable in connection with (a) the completion of the Merger and (b) the subsequent liquidation of the Target; and
+
+(i) any statement or legal opinion reasonably required by the Bond Trustee.
+
+6.6 The Bond Trustee may, in its
+
+<<<
+
+ sole discretion, waive the deadline or requirements for documentation as set out in Clause 6.5.
+
+6.7 Disbursement of the Proceeds from the Escrow Account is further subject to the Bond Trustee' s written notice to the bank with which the Escrow
+
+<<<
+
+ Account is established that the documents have been controlled and that the required conditions precedent are fulfihled and that the pledge and blocking of the Escrow Account can be released. Such permanent release of the pledge and blocking
+
+<<<
+
+ of the Escrow Account foliowing disbursement shall be sub] ect to the payment of all amounts due and payable to the Bond Trustee and the Security Agent at such time.
+
+6.8 If (i) the conditions set out in Clause 6.5 have not been fulfilled prior
+
+<<<
+
+ to the Escrow End Date, (ii) in the reasonable opinion of the Issuer, the Merger will not be consummated on or prior to the Escrow End Date, or (iii) the merger agreement entered into in connection with the Merger terminates at any time on
+
+<<<
+
+ or prior to the Escrow End Date (the date of any such event being the "Special Termination Date") the Issuer will repay all of the Bonds then outstanding at 100% oftheir Face Value (plus accrued and unpaid interest). The Issuer shall execute
+
+<<<
+
+ such prepayment as soon as practicable after the Special Termination Date and apply the funds standing to the credit of the Escrow Account (following the payment of any due but unpaid fees and expenses of the Bond Trustee) to fund such prepayment
+
+<<<
+
+.
+
+7
+
+Representations and Warranties
+
+7.1 The Issuer represents and warrants to the Bond Trustee that:
+(a) Status It is a limited liability company, duly incorporated and validly existing aud registered under the laws of its jurisdiction of
+
+<<<
+
+ incorporation, and has the power to own its assets and carry on its business as it is being conducted.
+
+/2 ( --
+
+24/56
+(2) Power and authority
+It has the power to enter into, perform and deliver, and has taken all necessary action to authorise
+
+<<<
+
+ its entry into, performance and delivery of, this Bond Agreement and any other Finance Document to which it is a party and the transactions contemplated by those Finance Documents.
+
+(c) Valid, binding and enforceable obligations
+This Bond Agreement
+
+<<<
+
+ and each other Finance Document required to be entered into prior to the issuance of the Bonds to which it is a party constitutes (or will constitute, when executed by the respective parties thereto) its legal, valid and binding obligations
+
+<<<
+
+, enforceable in accordance with their respective terms, and (save as provided for therein) no further registration, fihing, payment of tax or fees or other formalities are necessary or desirable to render the said documents enforceable against
+
+<<<
+
+ it.
+
+(d) Non-conflict with other obligations
+The entry into and performance by it of this Bond Agreement and any other Finance Document to which it is a party and the transactions contemplated thereby do not and will not conflict in any material
+
+<<<
+
+ way with (i) any law or regulation or judicial or official order; (ii) its constitutional documents; or (iii) any agreement or instrument which is binding upon il or any of its assets.
+
+(e) No Event of Default
+(i) No Event of Default exists
+
+<<<
+
+ or is likely to result from the making of any drawdown under this Bond Agreement or the entry into, the performance of, or any transaction contemplated by, any Finance Document.
+
+(ii) No other event or circumstance is outstanding which constitutes
+
+<<<
+
+ (or with the expiry of a grace period, the giving of notice, the making of any determination or any combination of any of the foregoing, would constitute) a default or termination event (howsoever described) under any other agreement or instrument
+
+<<<
+
+ which is binding on it or any of its Subsidiaries or to which its (or any of its Subsidiaries') assets are subject which has or is likely to have a Material Adverse Effect.
+
+(f) Authorizations and consents
+All authorisations, consents, approvals
+
+<<<
+
+, resolutions, licenses, exemptions, filings, notarizations or registrations required:
+
+(i)
+
+to enable it to enter into, exercise its rights and comply with its obligations
+
+under this Bond Agreement or any other Finance Document to which it
+
+<<<
+
+ is a
+
+party; and
+
+(ii) to carry on its business as presently conducted and as contemplated by this Bond Agreement,
+
+have been obtained or effected and are in full force and effect.
+
+25/56
+(g) Litigation No litigation, arbitration or administrative
+
+<<<
+
+ proceedings or investigations of or before any court, arbitral body or agency which, if adversely determined, is likely to have a Material Adverse Effeet have (to the best of its knowledge and belief) been started or threatened against it or
+
+<<<
+
+ any of its Subsidiaries.
+(7i) No Material Adverse Effect Since the date of its incorporation, there has been no change in its business, assets or financial condition that is likely to have a Material Adverse Effect.
+(i) No misleading information
+
+<<<
+
+ Any factual information provided by it to the subscribers or the Bond Trustee for the purposes of this Bond Issue was true and accurate in all material respects as at the date it was provided or as at the date (if any) at which it is stated
+
+<<<
+
+.
+(i) No withholdings The Issuer is not required to make any deduction or withholding from any payment which it may become obliged to make to the Bond Trustee or the Bondholders under this Bond Agreement.
+(7ç) Paripassu ranking Its payment obligations
+
+<<<
+
+ under this Bond Agreement or any other Finance Document to which it is a party rank at least pari passu as set out in Clause 8.1.
+(1) Security No Security exists over any of the present assets of any Group Company in conflict with this Bond
+
+<<<
+
+ Agreement.
+7.2 The representations and warranties set out in Clause 7.1 are made on the execution date of this Bond Agreement, and shall be deemed to be repeated on the Issue Date.
+Status of the Bonds and security
+8.1 The Bonds shall constitute
+
+<<<
+
+ senior obligations of the Issuer. The Bond Liabilities shall rank at least pari passu with all other debt obligations of the Issuer (save for such claims which are mandatorily preferred by bankruptcy, insolvency, liquidation or other similar
+
+<<<
+
+ laws of general application) and shall rank ahead of subordinated debt.
+8.2 The Bond Liabilities shall, subject to the super senior status of the Super Senior Liabilities under the Intercreditor Agreement, be secured on a pari passu basis with
+
+<<<
+
+ the other Secured Parties by the Transaction Security.
+8.3 Except for the Escrow Account Pledge, the Transaction Security may be shared between the Bond Trustee (on behalf of itself and the Bondholders) and the other Secured Parties in accordance
+
+<<<
+
+ with the terms of the Intercreditor Agreement.
+8.4 The Security Agent is entitled to, on behalf of the Bondholders and subj ect to the terms of the Intercreditor Agreement, (acting in its sole discretion) release (a) any Transaction Security
+
+<<<
+
+ over shares or assets which are sold or otherwise disposed of in
+7
+
+26/56
+a Permitted Disposal or in connection with a merger permitted by this Bond Agreement, or in anticipation of or as part of any Permitted Liquidation, (b) any Transaction
+
+<<<
+
+ Security provided by, or in respect of, a Guarantor that ceases to be a Group Company (including, for the avoidance of doubt, any Transaction Security granted by, or in respect of, any of its Subsidiaries) and (c) any Transaction Security in
+
+<<<
+
+ accordance with the terms of the Intercreditor Agreement.
+
+8.5 The Issuer shall procure that any and all Security required to be created pursuant to the Security Principles is duly established and perfected in accordance with the Security Prineiples
+
+<<<
+
+.
+
+9
+
+Interest
+
+9.1 The Issuer shall pay interest on the par value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate").
+
+9.2 Interest payments shall be made in arrears on
+
+<<<
+
+ the Interest Payment Dates each year, the first Interest Payment Date falling in June 2015.
+
+9.3 The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date to, but excluding, the next following
+
+<<<
+
+ applicable Interest Payment Date, and thereafter from and including, that Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+
+9.4 The day count fraction ("Floating Rate Day Count Fraction") in respeet
+
+<<<
+
+ of the calculation of the payable interest amount shall be "Actual/3 60", which means that the number of days in the calculation period in which payment being made divided by 360.
+
+9.5 The applicable Floating Rate on the Bonds is set/reset
+
+<<<
+
+ on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period, based on the Bond Reference Rate two Business Days preceding that Interest Payment Date.
+
+When the
+
+<<<
+
+ interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and the actual number of calendar days up to that date shall immediately
+
+<<<
+
+ be notified to the Bondholders, the Issuer, the Paying Agent, and if the Bonds are listed, the Exchange.
+
+9.6 The payable interest amount per Bond for a relevant calculation period shall be calculated as foliows:
+
+Interest = Face
+
+x
+
+Amount
+
+<<<
+
+
+
+\Talue
+
+Floating
+
+x
+
+Floating Rate
+
+Rate
+
+Day Count Fraetion
+
+10
+
+Maturity of the Bonds aud Redemption
+
+10.1 Maturity
+
+/
+
+2
+
+// 7
+
+I
+
+27/56
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer
+
+<<<
+
+.
+
+10.2 Call Option
+
+10.2.1 The Issuer may redeem the Bonds, in whole or in part, as foliows (Call Option):
+
+(a) with settlement date at any time from and including the Issue Date to, but not including the first Interest Payment Date falling
+
+<<<
+
+ after 36 months after the Issue Date, at a price equal to
+
+(i)
+
+the Face Value plus
+
+(ii) the higher of:
+
+a. 4.517% of the Face Value; and
+
+b. an amount equal to:
+
+I.
+
+104.517% of the Face Value; plus
+
+II.
+
+all remaining scheduled interest
+
+<<<
+
+ payments (assuming
+
+that the Floating Rate for the period from the relevant
+
+date to the first Interest Payment Date falling after 36
+
+months after the Issue Date will be equal to the
+
+Floating Rate in effect on the date on which the
+
+applicable
+
+<<<
+
+ notice of redemption is given) on the
+
+Bonds until the first Interest Payment Date falling
+
+after 36 months after the Issue Date (but excluding
+
+accrued and unpaid interest up to the relevant
+
+redemption date),
+
+discounted (for the time period
+
+<<<
+
+ starting from the date the relevant Bonds are redeemed until the first Interest Payment Date falling after 36 months after the Issue Date) using a rate equal to the U.S. Treasury Rate plus 0.50%; minus
+
+III. the Face Value; plus
+
+(iii) accrued
+
+<<<
+
+ and unpaid interest on redeemed amount;
+
+(b) with settlement date at any time from and including the first Interest Payment Date falling after 36 months after the Issue Date to, but excluding, the first Interest Payment Date falling after 
+
+<<<
+
+48 months after the Issue Date at 104.517% of the Face Value plus accrued and unpaid interest on redeemed amount,
+
+(c) with settlement date at any time from and including the first Interest Payment Date falling after 48 months after the Issue
+
+<<<
+
+ Date to, but excluding, the first Interest Payment Date falling after 60 months after the Issue Date at 102.259% of the Face Value plus accrued and unpaid interest on redeemed amount; and
+/
+
+/
+/
+/
+
+28/56
+(d) with settlement date on any Business
+
+<<<
+
+ Day from and including the first Interest Payment Date falling after 60 months after the Issue Date to, but excluding, the Maturity Date at the Face Value plus accrued and unpaid interest on redeemed amount.
+
+10.2.2 Exercise of the Call Option
+
+<<<
+
+ shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty Business Days prior to the settlement date of the Call Option.
+
+10.2.3 Partial redemption must be carried out pro rata (in accordance with the
+
+<<<
+
+ procedures of the Securities Depository).
+
+10.2.4 On the settlement date of the Call Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the principal amount of such Bond (including
+
+<<<
+
+ any premium as stated above) and any unpaid interest accrued up to the settlement date.
+
+10.2.5 Bonds redeemed by the Issuer in accordance with this Clause 10.2 shall be discharged against the Outstanding Bonds.
+
+10.3 Voluntary partial prepayment
+
+<<<
+
+
+
+10.3.1 The Issuer may redeem Bonds with aggregate Face Value not exceeding 10% of the sum ofUSD 113,300,000 plus the total aggregate Face Value of any Bonds issued pursuant to a Tap Issue, on one Interest Payment Date per 12 month period from
+
+<<<
+
+ (but excluding) the Issue Date to (but excluding) the first Interest Payment Date falling after 36 months after the Issue Date (without carry-back or carry forward) at a price equal to 103.00% of the Face Value of the Bonds redeemed.
+
+10.3
+
+<<<
+
+.2 Exercise of the voluntary partial prepayment shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least twenty Business Days prior to the settlement date of the prepayment.
+
+10.3.3 On the settlement date of
+
+<<<
+
+ the voluntary partial prepayment, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the principal amount of such Bond (including the premium as stated above) and any unpaid interest
+
+<<<
+
+ accrued up to the settlement date.
+
+10.3.4 Voluntary partial prepayments must be carried out pro rata (in accordance with the procedures of the Securities Depository).
+
+10.3.5 Bonds redeemed by the Issuer in accordance with this Clause 10.
+
+<<<
+
+3 shall be discharged against the Outstanding Bonds.
+
+10.4 Equity Clawback
+
+10.4.1 The Issuer may at any time prior to the first Interest Payment Date falling after 36 months after the Issue Date, by using the net cash proceeds received by the
+
+<<<
+
+ Group from an Equity Offering, repay at 107.395% of par, Bonds with a total aggregate Face Value not exceeding 40% of the aggregate ofUSD 113,300,000 plus the total aggregate Face Value of any Bonds issued pursuant to a Tap Issue.
+
+/
+/.
+
+(
+
+<<<
+
+........
+
+29/56
+10.4.2 Redemptions pursuant to this Clause 10.4 must be carried out pro rata (in accordance with the procedures of the Securities Depository).
+
+10.4.3 Exercise of the equity clawback shall be notified by the Issuer in writing
+
+<<<
+
+ to the Bond Trustee and the Bondholders at least ten days, but no more than 60 days prior to the settlement date of the prepayment.
+
+10.5 Change ofcontrol
+
+10.5.1 Upon the occurrence of
+
+(a) a Sale Event, or
+
+(b) a Change of Control Event,
+
+<<<
+
+
+
+each Bondholder shall have the right to require that the Issuer redeems its Bonds (a "Put Option") at aprice of 101.00% of par.
+
+10.5.2 The Put Option must be exercised within thirty calendar days after the Issuer has given notification to
+
+<<<
+
+ the Bond Trustee of a Change of Control Event or Sale Event. The Issuer shall give such notification promptly after a Change of Control Event or Sale Event has taken place.
+
+10.5.3 The Put Option may be exercised by each Bondholder by giving
+
+<<<
+
+ written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent of the redemption request. The settlement date of the Put Option shall be within 20 Business Days after the end of the thirty calendar days
+
+<<<
+
+ exercise period of the Put Option.
+
+10.5.4 On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, the principal amount of each such Bond (including any premium pursuant to Clause
+
+<<<
+
+ 10.5.1) and any unpaid interest accrued up to (but not including) the settlement date of the Put Option.
+
+11
+
+Payments
+
+11.1 Covenant to pay
+
+11.1.1 The Issuer will on any Payment Date (or any other due date pursuant to any Finance Document
+
+<<<
+
+) unconditionally pay to or to the order of the Bond Trustee all amounts due under this Bond Agreement or any other Finance Document.
+
+11.1.2 The covenant contained in Clause 11.1.1 shall be for the benefit of the Bond Trustee and the Bondholders
+
+<<<
+
+.
+
+11.2 Payment mechanics
+
+11.2.1 If no specific order is made by the Bond Trustee under Clause 11.1.1, the Issuer shall pay all amounts due to the Bondholders under this Bond Agreement or any other Finance Document by crediting the bank account
+
+<<<
+
+ nominated by each Bondholder in connection with its securities account in the Securities Depository.
+/
+
+/
+
+/
+
+30/56
+11.2.2 Payment shall be deemed to have been made once the amount has been credited to the bank which holds the bank account
+
+<<<
+
+ nominated by the Bondholder in question, but ifthe paying bank and the receiving bank are the same, payment shall be deemed to have been made once the amount has been credited to the bank account nominated by the Bondholder in question, see
+
+<<<
+
+ however Clause 11.3.
+11.2.3 In case ofirregular payments, the Bond Trustee may instruct the Issuer, the Bondholders or others of other payment mechanisms than described in Clause 11.2.1 or 11.2.2 above. The Bond Trustee may also obtain payment
+
+<<<
+
+ information regarding Bondholders' accounts from the Securities Depository or Account Managers.
+11.2.4 Subject to Clause 11.3, payment by the Issuer in accordance with this Clause 11.2 shall constitute good discharge of its obligations under
+
+<<<
+
+ Clause 11.1.1.
+11.3 Currency
+11.3.1 If the Bonds are denominated in other currencies than NOK, each Bondholder has to provide the Paying Agent (either directly or through its Account Manager) with specific payment instructions, including foreign
+
+<<<
+
+ exchange bank account details. Depending on any currency exchange settlement agreements between each Bondholder's bank and the Paying Agent, cash settlement may be delayed, and payment shall be deemed to have been made at the date of the cash
+
+<<<
+
+ settlement, provided however, that 110 default interest or other penalty shall accrue for the account of the Issuer.
+11.3.2 Except as otherwise expressly provided, all amounts payable under this Bond Agreement and any other Finance Document
+
+<<<
+
+ shall be payable in the same currency as the Bonds are denominated in. If, however, the Bondholder has not given instruction as set out in Clause 11.3 within five Business Days prior to a Payment Date, the cash settlement will be exchanged
+
+<<<
+
+ into NOK and credited to the NOK bank account registered with the Bondholder's account in the Securities Depository.
+11.3.3 Amounts payable in respect of costs, expenses, taxes and other liabilities of a similar nature shall be payable in the
+
+<<<
+
+ currency in which they are incurred.
+11.4 Set-off andcounterclaims
+The Issuer may not apply or perform any counterclaims or set-off against any payment obligations pursuant to this Bond Agreement or any other Finance Document.
+11.5 Interest
+
+<<<
+
+ in the event of late payment
+11.5.1 In the event that any amount due under this Bond Agreement or any Finance Document is not made on the relevant due date, the unpaid amount shall bear interest from the due date at an interest rate equivalent
+
+<<<
+
+ to the interest rate according to Clause 9 plus one percentage point (1.00%) per annum.
+11.5.2 Accrued default interest shall not be capitalised.
+11.5.3 The unpaid amounts shall bear interest as stated above, whether or not the Bonds are deciared
+
+<<<
+
+ to be in default pursuant to Clauses 15.1(a), 15.2, 15.3 and 15.4.
+7 / 7_
+
+31/56
+11.6 Partialpayments
+
+If the Bond Trustee or the Paying Agent receives a payment that is insufficient to discharge all the amounts then due and payable under
+
+<<<
+
+ the Finance Documents, that payment shall be applied in the following order:
+
+(a) first, in or towards payment of any unpaid fees, costs and expenses of the Bond Trustee under the Finance Documents;
+
+(b) secondly, in or towards payment of any
+
+<<<
+
+ accrued interest due but unpaid under the Bond Agreement, pro rata and without any preference or priority of any kind; and
+
+(c) thirdly, in or towards payment of any principal due but unpaid under the Bond Agreement, pro rata and without any
+
+<<<
+
+ preference or priority of any kind.
+
+12
+
+Issuer's acquisition of Bonds
+
+The Issuer and the other Group Companies have the right to acquire and own Bonds. Any Group Company's holding of Bonds may at the Group Company's discretion be retained
+
+<<<
+
+, sold or, if held by the Issuer, discharged.
+
+13
+
+Covenants
+
+13.1 General
+13.1.1 The Issuer undertakes from the date of this Bond Agreement and until such time that no amounts are outstanding under this Bond Agreement or any other Finance Document
+
+<<<
+
+, to the Bond Trustee, as further sel out in this Clause 13.
+13.2 Information Covenants
+13,2.1 The Issuer shall:
+(a) without being requested to do so, promptly inform the Bond Trustee in writing of any Change of Control Event, Sale Event (as
+
+<<<
+
+ defined in Clause 10.5.1), any Event of Default, any event or circumstance which could reasonably be expected to lead to an Event of Default aud any other event which could reasonably be expected to have a Material Adverse Effect;
+(b) without
+
+<<<
+
+ being requested to do so, inform the Bond Trustee in writing if the Issuer agrees to seil or dispose of all or a substantial part of its assets or operations, or change the nature of its business;
+(c) without being requested to do so, prepare
+
+<<<
+
+ Financial Statements aud make them available to the Bond Trustee and on its website in the English language not later than four months after the end of the financial year;
+(d) without being requested to do so, prepare Interim Accounts aud make
+
+<<<
+
+ them availabie to the Bond Trustee and on its website in the English language not later than two months after the end of the relevant quarter;
+
+32/56
+(e) at the request of the Bond Trustee, report the balance of the Issuer's Bonds;
+
+(f) without
+
+<<<
+
+ being requested to do so, send the Bond Trustee copies of any statutory notifications of the Issuer, including but not limited to in connection with mergers, de-mergers and reduction of the Issuer's share capital or equity;
+
+(g) ifthe Bonds
+
+<<<
+
+ are listed on an Exchange, without being requested to do so, send a copy to the Bond Trustee of its notices to the Exchange;
+
+(h) if the Issuer and/or the Bonds are rated, without being requested to do so, inform the Bond Trustee of its and
+
+<<<
+
+/or the rating of the Bond Issue, and any changes to such rating;
+
+(i)
+
+without being requested to do so, inform fhe Bond Trustee of changes in the
+
+registration of the Bonds in the Securities Depository (however, the Bond
+
+trustee is entitled
+
+<<<
+
+ to receive such information from the Security Depository
+
+or Paying Agent directly);
+
+(i)
+
+within a reasonable time, provide such information about the Issuer and its
+
+Subsidiaries business, assets, financial condition and any Event of Default
+
+<<<
+
+
+
+reported by the Issuer as the Bond Trustee may reasonably request; and
+
+(k) notify the Bond Trustee of the identities of the Material Group Companies as soon as practicable after the testing dates set out in paragraph (ii) of Clause 13.4(h
+
+<<<
+
+) (Guarantor coverage).
+
+13.2.2 The Issuer shall (i) in connection with the publication of its financial reports under Clause 13.2.1(c), and (ii) in connection with any action requiring compliance with the Incurrence Test, provide to the Bond
+
+<<<
+
+ Trustee a Compliance Certificate. The Compliance Certificate shall be signed by the Chief Executive Officer or Chief Financial Officer of the Issuer.
+
+13.3 General Covenants
+
+(a) Mergers
+A. The Issuer shall not carry out any merger or other
+
+<<<
+
+ business combination or corporate reorganisation involving a consolidation of its assets and obligations with any other person (for the purpose ofthis paragraph A., each a "merger"), except for a merger with another Norwegian private limited
+
+<<<
+
+ liability company (No: aksjeselskap), where the Issuer is the surviving entity and the Parent remains the owner of 100% of the shares in the Issuer after the completion of that merger and provided that:
+
+(i) the merger does not have, and could
+
+<<<
+
+ not reasonably be expected to have, a Material Adverse Effect;
+
+(ii) the validity, enforceability, effectiveness and ranking of any Transaction Security will not be adversely affected by that merger;
+
+/v
+//
+
+33/56
+(iii) if the merger involves
+
+<<<
+
+ another Group Company, the Issuer has provided evidence (satisfaetory to the Bond Trustee) that the merger will not contravene with any applicable law or regulation (including (without limitation) restrictions on financial assistance); and
+
+<<<
+
+
+
+(iv) to the extent the merger constitutes a disposal, it complies with any of limbs (i) to (iv), or the reinvestment regime set out in (v), of Clause (d) (Disposals) below.
+
+B. The Issuer shall procure that no other Group Company will carry
+
+<<<
+
+ out any merger if such transaction has, or could reasonably be expected to have, a Material Adverse Effect and, to the extent the merger constitutes a disposal, it complies with any of limbs (i) to (iv), or the reinvestment regime set out in
+
+<<<
+
+ (v), of Clause (d) (Disposals) below, provided that the restrictions contained in this paragraph B. shall not apply to the Merger.
+
+(b) De-mergers
+The Issuer shall not, and shall ensure that no other Group Company will, carry out any de-merger
+
+<<<
+
+ or other corporate reorganization involving splitting the Issuer or any other Group Company, except for a de-merger or other corporate reorganisation involving a split of a Group Company (other than the Issuer) carried out at fair market value
+
+<<<
+
+ and on terms customary for such transaetions, and to the extent the transaetion constitutes a disposal, it complies with any of paragraphs (i) to (iv), or the net proceeds received by a Group Company are applied in accordance with paragraph
+
+<<<
+
+ (v), of Clause (d) (Disposals) below.
+
+(c) Continuation of business
+The Issuer shall procure that 110 substantial change is made to the general nature of the business carried on by the Group foliowing the completion of the Merger.
+
+(d) Disposals
+
+<<<
+
+
+The Issuer shall not, and shall procure that no other Group Company will, sell or otherwise dispose of any of its assets or operations, except for (each, a "Permitted Disposal"):
+
+(i)
+
+disposals of assets (other than shares in Material Group
+
+<<<
+
+ Companies,
+
+businesses, real property and material intellectual property rights) (A) in its
+
+ordinary course of business or (B) in exchange for other assets reasonably
+
+comparable or superior as to type, value and quality;
+
+(ii) disposals of
+
+<<<
+
+ assets which are seized, expropriated or acquired by compulsory purchase by or by the order of any central or local government authority in circumstances which do not constitute an Event of Default;
+
+(iii) disposals to another Group Company
+
+<<<
+
+;
+
+(iv) disposals where the consideration does not (in aggregate) exceed the greater of (A) 0.25% of total assets of the Group and (B) USD 750,000 during any 12-month period; and
+
+/,
+
+3 4/5 6
+(v) disposals, not otherwise permitted by paragraph
+
+<<<
+
+ (i) through (iv) above provided that (A) the disposal is carried out at fair market value and on terms and conditions customary for such disposals, (B) at least 75% of the aggregate consideration (for this purpose disregarding any considerations
+
+<<<
+
+ which are contingent upon the performance of the operations of the entity being disposed of and which is not capable of being determined on the date of the disposal) for the relevant asset(s) or operation(s) is paid in cash or cash equivalent
+
+<<<
+
+ investments and (C) the net proceeds from the relevant disposal is, within 12 months ofreceipt, applied:
+(1) towards financing, in whole or in part, the acquisition of assets and/or research and development (including (without limitation) the
+
+<<<
+
+ financing of any acquisition permitted under Clause 13.4(e) (Acquisitions) below);
+(2) in repayment (and a corresponding cancellation) of Super Senior Debt Liabilities;
+(3) in financing the redemption of Bonds or any Permitted Pari Passu Liabilities
+
+<<<
+
+, in the case of the Bonds, either in aecordance with the optional redemption terms set out herein or foliowing a tender offer to the Bondholders at a tender price not less than par value; or
+(4) used in a combination of (1) to (3) above.
+If
+
+<<<
+
+ the net proceeds of Permitted Disposal in an arnount exceeding USD 1,000,000 per annum have not been used aceording to items (1) through (4) above, the Issuer shall make a tender offer to Bondholders and holders of Permitted Pari Passu Liabilities
+
+<<<
+
+ (only to the extent required by the terms thereof) on a pro rata basis for the balance per annum to repurehase Bonds at a tender price not less than par value.
+(e) Dealings with relatedparties
+The Issuer shall, and shall procure that each of
+
+<<<
+
+ the other Group Companies shall, eonduet all dealings with the direet and indireet shareholders of the Group Companies (excluding other Group Companies) and/or any affihiates of such direct and indirect shareholders on arm's length terms.
+
+
+<<<
+
+13.4 Special Covenants
+(a) Distributions and other transactions
+(i) The Issuer shall not and shall make sure that no Group Company shall:
+(a) make any prepayments prior to scheduled repayment with respeet to interest, principal or any other
+
+<<<
+
+ amounts that may be payable under any Subordinated Debt other than as allowed under the Intercreditor Agreement;
+(b) pay any management, advisory or other fee to the Issuer's (direet or indirect) shareholders;
+/
+
+3 5/56
+(c) make any dividend
+
+<<<
+
+ payment, repurchase of shares or make any other distributions (ineluding (without limitation) in the form of a reduction in its share capital or repayment of share premium) to its shareholders; or
+(d) make any payment with respect to interest
+
+<<<
+
+, principal or any other amounts that may be payable under any Structural Loans,
+if such payment (each, a "Restricted Payment"), together with all other payments under items (a) through (d) above made since the Issue Date, together exceed the
+
+<<<
+
+ Basket, subject also to compliance with the Incurrence Test (for which purposes the ratio of Total Net Debt to Consolidated EBITDA must not be greater than 2.75 to 1.00) at the time of such payment and that no Event of Default has occurred
+
+<<<
+
+ and is continuing under the Bonds.
+(ii) Notwithstanding paragraph (i) above, a Group Company may:
+(a) make a dividend payment in an amount not exceeding the principal amount of the Structural Parent Loan and interest accrued thereon for the
+
+<<<
+
+ sole purpose of extinguishing the Structural Parent Loan provided that the full amount of that dividend payment is set off against the amount of the Structural Parent Loan and that no cash or assets are transferred from the Issuer as a result
+
+<<<
+
+ thereof,
+(b) redeem, repurchase or acquire equity interests or warrants or options for equity interests in (A) a (direct or indirect) shareholder of the Issuer, provided that the aggregate amount does not exceed USD 2,25 0,000 within any 1
+
+<<<
+
+2 month period and (B) any Group Company, in each case held by officers, directors or employees or former employees of the Group;
+(c) pay (A) investor directors fees, (B) annual monitoring fees and/or (C) expenses related to holding company
+
+<<<
+
+ activities of a Holding Company of the Issuer, in an aggregate amount not exceeding USD 750,000 within any 12 month period;
+(d) make group contributions to any of its Holding Companies provided that, if such group contribution is made to a
+
+<<<
+
+ Holding Company of the Issuer, no cash or other assets are transferred from the relevant Group Company as a result thereof and any claim arising in connection therewith is, as soon as practically possible, converted into equity in the Issuer
+
+<<<
+
+ (via the Parent);
+(e) in the case of the Target Group only, make such distributions as necessary to facilitate the payment of part of the merger consideration under the merger agreement entered into in connection with the Merger in accordance
+
+<<<
+
+ with the terms thereof;
+(f) make payments under service contracts, entered into on arms length terms, with officers, directors or employees who hold (direetly or indirectly) shares in a Group Company; and
+
+/
+
+v v-
+
+36/56
+(g) make dividend
+
+<<<
+
+ payments and other distributions to the Issuer or to another Group Company and pro rata dividends and distributions payable to minority equity holders of any Group Company (other than the Issuer).
+No payment under (a) or (c) may, however, be
+
+<<<
+
+ made if an Event of Default is continuing or would occur as a result of such payment. Payments made under (a) to (g) will not reduce or be added to the Basket for the purpose offuture calculations of the Basket.
+(b) Financial Indebtedness
+The
+
+<<<
+
+ Issuer shall not, and shall procure that none of the other Group Companies shall, incur any new, or maintain or extend any existing, Financial Indebtedness, provided however that the Group Companies have a right to incur, maintain and extend
+
+<<<
+
+ Financial Indebtedness which eoiistitutes Perinitied Financial Indebtedness.
+(c) Negative pledge
+The Issuer shall not, and shall procure that none of the other Group Companies, create or allow to subsist, retain, provide, prolong or renew any
+
+<<<
+
+ Security, provided however that each Group Company has a right to retain, provide, prolong and renew any Permitted Security.
+(d) Financial support
+The Issuer shall not, and shall procure that none of the other Group Companies will, be a creditor
+
+<<<
+
+ in respect of any Financial Indebtedness or incur or allow to remain outstanding any guarantee in respect of any obligation of any person, except for Permitted Financial Support.
+(e) Acquisitions
+The Issuer shall not, and shall ensure that
+
+<<<
+
+ no other Group Company will, acquire a company or any shares or securities or a business or undertaking (or, in each case, any interest in any of them), except for (a) the Merger and (b) an acquisition by a Group Company which does not have
+
+<<<
+
+ a Material Adverse Effect (each, a "Permitted Acquisition"),
+ffi No dividend restrictions
+The Issuer shall not, and shall procure that none of the other Group Companies will, create or allow to subsist any contractual restrictions on payments
+
+<<<
+
+ of dividends or payments from a Group Company to the Issuer or from a Group Company to a Guarantor, except for:
+(a) such contractual obligations that will not be reasonably likely to prevent the Issuer from complying with its payment obligations
+
+<<<
+
+ hereunder;
+(b) such obligations of a person which becomes a Group Company after the Disbursement Date where such obligation is discharged within three months of the date which it became a Group Company; and
+(c) such obligations contained in
+
+<<<
+
+ any shareholders' agreement entered into in respect of a partially-owned Group Company or its assets, provided that the
+//
+
+37/56
+relevant Group Company was not a Material Group Company when the relevant obligation was undertaken in respect
+
+<<<
+
+ of that Group Company.
+(g) Holding company
+The Issuer shall not trade, carry on any business or own any material assets, except for (i) the provision of administrative services to other Group Companies of a type customarily provided by a holding
+
+<<<
+
+ company, (ii) ownership of shares in any company (provided that the shares in any Guarantor are pledged as security in favour of the Secured Parties in accordance with the terms and conditions of the Intercreditor Agreement), (iii) cash and
+
+<<<
+
+ cash equivalents, (iv) any loans with other Group Companies, (v) incurrence of Financial Indebtedness permitted to be incurred under this Bond Agreement; (vi) the ownership of cash and cash equivalents or other activities related to cash management
+
+<<<
+
+ activities on behalf of the Group, (vii) making investments in the Bonds and making dividends and other distributions not prohibited under this Bond Agreement and (viii) other activities not specified above that are de minimis in nature.
+(h
+
+<<<
+
+) Guarantor coverage
+(i) The Issuer shall, subject to the Security Principles, ensure that (A) each Material Group Company is a Guarantor and (B) the aggregate of earnings before interest, tax, depreciation and amortisation (calculated on the
+
+<<<
+
+ same basis as Consolidated EBITDA)("EBITDA") and aggregate gross assets of the Guarantors (in each case calculated on an unconsolidated basis and excluding all intra-Group items, investments in Subsidiaries and goodwill of any Group Company
+
+<<<
+
+) represents not less than 80% of Consolidated EBITDA and consolidated gross assets of the Group (excluding goodwill on a Group basis).
+(ii) Compliance with the conditions set out in paragraph (i) above shall be tested (x) for the first time
+
+<<<
+
+ on the date falling 120 days after the Disbursement Date (unless the Target is at that date undergoing a process of solvent liquidation, in which case the condition shall be tested on the earlier of (i) as soon as practicable after the completion
+
+<<<
+
+ of the liquidation process and (ii) the date falling 180 days after the Disbursement Date) and (y) thereafter on an annual basis 60 days after the Financial Statements have been, or should have been, supplied by the Issuer and by reference
+
+<<<
+
+ to such Financial Statements, provided that the gross assets and EBITDA of Group Companies which are not required to become Guarantors in accordance with the Security Principles, shall be disregarded in the calculations.
+(i) Special tax liabilities
+
+<<<
+
+
+The Issuer shall, no later than the date falling one month after the completion of the Merger, provide the Bond Trustee with a certificate, signed by an authorised signatory of the Issuer, confirming that the cash balance of the Group (on a
+
+<<<
+
+ consolidated basis), adjusted for normalised working capital and after deducting (a) the amount drawn under any working capital facility made available to a Group Company (b) any overdue accounts payable of the Group and (c) costs and expenses
+
+<<<
+
+ estimated on the date of the certificate payable by the Target in connection with the Merger (to the extent not already paid), is equal to or greater than the amount of the
+/
+
+38/56
+taxes payable in connection with (a) the completion of the
+
+<<<
+
+ Merger and (b) the subsequent liquidation of the Target, as evidenced by the Structure Memorandum.
+
+14
+
+Fees and expenses
+
+14.1 The Issuer shall cover all costs aud expenses incurred by il or the Bond Trustee (and/or the Security Agent) in
+
+<<<
+
+ connection with this Bond Agreement and the fulfilment of its obligations under this Bond Agreement or any other Finance Document, including in connection with the negotiation, preparation, execution and enforcement of this Bond Agreement and
+
+<<<
+
+ the other Finance Documents and any registration or notifications relating thereto (including any stamp duty), the listing of the Bonds on an Exchange (if applicable), aud the registration and administration of the Bonds in the Securities Depository
+
+<<<
+
+. The Bond Trustee may withhold funds from any escrow account (or similar arrangement) or from other funds received from any Obligor or any other person, irrespective of such funds being subject to Security under a Finance Documents, to set
+
+<<<
+
+-off and cover any such costs and expenses.
+14.2 The fees, costs and expenses payable to the Bond Trustee (and/or the Security Agent) shall be paid by the Issuer and are set out in a separate agreement between the Issuer aud the Bond Trustee
+
+<<<
+
+ (and/or the Security Agent).
+14.3 Fees, costs and expenses payable to the Bond Trustee (or the Security Agent) which, due to the Issuer' s insolvency or similar circumstances, are not reimbursed in any other way may be covered by making an
+
+<<<
+
+ equivalent reduction in the proceeds to the Bondholders hereunder of any costs and expenses incurred by the Bond Trustee (or the Security Agent) in connection with the restructuring or default of the Bond Issue and the enforcement of any Finance
+
+<<<
+
+ Document.
+14.4 Any public fees levied on the trade of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise provided by law or regulation, and the Issuer is not responsible for reimbursing any such fees.
+14.5 The
+
+<<<
+
+ Issuer is responsible for withholding any withholding tax imposed by applicable law on any payments to the Bondholders.
+14.6 If the Issuer is required by law to withhold any withholding tax from any payment under any Finance Document:
+(a) the
+
+<<<
+
+ amount of the payment due from the Issuer shall be increased to such amount which is necessary to ensure that the Bondholders receive a net amount which is (after making the required withholding) equal to the payment which would have been due
+
+<<<
+
+ if no withholding had been required; and
+(b) the Issuer shall at the request of the Bond Trustee deliver to the Bond Trustee evidence that the required tax reduction or withholding has been made.
+14.7 If any withholding tax is imposed due to
+
+<<<
+
+ subsequent changes in applicable law after the date of this Bond Agreement, the Issuer shall have the right to call all but not some of the Bonds at par value plus accrued but unpaid interest. Such call shall be
+
+/
+
+39/56
+notified by the Issuer
+
+<<<
+
+ in writing to the Bond Trustee and the Bondholders at least thirty - 30 - Business Days prior to the settlement date of the call.
+
+15
+
+Events of Default
+
+15.1 The Bond Trustee may deciare the Bonds to be in default upon occurrence of any of
+
+<<<
+
+ the foliowing events:
+
+(a) Non-payment
+The Issuer fails to fulfil any payment obligation due under this Bond Agreement or any Finance Document when due, unless, in the opinion of the Bond Trustee, it is likely that such payment will be made
+
+<<<
+
+ in full within five Business Days foliowing the original due date.
+
+(b) Breach of other obligations
+The Parent or any Group Company does not comply with any provision pursuant to this Bond Agreement or any other Finance Document, unless, in
+
+<<<
+
+ the opinion of the Bond Trustee, such failure is capable of being remedied and is remedied within fifteen Business Days after notice thereof is given to the Issuer by the Bond Trustee.
+
+(c) Cross default If for any Obligor:
+
+(i)
+
+any Financial
+
+<<<
+
+ Indebtedness is neither paid when due nor within any
+
+originally applicable grace period;
+
+(ii) any Financial Indebtedness is deciared to be or otherwise becomes due and payable prior to its specified maturity as a result of an event of default
+
+<<<
+
+ (however described); or
+
+(iii) any commitment for any Financial Indebtedness is cancelled or suspended by a creditor as a result of an event of default (however described);
+
+always provided that a threshold in the aggregate amount of Financial
+
+<<<
+
+ Indebtedness or commitment for Financial Indebtedness falling within paragraphs (i) to (iii) above of total ofUSD 3,750,000, or the equivalent thereof in other currencies, shall apply.
+
+(d) Misrepresentations
+Any representation, warranty or
+
+<<<
+
+ statement (including statements in compliance certificates) made under this Bond Agreement or any other Finance Document or in connection therewith is or proves to have been incorrect, inaccurate or misleading in any material respect when made
+
+<<<
+
+ or deemed to have been made.
+
+(e) Insolvency
+
+(i)
+
+The Parent or any Obligor, is unable or admits inability to pay its debts as
+
+they fall due or suspends making payments on any of its debts.
+
+(ii) The value of the assets of the Parent or any
+
+<<<
+
+ Obligor is less than its liabilities (taking into account contingent and prospective liabilities)
+
+//.. v
+
+40/56
+(t) Insolvencyproceedings and dissolution If for the Parent or any Obligor, any corporate action, legal proceedings or other procedure
+
+<<<
+
+ step is taken in relation to:
+
+(i)
+
+the suspension of payments, a moratorium of any indebtedness, winding-up,
+
+dissolution, administration or reorganisation (by way of voluntary
+
+arrangement, scheme of arrangement or otherwise) other than solvent
+
+<<<
+
+
+
+liquidation or reorganization;
+
+(ii) a composition, compromise, assignment or arrangement with any creditor, having an adverse effect on the Issuer' s ability to perform its payment obligations hereunder; or
+
+(iii) the appointment of a liquidator
+
+<<<
+
+ (other than in respect of a solvent liquidation), receiver, administrative reeeiver, administrator, compulsory manager or other similar officer of any of its assets;
+
+or any analogous procedure or step is taken in any jurisdiction. This paragraph
+
+<<<
+
+ (f) shall not apply to any winding-up petition which is frivolous or vexatious and is discharged, stayed or dismissed within 14 days of commencement.
+
+(g) Creditors 'process
+Any Obligor having any of its assets impounded, confiseated, attached
+
+<<<
+
+ or subject to distraint, or is subj ect to enforcement of any Security over any of its assets, having an aggregate value as set out in paragraph (c) above,
+
+(h) Impossibility or ille galily
+It is or becomes impossible or unlawful for any Group
+
+<<<
+
+ Company to fulfil or perform any of the material terms of any Finance Document to which it is a party.
+
+(i) Material Adverse Change
+Any other event or circumstance occurs which, in the reasonable opinion of the Bond Trustee, after consultations
+
+<<<
+
+ with the Issuer, would have a Material Adverse Effect.
+
+15.2 In the event that one or more of the circumstances mentioned in Clause 15.1 occurs and is continuing, the Bond Trustee can, in order to protect the interests of the Bondholders, deciare
+
+<<<
+
+ the Outstanding Bonds including accrued interest, costs and expenses to be in default and due for immediate payment.
+
+The Bond Trustee may at its discretion, take every measure necessary to recover the amounts due under the Outstanding Bonds
+
+<<<
+
+, and all other amounts outstanding under this Bond Agreement and any other Finance Document, including any other contractual and non-contractual claims that are derived therefrom or in connection therewith.
+
+15.3 In the event that one or more
+
+<<<
+
+ of the circumstances mentioned in Clause 15.1 occurs and is continuing, the Bond Trustee shall deciare the Outstanding Bonds including acerued interest, costs aud expenses to be in default and due for immediate payment if:
+
+K1
+
+41/56
+(a) the
+
+<<<
+
+ Bond Trustee receives a demand in writing that a default shall be deciared from Bondholders representing at least 1/5 of the Voting Bonds, and the Bondholders' Meeting has not decided on other solutions, or
+
+(b) the Bondholders' Meeting has
+
+<<<
+
+ with simple majority decided to deciare the Outstanding Bonds in default and due for payment.
+
+In either case the Bond Trustee shall take every measure necessary to recover the amounts due under the Outstanding Bonds.
+
+15.4 In the event that
+
+<<<
+
+ the Bond Trustee pursuant to the terms of Clauses 15.2 or 15.3 deciares the Outstanding Bonds to be in default and due for payment, the Bond Trustee shall immediately deliver to the Issuer a notice demanding payment of interest and principal
+
+<<<
+
+ due to the Bondholders under the Outstanding Bonds including accrued but unpaid interest and interest on overdue amounts and expenses. The claim derived from the Outstanding Bonds due for payment as a result of an Event of Default shall be
+
+<<<
+
+ calculated at the price set out in Clause 10.2.1(b).
+
+16
+
+Bondholders' Meeting
+
+16.1 Authority of the Bondholders ' Meeting
+16.1.1 The Bondholders' Meeting represents the supreme authority of the Bondholders community in all matters relating
+
+<<<
+
+ to the Bonds, and has the power to make all decisions altering the terms and conditions of the Bonds, ineluding, but not limited to, any reduction of principal or interest and any conversion of the Bonds into other capital ciasses.
+16.1.2 The
+
+<<<
+
+ Bondholders' Meeting cannot resolve that any overdue payment of any instalment shall be reduced unless there is a pro rata reduction of the principal that has not fallen due, but may resolve that accrued interest (whether overdue or not) shall
+
+<<<
+
+ be reduced without a corresponding reduction of principal.
+16.1.3 If a resolution by or an approval of the Bondholders is required, such resolution shall be passed at a Bondholders' Meeting, sec however Clause 17.1. Resolutions passed at Bondholders
+
+<<<
+
+' Meetings shall be binding upon all Bondholders and prevail for all the Bonds.
+16.2 Procedural rules for Bondholders' meetings
+16.2.1 A Bondholders' Meeting shall be held at the written request of:
+(a) the Issuer;
+(b) Bondholders representing
+
+<<<
+
+ at least 1/10 of the Voting Bonds;
+(c) the Exchange, ifthe Bonds are listed; or
+(d) the Bond Trustee.
+
+/
+/
+/
+
+42/56
+16.2.2 The Bondholders' Meeting shall be summoned by the Bond Trustee. A request for a Bondholders' Meeting shall be made in
+
+<<<
+
+ writing to the Bond Trustee, and shall clearly state the matters to be diseussed.
+
+16.2.3 If the Bond Trustee has not summoned a Bondholders' Meeting within ten Business Days after having received a valid request, then the requesting party
+
+<<<
+
+ may summons the Bondholders' Meeting itseif.
+
+16.2.4 The summons to a Bondholders' Meeting shall be dispatched no later than ten Business Days prior to the date of the Bondholders' Meeting. The summons and a confirmation of each Bondholder
+
+<<<
+
+'s holdings of Bonds shall be sent to all Bondholders registered in the Securities Depository at the time of distribution. The Exchange shall also be informed if the Bonds are listed.
+
+16.2.5
+
+The summons shall specify the agenda of the Bondholders
+
+<<<
+
+' Meeting. The Bond Trustee may in the summons also set out other matters on the agenda than those requested. If amendments to this Bond Agreement have been proposed, the main content of the proposal shall be stated in the summons.
+
+16.2.6 The
+
+<<<
+
+ Bond Trustee may restrict the Issuer from making any changes in the number of Voting Bonds in the period from distribution of the summons until the Bondholders' Meeting, by serving notice to it to such effect.
+
+16.2.7 Matters that have not
+
+<<<
+
+ been reported to the Bondholders in accordance with the procedural rules for summoning of a Bondholders' Meeting may only be adopted with the approval of all Voting Bonds.
+
+16.2.8 The Bondholders' Meeting shall be held on premises designated
+
+<<<
+
+ by the Bond Trustee. The Bondholders' Meeting shall be opened and shall, unless otherwise decided by the Bondholders' Meeting, be chaired by the Bond Trustee. If the Bond Trustee is not present, the Bondholders' Meeting shall be opened by a
+
+<<<
+
+ Bondholder, and be chaired by a representative elected by the Bondholders' Meeting.
+
+16,2.9 Minutes of the Bondholders' Meeting shall be kept. The minutes shall state the numbers of Bondholders and Bonds represented at the Bondholders' Meeting
+
+<<<
+
+, the resolutions passed at the meeting, and the result of the voting. The minutes shall be signed by the chairman and at least one other person elected by the Bondholders' Meeting. The minutes shall be deposited with the Bond Trustee and shall
+
+<<<
+
+ be available to the Bondholders.
+
+16.2.10 The Bondholders, the Bond Trustee and -provided the Bonds are listed representatives of the Exchange, have the right to attend the Bondholders' Meeting. The chairman may grant access to the meeting
+
+<<<
+
+ to other parties, unless the Bondholders' Meeting decides otherwise. Bondholders may attend by a representative holding proxy. Bondholders have the right to be assisted by an advisor. In case of dispute the chairman shall decide who may attend
+
+<<<
+
+ the Bondholders' Meeting and vote for the Bonds.
+
+16.2.11 Representatives of the Issuer have the right to attend the Bondholders' Meeting. The Bondholders' Meeting may resolve that the Issuer's representatives may not
+
+43/56
+participate in
+
+<<<
+
+ particular matters. The Issuer has the right to be present under the voting.
+16.3 Resolutions passed at Bondholders' Meetings
+16.3.1 At the Bondholders' Meeting each Bondholder may east one vote for each Voting Bond owned at ciose of business
+
+<<<
+
+ on the day prior to the date of the Bondholders' Meeting in accordance with the records registered in the Securities Depository. The Bond Trustee may, at its sole discretion, accept other evidence of ownership. Whoever opens the Bondholders
+
+<<<
+
+' Meeting shall adjudicate any question concerning which Bonds shall count as the Issuer' s Bonds. The Issuer' s Bonds shall not have any voting rights.
+For this purpose, a Bondholder that has a Bond that is nominee registered shall be deemed
+
+<<<
+
+ as the Bondholder of such Bond (instead of the nominee) provided that the Bondholder presents relevant evidence stating that the relevant Bondholder is the Bondholder of the Bond aud the amount of Bonds held by such Bondholder.
+16.3.2 In all
+
+<<<
+
+ matters, the Issuer, the Bond Trustee and any Bondholder have the right to demand vote by ballot. In case of parity of votes, the chairman shall have the deciding vote, regardless of the chairman being a Bondholder or not.
+16.3.3 In order to
+
+<<<
+
+ form a quorum, at least half (1/2) of the Voting Bonds must be represented at the meeting, see however Clause 16.4. Even if less than half (1/2) of the Voting Bonds are represented, the Bondholders' Meeting shall be held aud voting completed
+
+<<<
+
+.
+16.3.4 Resolutions shall be passed by simple majority of the Voting Bonds represented at the Bondholders' Meeting, unless otherwise set out in Clause 16.3.5.
+16.3.5 A majority of at least 2/3 of the Voting Bonds represented at the Bondholders
+
+<<<
+
+' Meeting is required for any waiver or amendment of any terrns of this Bond Agreement.
+16.3.6 The Bondholders' Meeting may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other
+
+<<<
+
+ Bondholders.
+16.3.7 The Bond Trustee shall ensure that resolutions passed at the Bondholders' Meeting are properly implemented, however, the Bond Trustee may refuse to carry out resolutions being in conflict with this Bond Agreement (or any
+
+<<<
+
+ other Finance Document) or any applicable law.
+16.3.8 The Issuer, the Bondholders aud the Exchange shall be notified of resolutions passed at the Bondholders' Meeting.
+16.4 Repeated Bondholders' Meeting
+16.4.1 If the Bondholders' Meeting does
+
+<<<
+
+ not form a quorum pursuant to Clause 16.3.3, a repeated Bondholders' Meeting may be summoned to vote on the same matters. The attendance and the voting result of the first Bondholders' Meeting shall be specified in the summons for the repeated
+
+<<<
+
+ Bondholders' Meeting.
+
+44/56
+16.4.2 The procedures and resolutions as set out in 16.2 and 16.3 above also apply for a repeated Bondholders' meeting, however, a valid resolution may be passed at a repeated Bondholders' Meeting even though less
+
+<<<
+
+ than half (1/2) of the Voting Bonds are represented.
+17 The Bond Trustee
+17.1 The role and authority of the Bond Trustee
+17.1.1 The Bond Trustee shall monitor the compliance by the Issuer of its obligations under this Bond Agreement and applicable
+
+<<<
+
+ laws and regulations which are relevant to the terms of this Bond Agreement, including supervision of timely and correct payment of principal or interest, (however, this shall not restrict the Bond Trustee from discussing matters of confidentiality
+
+<<<
+
+ with the Issuer), arrange Bondholders' Meetings, and make the decisions and implement the measures resolved pursuant to this Bond Agreement. The Bond Trustee is not obligated to assess the Issuer's financial situation beyond what is directly
+
+<<<
+
+ set out in this Bond Agreement.
+17.1.2 The Bond Trustee may take any step it in its sole discretion considers necessary or advisable to ensure the rights of the Bondholders in all matters pursuant to the terms of this Bond Agreement and is
+
+<<<
+
+ entitled to rely on advice from professional advisors. The Bond Trustee may in its sole diseretion postpone taking action until such matter has been put forward to the Bondholders' Meeting. The Bond Trustee is not obliged to take any steps
+
+<<<
+
+ to ascertain whether any Event of Default has occurred and until it has actual knowledge or express notice to the contrary the Bond Trustee is entitled to assume that no Event of Default has occurred.
+17.1.3 The Bond Trustee may make decisions
+
+<<<
+
+ binding for all Bondholders concerning this Bond Agreement, including amendments to this Bond Agreement and waivers or modifications of certain provisions, which in the opinion of the Bond Trustee, do not materially and adversely affect the
+
+<<<
+
+ rights or interests of the Bondholders pursuant to this Bond Agreement.
+17.1.4 The Bond Trustee may reach decisions binding for all Bondholders in circumstances other than those mentioned in Clause 17.1.3 provided that prior notification has
+
+<<<
+
+ been made to the Bondholders. Such notice shall contain a proposal of the amendment and the Bond Trustee' s evaluation. Further, such notification shall state that the Bond Trustee may not reach a decision binding for all Bondholders in the
+
+<<<
+
+ event that any Bondholder submits a written protest against the proposal within a deadline set by the Bond Trustee. Such deadline may not be less than five Business Days following the dispatch of such notification.
+17.1.5 The Bond Trustee may
+
+<<<
+
+ reach other decisions than set out in Clauses 17.1.3 or 17.1.4 to amend or rectify decisions which due to spelling errors, calculation mistakes, misunderstandings or other obvious errors do not have the intended meaning.
+17.1.6 The Bond Trustee
+
+<<<
+
+ may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+/
+
+45/56
+17.1.7 The Issuer, the Bondholders and the Exchange shall be notified of decisions made by the Bond
+
+<<<
+
+ Trustee pursuant to Clause 17.1 unless such notice obviously is unnecessary.
+17.1.8 The Bondholders' Meeting can decide to replace the Bond Trustee without the Issuer's approval, as provided for in Clause 16.3.5.
+17.1.9 The Bond Trustee may
+
+<<<
+
+ act as bond trustee and/or security agent for several bond issues relating to the Issuer notwithstanding potential conflicts of interest. The Bond Trustee may delegate exercise of its powers to other professional parties.
+17.1.10 The Bond Trustee
+
+<<<
+
+ may instruct the Paying Agent to split the Bonds to a lower denomination in order to facilitate partial redemptions or restructuring of the Bonds or other situations.
+17.2 Liability and indemnily
+17.2.1 The Bond Trustee is liable only for direct
+
+<<<
+
+ losses incurred by Bondholders or the Issuer as a result of gross negligence or wilful misconduct by the Bond Trustee in performing its functions and duties as set out in this Bond Agreement. Such liability is limited to the maximum amount
+
+<<<
+
+ set out in Clause 2.2. The Bond Trustee is not liable for the content of information provided to the Bondholders on behalf of the Issuer.
+17.2.2 The Issuer is liable for, and shall indemnify the Bond Trustee fully in respect of, all losses
+
+<<<
+
+, expenses and liabilities incurred by the Bond Trustee as a result ofnegligence by the Issuer (including its directors, management, officers, employees, agents and representatives) to fulfil its obligations under the terms of this Bond Agreement
+
+<<<
+
+ and any other Finance Document, including losses incurred by the Bond Trustee as a result of the Bond Trustee' s actions based on misrepresentations made by the Issuer in connection with the establishment and performance of this Bond Agreement
+
+<<<
+
+ and any other Finance Document.
+17.2.3 The Bond Trustee can as a condition for carrying out an instruction from the Bondholders (ineluding, but not limited to, instructions set out in Clause 15.3(a) or 16.2.1(b), require satisfactory security
+
+<<<
+
+ and indemnities for any possible liability and anticipated costs and expenses, from those Bondholders who requested that instruction and/or those who voted in favour of the decision to instruct the Bond Trustee. Any instructions from the Bondholders
+
+<<<
+
+ may be put forward to the Bondholders' Meeting by the Bond Trustee before the Bond Trustee takes any action.
+17.3 Change ofBond Trustee
+17.3.1 Change of Bond Trustee shall be carried out pursuant to the procedures set out in Clause 16. The
+
+<<<
+
+ Bond Trustee shall continue to carry out its duties as bond trustee until such time that a new Bond Trustee is elected.
+17.3.2 The fees and expenses of new bond trustee shall be covered by the Issuer pursuant to the terms set out in Clause
+
+<<<
+
+ 14, but may be recovered wholly or partially from the Bond Trustee if the change is due to a breach by the Bond Trustee of its duties
+/1
+
+46/56
+pursuant to the terms of this Bond Agreement or other circumstances for which the Bond Trustee
+
+<<<
+
+ is liable.
+
+17.3.3 The Bond Trustee undertakes to co-.operate so that the new bond trustee receives without undue delay foliowing the Bondholders' Meeting the documentation and information necessary to perform the functions as set out under
+
+<<<
+
+ the terms of this Bond Agreement.
+
+17.4 Appointment ofSecurity Agent
+
+17.4.1 The Bond Trustee is appointed to act as Security Agent for the Bond Issue,
+
+The main functions of the Security Agent may include holding Security on behalf of the
+
+<<<
+
+ Bondholders and monitoring compliance by the Issuer and other relevant parties with their respective obligations under this Bond Agreement and/or the Security Documents with respect to the Security.
+
+Before the appointment of a Security Agent
+
+<<<
+
+ other than the Bond Trustee, the Issuer shall be given the opportunity to state its views on the proposed Security Agent, but the final decision as to appointment shall lie exclusively with the Bond Trustee.
+
+17.4.2 The functions, rights and
+
+<<<
+
+ obligations of the Security Agent may be determined by a Security Agent agreement to be entered into between the Bond Trustee and the Security Agent, which the Bond Trustee shall have the right to require each Obligor and any other parties
+
+<<<
+
+ to any Security Document to sign as a party, or, at the diseretion of the Bond Trustee, to acknowledge. The Bond Trustee shall at all times retain the right to instruct the Security Agent in all matters.
+
+Any changes to this Bond Agreement
+
+<<<
+
+ necessary or appropriate in connection with the appointment of a Security Agent shall be documented in an amendment to this Bond Agreement, signed by the Bond Trustee.
+
+17.4.3 If so desired by the Bond Trustee (acting reasonably), any or all
+
+<<<
+
+ of the Security Documents shall be amended, assigned or re-issued, so that the Security Agent is the holder of the relevant Security (on behalf of the Bondholders). The costs ineurred in connection with such amendment, assignment or re-issue
+
+<<<
+
+ shall be for the account of the Issuer.
+
+18
+
+Miscellaneous
+
+18.1 The community ofBondholders
+
+By virtue of holding Bonds, which are governed by this Bond Agreement (which pursuant to Clause 2. 1.1 is binding upon all Bondholders), a community
+
+<<<
+
+ exists between the Bondholders, implying, inter alia, that:
+
+(a) the Bondholders are bound by the terms of this Bond Agreement;
+
+(b) the Bond Trustee has power and authority to act on behalf of, and/or
+
+represent; the Bondholders, in all matters
+
+<<<
+
+, included but not limited to taking
+
+any legal or other action, including enforcement of the Bond Issue and/or
+
+any Security, opening of bankruptcy or other insolvency proceedings;
+
+/
+
+/
+
+/
+
+47/56
+(c) the Bond Trustee has, in order to manage
+
+<<<
+
+ the terms of this Bond Agreement, access to the Securities Depository to review ownership of Bonds registered in the Securities Depository; and
+
+(d) this Bond Agreement establishes a community between Bondholders meaning that:
+
+(i)
+
+the Bonds
+
+<<<
+
+ rank pari passu between each other;
+
+(ii) the Bondholders may not, based on this Bond Agreement, act directly towards, and may not themselves institute legal proceedings against, the Issuer, guarantors or any other third party based on claims
+
+<<<
+
+ derived from the Finance Documents, including but not limited to recover the Bonds, enforcing any Transaction Security or pursuing claims against any party as a substitute for damages to the interests under the Finance Documents, regardiess
+
+<<<
+
+ of claims being pursued on a contractual or non-contractual basis, however not restricting the Bondholders to exercise their individual rights derived from this Bond Agreement;
+
+(iii) the Issuer may not, based on this Bond Agreement, act directly
+
+<<<
+
+ towards the Bondholders;
+
+(iv) the Bondholders may not cancel the Bondholders' community; and
+
+(v) the individual Bondholder may not resign from the Bondholders' community.
+
+18.2 Bond Defeasance
+
+18.2.1 The Issuer may, at its option aud at
+
+<<<
+
+ any time, elect to have certain obligations discharged (see Clause 18.2.2) upon complying with the foliowing conditions (the "Bond Defeasance"):
+
+(a) the Issuer shall have irrevocably pledged to the Bond Trustee for the benefit of the Bondholders
+
+<<<
+
+ cash or government bonds accepted by the Bond Trustee, or other security accepted by the Bond Trustee, (the "Defeasance Security") in such amounts as will be sufficient for the payment of principal (ineluding if applicable premium payable upon
+
+<<<
+
+ exercise of a Call Option) and interest on the Outstanding Bonds to Maturity Date (or upon an exercise of a Call Option plus applicable premium) or any other amount agreed between the Parties;
+
+(b)
+
+the Issuer shall have delivered to the Bond
+
+<<<
+
+ Trustee a duly signed certificate
+
+that the Defeasance Security was not made by the Issuer with the intent of
+
+preferring the Bondholders over any other creditors of the Issuer or with the
+
+intent of defeating, hindering, delaying or defrauding
+
+<<<
+
+ any other creditors of
+
+the Issuer or others; and
+
+(c) the Issuer shall have delivered to the Bond Trustee any certificate or legal opinion reasonably required by the Bond Trustee regarding the Bond
+
+i,
+
+48/56
+Defeasance including any statements
+
+<<<
+
+ regarding the perfection and enforceability, rights against other creditors (including any hardening period) and other issues regarding the Defeasance Security.
+18.2.2 Upon the exercise by the Issuer of the Bond Defeasance:
+(a) the Issuer shall
+
+<<<
+
+ be released from the obligations under all provisions in Clause 13, except Clauses 13.2.1(a), (e), (h), (i) and (j), or as otherwise agreed;
+(b) the Issuer shall not (and shall ensure that all Group Companies shall not) take any actions that
+
+<<<
+
+ may cause the value of the Defeasance Security to be reduced, and shall at the request of the Bond Trustee exedute, such further actions as the Bond Trustee may reasonably require;
+(c) any Guarantor(s) shall be discharged from their obligations
+
+<<<
+
+ under the Guarantee(s), and the Guarantee(s) shall cease to have any legal effect, or as otherwise agreed;
+(d) any Security for the Bond Liabilities other than the Defeasance Security shall be diseharged; and
+(e) all other provisions of this
+
+<<<
+
+ Bond Agreement (except as set out in (a) (c) above) shall remain fully in force without any modifications, or as otherwise agreed.
+18.2.3 All amounts owed by the Issuer hereunder covered by the Defeasance Security shall be applied by the Bond
+
+<<<
+
+ Trustee, in accordance with the provisions of this Bond Agreement, against payment to the Bondholders of all sums due to them under this Bond Agreement on the due date thereof.
+Any excess funds not required for the payment of principal, premium
+
+<<<
+
+ and interest to the Bondholders (including any expenses, fees etc. due to the Bond Trustee hereunder) shall be returned to the Issuer.
+18.2.4 ifthe Bonds are secured, the Defeasance Security shall be considered as a replacement of the Transaction
+
+<<<
+
+ Security established prior to the Defeasance Security.
+18.3 Limitation ofclaims
+All claims under the Bonds and this Bond Agreement for payment, including interest and principal, shall be subj ect to the time-bar provisions of the Norwegian
+
+<<<
+
+ Limitation ActofMay 18, 1979 No. 18.
+18.4 Access to information
+18.4.1 This Bond Agreement is available to anyone and copies may be obtained from the Bond Trustee or the Issuer. The Bond Trustee shall not have any obligation to distribute any
+
+<<<
+
+ other information to the Bondholders or others than explicitly stated in this Bond Agreement. The Issuer shall ensure that a copy of this Bond Agreement is available to the general public until all the Bonds have been fully discharged.
+i
+
+
+
+<<<
+
+49/56
+18.4.2 The Bond Trustee shall, in order to carry out its functions and obligations under this Bond Agreement, have access to the Securities Depository for the purposes of reviewing ownership of the Bonds registered in the Securities Depository
+
+<<<
+
+.
+18.5 Amendments
+All amendments of this Bond Agreement shall be made in writing, and shall unless otherwise provided for by this Bond Agreement, only be made with the approval of all parties hereto.
+18.6 Notices, contact information
+18.6.1
+
+<<<
+
+ Written notices, warnings, summons etc to the Bondholders made by the Bond Trustee shall be sent via the Securities Depository with a copy to the Issuer and the Exchange. Information to the Bondholders may also be published at Stamdata only
+
+<<<
+
+. Any such notice or communication shall be deemed to be given or made as follows:
+(a) if by letter via the Securities Depository, when sent from the Securities Depository; and
+(b) if by publication on Stamdata, when publicly available.
+18.
+
+<<<
+
+6.2 The Issuer's written notifications to the Bondholders shall be sent via the Bond Trustee, alternatively through the Securities Depository with a copy to the Bond Trustee aud the Exchange.
+18.6.3 Unless otherwise specifically provided, all
+
+<<<
+
+ notices or other communications under or in connection with this Bond Agreement between the Bond Trustee and the Issuer shall be given or made in writing, by letter, e-mail or fax. Any such notice or communication shall be deemed to be given
+
+<<<
+
+ or made as follows:
+(a) if by letter, when delivered at the address of the relevant Party;
+(b) if by e-mail, when received; and
+(c) if by fax, when received.
+18.6.4 The Issuer and the Bond Trustee shall ensure that the other party is kept informed
+
+<<<
+
+ of changes in postal address, e-mail address, telephone and fax numbers aud contact persons.
+18.6.5 When determining deadlines set out in this Bond Agreement, the following shall apply (unless otherwise stated):
+(a) If the deadline is set out
+
+<<<
+
+ in days, the first day when the deadline is in force shall not be inclusive, however, the meeting day or the occurrence the deadline relates to, shall be included.
+(b) If the deadline is set out in weeks, months or years, the deadline shall
+
+<<<
+
+ end on the day in the last week or the last month which, according to its name or number, corresponds to the first day the deadline is in force. If such day is
+/ /
+
+50/56
+not a part of an actual month, the deadline shall be the last day of
+
+<<<
+
+ such month.
+(c) If a deadline ends on a day which is not a Business Day, the deadline is postponed to the next Business Date.
+18.7 Dispute resolution and legal venue
+18.7.1 This Bond Agreement and all disputes arising out of, or in connection
+
+<<<
+
+ with this Bond Agreement between the Bond Trustee, the Bondholders and the Issuer, shall be govemed by Norwegian law.
+18.7.2 All disputes arising out of, or in connection with this Bond Agreement between the Bond Trustee, the Bondholders and
+
+<<<
+
+ the Issuer, shall, subject to Clause 18.7.3 below, be exclusively resolved by the courts of Norway, with the District Court of Oslo as sole legal venue.
+18.7.3 Clause 18.7.2 is for the benefit of the Bond Trustee only. As a result, the Bond
+
+<<<
+
+ Trustee shall not be prevented from taking proceedings relating to a dispute in any other courts with jurisdiction. To the extent allowed by law, the Bond Trustee may take coneurrent proceedings in any number ofjurisdictions.
+18.8 Process Agent
+
+<<<
+
+
+The Issuer shall ensure that any Obligor or other Group Company being party to a Finance Document not being incorporated in Norway, no later than upon becoming an Obligor or entering into such Finance Document, nominate a process agent in Norway
+
+<<<
+
+ for the purpose of serving a writ of summons and/or any other act of process in respect of the courts in Norway, or any notices as set out in this Bond Agreement.
+
+This Bond Agreement has been executed in two originals, ofwhich the Issuer and
+
+<<<
+
+ the Bond Trustee retain one each.
+
+Issuer
+By: Position:
+
+Bond Trustee
+\ ., By: Position:
+
+51/56
+Attachment i A
+
+i J m P[SI a( I Ni [ I ri kVi[S1 i N S] I I1
+
+Nordic Trustee ASA P.O. Box 1470 Vika N-0116 Oslo Norway
+
+Fax: + 47 22 87 94 10 E
+
+<<<
+
+-mail: mail@nordictrustee.no
+
+[date]
+
+Dear Sirs,
+
+AKSJESELSKAPET AV 17. OKTOBER 2014 AS BOND AGREEMENT 2015/2021 ISIN 001 0732811
+
+We refer to the Bond Agreement for the abovementioned Bond Issue made between Nordic Trustee ASA as Bond Trustee
+
+<<<
+
+ on behalf of the Bondholders, and the undersigned as Issuer under which a Compliance Certificate shall be issued. This letter constitutes the Compliance Certificate for the period [PERTOD].
+
+Capitalised terms used herein shall have the same
+
+<<<
+
+ meaning as in this Bond Agreement.
+
+With reference to Clause 13.2.2 we hereby certify that:
+
+1. all information contained herein is true and accurate;
+
+2. [so far as wc are aware, 110 Event of Default is continuing]/[specify Event of Default
+
+<<<
+
+ and steps, if any, being taken to remedy it].
+
+Copies of our latest consolidated [Financial Statements] are enclosed.
+
+Yours faithfully,
+
+Aksjeselskapet av 17. oktober 2014 AS
+
+Name of authorizedperson
+Enclosure: [copy ofany written documentation
+
+<<<
+
+]
+
+52/56
+Attachment i B
+[] I M [.1 M II ri (NÅI U I[I1II1441iDi1
+
+Nordic Trustee ASA P.O. Box 1470 Vika N-0116 Oslo Norway
+
+Fax: + 47 22 87 94 10 E-mail: mail@nordictrustee.no
+
+[date]
+
+Dear Sirs,
+
+AKSJESELSKAPET AV 17. OKTOBER 2014 AS BOND
+
+<<<
+
+ AGREEMENT 2015/2021 ISIN 001 0732811
+
+Wc refer to the Bond Agreement for the abovementioned Bond Issue made between Nordic Trustee ASA as Bond Trustee on behalf of the Bondholders, and the undersigned as Issuer under which a Compliance Certificate
+
+<<<
+
+ shall be issued. This letter constitutes the Compliance Certificate with respect to [described event whereby an Incurrence Test is required to be
+made].
+
+Capitalised terms used herein shall have the same meaning as in this Bond Agreement.
+
+
+<<<
+
+
+With reference to Clause 13.2.2 and Clause [X1]we hereby certify that:
+
+1.all information contained herein is true and aceurate;
+2. the ratio of Total Net Debt to Consolidated EBITDA as of [date] is XX and the Interest Coverage Ratio as of
+
+<<<
+
+ [date] is XX.
+
+Yours faithfully,
+
+Aksjeselskapet av 17. oktober 2014 AS
+
+Name ofauthorizedperson
+Enclosure: [copy ofany written documentation]
+
+Clause reference to relevant covenant to be included
+
+//
+
+/
+
+53/56
+Attachment 2
+
+I 1 Mm I JISI
+
+<<<
+
+ I
+
+*'!Ii {Sli'IEI1S1IhiI
+
+Nordic Trustee ASA P.O. Box 1470 Vika N-0116 Oslo Norway
+
+Fax: + 47 22 87 94 10 E-mail: mail@nordictrustee.no
+
+[date]
+
+Dear Sirs,
+
+AKSJESELSKAPET AV 17. OKTOBER 2014 AS BOND AGREEMENT 2015/2021 ISIN 001 0732811
+
+We
+
+<<<
+
+ refer to the Bond Agreement for the abovementioned Bond Issue made between Nordic Trustee ASA as Bond Trustee on behalf of the Bondholders, and the undersigned as Issuer.
+
+Capitalised terms used herein as defined in this Bond Agreement.
+
+We
+
+<<<
+
+ hereby give you notice that we on [date] wish to draw an amount of [currency and amount] from the Escrow Account applied pursuant to the purpose set out in the Bond Agreement as further specified in the attached Funds Flow Statement and transfer
+
+<<<
+
+ instruction, and request you to instruct the bank to release the above mentioned amount for such application.
+We hereby represent and warrant that no event which constitutes an Event of Default has occurred or is likely to occur.
+
+Yours faithfully
+
+<<<
+
+,
+
+Aksjeselskapet av 17. oktober 2014 AS
+
+Name ofauthorizedpersoii
+Enelosure: [copy ofany written documentation evidencing the use offunds]
+
+//
+
+54/56
+Attachment 3
+
+Parent
+
+SECURITY PRINCIPLES
+The Issuer shall procure that: (a) if any new shares
+
+<<<
+
+ are issued by it, a first priority pledge over all those
+shares shall be granted to the Security Agent as soon as practicably possible after the issuance of such new shares; and (b) if any Structural Loan is made to the Issuer, a first priority
+
+<<<
+
+ assignment in respect of the Structural Loan(s) shall be granted to the Security Agent as soon as praetically possible after the making of the Structural Loan(s).
+
+Issuer aud the Guarantors
+Additional Guarantors
+
+Subject to the security principles
+
+<<<
+
+ described below, the Issuer shall grant, and procure that each Guarantor grants a first priority pledge over all of its shares in each Group Company which is or which is required to become a "Guarantor" in order for the Issuer to comply with
+
+<<<
+
+ the requirements set out in the paragraph entitled "Guarantor coverage" of "Special Undertakings" at that point in time.
+The Issuer shall, subject to the security principles described below, procure that each Group Company which is required
+
+<<<
+
+ to become a "Guarantor" in order for the Issuer to comply with the requirements set out in the paragraph entitled "Guarantor coverage" of "Special Undertakings" at that point in time: (a) unconditional and irrevocable Norwegian law guarantees
+
+<<<
+
+
+(seivskyldnergaranti) on substantially the same terms as that the guarantee(s) granted by the BidCo; (b) grants a first priority pledge or charge over all of its shares in each other Group Company which is required to become a "Guarantor" in
+
+<<<
+
+ order for the Issuer to comply with the requirements set out in the paragraph entitled "Guarantor coverage" of "Special Undertakings" at that point in time; and (c) if that Group Company is incorporated in Norway: (i) grants floating charges
+
+<<<
+
+, on the best available priority and with a
+right of advancement, over its maehinery and plant (Nw. dr,ftstilbehørspant) and trade receivables (Nw. factoringpant); and (ii) grants an assignment in respect of its monetary claims arising in respect
+
+<<<
+
+ of its operating bank accounts (but only to the extent, not forming part of any cash pool arrangement).
+
+BidCo
+
+Notwithstanding anything to the contrary herein, the Issuer shall procure that the BidCo grants a first priority pledge over all
+
+<<<
+
+ of its shares in the Target and a first priority assignment over intra-Group loans set out in the Structure
+
+Limitations
+Mitigation of limitations Security Agent Security Documents
+
+55/56
+Memorandum and owing, or to become owing, to BidCo
+
+<<<
+
+, as soon as practically possible and no later than the date falling five Business Days after the Merger becomes effective. For the purposes of this paragraph, Business Days! shall refer to days when banks are open for business in Oslo, Tel
+
+<<<
+
+ Aviv and Zurich.
+Notwithstanding any requirement on the Issuer or any other Group Company to grant Transaction Security, such Transaction Security shall not be required to be granted and/or perfected if it would: (a) result in any breach of
+
+<<<
+
+ corporate benefit, financial assistance, fraudulent
+preference or thin capitalisation laws or regulations (or analogous restrictions) of any applicablejurisdiction; (b) result in a significant risk to the officers of the relevant Group Company
+
+<<<
+
+ of contravention of their fiduciary duties and/or of civil or criminal liability; or (c) result in costs that are disproportionate to the benefit obtained by the beneficiaries of the proposed Transaction Security. For the purpose of paragraph
+
+<<<
+
+ (c) above, "costs" shall include (without limitation) (x) income tax cost, registration taxes payable on the creation, perfection or enforcement or for the continuance of any Transaction Security and (y) stamp duties, out-of-pocket expenses
+
+<<<
+
+, and other fees and expenses directly incurred by the relevant Group Company or any of its Affiliates in connection with the granting/perfection of the Transaction Security.
+Bach Obligor and any Group Company shall use all reasonable efforts
+
+<<<
+
+ to overcome any obstacle, cost and/or legal limitation which would otherwise prevent Transaction Security from being granted and/or perfected (including (without limitation) by granting the relevant Transaction Security only in respect of certain
+
+<<<
+
+ obligations and/or with a cap on its maximum liability in respect thereof).
+To the extent permitted by applicable law, Transaction Security shall be granted to the Security Agent on behalf of the Bond Trustee (on behalf of itseif and the Bondholders
+
+<<<
+
+) and any other Secured Party permifted to share in the Transaction Security. If such a trust/agency concept is not recognized under applicable law, then the Transaction Security shall be granted to each Secured Party or, if possible under such
+
+<<<
+
+ law, to the Security Agent under a parallel debt structure.
+The Security Documents shall be negotiated in good faith and operate to create the relevant Transaction Security, rather than to impose new commercial obligations on the Group. The
+
+<<<
+
+ Security Documents may contain representations, warranties and undertakings which are necessary (x) to create, perfect, preserve or enforce the relevant Transaction Security or (y)
+
+//
+
+56/56
+for each Guarantor to become bound by the equivalent
+
+<<<
+
+ provisions in the Bond Agreement. To the extent permitted by applicable Iaw, the joint and several unconditional and irrevocable guarantees to be given by each Guarantor shall be granted in one and the same guarantee agreement with accession
+
+<<<
+
+ and resignation mechanisms for new and resigning Guarantors.
+
+Security over trade Transaction Security over trade receivables will be created by way of a
+
+receivables
+
+general assignment (only) with no obligation to notify each debtor, unless
+
+<<<
+
+
+
+required in connection with the enforcement of the Transaction Security and
+
+then only after the Transaction Security has become enforceable. Such
+
+security will be subject to any restrictions on charging or assigning in the
+
+underlying contracts
+
+<<<
+
+, with no obligation for the relevant chargor/assignor to
+
+overcome such restrictions.
+
+

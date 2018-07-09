@@ -1,0 +1,9 @@
+(c) Those who, according to an assignment, pledge, the provisions of the Swedish Children and Parents Code (Sw. Fdr3ldrabalken), conditions of will or deed of gift or otherwise have acquired a right to receive payments in respect of a Bond shall be required to register their entitlement to receive such payment in accordance with the Swedish Financial Instruments Accounts Act (1998:1479).
+W/2773419/V3
+24
+5. Conversion
+As long as there are any EUR Bonds outstanding, each Bondholder (a "Converting Bondholder") holding such EUR Bonds shall have the right to convert its EUR Bonds into SEK Bonds, in the following manner:
+(a) a Converting Bondholder shall notify the Issuer and the Issuing Agent at least twenty (20) Business Days prior to the designated Conversion Date (the "Conversion Notice");
+(b) the Conversion Notice shall set out the Conversion Date, the amount and number of Conversion Bonds that shall be converted into New SEK Bonds;
+(c) following receipt by the Issuing Agent and the issuer of the Conversion Notice, the Issuing Agent shall (A) request a debt register from Euroclear Sweden, detailing each Bondholder and VP Account, and (B) instruct Euroclear Sweden to issue New SEK Bonds corresponding to the amount of the Conversion Bonds (including the amount of any accrued but unpaid interest on such Conversion Bonds) at the Conversion Rate (as calculated by the Issuing Agent and instructed to Euroclear Sweden), which pending the Conversion shall be transferred to the Issuing Agent's VP Account;
+(d) the Converting Bondholder shall prior to the Conversion Date ensure that its Conversion Bonds have been transferred to the Issuing Agent's VP Account, On the relevant Conversion Date, the Issuing Agent shall transfer the relevant New SEK Bonds held on the Issuing Agent's VP Account to the Converting Bondholder's VP Account as payment for the Conversion Bonds; and

@@ -1,0 +1,9 @@
+"Interest Rate" means a floating interest rate of 3M EURIBOR plus 7.5 per cent. per annum payable quarterly in arrears.
+"Issuing Agent" means Svenska Handelsbanken AB (publ), Branch Operation in Finland, or any other party replacing the same as Issuing Agent in accordance with the regulations of the CSD.
+"Issuer's Refinancing Debt" means the Issuer's existing debt towards Karita Nordström, Nordea Finance Finland Ltd, the Guarantor, Pohjola Bank Plc and Nordea Bank Finland Plc in the approximate amount of EUR 22,750,000 plus accrued interest.
+"Make Whole Amount" means a price equivalent to the sum of:
+(a) the present value on the relevant record date of 103.86 per cent. of the Outstanding Nominal Amount as if such payment originally should have taken place on the Interest Payment Date falling on the First Call Date; and
+7
+(b) the present value on the relevant record date of the remaining coupon payments (assuming that the Interest Rate will be equal to the interpolated EUR mid-swap rate plus 3.75 per cent.), less any accrued but unpaid interest, through and including the First Call Date,
+(a) and (b) calculated by using a discount rate of 50 basis points over the comparable German government bond rate (i.e. comparable to the remaining duration of the Bonds until the First Call Date) (plus accrued interest on redeemed amount) and where "relevant record date" shall mean a date agreed upon between the Trustee, the CSD and the Issuer in connection with such repayment.
+"Market Loan" means any loan or other indebtedness where an entity issues commercial paper, certificates, subordinated debentures, bonds or any other debt securities (including, for the avoidance of doubt, medium term note programmes and other market funding programmes), provided in each case that such instruments and securities are or can be subject to trade on NASDAQ OMX Helsinki or any other regulated or unregulated recognised market place.

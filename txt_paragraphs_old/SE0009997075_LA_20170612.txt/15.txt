@@ -1,0 +1,9 @@
+(v) if a Group Company is not wholly owned (directly or indirectly) by the Issuer, the EBITDA and turnover of that Group Company shall when determining whether that Group Company is a Material Company be adjusted and calculated pro rata to the ownership portion held by the Issuer (directly or indirectly) in that Group Company; and
+If there is a dispute as to whether or not a company is a Material Company, a certificate of the auditors of the Issuer will, in the absence of manifest error, be conclusive.
+"Mid Swap Rate" means:
+(a) the applicable mid-rate displayed on Nasdaq Stockholm's website for SEK swap fixing as of or around 11.00 a.m. on the Business Day immediately preceding the date on which the relevant notice of redemption is given and for a period of time equal to the period from the Redemption Date until the First Call Date, and if such period is not equal to the tenor of one displayed mid-rate then the mid-rate shall be obtained:
+(i) if such period is longer than one year, by linear interpolation from the two applicable mid-rates displayed with tenors closest to the First Call Date; and
+(ii) if such period is one year or shorter, by applying the applicable mid-rate for swaps with a tenor of one year;
+(b) if no mid-rate is available from an application of paragraph (a), the arithmetic mean of the mid-rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by the Reference Banks for a period of time equal to the period from the Redemption Date until the First Call Date; and
+(c) if no quotation is available pursuant to paragraph (b), the mid-rate which according to the reasonable assessment of the Issuing Agent best reflects the mid-rate for the relevant period; and
+if any such mid-rate is below zero, the Mid Swap Rate will be deemed to be zero.

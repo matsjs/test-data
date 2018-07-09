@@ -1,0 +1,9 @@
+In connection with Conversions effected on a date such that rights to participate in the new issue do not accrue, an adjusted Conversion Price shall be applied. The adjustment shall be made by the Conversion Agent in accordance with the following formula:
+Price =
+previous Conversion Price x the average market price of the shares during the subscription period specified in the resolution authorizing the issue (the average share price)
+average share price increased by the theoretical value of the subscription right based on such price
+The average price of the share shall be considered to correspond to the average of the mean of the highest and lowest prices paid each trading day in transactions as recorded in the Market Place's official list of prices during the subscription period. In the absence of a quotation of paid price, the last bid price quoted shall be used in the calculation. If neither a paid price nor a bid price is quoted on a given day, that day shall be excluded from calculation of the average share price.
+The theoretical value of subscription rights is calculated in accordance with the following formula:
+value of
+maximum number of new shares that
+subscription can be issued according to the resolution

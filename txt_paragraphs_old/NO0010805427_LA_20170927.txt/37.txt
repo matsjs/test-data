@@ -1,0 +1,9 @@
+and the denominator of which is the aggregate amount of Outstanding Bonds, provided that the total number of Additional Bonds allocated to a Bondholder shall be rounded to the nearest USD 1.00. Following the increase in principal amount of Outstanding Bonds as a result of the issue of Additional Bonds, the Bonds will bear interest on such increased amount from and including the date of issue of such Additional Bonds.
+The day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of the
+payable interest amount shall be "30/360", which means that the number of days in the
+calculation period in respect of which payment is being made divided by 360 (the number of
+days to be calculated on the basis of a year of 360 days with twelve 30-days months (unless (i)
+the last day of the calculation period is the 31st day of a month but the first day of the
+calculation period is a day other than the 30th or 31st day of a month, in which case the month
+that includes that last day shall not be considered to be shortened to a 30-day month, or (ii)
+the last day of the calculation period is the last day of the month of February, in which case the

@@ -1,0 +1,9 @@
+10.2.1 The Issuer may redeem the Bonds (all or nothing) as follows (Call Option):
+With settlement date from and including the Settlement Date to, but not
+including, the Interest Payment Date falling 2 years after Settlement Date at
+a price equivalent to the sum of:
+(i) the present value of 104.00 % of par value as if such payment originally should have taken place on the Interest Payment Date falling 2 years after Settlement Date;
+Nordic Trustee ASA
+(ii) the present value of the remaining coupon payments (less any accrued but unpaid interest) through to and including the Interest Payment Date falling 2 years after Settlement Date; and
+(iii) accrued but unpaid interest on the redeemed amount,
+both a) and b) above calculated by using a discount rate of 50 basis points over the comparable Norwegian Treasury Rate (i.e. comparable to the remaining duration o f the Bonds until the date falling 2 years after the Settlement Date) on the 10th Business Day prior to the repayment date;

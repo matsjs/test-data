@@ -1,0 +1,9 @@
+Interest -- Amount
+x
+Floating
+x
+Rate
+Floating Rate Day Count Fraction
+10. MATURITY OF THE BONDS AND REDEMPTION
+10.1 Maturity The Bonds shall be repaid in full on Maturity Date at price 100.00 (par value).
+10.2 Call Option (a) The Issuer may redeem the Bond Issue (in whole or in parts) (a "Call Option") at any time from and including:

@@ -1,0 +1,9 @@
+"Interest Payment Date" means 14 December, 14 March, 14 June, and 14 September each year (with the first Interest Payment Date being 14 December 2017 and the last Interest Payment Date being the Final Redemption Date), or to the extent such day is not a Business Day, the first following day that is a Business Day (no adjustments of Business Day).
+"Interest Rate" means STIBOR (three months) plus the Floating Rate Margin.
+"Issue Date" The First Issue Date and any subsequent date when a Subsequent Bond Issue takes place.
+"Issuer" means Net Gaming Europe AB (publ), a public limited liability company incorporated under the laws of Sweden with Reg. No. 556693-7255.
+"Issuing Agent" means ABG Sundal Collier ASA, or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
+"Listing Failure" means a failure to list (i) the Initial Bonds within 60 calendar days after the First Issue Date (with an intention to complete such listing within 30 calendar days after the First Issue Date) on the corporate bond list of Nasdaq Stockholm or any other Regulated Market, or (ii) any Subsequent Bonds within 20 calendar days after the issuance of such Subsequent Bonds on the corporate bond list of Nasdaq Stockholm or any other Regulated Market.
+"Make Whole Amount" means a price equivalent to the sum of:
+(a) the Nominal Amount;
+(b) the present value on the relevant record date of the remaining coupon payments (assuming that the interest rate for the period from the relevant redemption date to the First Call Date will be equal to the interpolated SEK mid swap rate for the remaining term from the redemption date until the First Call Date plus the applicable Floating Rate Margin), less any accrued but unpaid interest, through and including the First Call Date;

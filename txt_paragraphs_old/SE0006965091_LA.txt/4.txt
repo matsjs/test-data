@@ -1,0 +1,9 @@
+(a) if the period from the Record Date to the Interest Payment Date in March 2018 is not equal to the fixed maturity of a direct obligation of Sweden for which a weekly average yield is given, the SEK treasury rate shall be obtained by linear interpolation from the weekly average yields of direct obligations of Sweden for which such yields are given; and
+"Bond" means a debt instrument (skuldförbindelse) for the Nominal Amount and of the type set forth in Chapter 1 Section 3 of the Financial Instruments Accounts Act and which are governed by and issued under these Terms and Conditions.
+"Bond Loan" means the loan constituted by these Terms and Conditions and evidenced by the Bonds.
+"Bondholder" means the person who is registered on a Securities Account as direct registered owner (ägare) or nominee (förvaltare) with respect to a Bond.
+"Bondholders' Meeting" means a meeting among the Bondholders held in accordance with Clause 21 (Bondholders' Meeting).
+"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (midsommarafton), Christmas Eve (julafton) and New Year's Eve (nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
+"Business Day Convention" means the first following day that is a Business Day.
+"Change of Control Event" means that (i) Mr. Asmund Haare and his direct lineal descendants cease to own (legally and beneficially) and/or directly or indirectly control the Parent or (ii) any person or group (other than Mr. Asmund Haare and his direct lineal descendants) gains direct or indirect control of the Parent.
+"Consolidated LTV" means (i) the principal amount of the interest bearing Financial Indebtedness of the Group (on a consolidated basis), to (ii) the Consolidated Market Value.

@@ -1,0 +1,9 @@
+13.15
+at any Quarter Date, and any member of the Debtor Group receives cash proceeds in the form of new equity (the "Cure Amount") on or prior to the date falling twenty (20) Business Days after the date on which the Compliance Certificate disclosing such breach was required to be delivered, then such Financial Covenant shall be recalculated after giving effect to the following pro forma adjustments:
+(i) Book Equity Ratio: Total Equity and Total Assets shall each be increased by an amount equal to the Cure Amount;
+(ii) Liquidity: Liquidity shall be increased by an amount equal to the Cure Amount; and
+(iii) Current Ratio-. Current Assets shall each be increased by an amount equal to the Cure Amount;
+and if, after giving effect to the foregoing recalculations, the Issuer is in compliance with the requirements of all Financial Covenants, the Issuer shall be deemed to have satisfied the requirements of such Financial Covenants for such Quarter Date as though there had been no failure to comply with such requirements, and the applicable breach or default of such Financial Covenants which had occurred shall be deemed to have been prevented or cured.
+(b) The Issuer may only rely on such Equity Cure on a maximum of three occasions over the term of the Bonds and may not rely on the Equity Cure in consecutive quarters.
+14. EVENTS OF DEFAULT AND ACCELERATION OF THE BONDS
+14.1 Events of Default Each of the events or circumstances set out in this Clause 14.1 shall constitute an Event of Default:

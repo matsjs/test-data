@@ -1,0 +1,9 @@
+Conversion
+10.2 The Borrower may at any time call (the "Call O ption") the remaining part of the Loan, in whole or in part, at the greater of: (i) 115 % o f Parity Value plus accrued interest, or
+(ii) 140 % of par value plus accrued interests on redeemed amount.
+"P arity Value" means, in respect of any dealing day, the NOIC amount calculated as follows:
+PV = N x VWAP
+where
+PV = the Parity Value
+N = the number of shares determined by dividing USD 1.0 by the Conversion Price in effect on such dealing days.
+14

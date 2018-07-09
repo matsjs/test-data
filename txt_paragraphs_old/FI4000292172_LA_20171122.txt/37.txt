@@ -1,0 +1,9 @@
+(a) Each Bond carries Interest at the Interest Rate from (and including) the First Issue Date to (but excluding) the relevant Redemption Date. Any Subsequent Bonds will carry Interest at the Interest Rate from (and including) the Interest Payment Date falling immediately prior to its issuance to (but excluding) the relevant Redemption Date.
+(c) Interest shall be calculated on the basis of the actual number of days in the Interest Period in respect of which payment is being made divided by 360 (actual/360-days basis).
+(d) If the Issuer fails to pay any amount due under these Terms and Conditions, the Issuer shall pay default interest on such amount at a rate corresponding to the Interest Rate plus 2.00 per cent., from (and including) the date such payment was due up to (but excluding) the date of actual payment. Accrued default interest shall not be capitalised.
+19
+9. Redemption and Repurchase of the Bonds
+9.1 Redemption at maturity
+The Issuer shall redeem all, but not only some, of the outstanding Bonds in full on the Final Redemption Date with an amount per Bond equal to 100 per cent, of the Outstanding Nominal Amount together with accrued but unpaid Interest. If the Final Redemption Date is not a CSD Business Day, then the redemption shall occur on the CSD Business Day determined by application of the Business Day Convention.
+9.2 Issuer's purchase of Bonds
+The Issuer may, subject to applicable law, at any time and at any price purchase Bonds provided that such purchase is made through a public offer. Bonds held by the Issuer may at the Issuer's discretion be retained or sold, but not cancelled.

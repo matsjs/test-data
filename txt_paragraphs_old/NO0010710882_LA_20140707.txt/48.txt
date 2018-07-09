@@ -1,0 +1,9 @@
+15 (37)
+10.4.3
+Notwithstanding the above, if a Mandatory Prepayment Event occurs which does not require the Issuer to redeem 100% of the Outstanding Bonds, each Bondholder shall have the right to decline redemption of the Bonds. Any amount not applied for redemption of Bonds may be retained by the Group and applied for general corporate purposes.
+10.4.4 The amount to be redeemed upon a Mandatory Prepayment Event (the "Redemption Am ount") shall be an amount equal to:
+(a) 1/3 of Outstanding Bonds, if Leverage Ratio >= 2.0x but < 2.5x; or
+(b) 2/3 of Outstanding Bonds, if Leverage Ratio >= 2.5x but < 3.Ox; or
+(c) 100% of Outstanding Bonds, if Leverage Ratio >= 3.Ox;
+where EBITDAX as measured on the most recent Quarter Date shall be adjusted pro-forma for the sale of the relevant asset, and Net Debt shall be adjusted pro-forma with cash proceeds received in the transaction.
+10.4.5

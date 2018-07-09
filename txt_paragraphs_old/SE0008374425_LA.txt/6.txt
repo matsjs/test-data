@@ -1,0 +1,9 @@
+"Financial Indebtedness" means any indebtedness in respect of:
+(b) the amount of any liability in respect of any finance lease, to the extent the arrangement is or would have been treated as a finance lease in accordance with the accounting principles applicable on the Issue Date (a lease which in the accounts of the Group is treated as an asset and a corresponding liability);
+5
+(c) receivables sold or discounted (other than on a non-recourse basis, provided that the requirements for de-recognition under the Accounting Principles are met);
+(d) any amount raised under any other transaction (including any forward sale or purchase agreement) having the commercial effect of a borrowing or otherwise being classified as borrowing under the Accounting Principles;
+(e) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price (and, when calculating the value of any derivative transaction, only the mark to market value shall be taken into account, provided that if any actual amount is due as a result of a termination or a close-out, such amount shall be used instead);
+(f) any counter indemnity obligation in respect of guarantees or any other instrument issued by a bank or financial institution; and
+(g) (without double counting) liabilities under guarantees or indemnities for any of the obligations referred to in the above items (a)-(f).
+"Financial Instruments Accounts Act" means the Swedish Financial Instruments Accounts Act (lag (1998:1479) om kontoforing avfinansiella instrument).

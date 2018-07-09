@@ -1,0 +1,9 @@
+bankruptcy, insolvency, liquidation or other similar laws of general application) and shall rank ahead of subordinated debt.
+9
+Interest
+9.1 The Issuer shall pay interest on the face value of the Bonds from, and including, the Issue Date at a fixed rate of 15 per cent per annum (the "Fixed Rate").
+9.2 Payment of interest shall be made on the Maturity Date.
+9.3 The relevant interest payable amount shall be calculated based on a period from, and including the Issue Date to, but excluding, the Maturity Date.
+9.4 The day count fraction in respect o f the calculation of the payable interest amount shall be "30/360", which means that the number of days in the calculation period in respect o f which payment is being made divided by 360 (the number of days to be calculated on the basis of a year of 360 days with twelve 30-days months (unless (i) the last day o f the calculation period is the 31st day of a month but the first day of the calculation period is a day other than the 30th or 31 st day of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30day month, or (ii) the last day of the calculation period is the last day o f the month of February, in which case the month o f February shall not be considered to be lengthened to a 30-day month)).
+9.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+Interest = Amount

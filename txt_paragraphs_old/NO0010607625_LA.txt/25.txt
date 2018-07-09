@@ -1,0 +1,9 @@
+4755912/6
+Norsk Tillitsm ann ASA
+period is the 31st day of a month but the first day of the calculation period is a day other than the 30th or 31st day of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or (ii) the last day of the calculation period is the last day of the month o f February, in which case the month of February shall not be considered to be lengthened to a 30-day month)).
+9.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+Interest = Amount
+Par Value
+x Fixed x Rate
+Fixed Rate Day Count Fraction
+10 Maturity of the Bonds and Redemption

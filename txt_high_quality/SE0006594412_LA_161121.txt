@@ -1,0 +1,1517 @@
+TERMS AND CONDITIONS FOR 4FINANCE S.A.
+MAXIMUM SEK 600,000,000 SENIOR UNSECURED CALLABLE FIXED RATE
+BONDS 2015/2018
+ISIN: SE0006594412
+Issue Date: 27 March 2015 (As amended on 21 November 2016)
+The distribution o f this document and the private placement o f the Bonds in certainjurisdictions may be restricted by law. Persons into whose possession this document comes are required to
+inform themselves about, and to observe, such restrictions. The Bonds have not been and will not be registered under the U.S. Securities Act o f 1933, as amended. The Bonds may not be offered, sold or delivered within the United States o fAmerica or
+to, orfor the account or benefit of, U.S. persons.
+
+TABLE OF CONTENTS
+1. DEFINITIONS AND CONSTRUCTION.................................................................................... 1 2. THE AMOUNT OF THE BONDS AND UNDERTAKING TO MAKE PAYMENTS......... 19 3. STATUS OF THE BONDS.......................................................................................................20 4. USE OF PRO CEED S...............................................................................................................20 5. GUARANTEES..........................................................................................................................20 6. THE BONDS AND TRANSFERABILITY...............................................................................23 7. BONDS IN ELECTRONIC BOOK-ENTRY FORM...............................................................24 8. RIGHT TO ACT ON BEHALF OF A HOLDER......................................................................24 9. PAYMENTS IN RESPECT OF THE BONDS........................................................................25 10. INTEREST..................................................................................................................................26 11. REDEMPTION AND REPURCHASE OF THE BONDS......................................................26 12. SPECIAL UNDERTAKINGS....................................................................................................29 13. TERMINATION OF THE BONDS...........................................................................................36 14. DISTRIBUTION OF PRO CEED S...........................................................................................39 15. DECISIONS BY HOLDERS.....................................................................................................40 16. HOLDERS' MEETING..............................................................................................................42 17. WRITTEN PROCEDURE.........................................................................................................43 18. AMENDMENTS AND WAIVERS............................................................................................44 19. APPOINTMENT AND REPLACEMENT OF THE AGENT..................................................44 20. APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT............................... 48 21. NO DIRECT ACTIONS BY HOLDERS..................................................................................48 22. TIME-BAR...................................................................................................................................49 23. NOTICES AND PRESS RELEASES......................................................................................49 24. FORCE MAJEURE AND LIMITATION OF LIABILITY.........................................................50 25. GOVERNING LAW AND JURISDICTION.............................................................................50
+
+TERMS AND CONDITIONS FOR 4FINANCE S.A.
+MAXIMUM SEK 600,000,000 SENIOR UNSECURED CALLABLE FIXED RATE BONDS
+2015/2018 ISIN: SE0006594412
+
+1.
+
+DEFINITIONS AND CONSTRUCTION
+
+1.1
+
+Definitions
+
+In these terms and conditions (these "Terms and Conditions"):
+
+"Account Operator" means a bank or other party duly authorised to operate as an account operator pursuant to the Financial Instruments Accounts Act and through which a Holder has opened a Securities Account in respect of its Bonds.
+
+"Accounting Principles" means the international financial reporting standards (IFRS) within the meaning of Regulation 1606/2002/EC (or as otherwise adopted or amended from time to time).
+
+"Additional Amounts" means any deduction or withholding for, or on account of, any Taxes imposed or levied by or on behalf of any Relevant Taxing Jurisdiction on any payment by the Obligors of principal or interest or any other payment in relation to the Bonds under the Finance Documents.
+
+"Additional Guarantor" has the meaning set forth in Clause 12.10 (Additional Guarantee).
+
+"Adjusted Nominal Amount" means the total aggregate Nominal Amount of the Bonds outstanding at the relevant time less the Nominal Amount of all Bonds owned by a Group Company or an Affiliate of a Group Company, irrespective of whether such Person is directly registered as owner of such Bonds.
+
+"Advance Purchase Agreements" means (a) an advance or deferred purchase agreement if the agreement is in respect of the supply of assets or services and payment is due not more than ninety (90) calendar days after the date of supply or (b) any other trade credit incurred in the ordinary course of business.
+
+"Affiliate" means any other Person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified Person. For the purpose of this definition, "control" when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms "controlling" and "controlled" have meanings correlative to the foregoing.
+
+1
+
+"Agent" means the Holders' agent and security trustee under these Terms and Conditions and, if relevant, the other Finance Documents, from time to time; initially Nordic Trustee & Agency AB (publ) (reg. no. 556882-1879, P.O. Box 7329, SE-103 90 Stockholm, Sweden).
+"Agent Agreement" means the fee agreement entered into on or about the Issue Date between the Issuer and the Agent, or any replacement agent agreement entered into after the Issue Date between the Issuer and an Agent.
+"Bond" means a debt instrument (Sw. skuldförbindelse) for the Nominal Amount and of the type set forth in Chapter 1 Section 3 of the Financial Instruments Accounts Act and which are governed by and issued under these Terms and Conditions, including any Subsequent Bond.
+"Bond Issue" means the issuance of the Bonds on the Issue Date.
+"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (Sw. midsommarafton), Christmas Eve (Sw. julafton) and New Year's Eve (Sw. nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
+"Business Day Convention" means the first following day that is a Business Day.
+"Call Option Amount" means:
+(a) the Make Whole Amount if the Call Option is exercised before the First Call Date;
+(b) 106.00 per cent. of the Nominal Amount if the call option is exercised on or after the First Call Date up to (but excluding) the date falling thirty (30) months after the Issue Date;
+(c) 104.00 per cent. of the Nominal Amount if the call option is exercised on or after the date falling thirty (30) months after the Issue Date up to (but excluding) the Final Redemption Date.
+"Capital Lease Obligations" means, at the time any determination is to be made, the amount of the liability in respect of a capital lease that would at that time be required to be capitalised on a balance sheet prepared in accordance with the Accounting Principles, and the scheduled maturity date thereof shall be the date of the last payment of rent or any other amount due under such lease prior to the first date upon which such lease may be prepaid by the lessee without payment of a penalty.
+"Capital Stock" means:
+(a) in the case of a corporation, corporate stock;
+(b) in the case of an association or business entity, any and all shares, interests, participations, rights or other equivalents (however designated) of corporate stock;
+(c) in the case of a partnership or limited liability company, partnership interests (whether general or limited) or membership interests; and
+2
+
+(d) any other interest or participation that confers on a Person the right to receive a share of the profits and losses of, or distributions of assets of, the issuing Person, but excluding from all of the foregoing any debt securities convertible into Capital Stock, whether or not such debt securities include any right of participation with Capital Stock.
+"Capitalisation Ratio" means, for HoldCo as of any date of determination, the result (expressed as a percentage) obtained by dividing (x) Consolidated Net Worth of HoldCo (calculated as of the end of the Relevant Period ending on the last day of the period covered by the most recent Financial Report prior to the date of the transaction giving rise to the need to calculate Consolidated Net Worth) by (y) Net Loan Portfolio as of such date of determination.
+"Cash and Cash Equivalents" means cash and cash equivalents in accordance with the Accounting Principles.
+"Change in Tax Law" means (a) any change in, or amendment to, the law or treaties (or any regulations or rulings promulgated thereunder) of a Relevant Taxing Jurisdiction affecting taxation or (b) any change in, or amendment to, or the introduction of, an official position regarding the application, administration or interpretation of such laws, treaties, regulations or rulings (including a holding, judgment or order by a court of competent jurisdiction) of a Relevant Taxing Jurisdiction.
+"Change of Control Event" means (a) the direct or indirect sale or other disposal, in one or a series of related transactions, of all or substantially all of the properties or assets of HoldCo and the Restricted Subsidiaries taken as a whole to any Person other than HoldCo, a Restricted Subsidiary or one or more Current Shareholders and (b) the occurrence of an event or series of events whereby one or more Persons, not being a Current Shareholder or a Group Company, acting together, acquire control over HoldCo and where "control" means (i) acquiring or controlling, directly or indirectly, more than 50.00 per cent. of the shares or voting rights in HoldCo or (ii) the right to, directly or indirectly, appoint or remove the whole or a majority of the directors of the board of directors of HoldCo, the Issuer or any of the Subsidiary Guarantors.
+"Compliance Certificate" means a certificate, in form and substance reasonably satisfactory to the Agent, signed by the Issuer certifying (a) that so far as it is aware no Event of Default is continuing or, if it is aware that such event is continuing, specifying the event and steps, if any, being taken to remedy it and (b) if provided in connection with an application of the Incurrence Test, that the Incurrence Test is met and including calculations and figures in respect of the Interest Coverage Ratio and the Capitalisation Ratio.
+"Consolidated Leverage" means, as of any date of determination, the sum of the total amount of Financial Indebtedness, less the amount of Cash and Cash Equivalents of HoldCo and the Restricted Subsidiaries on a consolidated basis.
+"Consolidated Leverage Ratio" means the ratio of (x) the Consolidated Leverage as of the date of the declaration of the contemplated Permitted Payment to (y) the EBITDA for the
+3
+
+Relevant Period ending on the last day of the period covered by the most recent Financial Report prior to such testing date. For purposes of calculating the EBITDA for such Relevant Period, entities acquired or disposed of by the Group during the Relevant Period, or after the end of the Relevant Period but before the relevant testing date, shall be included or excluded (as applicable), pro forma, for the entire Relevant Period.
+"Consolidated Net Worth" means, for HoldCo at any time, the sum of paid in capital, retained earnings and reserves of the Group as set forth on the consolidated balance sheet as of the Relevant Period ending on the last day of the period covered by the most recent Financial Report prepared in accordance with the Accounting Principles, less (without duplication) amounts attributable to Disqualified Stock of HoldCo.
+"Consolidated Total Assets" means the total assets of HoldCo and the Restricted Subsidiaries as of the Relevant Period ending on the last day of the period covered by the most recent Financial Report, calculated on a consolidated basis in accordance with the Accounting Principles.
+"CSD" means the Issuer's central securities depository and registrar in respect of the Bonds from time to time; initially Euroclear Sweden AB (reg. no. 556112-8074, P.O. Box 191, SE101 23 Stockholm, Sweden).
+"Current Shareholders" means the direct shareholders of HoldCo as of the Issue Date, being Tirona Limited and FCI Investments Limited and their Affiliates.
+"Derivative Transaction" has the meaning set forth in item (g) of the definition "Permitted Debt" below.
+"Disqualified Stock" means any Capital Stock that, by its terms (or by the terms of any security into which it is convertible, or for which it is exchangeable, in each case, at the option of the holder of the Capital Stock), or upon the happening of any event, matures or is mandatorily redeemable, pursuant to a sinking fund obligation or otherwise, or redeemable at the option of the holder of the Capital Stock, in whole or in part, on or prior to the date that is ninety-one (91) days after the date on which the Bonds mature. Notwithstanding the preceding sentence, any Capital Stock that would constitute Disqualified Stock solely because the holders of the Capital Stock have the right to require HoldCo to repurchase such Capital Stock upon the occurrence of a change of control or an asset sale will not constitute Disqualified Stock if the terms o f such Capital Stock provide that HoldCo may not repurchase or redeem any such Capital Stock pursuant to such provisions unless such repurchase or redemption complies with the restrictions set out in Clause 12.1 (Distributions). The amount of Disqualified Stock deemed to be outstanding at any time for purposes of these Terms and Conditions will be the maximum amount that HoldCo and the Restricted Subsidiaries may become obligated to pay upon the maturity of, or pursuant to any mandatory redemption provisions of, such Disqualified Stock, exclusive o f accrued dividends.
+"EBITDA" means, in respect of the Relevant Period, the consolidated profit of the Group from ordinary activities according to the latest Financial Report:
+4
+
+(a) before deducting any amount of tax on profits, gains or income paid or payable by any Group Company;
+(b) before deducting any Net Finance Charges;
+(c) before taking into account any exceptional items which are not in line with the ordinary course of business;
+(d) before taking into account any Transaction Costs;
+(e) not including any accrued interest owing to any Group Company;
+(f) before taking into account any unrealised gains or losses on any derivative instrument (other than any derivative instruments which is accounted for on a hedge account basis);
+(g) after adding back or deducting, as the case may be, the amount of any loss or gain against book value arising on a disposal of any asset (other than in the ordinary course of trading) and any loss or gain arising from an upward or downward revaluation of any asset;
+(h) after deducting the amount of any profit (or adding back the amount of any loss) of any Group Company which is attributable to minority interests;
+(i) after adding back or deducting, as the case may be, the Group's share of the profits or losses of entities which are not part o fthe Group; and
+(j) after adding back any amount attributable to the amortisation, depreciation or depletion of assets o f Group Companies.
+"Equity Interest" means Capital Stock and all warrants, options or other rights to acquire Capital Stock (but excluding any debt security that is convertible into, or exchangeable for, Capital Stock).
+"Equity Listing Event" means an initial public offering of Capital Stock in HoldCo or a Restricted Subsidiary, or any direct or indirect parent company of HoldCo (the "Listed Entity"), from time to time, resulting in that such shares are quoted, listed, traded or otherwise admitted to trading on a Regulated Market or a recognised unregulated marketplace.
+"Equity Listing Market Capitalisation" means an amount equal to (x) the total number of issued and outstanding shares o f common stock or common equity interests o f the Listed Entity at the time of closing of the Equity Listing Event multiplied by (y) the price per share at which such shares of common stock or common equity interests are sold in such Equity Listing Event.
+"EUR" means the currency used by the institutions of the European Union and is the official currency o f the Eurozone.
+"Event of Default" means an event, circumstance or situation specified in Clause 13.1.
+5
+
+"Existing Bonds" means the USD 200 million 11.75% senior unsecured notes due 2019 issued by the Issuer under an indenture dated 14 August 2014 between the Issuer, the Guarantors, TMF Trustee Limited as Trustee and Banque Internationale å Luxembourg S.A. as Transfer Agent, Paying Agent, Registrar and Authentication Agent, including the guarantees provided by the Guarantors under such indenture.
+"Existing Debt" means all Financial Indebtedness of HoldCo and the Restricted Subsidiaries in existence on the Issue Date, including without limitation Financial Indebtedness provided under the Existing Shareholders' Loan Agreement, the TKB Credit Line Agreement, the Existing Bonds and the guarantees provided by the Guarantors in relation to the Existing Bonds.
+"Existing Security" means all Security provided by HoldCo and the Restricted Subsidiaries in existence on the Issue Date, including without limitation the Security provided for the Financial Indebtedness under the TKB Credit Line Agreement.
+"Existing Shareholders' Loan Agreement" means the revolving credit line agreement between AS 4finance and the Group's majority shareholder Tirona Limited dated 29 May 2012.
+"Final Redemption Date" means 27 March 2018.
+"Finance Charges" means, for the Relevant Period, the aggregate amount of the accrued interest, commission, fees, discounts, payment fees, premiums or charges and other finance payments in respect of Financial Indebtedness whether paid, payable or capitalised by any Group Company according to the latest Financial Report (calculated on a consolidated basis) without taking into account any (a) Transaction Costs, (b) unrealised gains or losses on any derivative instruments other than any derivative instruments which are accounted for on a hedge accounting basis, (c) losses arising on foreign currency revaluations of intercompany balances or (d) charges on pension balances.
+"Finance Documents" means these Terms and Conditions, the Guarantees, the Agent Agreement, any Intercreditor Agreement and any other document designated by the Issuer and the Agent as a Finance Document.
+"Financial Indebtedness" means any indebtedness in respect of:
+(a) monies borrowed or raised, including Market Loans, Shareholder Loans, and shareholders' loans granted on arm lengths terms and conditions;
+(b) any Capital Lease Obligation (for the avoidance of doubt, any leases treated as operating leases under the Accounting Principles as applicable on the Issue Date shall not, regardless of any subsequent changes or amendments of the Accounting Principles, be considered as Capital Lease Obligation);
+(c) receivables sold or discounted (other than any receivables to the extent they are sold on a non-recourse basis);
+6
+
+(d) any amount raised under any other transaction (including any forward sale or purchase agreement) having the commercial effect of a borrowing and treated as a borrowing under the Accounting Principles;
+(e) any Derivative Transaction (and, when calculating the value of any derivative transaction, only the mark to market value shall be taken into account);
+(f) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, standby or documentary letter of credit or any other instrument issued by a bank or financial institution; and
+(g) (without double counting) any guarantee or other assurance against financial loss in respect of a type referred to in the above items (a)-(f).
+"Financial Instruments Accounts Act" means the Swedish Financial Instruments Accounts Act (Sw. lag (1998:1479) om kontoforing avfmansiella instrument).
+"Financial Report" means the annual audited consolidated financial statements of HoldCo and the quarterly interim unaudited consolidated reports o f HoldCo, which shall be prepared and made available according to Clauses 12.13.1 (a) and 12.13.1 (b).
+"First Call Date" means the date falling twenty-four (24) months after the Issue Date or, to the extent such day is not a Business Day, the Business Day following from an application o f the Business Day Convention.
+"Governmental Authority" means any nation, sovereign or government, any state, province, territory or other political subdivision thereof, and any entity or authority exercising executive, legislative, judicial, regulatory, self-regulatory or administrative functions of or pertaining to government, including a central bank or stock exchange.
+"Group" means HoldCo and all its Subsidiaries from time to time.
+"Group Company" means HoldCo or any o f its Subsidiaries.
+"Guaranteed Obligations" means all present and future obligations and liabilities (whether actual or contingent and whether owed jointly or severally or in any other capacity whatsoever) o f each Obligor to the Holders and the Agent (or any o f them) under each Finance Document, together with all costs, charges and expenses incurred by any Holder or the Agent in connection with the protection, preservation or enforcement o f its respective rights under the Finance Documents, or any other document evidencing such liabilities.
+"Guarantees" has the meaning set forth in Clause 5.1.
+"Guarantors" means HoldCo and the Subsidiary Guarantors.
+"HoldCo" means the indirect parent company of the Issuer, 4finance Holding S.A., a public limited liability company (société anonyme) incorporated and existing under the laws of Luxembourg, registered with the Luxembourg Trade and Companies Register (Registre de Commerce et des Sociétés de Luxembourg) under number B 171059, and with its registered office located at 6, rue Guillaume Schneider, L-2522 Luxembourg, Luxembourg.
+7
+
+"Holder" means the Person who is registered on a Securities Account as direct registered owner (Sw. ägare) or nominee (Sw.förvaltare) with respect to a Bond.
+"Holders' Meeting" means a meeting among the Holders held in accordance with Clause 16 (Holders'Meeting).
+"Incurrence Test" is met if:
+(a) the Interest Coverage Ratio for the Relevant Period ending on the last day of the period covered by the most recent Financial Report (immediately preceding the date on which such additional Financial Indebtedness is incurred, such Disqualified Stock or such preferred stock is issued or such distribution, payment or merger is made, as the case may be) would have been at least 2.5 to 1.0, determined on a pro forma basis (including a pro forma application of any net proceeds therefrom), as if the additional Financial Indebtedness had been incurred, the Disqualified Stock or the preferred stock had been issued or the distribution, payment or merger had been made, as the case may be, at the beginning of such Relevant Period; and
+(b) the Capitalisation Ratio of HoldCo on a consolidated basis is greater than 15.00 per cent., determined on a pro forma basis (including a pro forma application of the net proceeds therefrom), at the time of and immediately after giving pro forma effect to such incurrence;
+provided that the figures for calculating the Interest Coverage Ratio (including the figures for EBITDA, Finance Charges and Net Finance Charges) pro forma in accordance with the above shall (as applicable) be adjusted so that:
+(i) any Financial Indebtedness that has been repaid, repurchased and cancelled by any Group Company during the Relevant Period, or after the end of the Relevant Period but before the relevant testing date, shall be excluded, pro forma, for the entire Relevant Period;
+(ii) entities acquired or disposed of by the Group during the Relevant Period, or after the end of the Relevant Period but before the relevant testing date, shall be included or excluded (as applicable), pro forma, for the entire Relevant Period; and
+(iii) any entity to be acquired with the proceeds from new Financial Indebtedness shall be included, pro forma, for the entire Relevant Period.
+"Initial Nominal Amount" has the meaning set forth in Clause 2.1.
+"Intercreditor Agreement" means an intercreditor agreement satisfactory to the Agent to be entered into by the Agent (on behalf of itself and the Holders) as senior creditor, any subordinated creditor and HoldCo or any Restricted Subsidiary, as relevant, as borrower, a form of which shall be agreed by the Agent and the Issuer prior to the Issue Date.
+"Interest" means the interest on the Bonds calculated in accordance with Clauses 10.1 to 10.4.
+8
+
+"Interest Coverage Ratio" means the ratio of EBITDA to Net Finance Charges.
+"Interest Payment Date" means 27 March and 27 September each year or, to the extent such day is not a Business Day, the Business Day following from an application of the Business Day Convention (with the first Interest Payment Date on 27 September 2015 and the last Interest Payment Date being the Final Redemption Date).
+"Interest Period" means each period beginning on (but excluding) the Issue Date or any Interest Payment Date and ending on (and including) the next succeeding Interest Payment Date (or a shorter period if relevant) and, in respect of any Subsequent Bond, each period beginning on (but excluding) the Interest Payment Date falling immediately prior to its issuance and ending on (and including) the next succeeding Interest Payment Date (or a shorter period if relevant), in no case adjusted due to an application of the Business Day Convention.
+"Interest Rate" means a fixed interest rate of 11.75 per cent. per annum.
+"Issue Date" means 27 March 2015.
+"Issuer" means 4finance S.A., a public limited liability company (société anonyme) incorporated and existing under the laws o f Luxembourg, registered with the Luxembourg Trade and Companies Register (Registre de Commerce et des Sociétés de Luxembourg) under number B 173403, and with its registered office located at 6, rue Guillaume Schneider, L-2522 Luxembourg, Luxembourg.
+"Issuing Agent" means ABG Sundal Collier Norge ASA (reg. no. 883 603 362, Munkedamsveien 45, 7th floor, NO-0250 Oslo, Norway) or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
+"Listed Entity" has the meaning set forth in the definition "Equity Listing Event" above.
+"Luxembourg" means the Grand Duchy of Luxembourg and, when used in a geographical sense, means the territory of the Grand Duchy of Luxembourg.
+"Luxembourg Company Law" means the Luxembourg law of 10 August 1915, on commercial companies, as amended from time to time.
+"Make Whole Amount" means an amount equal to the sum of:
+(x) the present value on the relevant Record Date of 106.00 per cent. of the Nominal Amount as if such payment originally should have taken place on the First Call Date; and
+(y) the present value on the relevant Record Date of the remaining Interest payments (excluding accrued but unpaid Interest up to the relevant Redemption Date) up to and including the First Call Date;
+both calculated by using a discount rate of fifty (50) basis points over the comparable Swedish Government Bond Rate (i.e. comparable to the remaining duration of the Bonds until the First Call Date).
+9
+
+"Management Repurchase" means the repurchase, redemption or other acquisition or retirement for value of any Equity Interest of HoldCo or any Restricted Subsidiary held by any future, current or former officer, consultant, director or employee of HoldCo or any Restricted Subsidiary (or any permitted transferee of such current or former officers, directors, consultants or employees) pursuant to any equity subscription agreement, stock option agreement, shareholders' agreement or similar agreement; provided that the aggregate price paid for all such repurchased redeemed, acquired or retired Equity Interest may not exceed EUR 5,000,000 in any fiscal year or EUR 10,000,000 in the aggregate; provided, further, that such amount in any fiscal year may be increased by (x) the cash proceeds of any key-man life insurance policies received by HoldCo and the Restricted Subsidiaries and (y) an amount not to exceed the cash proceeds from the sale of Equity Interests of HoldCo to members of management or directors of HoldCo, any of the Restricted Subsidiaries or any of its direct or indirect parent companies to the extent the cash proceeds from the sale of Equity Interests have not otherwise been applied to the making of Restricted Payments.
+"Market Capitalisation" means an amount equal to the total number of issued and outstanding shares of common stock or common equity interests of the Listed Entity on the date of the declaration of the contemplated Permitted Payment multiplied by the arithmetic mean of the closing prices per share of such common stock or common equity interests for the thirty (30) consecutive Business Days immediately preceding the date of declaration of such contemplated Permitted Payment.
+"Market Loan" means any loan or other indebtedness where an entity issues commercial paper, certificates, convertibles, subordinated debentures, bonds or any other debt securities (including, for the avoidance of doubt, medium term note programmes and other market funding programmes), provided in each case that such instruments and securities are or can be subject to trade on Nasdaq Stockholm or any other Regulated Market or unregulated recognised market place.
+"Material Adverse Effect" means a material adverse effect on (a) the business, financial condition or operations of the Group taken as a whole, (b) the Issuer's or the Guarantors' ability or willingness to perform and comply with its payment and other undertakings under the Finance Documents or (c) the validity or enforceability of the Finance Documents.
+"Material Group Company" means HoldCo, the Issuer and each Guarantor and any other Restricted Subsidiary representing more than 5.00 per cent. of either (a) the total assets of the Group on a consolidated basis (for the avoidance of doubt, excluding any intra-group transactions) or (b) the EBITDA of the Group on a consolidated basis according to the latest Financial Report.
+"Nasdaq Stockholm" means the main market of NASDAQ OMX Stockholm AB (reg. no 556420-8394, SE-105 78 Stockholm, Sweden).
+"Net Finance Charges" means, for the Relevant Period, the Finance Charges according to the latest consolidated Financial Report, after deducting any interest payable for the relevant period to any Group Company and any interest income relating to Cash and Cash Equivalents investments of the Group (and excluding any (a) payment-in-kind interest
+10
+
+capitalised on Shareholder Loans, (b) gains arising on foreign currency revaluations of intercompany balances or (c) income on pension balances).
+"Net Loan Portfolio" means, as of any date of determination, the sum of loans, securities, investments, receivables and reserves minus allowances for loss of HoldCo and the Restricted Subsidiaries as set forth on the consolidated balance sheet as of the Relevant Period ending on the last day of the period covered by the most recent Financial Report, prepared in accordance with the Accounting Principles.
+"Net Proceeds" means the proceeds from the Bond Issue, after deduction has been made for the transaction costs payable by the Issuer to the Sole Bookrunner for the services provided in relation to the placement and issuance of the Bonds.
+"Nominal Amount" has the meaning set forth in Clause 2.1.
+"Obligors" means the Issuer and the Guarantors.
+"Permitted Basket" has the meaning set forth in item (n) of the definition "Permitted Debt" below.
+"Permitted Business" means any businesses, services or activities that are the same as, or reasonably related, ancillary or complementary to, any of the businesses, services or activities in which HoldCo and its Restricted Subsidiaries are engaged on the Issue Date, and reasonable extensions, developments or expansions of such businesses, services or activities.
+"Permitted Debt" means any Financial Indebtedness:
+(a) incurred by HoldCo or any of the Restricted Subsidiaries under the Finance Documents (including pursuant to any Subsequent Bond Issue, if such incurrence meets the Incurrence Test calculated on a pro forma basis as if such incurrence had been made at the beginning of the Relevant Period ending on the last day of the period covered by the most recent Financial Report);
+(b) incurred by HoldCo or any of the Restricted Subsidiaries under any Existing Debt;
+(c) the incurrence by HoldCo or any of the Restricted Subsidiaries of Financial Indebtedness represented by Capital Lease Obligations, mortgage financings or purchase money obligations or other financings, in each case, incurred for the purpose of financing or refinancing all or any part of the purchase price or cost of design, development, construction, lease, installation or improvement of property, plant or equipment used in the business of HoldCo or any of the Restricted Subsidiaries and including any reasonable related fees or expenses incurred in connection with such acquisition or development, in an aggregate principal amount not to exceed the greater of (i) EUR 5,000,000 and (ii) 2.00 per cent. of Consolidated Total Assets at any time outstanding;
+(d) the incurrence by HoldCo or any of the Restricted Subsidiaries of Financial Indebtedness (for the purpose of this definition, "Refinancing Indebtedness") issued in exchange for, or the net proceeds of which are used to renew, refund,
+11
+
+refinance, replace, defease or discharge (for the purpose of this definition, "Refinance") any Financial Indebtedness, provided that: (i) the principal amount (or accreted value, if applicable) of the Refinancing Indebtedness does not exceed the principal amount (or accreted value, if applicable) of the Financial Indebtedness to be Refinanced; (ii) the tenor of the Refinancing Indebtedness expires at a later date than the tenor of the Financial Indebtedness to be Refinanced; (iii) if the Financial Indebtedness to be Refinanced is subordinated in right of payment to the Bonds, such subordination shall apply also to the Refinancing Indebtedness; and (iv) the obligors (including the debtor, guarantors and entities providing security) under the Refinancing Indebtedness are the same as under the Financial Indebtedness to be refinanced;
+(e) incurred by HoldCo or any of the Restricted Subsidiaries as intercompany Financial Indebtedness provided by HoldCo or a Restricted Subsidiary, provided, however, that: (i) if (A) the Issuer or any Guarantor is the obligor of any such Financial Indebtedness and (B) the payee is not the Issuer or a Guarantor, then such Financial Indebtedness must be unsecured and expressly subordinated to the prior payment in full in cash of all obligations then due under the Finance Documents; and (ii) (A) any subsequent issuance or transfer of Equity Interests that results in any Financial Indebtedness incurred under this clause being held by a Person other than HoldCo or a Restricted Subsidiary of HoldCo; and (B) any sale or other transfer of any Financial Indebtedness incurred under this clause to a Person that is not either HoldCo or a Restricted Subsidiary of HoldCo will be deemed, in each case, to constitute an incurrence of such Financial Indebtedness by HoldCo or such Restricted Subsidiary, as the case may be, that was not permitted by this clause;
+(f) the issuance by any Restricted Subsidiary to HoldCo or another Restricted Subsidiary of shares of preferred stock; provided, however, that: (i) any subsequent issuance or transfer of Equity Interests that results in any such preferred stock being held by a Person other than HoldCo or a Restricted Subsidiary of HoldCo; and (ii) any sale or other transfer of any such preferred stock to a Person that is not either HoldCo or a Restricted Subsidiary of HoldCo, will be deemed, in each case, to constitute an issuance of such preferred stock by such Restricted Subsidiary that was not permitted by this item (f);
+(g) arising under a derivative transaction entered into by a HoldCo or a Restricted Subsidiary in connection with protection against or benefit from fluctuation in any rate or price where such exposure arises in the ordinary course of business or in respect of payments to be made under these Terms and Conditions (excluding for the avoidance of doubt any derivative transaction which in itself is entered into for investment or speculative purposes) ("Derivative Transaction");
+(h) the guarantee by HoldCo or any Restricted Subsidiary of Financial Indebtedness of HoldCo or a Restricted Subsidiary, to the extent that the guaranteed Financial Indebtedness was permitted to be incurred by another provision of these Terms and Conditions; provided that, if the Financial Indebtedness being guaranteed is 12
+
+subordinated to or pari passu with the Bonds, then the Guarantee must be subordinated or pari passu, as applicable, to the same extent as the Financial Indebtedness guaranteed;
+(i) incurred by HoldCo or any of the Restricted Subsidiaries as a result from the honouring by a bank or other financial institution of a check, draft or similar instrument inadvertently drawn against insufficient funds, so long as such Financial Indebtedness is covered within five (5) Business Days;
+(j) incurred as a result of HoldCo or a Restricted Subsidiary acquiring or merging with another entity and which is due to the fact that such entity holds Financial Indebtedness, provided that: either (i) HoldCo would be permitted to incur at least EUR 1.00 of additional Financial Indebtedness pursuant to the Incurrence Test (calculated on a pro forma basis including the acquired or merged entity, as the case may be, as if acquired or merged, as the case may be, at the beginning of the relevant Period ending on the last day of the period covered by the most recent Financial Report); or (ii) each of the Interest Coverage Ratio and the Capitalisation Ratio of HoldCo and its Restricted Subsidiaries would not be lower than it was immediately prior to giving effect to such acquisition or merger (in each case calculated on a pro forma basis including the acquired or merged entity, as the case may be);
+(k) incurred by HoldCo or any of the Restricted Subsidiaries under a Shareholder Loan;
+(l) incurred by HoldCo or any of the Restricted Subsidiaries in the ordinary course of business (including Financial Indebtedness incurred under Advance Purchase Agreements, under any pension and tax liabilities and related to any agreements under which HoldCo or a Restricted Subsidiary leases office space or other premises);
+(m) Financial Indebtedness consisting of local lines of credit or working capital facilities not exceeding EUR 3,000,000 at any one time outstanding; and
+(n) Financial Indebtedness in an aggregate principal amount (or accreted value, as applicable) which, when taken together with the principal amount of any other Financial Indebtedness incurred under this item (n) and outstanding will not exceed EUR 10,000,000; provided that the aggregate outstanding principal amount of Financial Indebtedness incurred under this item (n) by Restricted Subsidiaries that are not Guarantors does not exceed EUR 3,000,000 (all such Financial Indebtedness is together referred to as the "Permitted Basket").
+"Permitted Loans" means:
+(a) any loan granted by HoldCo or any of the Restricted Subsidiaries as intercompany Financial Indebtedness to HoldCo or a Restricted Subsidiary;
+(b) any guarantee of Financial Indebtedness permitted to be incurred under Clause 12.4 (Financial Indebtedness and Disqualified Stock) and the definition "Permitted Debt" above;
+13
+
+(c) any loan arising under a Derivative Transaction;
+(d) any loan existing on the Issue Date; provided that the amount of any such loan may be increased (i) as required by the terms of such loan (as in existence on the Issue Date) and (ii) as otherwise permitted under these Terms and Conditions;
+(e) any loan acquired after the Issue Date as a result of the acquisition by HoldCo or any Restricted Subsidiary or another Person (including by way of a merger, amalgamation or consolidation with or into HoldCo or any Restricted Subsidiary) in a transaction that is permitted under these Terms and Conditions;
+(f) any loan granted in the ordinary course of business (including accounts receivable, cash deposits, prepayments, supplier credit and consumer loans or participations therein arising in the ordinary course of business);
+(g) loans or advances to employees made in the ordinary course of business of HoldCo or any Restricted Subsidiary of HoldCo in an aggregate principal amount not to exceed EUR 2,000,000 at any time outstanding;
+(h) loans, advances or guarantees to directors, officers and employers of HoldCo or any Restricted Subsidiary to cover, travel, entertainment or moving-related expenses enacted in the ordinary course of business;
+(i) loans to any Group Company or another entity in which a Group Company holds at least 10.00 per cent. Equity Interest which is engaged in a Permitted Business, provided that such loans shall not exceed the greater of EUR 5,000,000 and 2.00 per cent. of Consolidated Total Assets; and
+(j) any loan granted by HoldCo or any of the Restricted Subsidiaries to HoldCo's direct shareholders or the Subsidiaries of such direct shareholders (excluding other Group Companies), provided that such loan for all purposes under the Terms and Conditions shall be treated and calculated as a Restricted Payment, whereby the relevant loan will be permitted if (and only if) all relevant requirements for making a permitted Restricted Payment under Clause 12.1.1 are met.
+"Permitted Payments" means:
+(a) any Management Repurchase;
+(b) so long as no Event of Default has occurred and is continuing (or would result therefrom), the declaration and payment of regularly scheduled or accrued dividends to holders of any class or series of Disqualified Stock of Holdco or any preferred stock of any Restricted Subsidiary issued on or after the Issue Date in accordance with these Terms and Conditions; and
+(c) so long as no Event of Default has occurred and is continuing (or would result therefrom), the declaration and payment by HoldCo or a Restricted Subsidiary of, or loans, advances, dividends or distributions to any parent company of HoldCo or a Restricted Subsidiary to pay, dividends or distributions on, or repurchases,
+14
+
+redemptions, acquisitions or retirements of, the common stock or common equity interests of HoldCo or a Restricted Subsidiary or any direct or indirect parent company of HoldCo or a Restricted Subsidiary following an Equity Listing Event of such common stock or common equity interests, in an amount not to exceed in any financial year the greater of:
+(i) 6.00 per cent. of the net cash proceeds received from such Equity Listing Event by Holdco or a Restricted Subsidiary, or the net cash proceeds of any such Equity Listing Event of Capital Stock of any direct or indirect parent company of HoldCo or a Restricted Subsidiary that are contributed in cash to HoldCo's or the Restricted Subsidiary's equity (other than through the issuance of Disqualified Stock); and
+(ii) an amount equal to the greater of (A) 6.00 per cent. of the Market Capitalisation and (B) 6.00 per cent. of the Equity Listing Market Capitalisation; provided that in the case of this item (ii), after giving pro forma effect to any such contemplated Permitted Payment, the Consolidated Leverage Ratio of HoldCo would not exceed 1.50 to 1.00.
+"Permitted Security" means any Security:
+(a) provided in accordance with the Finance Documents;
+(b) which is an Existing Security;
+(c) provided in relation to any agreement under which HoldCo or a Restricted Subsidiary leases office space or other premises provided such lease constitutes Permitted Debt;
+(d) arising by operation of law or in the ordinary course of business (including collateral or retention of title arrangements in connection with Advance Purchase Agreements but, for the avoidance of doubt, not including guarantees or security in respect of any monies borrowed or raised);
+(e) provided in relation to a Derivative Transaction and not consisting of security interests in shares in HoldCo or any Restricted Subsidiary;
+(f) incurred as a result of HoldCo or a Restricted Subsidiary acquiring another entity and which is due to that such acquired entity has provided security, provided that the debt secured with such security constitutes Permitted Debt in accordance with item (j) of the definition "Permitted Debt" above;
+(g) provided to secure Financial Indebtedness permitted by item (c) of the definition "Permitted Debt" above, covering only the assets acquired with or financed by such Financial Indebtedness;
+(h) provided to secure Financial Indebtedness permitted by item (d) of the definition "Permitted Debt" above, provided, however, (i) the new Security is limited to all or part of the same property and assets that secured the existing Financial Indebtedness
+15
+
+or, under the written agreements pursuant to which the original Security arose, could secure the original Security (plus improvements and accessions to, such property or proceeds or distributions thereof); and (ii) the Financial Indebtedness secured by the new Security is not increased to any amount greater than the sum of (A) the outstanding principal amount, or, if greater, committed amount, of the Financial Indebtedness renewed, refunded, refinanced, replaced, defeased or discharged with such new Financial Indebtedness and (B) an amount necessary to pay any fees and expenses, including premiums, related to such renewal, refunding, refinancing, replacement, defeasance or discharge;
+(i) provided to secure Financial Indebtedness permitted by item (m) of the definition "Permitted Debt" above;
+(j) over assets or property of a Restricted Subsidiary that is not a Guarantor securing Financial Indebtedness of any Restricted Subsidiary that is not a Guarantor;
+(k) over assets or property of HoldCo or any Restricted Subsidiary securing Financial Indebtedness or other obligations of HoldCo or such Restricted Subsidiary owing to Holdco or another Restricted Subsidiary, or Security in favour of HoldCo or any Restricted Subsidiary; and
+(l) provided in relation to the Permitted Basket and not consisting of security interests in shares in any Guarantor.
+"Person" means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organisation, government, or any agency or political subdivision thereof, or any other entity, whether or not having a separate legal personality.
+"Record Date" means the fifth (5th) Business Day prior to (a) an Interest Payment Date, (b) a Redemption Date, (c) a date on which a payment to the Holders is to be made under Clause 14 (Distribution o f proceeds), (d) the date of a Holders' Meeting or (e) another relevant date, or in each case such other Business Day falling prior to a relevant date if generally applicable on the Swedish bond market.
+"Redemption Date" means the date on which the relevant Bonds are to be redeemed or repurchased in accordance with Clause 11 (Redemption and repurchase o f the Bonds).
+"Regulated Market" means any regulated market (as defined in Directive 2004/39/EC on markets in financial instruments).
+"Relevant Period" means each period of twelve (12) consecutive calendar months.
+"Restricted Payment" has the meaning set forth in Clause 12.1 (Distributions).
+"Relevant Taxing Jurisdiction" means (a) Latvia, Luxembourg or any political subdivision or Governmental Authority thereof or therein having power to tax, (b) any jurisdiction from or through which payment on any Bond or Guarantee is made by the Issuer, any Guarantor or their agents, or any political subdivision or Governmental Authority thereof or therein
+16
+
+having the power to tax or (c) any other jurisdiction in which the Issuer or Guarantors are incorporated or organised, resident for tax purposes.
+"Restricted Subsidiaries" means any Subsidiary of HoldCo, including the Issuer and the Subsidiary Guarantors, that is not an Unrestricted Subsidiary.
+"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Financial Instruments Accounts Act in which (a) an owner of such security is directly registered or (b) an owner's holding of securities is registered in the name of a nominee.
+"Security" has the meaning set forth in Clause 12.5 (Negative pledge).
+"SEK" means the lawful currency of Sweden.
+"Shareholder Loan" means any loan raised by HoldCo or a Restricted Subsidiary from its current or previous direct or indirect shareholders (excluding HoldCo and other Restricted Subsidiaries), if such shareholder loan (a) according to its terms and pursuant to an Intercreditor Agreement, is subordinated to the obligations of the Obligors under the Finance Documents, (b) according to its terms have a final redemption date or, when applicable, early redemption dates or instalment dates which occur after the Final Redemption Date and (c) according to its terms yield only payment-in-kind interest or where payment of principal and interest can only be made under Clause 12.1 (Distributions).
+"Sole Bookrunner" means ABG Sundal Collier AB (reg. no. 556538-8674, P.O. Box 7269, SE-103 89 Stockholm, Sweden).
+"Subsequent Bond" means any Bond issued in a Subsequent Bond Issue.
+"Subsequent Bond Issue" has the meaning set forth in Clause 2.2.
+"Subsidiary" means, in relation to any person, any legal entity (whether incorporated or not), in respect of which such person, directly or indirectly, (a) owns shares or ownership rights representing more than 50.00 per cent. of the total number of votes held by the owners, (b) otherwise controls more than 50.00 per cent. of the total number of votes held by the owners or (c) has the power to appoint and remove all, or the majority of, the members of the board of directors or other governing body.
+"Subsidiary Guarantors" means AS 4finance, 4finance ApS, 4finance UAB, 4finance Oy, 4finance AB, Vivus Finance Sp. z o.o, Vivus Finance S.A. and 4finance LLC, together with any Additional Guarantor.
+"Swedish Government Bond Rate" means the yield to maturity at the time of computation of direct obligations of Sweden, acting through the Swedish National Debt Office (a Swedish Government Bond; Sw. statsobligation) with a constant maturity (such yield to be the weekly average yield as officially compiled and published in the most recent financial statistics that has become publicly available at least two (2) Business Days (but not more than five (5) Business Days) prior to the relevant Redemption Date (or, if such financial statistics are not so published or available, any publicly available source of similar market
+17
+
+data selected by the Issuer in good faith)) most nearly equal to the period from the relevant Redemption Date to the First Call Date; provided, however, that if the period from the relevant Redemption Date to the First Call Date is not equal to the constant maturity of a direct obligation of Sweden, acting through the Swedish National Debt Office for which a weekly average yield is given, the Swedish Government Bond Rate shall be obtained by linear interpolation (calculated to the nearest one-twelfth (1/12) of a year) from the weekly average yields of direct obligations of Sweden, acting through the Swedish National Debt Office, for which such yields are given, except that if the period from such Redemption Date to the First Call Date is less than one year, the weekly average yield on actually traded direct obligations of Sweden, acting through the Swedish National Debt Office, adjusted to a constant maturity of one year shall be used.
+"Taxes" means all present and future taxes, levies, imposts, deductions, charges, duties and withholdings and any charges of a similar nature (including, without limitation, interest, penalties and other liabilities with respect thereto) that are imposed by any government or other taxing authority.
+"Third Party" means any Person other than HoldCo or the Restricted Subsidiaries.
+"TKB Credit Line Agreement" means the credit line agreement between AS 4finance and AS Trasta Komercbanka No.KL-11/2011 dated 17 May 2011.
+"Transaction Costs" means all fees, costs and expenses incurred by a Group Company in connection with (a) the Bond Issue or a Subsequent Bond Issue and (b) the listing of the Bonds on Nasdaq Stockholm.
+"Unrestricted Subsidiary" means any Subsidiary of HoldCo other than the Issuer or the Guarantors that is designated by the board of directors of HoldCo as an Unrestricted Subsidiary pursuant to a resolution of the board of directors, but only to the extent that such Subsidiary:
+(a) has no Financial Indebtedness other than Financial Indebtedness (i) as to which neither HoldCo nor any of the Restricted Subsidiaries (A) provides credit support of any kind (including any undertaking, agreement or instrument that would constitute Financial Indebtedness) or (B) is directly or indirectly liable as a guarantor or otherwise and (ii) as to which the lenders have been notified in writing that they will not have any recourse to the stock or assets of HoldCo or any of the Restricted Subsidiaries (other than the Equity Interests of an Unrestricted Subsidiary); except to the extent that HoldCo or the relevant Restricted Subsidiary would be permitted to provide credit support, or be directly or indirectly liable as a guarantor or otherwise, pursuant to Clause 12.4 (Financial Indebtedness and Disqualified Stock);
+(b) except as permitted under these Terms and Conditions, is not party to any agreement, contract, arrangement or understanding with HoldCo or any Restricted Subsidiary unless the terms of any such agreement, contract, arrangement or understanding are no less favourable to HoldCo or such Restricted Subsidiary than those that might be obtained at the time from Persons who are not Affiliates of HoldCo;
+18
+
+1.2 1.2.1
+1.2.2 1.2.3 1.2.4 2. 2.1
+
+(c) is a Person with respect to which neither HoldCo nor any of the Restricted Subsidiaries has any direct or indirect obligation (i) to subscribe for additional Equity Interests or (ii) to maintain or preserve such Person's financial condition or to cause such Person to achieve any specified levels of operating results; and
+(d) has not guaranteed or otherwise directly or indirectly provided credit support for any Financial Indebtedness of HoldCo or any of the Restricted Subsidiaries.
+"Written Procedure" means the written or electronic procedure for decision making among the Holders in accordance with Clause 17 (Written Procedure).
+Construction
+Unless a contrary indication appears, any reference in these Terms and Conditions to:
+(a) "assets" includes present and future properties, revenues and rights of every description;
+(b) any agreement or instrument is a reference to that agreement or instrument as supplemented, amended, novated, extended, restated or replaced from time to time;
+(c) a "regulation" includes any regulation, rule or official directive (whether or not having the force of law) of any governmental, intergovernmental or supranational body, agency or department;
+(d) an Event of Default is continuing if it has not been remedied or waived;
+(e) an "enforcement" of a Guarantee means making a demand for payment under a Guarantee;
+(f) a provision of law is a reference to that provision as amended or re-enacted; and
+(g) a time of day is a reference to Stockholm time.
+When ascertaining whether a limit or threshold specified in EUR or SEK has been attained or broken, an amount in another currency shall be counted on the basis of the rate of exchange for such currency against EUR or SEK for the previous Business Day, as published by the Swedish Central Bank (Sw. Riksbanken) on its website (www.riksbank.se). If no such rate is available, the most recently published rate shall be used instead.
+A notice shall be deemed to be sent by way of press release if it is made available to the public within Sweden promptly and in a non-discriminatory manner.
+No delay or omission of the Agent or of any Holder to exercise any right or remedy under these Terms and Conditions shall impair or operate as a waiver of any such right or remedy.
+THE AMOUNT OF THE BONDS AND UNDERTAKING TO MAKE PAYMENTS
+The aggregate amount of the bond loan will be an amount of up to SEK 600,000,000 which will be represented by Bonds, each of a nominal amount of SEK 1,000,000 or full multiples thereof (the "Initial Nominal Amount"). The nominal amount of each Bond will be the Initial Nominal Amount, less the aggregate amount by which each Bond has been redeemed
+19
+
+or repurchased in part pursuant to Clause 11 (Redemption and repurchase o f the Bonds) (the "Nominal Amount"). The ISIN for the Bonds is SE0006594412. The minimum permissible investment in connection with the Bond Issue shall correspond to the price of one Bond, and integral multiples thereof.
+
+2.2
+
+The Issuer may, provided that the Incurrence Test is met (calculated on a pro forma basis as
+
+if the additional Financial Indebtedness had been incurred at the beginning of the Relevant
+
+Period ending on the last day of the period covered by the most recent Financial Report), at
+
+one or more occasions after the Issue Date, issue additional Bonds amounting to in total up
+
+to the difference of SEK 600,000,000, less the volume issued in the Bond Issue
+
+("Subsequent Bond Issue"). Subsequent Bonds shall benefit from and be subject to the
+
+Finance Documents and, for the avoidance of doubt, unless required by law (including
+
+taxation), the ISIN, the Interest Rate, the Nominal Amount, the Final Redemption Date and
+
+other rights applicable to the Bonds issued on the Issue Date shall apply also to Subsequent
+
+Bonds. The price of the Subsequent Bonds may be set at a discount or at a higher price than
+
+the Nominal Amount. The maximum total nominal amount of the Subsequent Bonds and the
+
+Bonds issued on the Issue Date may not exceed SEK 600,000,000.
+
+2.3
+
+The Issuer undertakes to repay the Bonds, to pay Interest and to otherwise act in accordance
+
+and comply with these Terms and Conditions.
+
+2.4
+
+The Bonds are denominated in SEK and each Bond is constituted by these Terms and
+
+Conditions.
+
+2.5
+
+By subscribing for Bonds, each initial Holder agrees that the Bonds shall benefit from and be
+
+subject to the Finance Documents and by acquiring Bonds each subsequent Holder confirms
+
+such agreements.
+
+3.
+
+STATUS OF THE BONDS
+
+The Bonds constitute general, direct, unconditional, unsubordinated and unsecured obligations of the Issuer and shall at all times rank pari passu with all general, direct, unconditional, unsubordinated and unsecured obligations of the Issuer and without any preference among them.
+
+4.
+
+USE OF PROCEEDS
+
+The Net Proceeds and the net proceeds from any Subsequent Bond Issue shall be used for general corporate purposes of the Group and acquisitions.
+
+5.
+
+GUARANTEES
+
+5.1
+
+Each of HoldCo and the Subsidiary Guarantors (including, for the avoidance of doubt, any
+
+Additional Guarantor) shall unconditionally and irrevocably, jointly and severally, guarantee
+
+to the Agent and each Holder, as represented by the Agent, as for its own debt (Sw. såsom
+
+fo r egen skuld) the full and punctual payment by the Obligors of the Guaranteed Obligations
+
+in accordance with a guarantee issued by the Guarantors in favour of the Agent and each
+
+Holder, as represented by the Agent (the "Guarantees"). The obligations and liabilities of
+
+and the guarantee issued by each Guarantor under the Guarantees shall be limited if required
+
+20
+
+(but only if and to the extent required) under any applicable law or regulation in the respective jurisdiction in which each of the Guarantors are incorporated.
+
+5.2
+
+In accordance with the Guarantees, and in addition to the payment guarantees described in
+
+Clause 5.1:
+
+(a) HoldCo shall undertake to comply and to procure that, to the extent applicable to the Issuer and/or the other Group Companies, the Issuer and each other Group Company complies with Clauses 12.1 (Distributions), 12.2 (Listing o f Bonds), 12.3 (Nature o f business), 12.4 (Financial Indebtedness and Disqualified Stock), 12.5 (Negative pledge), 12.6 (Loans out etcetera), 12.7 (Disposals o f assets), 12.8 (Mergers), 12.9 (Dividend and other payment restrictions), 12.10 (Additional Guarantee), 12.11 (Dealings with related parties), 12.12 (Compliance with law etcetera) and 12.13 (Financial reporting and information); and
+
+(b) the Subsidiary Guarantors shall undertake to comply with Clauses 12.1 (Distributions), 12.3 (Nature o f business), 12.4 (Financial Indebtedness and Disqualified Stock), 12.5 (Negative pledge), 12.6 (Loans out etcetera), 12.7 (Disposals o f assets), 12.8 (Mergers), 12.9 (Dividend and other payment restrictions), 12.10 (Additional Guarantee), 12.11 (Dealings with related parties) and 12.12 (Compliance with law etcetera).
+
+5.3
+
+The Issuer shall procure that the Guarantees and all documents relating thereto are duly
+
+executed by the relevant Guarantor in favour of the Agent and each Holder, as represented
+
+by the Agent, and that such documents are legally valid, enforceable and in full force and
+
+effect according to their terms. The Issuer shall procure the execution of such further
+
+documentation by the Guarantors as the Agent may reasonably require in order for the
+
+Holders and the Agent to at all times maintain the guarantee position envisaged under these
+
+Terms and Conditions and the Guarantees.
+
+5.4
+
+Except if otherwise decided by the Holders according to the procedures set out in Clauses 15
+
+(Decisions by Holders), 16 (Holders'Meeting) and 17 (Written Procedure), the Agent is,
+
+without first having to obtain the Holders' consent, entitled to enter into binding agreements
+
+with HoldCo, the Restricted Subsidiaries or Third Parties if it is, in the Agent's sole
+
+discretion, necessary for the purpose of establishing, maintaining, altering, releasing or
+
+enforcing the Guarantees or for the purpose of settling the various Holders' relative rights to
+
+the Guarantees. The Agent is entitled to take all measures available to it according to the
+
+Guarantees.
+
+5.5
+
+If the Bonds are declared due and payable according to Clause 13 (Termination o f the
+
+Bonds) or an Event of Default according to Clause 13.1 (a) (Non-payment) has occurred and
+
+is continuing, or following the Final Redemption Date, the Agent is, without first having to
+
+obtain the Holders' consent, entitled to enforce the Guarantees, in such manner and under
+
+such conditions that the Agent finds acceptable (if in accordance with the Guarantees,
+
+respectively).
+
+21
+
+5.6
+
+If a Holders' Meeting has been convened, or a Written Procedure instigated, to decide on the
+
+termination of the Bonds and/or the enforcement of all or any of the Guarantees, the Agent is
+
+obligated, to take actions in accordance with the Holders' decision regarding the Guarantees.
+
+However, if the Bonds are not terminated due to that the cause for termination has ceased or
+
+due to any other circumstance mentioned in these Terms and Conditions, the Agent shall not
+
+enforce any of the Guarantees. If the Holders, without any prior initiative from the Agent or
+
+the Issuer, have made a decision regarding termination of the Bonds and enforcement of any
+
+of the Guarantees in accordance with the procedures set out in Clauses 15 (Decisions by
+
+Holders), 16 (Holders' Meeting) and 17 (Written Procedure), the Agent shall promptly
+
+declare the Bonds terminated and enforce the Guarantees. The Agent is however not liable to
+
+take action if the Agent considers cause for termination and/or acceleration not to be at hand,
+
+unless the instructing Holders in writing commit to holding the Agent indemnified and, at
+
+the Agent's own discretion, grant sufficient security for the obligation.
+
+5.7
+
+Funds that the Agent receives on account of the Holders in connection with the termination
+
+of the Bonds or the enforcement of any or all of the Guarantees constitute escrow funds (Sw.
+
+redovisningsmedel) according to the Escrow Funds Act (Sw. lag (1944:181) om
+
+redovisningsmedel) and must be held on a separate interest-bearing account on behalf of the
+
+Holders and any other interested party. The Agent shall promptly arrange for payments to be
+
+made to the Holders in such case. The Agent shall arrange for payments of such funds in
+
+accordance with this Clause 14 (Distribution o fproceeds) as soon as reasonably practicable.
+
+If the Agent deems it appropriate, it may, in accordance with Clause 5.8, instruct the CSD to
+
+arrange for payment to the Holders.
+
+5.8
+
+For the purpose of exercising the rights of the Holders and the Agent under these Terms and
+
+Conditions and for the purpose of distributing any funds originating from the enforcement of
+
+any Guarantees, the Issuer irrevocably authorises and empowers the Agent to act in the name
+
+of the Issuer, and on behalf of the Issuer, to instruct the CSD to arrange for payment to the
+
+Holders in accordance with Clause 5.7. To the extent permissible by law, the powers set out
+
+in this Clause 5.8 are irrevocable and shall be valid for as long as any Bonds remain
+
+outstanding. The Issuer shall immediately upon request by the Agent provide the Agent with
+
+any such documents, including a written power of attorney (in form and substance to the
+
+Agent's satisfaction), which the Agent deems necessary for the purpose of carrying out its
+
+duties under Clause 5.7. Especially, the Issuer shall, upon the Agent's request, provide the
+
+Agent with a written power of attorney empowering the Agent to change the bank account
+
+registered with the CSD to a bank account in the name of the Agent and to instruct the CSD
+
+to pay out funds originating from an enforcement in accordance with Clause 5.7 to the
+
+Holders through the CSD.
+
+5.9
+
+The Agent shall, upon the Issuer's written request and expense, promptly release a Guarantor
+
+from its obligations under a Guarantee:
+
+(a) except in the case of the Guarantees provided by HoldCo or AS 4finance, in connection with (i) any sale or other disposal of Equity Interests whether by direct sale or sale of a holding company (other than HoldCo or AS 4finance) of that Guarantor (other than HoldCo or AS 4finance) or by way of merger, consolidation or 22
+
+otherwise or (ii) any sale or other disposal of all or substantially all of the assets of that Guarantor (other than HoldCo or AS 4finance); to a Person that is not (either before or after giving effect to such transaction) HoldCo or a Restricted Subsidiary, provided however, that such sale or other disposal does not violate Clause 12.7 (Disposals o f assets) or Clause 12.8 (Mergers) and the relevant Guarantor ceases to be a Restricted Subsidiary as a result of the sale or other disposition;
+
+(b) in the case of any Additional Guarantor that after the Issue Date is required to provide a new Guarantee pursuant to Clause 12.10 (Additional Guarantee), upon the release or discharge of its guarantee of Financial Indebtedness which resulted in the obligation to provide such new Guarantee so long as no other Financial Indebtedness is at that time guaranteed by the Additional Guarantor that would result in the requirement to provide a new Guarantee pursuant to Clause 12.10 (Additional Guarantee); and
+
+(c) when all the Guaranteed Obligations have been duly and irrevocably paid and discharged in full.
+
+6.
+
+THE BONDS AND TRANSFERABILITY
+
+6.1
+
+Each Holder is bound by these Terms and Conditions without there being any further actions
+
+required to be taken or formalities to be complied with.
+
+6.2
+
+The Bonds are freely transferable. All Bond transfers are subject to these Terms and
+
+Conditions and these Terms and Conditions are automatically applicable in relation to all
+
+Bond transferees upon completed transfer.
+
+6.3
+
+Upon a transfer of Bonds, any rights and obligations under the Finance Documents relating
+
+to such Bonds are automatically transferred to the transferee.
+
+6.4
+
+No action is being taken in any jurisdiction that would or is intended to permit a public
+
+offering of the Bonds or the possession, circulation or distribution of any document or other
+
+material relating to the Issuer or the Bonds in any jurisdiction other than Sweden, where
+
+action for that purpose is required. Each Holder must inform itself about, and observe, any
+
+applicable restrictions to the transfer of material relating to the Issuer or the Bonds, (due to,
+
+e.g, its nationality, its residency, its registered address or its place(s) of business). Other
+
+restrictions may apply and each Holder must ensure compliance with such restrictions at its
+
+own cost and expense.
+
+6.5
+
+The Bonds have not been registered under the U.S. Securities Act of 1933, as amended, and
+
+the Issuer is under no obligation to arrange for registration of the Bonds under the U.S.
+
+Securities Act of 1933, as amended, or under any other law or regulation.
+
+6.6
+
+For the avoidance of doubt and notwithstanding the above, a Holder which allegedly has
+
+purchased Bonds in contradiction to mandatory restrictions applicable may nevertheless
+
+utilise its voting rights under these Terms and Conditions and shall be entitled to exercise its
+
+full rights as a Holder hereunder in each case until such allegations have been resolved.
+
+23
+
+7.
+
+BONDS IN ELECTRONIC BOOK-ENTRY FORM
+
+7.1
+
+The Bonds will be registered for the Holders on their respective Securities Accounts and no
+
+physical Bonds will be issued. Accordingly, the Bonds will be registered in accordance with
+
+the Financial Instruments Accounts Act. Registration requests relating to the Bonds shall be
+
+directed to an Account Operator.
+
+7.2
+
+Those who according to assignment, security, the provisions of the Swedish Children and
+
+Parents Code (Sw. foraldrabalken (1949:381)), conditions of will or deed of gift or
+
+otherwise have acquired a right to receive payments in respect of a Bond shall register their
+
+entitlements to receive payment in accordance with the Financial Instruments Accounts Act.
+
+7.3
+
+The Issuer (and the Agent when permitted under the CSD's applicable regulations) shall be
+
+entitled to obtain information from the debt register (Sw. skuldbok) kept by the CSD in
+
+respect of the Bonds. At the request of the Agent, the Issuer shall promptly obtain such
+
+information and provide it to the Agent.
+
+7.4
+
+For the purpose of or in connection with any Holders' Meeting or any Written Procedure, the
+
+Issuing Agent shall be entitled to obtain information from the debt register kept by the CSD
+
+in respect of the Bonds. If the Agent does not otherwise obtain information from such debt
+
+register as contemplated under the Finance Documents, the Issuing Agent shall at the request
+
+of the Agent obtain information from the debt register and provide it to the Agent.
+
+7.5
+
+The Issuer shall issue any necessary power of attorney to such persons employed by the
+
+Agent, as notified by the Agent, in order for such individuals to independently obtain
+
+information directly from the debt register kept by the CSD in respect of the Bonds. The
+
+Issuer may not revoke any such power of attorney unless directed by the Agent or unless
+
+consent thereto is given by the Holders.
+
+7.6
+
+At the request of the Agent, the Issuer shall promptly instruct the Issuing Agent to obtain
+
+information from the debt register kept by the CSD in respect of the Bonds and provide it to
+
+the Agent.
+
+8.
+
+RIGHT TO ACT ON BEHALF OF A HOLDER
+
+8.1
+
+If any Person other than a Holder wishes to exercise any rights under the Finance
+
+Documents, it must obtain a power of attorney (or, if applicable, a coherent chain of powers
+
+of attorney), a certificate from the authorised nominee or other sufficient proof of
+
+authorisation for such Person.
+
+8.2
+
+A Holder may issue one or several powers of attorney to third parties to represent it in
+
+relation to some or all of the Bonds held by it. Any such representative may act
+
+independently under the Finance Documents in relation to the Bonds for which such
+
+representative is entitled to represent the Holder and may further delegate its right to
+
+represent the Holder by way of a further power of attorney.
+
+8.3
+
+The Agent shall only have to examine the face of a power of attorney or other proof of
+
+authorisation that has been provided to it pursuant to Clause 8.1 and 8.2 and may assume
+
+24
+
+that it has been duly authorised, is valid, has not been revoked or superseded and that it is in full force and effect, unless otherwise is apparent from its face.
+
+9.
+
+PAYMENTS IN RESPECT OF THE BONDS
+
+9.1
+
+Any payment or repayment under the Finance Documents, or any amount due in respect of a
+
+repurchase of any Bonds, shall be made to such Person who is registered as a Holder on the
+
+Record Date prior to the relevant payment date, or to such other Person who is registered
+
+with the CSD on such date as being entitled to receive the relevant payment, repayment or
+
+repurchase amount.
+
+9.2
+
+If a Holder has registered, through an Account Operator, that principal, Interest and any
+
+other payment that shall be made under the Finance Documents shall be deposited in a
+
+certain bank account; such deposits will be effected by the CSD on the relevant payment
+
+date. In other cases, payments will be transferred by the CSD to the Holder at the address
+
+registered with the CSD on the Record Date. Should the CSD, due to a delay on behalf of the
+
+Issuer or some other obstacle, not be able to effect payments as aforesaid, the Issuer shall
+
+procure that such amounts are paid to the Persons who are registered as Holders on the
+
+relevant Record Date as soon as possible after such obstacle has been removed.
+
+9.3
+
+If, due to any obstacle for the CSD, the Issuer cannot make a payment or repayment, such
+
+payment or repayment may be postponed until the obstacle has been removed. Interest shall
+
+accrue in accordance with Clause 10.4 during such postponement.
+
+9.4
+
+If payment or repayment is made in accordance with this Clause 9, the Issuer and the CSD
+
+shall be deemed to have fulfilled their obligation to pay, irrespective of whether such
+
+payment was made to a Person not entitled to receive such amount.
+
+9.5
+
+The Issuer shall pay any stamp duty and other public fees accruing in connection with the
+
+Bond Issue or any Subsequent Bond Issue, but not (a) in respect of trading in the secondary
+
+market (except to the extent required by applicable law) and (b) not any stamp duty or other
+
+public fees imposed by any jurisdiction that is not a Relevant Taxing Jurisdiction. The Issuer
+
+agrees to indemnify the Holders for any such stamp duty and public fees.
+
+9.6
+
+All payments made by the Issuer or a Guarantor in respect of the Bonds or the Guarantees
+
+will be made free and clear of and without withholding or deduction for, or on account of,
+
+any Taxes unless the withholding or deduction of such Taxes is required by law. If any
+
+Additional Amounts will at any time be required, the Issuer or a Guarantor, as applicable,
+
+will pay such Additional Amounts as may be necessary in order that the net amounts
+
+received in respect of such payments by the Holders or the Agent, as the case may be, after
+
+such withholding or deduction (including any such deduction or withholding from such
+
+Additional Amounts), will equal the amounts which would have been received in respect of
+
+such payments on any such Bonds or Guarantee in the absence of such withholding or
+
+deduction; provided, however, that no such Additional Amounts will be payable for or on
+
+account of:
+
+(a) any Taxes so imposed due to any circumstance related to a Holder, its beneficial owner, fiduciary, settlor, beneficiary, Affiliate or other related Person, including but 25
+
+not limited to the jurisdiction in which the Holders or such related Persons to the Holder is a citizen, resident or carrying on its business, maintaining a permanent establishment in or being physically present in;
+
+(b) any Taxes so imposed pursuant to European Council Directive 2003/48/EC or any other Directive implementing the conclusions of the ECOFIN Council meeting of 26-27 November 2000 on the taxation of savings income or any law implementing or complying with, or introduced in order to conform to, such Directive;
+
+(c) any Taxes that are payable otherwise than by deduction or withholding from a payment of the principal of, premium, if any, or interest, if any, on the Bonds;
+
+(d) any estate, inheritance, gift, sales, excise, transfer, personal property or similar tax, assessment or other governmental charge; or
+
+(e) a combination of the above.
+
+10.
+
+INTEREST
+
+10.1
+
+The Bonds will bear Interest at the Interest Rate applied to the Nominal Amount from, but
+
+excluding, the Issue Date up to and including the relevant Redemption Date. Any Bond
+
+issued pursuant to a Subsequent Bond Issue will, however, carry Interest at the Interest Rate
+
+from, but excluding, the Interest Payment Date falling immediately prior to its issuance up to
+
+and including the relevant Redemption Date.
+
+10.2
+
+Interest accrues during an Interest Period. Payment of Interest in respect of the Bonds shall
+
+be made semi-annually in arrears to the Holders on each Interest Payment Date for the
+
+preceding Interest Period.
+
+10.3
+
+Interest shall be calculated on the basis of a 360-day year comprised of twelve (12) months
+
+of thirty (30) days each and, in case of an incomplete month, the actual number of days
+
+elapsed (30/360-days basis).
+
+10.4
+
+If the Issuer fails to pay any amount payable by it under the Finance Documents on its due
+
+date, default interest shall accrue on the overdue amount from, but excluding, the due date
+
+up to and including the date of actual payment at a rate which is 200 basis points higher than
+
+the Interest Rate. Accrued default interest shall not be capitalised. No default interest shall
+
+accrue where the failure to pay was solely attributable to the Agent or the CSD, in which
+
+case the Interest Rate shall apply instead.
+
+11.
+
+REDEMPTION AND REPURCHASE OF THE BONDS
+
+11.1
+
+Redemption at maturity
+
+The Issuer shall redeem all, but not only some, of the Bonds in full on the Final Redemption Date (or, to the extent such day is not a Business Day, on the Business Day following from an application of the Business Day Convention) with an amount per Bond equal to the Nominal Amount together with accrued but unpaid Interest.
+
+26
+
+11.2 11.3 11.3.1 11.3.2
+11.4 11.4.1
+11.4.2
+11.4.3 11.4.4
+
+The Group Companies' purchase of Bonds
+Any Group Company may, subject to applicable law, at any time and at any price purchase Bonds. Bonds held by a Group Company may at such Group Company's discretion be retained, sold or, if held by the Issuer, cancelled.
+Early voluntary redemption by the Issuer (call option)
+The Issuer may redeem all, but not only some, of the outstanding Bonds in full on any Business Day before the Final Redemption Date at the applicable Call Option Amount together with accrued but unpaid Interest.
+Redemption in accordance with Clause 11.3.1 shall be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Holders and the Agent. Any such notice shall state the Redemption Date and the relevant Record Date and is irrevocable but may, at the Issuer's discretion, contain one or more conditions precedent. Upon expiry of such notice and the fulfilment of the conditions precedent (if any), the Issuer is bound to redeem the Bonds in full at the applicable amounts.
+Mandatory repurchase due to a Change of Control Event (put option)
+Upon a Change of Control Event occurring, each Holder shall have the right to request that all, or only some, of its Bonds are repurchased (whereby the Issuer shall have the obligation to repurchase such Bonds) at a price per Bond equal to 101.00 per cent. of the Nominal Amount together with accrued but unpaid Interest; during a period o f thirty (30) calendar days following a notice from the Issuer o f the Change o f Control Event pursuant to Clause 12.13.1 (e). The thirty (30) calendar days' period may not start earlier than upon the occurrence o f the Change of Control Event.
+The notice from the Issuer pursuant to Clause 12.13.1 (e) shall specify the repurchase date and include instructions about the actions that a Holder needs to take if it wants Bonds held by it to be repurchased. If a Holder has so requested, and acted in accordance with the instructions in the notice from the Issuer, the Issuer, or a Person designated by the Issuer, shall repurchase the relevant Bonds and the repurchase amount shall fall due on the repurchase date specified in the notice given by the Issuer pursuant to Clause 12.13.1 (e). The repurchase date must fall no later than twenty (20) Business Days after the end o f the period referred to in Clause 11.4.1.
+The Issuer shall comply with the requirements of any applicable securities laws or regulations in connection with the repurchase of Bonds. To the extent that the provisions of such laws and regulations conflict with the provisions in this Clause 11.4, the Issuer shall comply with the applicable securities laws and regulations and will not be deemed to have breached its obligations under this Clause 11.4 by virtue of the conflict.
+Any Bonds repurchased by the Issuer pursuant to this Clause 11.4 may at the Issuer's discretion be retained, sold or cancelled in accordance with Clause 11.2 (The Group Companies 'purchase o f bonds).
+
+27
+
+11.5 11.5.1
+11.5.2
+11.5.3 11.6
+
+Optional redemption for taxation reasons
+If the Issuer or any Guarantor determines in good faith that, as a result of a Change in Tax Law, the Issuer or any Guarantor is, or on the next Interest Payment Date would be, required to pay any Additional Amounts, and such obligation cannot be avoided by taking reasonable measures available to the Issuer or the relevant Guarantor, the Issuer may, in its absolute discretion, decide to redeem all, but not only some, of the outstanding Bonds in full on any Business Day before the Final Redemption Date. The Issuer shall give not less than twenty (20) and not more than forty (40) Business Days' notice of the redemption to the Agent and the Holders and the repayment per Bond shall be made at 100.00 per cent. of the Nominal Amount (together with accrued but unpaid Interest).
+The notice from the Issuer pursuant to Clause 11.5.1 shall not be given (a) earlier than ninety (90) calendar days prior to the earliest date on which the Issuer or the Guarantor, as the case may be, would be obliged to make the relevant payment of Additional Amounts if a payment in respect of the Bonds were then due and (b) unless at the time such notice is given, such obligation to pay the relevant Additional Amounts remains in effect. Prior to giving any notice of redemption pursuant to the foregoing, the Issuer shall deliver to the Agent (i) a declaration in writing stating that it is entitled to effect such redemption and setting forth a statement of facts showing that a Change in Tax Law is at hand and that it would not be able to avoid the obligation to pay Additional Amounts by taking reasonable measures available to it and (ii) a written opinion of an independent tax counsel of recognised standing who is qualified to provide tax advice under the laws of the Relevant Taxing Jurisdiction to the effect that the Issuer or Guarantor has or have been or will become obligated to pay the relevant Additional Amounts as a result of a Change in Tax Law. The Agent shall accept such declaration and opinion as sufficient evidence that a Change in Tax Law is at hand without further inquiry, in which event it shall be conclusive and binding on the Holders.
+In the case of redemption due to withholding as a result of a Change in Tax Law such Change in Tax Law must become effective on or after the Issue Date.
+Equity claw back
+Upon an Equity Listing Event, the Issuer may on one occasion repay up to 35.00 per cent. of the total Initial Nominal Amount (provided at least 65.00 per cent. of the total Initial Nominal Amount remains outstanding after such repayment), in which case all outstanding Bonds shall be partially repaid by way of reducing the Nominal Amount of each Bond pro rata. The repayment must occur on an Interest Payment Date within one hundred eighty (180) calendar days after such Equity Listing Event and be made with funds in an aggregate amount not exceeding the cash proceeds received by HoldCo or the Restricted Subsidiaries as a result of such Equity Listing Event (net of fees, charges and commissions actually incurred in connection with such offering and net of taxes paid or payable as a result of such offering). The Issuer shall give not less than twenty (20) Business Days' notice of the repayment to the Agent and the Holders and the repayment per Bond shall be made at 106.00 per cent. of the Nominal Amount or at the relevant Call Option Amount, if such amount is lower (rounded down to the nearest SEK 1,000).
+28
+
+12. 12.1 12.1.1
+12.1.2
+
+SPECIAL UNDERTAKINGS
+So long as any Bond remains outstanding, the Issuer undertakes to comply with the special undertakings set forth in this Clause 12.
+Distributions
+The Issuer shall not, and shall procure that none of HoldCo or any of the Restricted Subsidiaries shall, directly or indirectly, (a) pay any dividend or make any other payment or distribution on its respective Equity Interests or make any other similar distribution or transfers of value (Sw. värdeöverföringar) to HoldCo's or the Restricted Subsidiaries' direct or indirect shareholders or the Affiliates of such direct and indirect shareholders (other than dividend or distributions payable in Equity Interests (other than Disqualified Stock) of HoldCo), (b) repurchase or redeem any of its respective Equity Interest or the Equity Interest of HoldCo or any direct or indirect parent of HoldCo (including repurchase and redemption with payment to shareholders), (c) repay principal or pay cash interest under any Shareholder Loans or (d) grant any loan referred to in item (j) of the definition "Permitted Loans", (items (a)-(d) above are together and individually referred to as a "Restricted Payment"); provided, however, that, if such Restricted Payment is permitted by law and no Event of Default is continuing or would result from such Restricted Payment, any such Restricted Payment can be made (i) by HoldCo or any Restricted Subsidiary if such Restricted Payment is made to HoldCo or another Restricted Subsidiary and, if made by any Restricted Subsidiary which is not directly or indirectly wholly-owned by HoldCo, to other Persons on a pro rata basis and (ii) by HoldCo or any Restricted Subsidiary, provided that (A) HoldCo would, at the time of such Restricted Payment, have been permitted to incur at least EUR 1.00 of additional Financial Indebtedness pursuant to the Incurrence Test (calculated on a pro forma basis including the relevant Restricted Payment as if the Restricted Payment had been made at the beginning of the Relevant Period ending on the last day of the period covered by the most recent Financial Report); and (B) (1) the aggregate amount of all Restricted Payments (including the Restricted Payment in question but excluding any Restricted Payment made in accordance with item (i) above and any Permitted Payment) of the Group made in a financial year does not exceed 50.00 per cent. of the Group's consolidated net income according to the annual audited financial statements for the previous financial year of HoldCo; or (2) if an Equity Listing Event has occurred, the aggregate amount of all Restricted Payments (including the Restricted Payment in question but excluding any Restricted Payment made in accordance with item (i) above and any Permitted Payment) of the Group made during the period from and including the date of such Equity Listing Event up to and including the date of the Restricted Payment in question, does not exceed 50.00 per cent. of the Group's accumulated consolidated net income according to the annual audited financial statements for the financial year(s) of HoldCo ended during such period.
+As long as no Event of Default has occurred and is continuing (or would result therefrom), the restrictions under Clause 12.1.1 shall not prohibit Permitted Payments.
+
+29
+
+12.2
+12.3 12.4 12.4.1
+12.4.2
+
+Listing of Bonds
+The Issuer shall ensure (a) that the Bonds are listed on the corporate bond list of Nasdaq Stockholm or, if such admission to trading is not possible to obtain or maintain, admitted to trading on another Regulated Market, within six (6) months after the Issue Date, (b) that the Bonds, once admitted to trading on the relevant Regulated Market, continue being listed thereon (however, taking into account the rules and regulations of the relevant Regulated Market) and the CSD (as amended from time to time) preventing trading in the Bonds in close connection to the redemption of the Bonds) and (c) that, upon any Subsequent Bond Issue, the volume of Bonds listed on the relevant Regulated Market promptly, and not later than ten (10) Business Days after the relevant issue date, is increased accordingly.
+Nature of business
+The Issuer shall procure that no substantial change is made to the general nature of the business as carried out by HoldCo or any of the Restricted Subsidiaries on the Issue Date.
+Financial Indebtedness and Disqualified Stock
+The Issuer shall not, and shall procure that none of HoldCo or any of the Restricted Subsidiaries shall, directly or indirectly, create, incur, issue, assume, guarantee or otherwise become directly or indirectly liable, contingently or otherwise, with respect to (collectively for the purpose of this Clause 12.4, "incur") any Financial Indebtedness or issue any Disqualified Stock and shall procure that HoldCo does not permit any of the Restricted Subsidiaries to issue any shares of preferred stock, provided, however, that HoldCo may incur Financial Indebtedness or issue Disqualified Stock, the Issuer may incur Financial Indebtedness and the Subsidiary Guarantors may incur Financial Indebtedness and issue preferred stock if: (a) the Incurrence Test is met (calculated on a pro forma basis as if the additional Financial Indebtedness had been incurred or the Disqualified Stock or the preferred stock had been issued, as the case may be, at the beginning of the Relevant Period ending on the last day of the period covered by the most recent Financial Report); and, if a Financial Indebtedness is to be incurred, (b) such Financial Indebtedness ranks pari passu with or is unsecured or is subordinated to the obligations of the Issuer or the Guarantors under the Finance Documents. The foregoing shall not prohibit the incurrence of any Permitted Debt.
+The Issuer shall not incur, and shall not permit any Guarantor to incur, any Financial Indebtedness (including Permitted Debt) that is contractually subordinated in right of payment to any other Financial Indebtedness of the Issuer or such Guarantor unless such Financial Indebtedness is also contractually subordinated in right of payment under the Finance Documents on substantially identical terms; provided, however, that no Financial Indebtedness shall be deemed to be contractually subordinated in right of payment to any other Financial Indebtedness of the Issuer or any Guarantor solely by virtue of being unsecured or by virtue of being secured on a junior priority basis.
+
+30
+
+12.5
+12.6 12.7 12.7.1
+
+Negative pledge
+The Issuer shall not, and shall procure that none of HoldCo or the Restricted Subsidiaries shall, directly or indirectly, create or allow to subsist, retain, provide, prolong or renew any security of any kind (including any mortgage, lien, pledge, charge, security interest or encumbrance) ("Security") over any of their assets (present or future) to secure any Financial Indebtedness, provided, however, that HoldCo and the Restricted Subsidiaries have a right to create or allow to subsist, retain, provide, prolong and renew (a) any Permitted Security and (b) Security, other than Permitted Security, over any of their assets (present or future) (for the purpose of this Clause 12.5, "New Security Assets") to secure Financial Indebtedness of any Person (for the purpose of this Clause 12.5, the "New Security Beneficiary"), provided (i) that the New Security Assets are also granted as security for the full and punctual payment by the Obligors of the Guaranteed Obligations for as long as the Financial Indebtedness provided by the New Security Beneficiary is so secured and (ii) that such Security ranks pari passu with, or prior to in case of subordinated Financial Indebtedness, with the Security of the New Security Beneficiary.
+Loans out etcetera
+The Issuer shall not, and shall procure that none of HoldCo or the Restricted Subsidiaries shall, except for Permitted Loans, be the creditor or guarantor of any Financial Indebtedness.
+Disposals of assets
+The Issuer shall not, and shall procure that none of HoldCo or the Restricted Subsidiaries shall, sell or otherwise dispose of Equity Interest in any Restricted Subsidiary or of all or substantially all of HoldCo's or any Restricted Subsidiary's assets or operations to any Person (including HoldCo and the Restricted Subsidiaries). The above shall not prevent the following transactions:
+(a) the sale or other disposal of Equity Interest in any Restricted Subsidiary, other than the Issuer and the Subsidiary Guarantors, or of all or substantially all of the assets or operations of any Restricted Subsidiary, other than the Issuer and the Subsidiary Guarantors, (i) to HoldCo or the Restricted Subsidiaries and (ii) to a Person other than HoldCo and the Restricted Subsidiaries provided that the transaction is carried out at fair market value and on terms and conditions customary for such transaction and provided that it does not have a Material Adverse Effect;
+(b) the sale or other disposal of Equity Interest in the Issuer or in any of the Subsidiary Guarantors or of all or substantially all of the assets or operations of the Issuer or any Guarantor to the Issuer or a Guarantor;
+(c) the sale or other disposal of Equity Interest in any Subsidiary Guarantor (other than AS 4finance) to a Person other than the Issuer and the Guarantors provided that: (i) the seller of the Equity Interest in the Subsidiary Guarantor (other than AS 4finance) is the Issuer or a Guarantor and that the proceeds from the sale are paid to the Issuer or a Guarantor, as applicable; (ii) the transaction is carried out at fair market value
+
+31
+
+12.7.2 12.8
+
+and on terms and conditions customary for such transactions; and (iii) such transaction does not have a Material Adverse Effect; and
+(d) the sale or other disposal of all or substantially all of the assets or operations of any Subsidiary Guarantor (other than AS 4finance), to a Person other than the Issuer or a Guarantor provided that: (i) the proceeds from the sale or other disposal are paid to the Issuer or a Guarantor, as applicable; (ii) the transaction is carried out at fair market value and on terms and conditions customary for such transactions; and (iii) such transaction does not have a Material Adverse Effect.
+For the avoidance of doubt, the sale or disposal of all or substantially all of the assets or operations in HoldCo and the Restricted Subsidiaries taken as a whole shall be governed by Clause 11.4 (Mandatory repurchase due to a Change o f Control Event (put option)).
+Mergers
+The Issuer shall not, and shall procure that none of HoldCo or any of the Restricted Subsidiaries, directly or indirectly, consolidate or merge with or into another Person. The above shall not prevent the following mergers, provided that they do not have a Material Adverse Effect:
+(a) mergers between or among Restricted Subsidiaries, other than the Issuer and the Subsidiary Guarantors;
+(b) mergers of the Restricted Subsidiaries into HoldCo;
+(c) mergers between or among the Issuer or a Subsidiary Guarantor and other Subsidiary Guarantors;
+(d) mergers between or among the Restricted Subsidiaries (including the Issuer and the Subsidiary Guarantors), provided, in the case of a merger of the Issuer or a Subsidiary Guarantor, that the Person formed by or surviving any such merger (if other than the Issuer or a Subsidiary Guarantor, as the case may be) assumes all the obligations of the Issuer or the Subsidiary Guarantor, as the case may be, under these Terms and Conditions and the Guarantee (as applicable) pursuant to accession agreements reasonably satisfactory to the Agent;
+(e) mergers of HoldCo or a Restricted Subsidiary on the one side and a Third Party on the other side, provided that: (i) HoldCo or the Restricted Subsidiary, as applicable, is the surviving Person; and (ii) HoldCo would, on the date of the merger, have been permitted to incur at least EUR 1.00 of additional Financial Indebtedness pursuant to the Incurrence Test (calculated on a pro forma basis as if the merger had been made at the beginning of the Relevant Period ending on the last day of the period covered by the most recent Financial Report) or have, both an Interest Coverage Ratio and a Capitalisation Ratio not lower than it was immediately prior to giving effect to such transaction;
+(f) mergers of a Restricted Subsidiary, other than the Issuer or the Subsidiary Guarantors, on the one side and a Third Party on the other side, where the Person 32
+
+12.9 12.10
+
+formed by or surviving such merger is the Third Party, provided that: (i) the shares in the surviving entity received as consideration and any other consideration will be held by the Group Company that held the shares of the Restricted Subsidiary previous to the merger; and (ii) the merger is carried out at fair market value and on terms and conditions customary for such mergers; and
+(g) mergers of a Subsidiary Guarantor (other than AS 4finance) on the one side and a Third Party on the other side, where the Person formed by or surviving such merger is the Third Party, provided that: (i) the shares in the surviving entity received as consideration and any other consideration are held by the Issuer or a Guarantor, as applicable, post the merger; and (ii) the merger is carried out at fair market value and on terms and conditions customary for such mergers.
+Dividend and other payment restrictions
+The Issuer shall not, and shall procure that HoldCo shall not, permit any of the Restricted Subsidiaries to, directly or indirectly, create or permit to exist or become effective any consensual encumbrance or restriction on the ability of any Restricted Subsidiary to: (a) pay dividends or make any other distributions on its Capital Stock to HoldCo or any of the Restricted Subsidiaries, or with respect to any other interest or participation in, or measured by, its profits, or pay any Financial Indebtedness owed to HoldCo or any of the Restricted Subsidiaries; (b) make loans or advances to HoldCo or any of the Restricted Subsidiaries; or (c) sell, lease or transfer any of its properties or assets to HoldCo or any of the Restricted Subsidiaries; in each case, only if such encumbrance or restriction result in a Material Adverse Effect and unless such encumbrance or restriction is contained in or related to Financial Indebtedness constituting a Permitted Debt, Permitted Security or Permitted Loan or is otherwise permitted to be incurred under these Terms and Conditions and the terms and conditions for the Existing Bonds.
+Additional Guarantee
+The Issuer shall not, and shall procure that HoldCo shall not, cause or permit any of the Restricted Subsidiaries that are not Guarantors, directly or indirectly, to guarantee any Financial Indebtedness of HoldCo or any Restricted Subsidiary, and any refinancing thereof in whole or in part, unless such Restricted Subsidiary becomes a guarantor of the Bonds (an "Additional Guarantor") on the date on which such other guarantee is incurred and, if applicable, executes and delivers to the Agent a Guarantee, substantially in the same form as the Subsidiary Guarantors' Guarantees pursuant to which such Additional Guarantor will provide a Guarantee, which will be senior to or pari passu with its guarantee of such other Financial Indebtedness. Such Additional Guarantor shall be a "Subsidiary Guarantor" and such new Guarantee shall be a "Subsidiary Guarantor Guarantee" for the purpose of these Terms and Conditions. Notwithstanding the foregoing, HoldCo shall not be obligated to cause such Restricted Subsidiary to guarantee the Bonds to the extent that such new Guarantee by such Restricted Subsidiary would reasonably be expected to give rise to or result in a violation of applicable law which, in any case, cannot be prevented or otherwise
+
+33
+
+12.11 12.12
+
+avoided through measures reasonably available to HoldCo or the Restricted Subsidiary or any liability for the officers, directors or shareholders of such Restricted Subsidiary.
+Dealings with related parties
+The Issuer shall, and shall procure that the other Group Companies shall, conduct all dealings with the direct and indirect shareholders of the Group Companies (excluding other Group Companies) and/or any Affiliates of such direct and indirect shareholders at arm's length terms.
+Compliance with laws etcetera
+
+The Issuer shall, and shall procure that the other Group Companies shall, (a) comply in all material respects with all laws and regulations applicable from time to time and (b) obtain, maintain, and in all material respects comply with, the terms and conditions of any authorisation, approval, licence or other permit required for the business carried out by a Group Company.
+12.13 Financial reporting and information
+12.13.1 The Issuer shall:
+(a) procure the preparation of and make available the annual audited unconsolidated and consolidated financial statements of HoldCo, including a profit and loss account, a balance sheet, a cash flow statement and management commentary or report from HoldCo's board of directors, to the Agent and on its website not later than four (4) months after the expiry of each financial year;
+(b) prepare and make available the quarterly interim unaudited consolidated reports of HoldCo, including a profit and loss account, a balance sheet, a cash flow statement and management commentary or report from HoldCo's board of directors, to the Agent and on its website not later than two (2) months after the expiry of each relevant interim period;
+(c) issue a Compliance Certificate to the Agent (i) in connection with the incurrence of Financial Indebtedness, the issuance of Disqualified Stock or preferred stock, the payment or distribution of any Restricted Payment and a merger under Clause 12.8 (Mergers) which requires that the Incurrence Test is met, (ii) in connection with the Financial Reports being made available and (iii) at the Agent's request, within twenty (20) calendar days from such request;
+(d) keep the latest version of these Terms and Conditions (including documents amending these Terms and Conditions) available on its website; and
+(e) promptly notify the Agent (and, as regards a Change of Control Event, the Holders) upon becoming aware of the occurrence of (i) a Change of Control Event or an Equity Listing Event, (ii) an Event of Default or (iii) a default or an event of default, howsoever described, under the Existing Bonds, and shall provide the Agent with
+
+34
+
+12.13.2
+12.13.3 12.13.4 12.14 12.14.1
+12.14.2
+
+such further information as the Agent may request (acting reasonably) following receipt of such notice.
+The Issuer shall notify the Agent of any transaction referred to in Clause 12.7 (Disposals o f assets) and shall, upon request by the Agent, provide the Agent with (a) any information relating to the transaction which the Agent deems necessary (acting reasonably) and, if applicable, (b) a determination from the Issuer which states whether the transaction is carried out at fair market value and on terms and conditions customary for such transaction and whether it has a Material Adverse Effect or not. The Agent may assume that any information provided by the Issuer is correct, and the Agent shall not be responsible or liable for the adequacy, accuracy or completeness of such information. The Agent is not responsible for assessing if the transaction is carried out at fair market value and on terms and conditions customary for such transaction and whether it has a Material Adverse Effect, but is not bound by the Issuer's determination under item (b) above.
+The Issuer shall notify the Agent of any merger referred to in Clause 12.8 (Mergers) and shall, upon request by the Agent, provide the Agent with (a) any information relating to the merger which the Agent deems necessary (acting reasonably), including, in case of a merger where the Issuer or a Subsidiary Guarantor is not the surviving entity pursuant to Clause 12.8 (d), an opinion by legal counsel, that the accession agreement executed in connection therewith, these Terms and Conditions and/or the Guarantee are legally valid and binding obligations of the successor Person in accordance with their terms.
+When the Bonds have been listed, the reports referred to under Clauses 12.13.1 (a) and 12.13.1 (b) shall, in addition, be prepared in accordance with the Accounting Principles and made available in accordance with the rules and regulations of Nasdaq Stockholm (or any other Regulated Market, as applicable) (as amended from time to time) and the Swedish Securities Market Act (Sw. lag (2007:528) om vardepappersmarknaden) (as amended from time to time).
+Agent Agreement
+The Issuer shall, in accordance with the Agent Agreement:
+(a) pay fees to the Agent;
+(e) indemnify the Agent for costs, losses and liabilities;
+(f) furnish to the Agent all information reasonably requested by or otherwise required to be delivered to the Agent; and
+(g) not act in a way which would give the Agent a legal or contractual right to terminate the Agent Agreement.
+The Issuer and the Agent shall not agree to amend any provisions of the Agent Agreement without the prior consent of the Holders if the amendment would be detrimental to the interests of the Holders.
+
+35
+
+13.
+
+TERMINATION OF THE BONDS
+
+13.1
+
+The Agent is entitled, on behalf of the Holders, to terminate the Bonds and to declare all, but
+
+not only some, of the Bonds due for payment immediately or at such later date as the Agent
+
+determines (such later date not falling later than twenty (20) Business Days from the date on
+
+which the Agent made such declaration), if:
+
+(a) Non-payment: any Obligor fails to pay an amount on the date it is due in accordance with the Finance Documents unless its failure to pay is due to technical or administrative error and is remedied within five (5) Business Days of the due date;
+
+(b) Other obligations: the Issuer or any other Group Company does not comply with the Finance Documents in any other way than as set out under item (a) (Non payment) above, unless the non-compliance (i) is capable of being remedied and (ii) is remedied within fifteen (15) Business Days of the earlier of the Agent giving notice and the Issuer becoming aware o f the non-compliance (if the failure or violation is not capable o f being remedied, the Agent may declare the Bonds payable without such prior written request);
+
+(c) Cross-default and cross-acceleration:
+
+(i) an event o f default, howsoever described, occurs under the Existing Bonds;
+
+(ii) any Financial Indebtedness o f any Material Group Company is not paid when due nor within any originally applicable grace period or is declared to be or otherwise becomes due and payable prior to its specified maturity as a result o f an event o f default howsoever described under any document relating to Financial Indebtedness o f any Material Group Company; or
+
+(iii) any security interest securing Financial Indebtedness over any asset o f any Material Group Company is enforced;
+
+provided however that the amount o f Financial Indebtedness referred to under item (ii) and/or (iii) above, individually or in the aggregate exceeds an amount corresponding to EUR 10,000,000 (or its equivalent in any other currency) and provided that it does not apply to any Financial Indebtedness owed to a Group Company;
+
+(d) Insolvency:
+
+(i) any Material Group Company is unable or admits inability to pay its debts as they fall due or is declared to be unable to pay its debts under applicable law, suspends making payments on its debts generally or, by reason o f actual or anticipated financial difficulties, commences negotiations with its creditors (other than under these Terms and Conditions) with a view to rescheduling its Financial Indebtedness other than the Bonds; or
+
+36
+
+(ii) a moratorium is declared in respect of the Financial Indebtedness of any Material Group Company;
+
+(e) Insolvency proceedings: any corporate action, legal proceedings or other procedures are taken (other than (i) proceedings or petitions which are being disputed in good faith and are discharged, stayed or dismissed within thirty (30) calendar days of commencement or, if earlier, the date on which it is advertised and (ii), in relation to the Group Companies other than the Issuer or the Guarantors, solvent liquidations) in relation to:
+
+(i) the suspension of payments, winding-up, dissolution, administration or reorganisation (by way of voluntary agreement, scheme of arrangement or otherwise) of any Material Group Company;
+
+(ii) the appointment of a liquidator, receiver, administrator, administrative receiver, compulsory manager or other similar officer in respect of any Material Group Company or any of its assets; or
+
+(iii) any analogous procedure or step is taken in any jurisdiction in respect of any Material Group Company;
+
+(f) Mergers and demergers: unless allowed under Clause 12.8 (Mergers), the Issuer or any Guarantor merges with a Person other than the Issuer or a Guarantor, or is subject to a demerger, with the effect that the Issuer or the Guarantor is not the surviving entity;
+
+(g) Creditors' process: any expropriation, attachment, sequestration, distress or execution or any analogous process in any jurisdiction affects any asset or assets of any Material Group Company having an aggregate value equal to or exceeding EUR 10,000,000 (or its equivalent in any other currency) and where such process (i) is not discharged within thirty (30) calendar days or (ii) is being made in bad faith by the claimant, as evidenced by the Issuer to the Agent (such evidence to be accepted or dismissed by the Agent in its sole discretion);
+
+(h) Impossibility or illegality: it is or becomes impossible or unlawful for the Issuer or the Guarantors to fulfil or perform any of the provisions of the Finance Documents or if the obligations under the Finance Documents are not, or cease to be, legal, valid, binding and enforceable; or
+
+(i) Continuation of the business: any Material Group Company ceases to carry on its business (except if due to a merger or a disposal of assets as permitted under Clauses 12.7 (Disposals o fassets) and 12.8 (Mergers).
+
+13.2
+
+Termination for payment prematurely may only occur if the cause of termination is
+
+continuing at the time of the Agent's declaration. However, if a moratorium occurs, the
+
+ending of that moratorium will not prevent termination for payment prematurely on the
+
+ground mentioned in Clause 13.1 (d) (Insolvency).
+
+37
+
+13.3
+
+If the right to terminate the Bonds is based upon a decision of a court of law or a government
+
+authority, it is not necessary that the decision has become enforceable under law or that the
+
+period of appeal has expired in order for cause of termination to be deemed to exist.
+
+13.4
+
+The Issuer is obligated to inform the Agent immediately if any circumstance of the type
+
+specified in Clause 13.1 should occur. Should the Agent not receive such information, the
+
+Agent is entitled to assume that no such circumstance exists or can be expected to occur,
+
+provided that the Agent does not have knowledge of such circumstance. The Agent is under
+
+no obligations to make any investigations relating to the circumstances specified in
+
+Clause 13.1. The Issuer shall further, at the request of the Agent, provide the Agent with
+
+details of any circumstances referred to in Clause 13.1 and provide the Agent with all
+
+documents that may be of significance for the application of this Clause 13.
+
+13.5
+
+The Issuer is only obligated to inform the Agent according to Clause 13.4 if informing the
+
+Agent would not conflict with any statute or the Issuer's registration contract with Nasdaq
+
+Stockholm (or any other Regulated Market, as applicable). If such a conflict would exist
+
+pursuant to the listing contract with the relevant Regulated Market or otherwise, the Issuer
+
+shall however be obligated to either seek the approval from the relevant Regulated Market or
+
+undertake other reasonable measures, including entering into a non-disclosure agreement
+
+with the Agent, in order to be able to timely inform the Agent according to Clause 13.4.
+
+13.6
+
+If the Agent has been notified by the Issuer or has otherwise determined that there is a
+
+default under these Terms and Conditions according to Clause 13.1, the Agent shall decide,
+
+within twenty (20) Business Days of the day of notification or determination, if the Bonds
+
+shall be declared terminated. If the Agent has decided not to terminate the Bonds, the Agent
+
+shall, at the earliest possible date, notify the Holders that there exists a right of termination
+
+and obtain instructions from the Holders according to the provisions in Clause 15 (Decisions
+
+by Holders). If the Holders vote in favour of termination and instruct the Agent to terminate
+
+the Bonds, the Agent shall promptly declare the Bonds terminated. However, if the cause for
+
+termination according to the Agent's appraisal has ceased before the termination, the Agent
+
+shall not terminate the Bonds. The Agent shall in such case, at the earliest possible date,
+
+notify the Holders that the cause for termination has ceased. The Agent shall always be
+
+entitled to take the time necessary to consider whether an occurred event constitutes an
+
+Event of Default and whether such event has a Material Adverse Effect.
+
+13.7
+
+If the Holders, without any prior initiative to decision from the Agent or the Issuer, have
+
+made a decision regarding termination in accordance with Clause 15 (Decisions by Holders),
+
+the Agent shall promptly declare the Bonds terminated. The Agent is however not liable to
+
+take action if the Agent considers cause for termination not to be at hand, unless the
+
+instructing Holders agree in writing to indemnify and hold the Agent harmless from any loss
+
+or liability and, if requested by the Agent in its discretion, grant sufficient security for such
+
+indemnity.
+
+13.8
+
+If the Bonds are declared due and payable in accordance with the provisions in this
+
+Clause 13, the Agent shall take every reasonable measure necessary to recover the amounts
+
+outstanding under the Bonds.
+
+38
+
+13.9 13.10 14. 14.1
+14.2 14.3
+
+For the avoidance of doubt, the Bonds cannot be terminated and become due for payment prematurely according to this Clause 13 without relevant decision by the Agent or following instructions from the Holders' pursuant to Clause 15 (Decisions by Holders).
+If the Bonds are declared due and payable in accordance with the provisions in this Clause 13, the Issuer shall redeem all Bonds with an amount per Bond equal to the applicable Call Option Amount.
+DISTRIBUTION OF PROCEEDS
+If the Bonds have been declared due and payable in accordance with Clause 13 (Termination o f the Bonds), all payments by the Issuer or any of the Guarantors (as applicable) relating to the Bonds shall be distributed in the following order of priority, in accordance with the instructions of the Agent:
+(a) first, in or towards payment pro rata of (i) all unpaid fees, costs, expenses and indemnities payable by the Issuer to the Agent, (ii) other costs, expenses and indemnities relating to the acceleration of the Bonds or the protection of the Holders' rights, (iii) any non-reimbursed costs incurred by the Agent for external experts, and (iv) any non-reimbursed costs and expenses incurred by the Agent in relation to a Holders' Meeting or a Written Procedure;
+(b) secondly, in or towards payment pro rata of accrued but unpaid Interest (Interest due on an earlier Interest Payment Date to be paid before any Interest due on a later Interest Payment Date);
+(c) thirdly, in or towards payment pro rata of any unpaid principal under the Bonds; and
+(d) fourthly, in or towards payment pro rata of any other costs or outstanding amounts unpaid under the Finance Documents.
+Any excess funds after the application of proceeds in accordance with items (a) to (d) above shall be paid to the Issuer or the Guarantors (as applicable). The application of proceeds in accordance with items (a) to (d) above shall, however, not restrict a Holders' Meeting or a Written Procedure from resolving that accrued Interest (whether overdue or not) shall be reduced without a corresponding reduction of principal.
+If a Holder or another party has paid any fees, costs, expenses or indemnities referred to in Clause 14.1, such Holder or other party shall be entitled to reimbursement by way of a corresponding distribution in accordance with Clause 14.1.
+If the Issuer or the Agent shall make any payment under this Clause 14, the Issuer or the Agent, as applicable, shall notify the Holders of any such payment at least fifteen (15) Business Days before the payment is made. Such notice shall specify the Record Date, the payment date and the amount to be paid. Notwithstanding the foregoing, for any Interest due but unpaid the Record Date specified in Clause 9.1 shall apply.
+
+39
+
+15.
+
+DECISIONS BY HOLDERS
+
+15.1
+
+A request by the Agent for a decision by the Holders on a matter relating to the Finance
+
+Documents shall (at the option of the Agent) be dealt with at a Holders' Meeting or by way
+
+of a Written Procedure.
+
+15.2
+
+Any request from the Issuer or a Holder (or Holders) representing at least 10.00 per cent. of
+
+the Adjusted Nominal Amount (such request may only be validly made by a Person who is a
+
+Holder on the Business Day immediately following the day on which the request is received
+
+by the Agent and shall, if made by several Holders, be made by them jointly) for a decision
+
+by the Holders on a matter relating to the Finance Documents shall be directed to the Agent
+
+and dealt with at a Holders' Meeting or by way of a Written Procedure, as determined by the
+
+Agent. The Person requesting the decision may suggest the form for decision making, but if
+
+it is in the Agent's opinion more appropriate that a matter is dealt with at a Holders' Meeting
+
+than by way of a Written Procedure, it shall be dealt with at a Holders' Meeting.
+
+15.3
+
+The Agent may refrain from convening a Holders' Meeting or instigating a Written
+
+Procedure if (a) the suggested decision must be approved by any Person in addition to the
+
+Holders and such Person has informed the Agent that an approval will not be given or (b) the
+
+suggested decision is not in accordance with applicable laws.
+
+15.4
+
+Only a Person who is, or who has been provided with a power of attorney or other proof of
+
+authorisation pursuant to Clause 8 (Right to act on behalfo f a Holder) from a Person who is,
+
+registered as a Holder:
+
+(a) on the Record Date prior to the date of the Holders' Meeting, in respect of a Holders' Meeting; or
+
+(b) on the Business Day specified in the communication pursuant to Clause 17.3, in respect of a Written Procedure;
+
+may exercise voting rights as a Holder at such Holders' Meeting or in such Written Procedure, provided that the relevant Bonds are included in the definition of Adjusted Nominal Amount.
+
+15.5
+
+The following matters shall require consent of Holders representing at least two thirds (2/3)
+
+of the Adjusted Nominal Amount for which Holders are voting at a Holders' Meeting or for
+
+which Holders reply in a Written Procedure in accordance with the instructions given
+
+pursuant to Clause 17.3:
+
+(a) waive a breach of or amend an undertaking set out in Clause 12 (Special undertakings);
+
+(b) release the Guarantees in whole or in part (except if such release is permitted pursuant to Clause 5.9);
+
+(c) reduce the principal amount, Interest Rate or Interest which shall be paid by the Issuer;
+
+40
+
+15.6
+15.7 15.8 15.9 15.10 15.11 15.12 15.13
+
+(d) amend any payment day for principal or Interest or waive any breach of a payment undertaking; or
+(e) amend the provisions in this Clause 15.5 or Clause 15.6.
+Any matter not covered by Clause 15.5 shall require the consent of Holders representing more than 50.00 per cent. of the Adjusted Nominal Amount for which Holders are voting at a Holders' Meeting or for which Holders reply in a Written Procedure in accordance with the instructions given pursuant to Clause 17.3. This includes, but is not limited to, any amendment to or waiver of the terms of the Finance Documents that does not require a higher majority (other than an amendment permitted pursuant to Clause 18.1 (a), (b) or (c)), a termination of the Bonds or the enforcement of the Guarantees in part or in full.
+If the number of votes or replies are equal, the opinion which is most beneficial for the Issuer, according to the chairman at a Holders' Meeting or the Agent in a Written Procedure, will prevail. The chairman at a Holders' Meeting shall be appointed by the Holders in accordance with Clause 15.6.
+Quorum at a Holders' Meeting or in respect of a Written Procedure only exists if a Holder (or Holders) representing at least twenty (20) per cent. of the Adjusted Nominal Amount:
+(a) if at a Holders' Meeting, attend the meeting in Person or by telephone conference (or appear through duly authorised representatives); or
+(b) if in respect of a Written Procedure, reply to the request.
+If a quorum does not exist at a Holders' Meeting or in respect of a Written Procedure, the Agent or the Issuer shall convene a second Holders' Meeting (in accordance with Clause 16.1) or initiate a second Written Procedure (in accordance with Clause 17.1), as the case may be, provided that the relevant proposal has not been withdrawn by the Person(s) who initiated the procedure for Holders' consent. The quorum requirement in Clause 15.8 shall not apply to such second Holders' Meeting or Written Procedure.
+Any decision which extends or increases the obligations of the Issuer or the Agent, or limits, reduces or extinguishes the rights or benefits of the Issuer or the Agent, under the Finance Documents shall be subject to the Issuer's or the Agent's consent, as appropriate.
+A Holder holding more than one Bond need not use all its votes or cast all the votes to which it is entitled in the same way and may in its discretion use or cast some of its votes only.
+The Issuer may not, directly or indirectly, pay or cause to be paid any consideration to or for the benefit of any Holder for or as inducement to any consent under these Terms and Conditions, unless such consideration is offered to all Holders that consent at the relevant Holders' Meeting or in a Written Procedure within the time period stipulated for the consideration to be payable or the time period for replies in the Written Procedure, as the case may be.
+A matter decided at a duly convened and held Holders' Meeting or by way of Written Procedure is binding on all Holders, irrespective of them being present or represented at the
+41
+
+15.14 15.15
+15.16
+15.17 16. 16.1 16.2 16.3
+
+Holders' Meeting or responding in the Written Procedure. The Holders that have not adopted or voted for a decision shall not be liable for any damages that this may cause other Holders.
+All costs and expenses incurred by the Issuer or the Agent for the purpose of convening a Holders' Meeting or for the purpose of carrying out a Written Procedure, including reasonable fees to the Agent, shall be paid by the Issuer.
+If a decision shall be taken by the Holders on a matter relating to the Finance Documents, the Issuer shall promptly at the request of the Agent provide the Agent with a certificate specifying the number of Bonds owned by Group Companies or (to the knowledge of the Issuer) their Affiliates, irrespective of whether such Person is directly registered as owner of such Bonds. The Agent shall not be responsible for the accuracy of such certificate or otherwise be responsible to determine whether a Bond is owned by a Group Company or an Affiliate of a Group Company.
+Information about decisions taken at a Holders' Meeting or by way of a Written Procedure shall promptly be sent by notice to the Holders and published on the websites of the Group and the Agent, provided that a failure to do so shall not invalidate any decision made or voting result achieved. The minutes from the relevant Holders' Meeting or Written Procedure shall at the request of a Holder be sent to it by the Issuer or the Agent, as applicable.
+Any Holders' Meeting or Written Procedure shall be organised and held, and the rights of any Holder participating to any such Holders' Meeting or Written Procedure shall be determined, in accordance with the relevant provisions of these Terms and Conditions as supplemented by the Swedish law, as the case may be (and, for the avoidance of doubt, to the exclusion of articles 86 to 94-8 of the Luxembourg Company Law.
+HOLDERS' MEETING
+The Agent shall convene a Holders' Meeting by sending a notice thereof to each Holder no later than five (5) Business Days after receipt of a request from the Issuer or the Holder(s) (or such later date as may be necessary for technical or administrative reasons).
+Should the Issuer want to replace the Agent, it may convene a Holders' Meeting in accordance with Clause 16.1 with a copy to the Agent. After a request from the Holders pursuant to Clause 19.4.3, the Issuer shall no later than five (5) Business Days after receipt of such request (or such later date as may be necessary for technical or administrative reasons) convene a Holders' Meeting in accordance with Clause 16.1.
+The notice pursuant to Clause 16.1 shall include (a) time for the meeting, (b) place for the meeting, (c) agenda for the meeting (including each request for a decision by the Holders) and (d) a form of power of attorney. Only matters that have been included in the notice may be resolved upon at the Holders' Meeting. Should prior notification by the Holders be required in order to attend the Holders' Meeting, such requirement shall be included in the notice.
+
+42
+
+16.4
+
+The Holders' Meeting shall be held no earlier than ten (10) Business Days and no later than
+
+twenty (20) Business Days from the notice.
+
+16.5
+
+If the Agent, in breach of these Terms and Conditions, has not convened a Holders' Meeting
+
+within ten (10) Business Days after having received such notice, the requesting Person may
+
+convene the Holders' Meeting itself. If the requesting Person is a Holder, the Issuer shall
+
+upon request from such Holder provide the Holder with necessary information from the
+
+register kept by the CSD and, if no Person to open the Holders' Meeting has been appointed
+
+by the Agent, the meeting shall be opened by a Person appointed by the requesting Person.
+
+16.6
+
+At a Holders' Meeting, the Issuer, the Holders (or the Holders' representatives/proxies) and
+
+the Agent may attend along with each of their representatives, counsels and assistants.
+
+Further, the directors of the board, the managing director and other officials of the Issuer and
+
+the Issuer's auditors may attend the Holders' Meeting. The Holders' Meeting may decide
+
+that further individuals may attend. If a representative/proxy shall attend the Holders'
+
+Meeting instead of the Holder, the representative/proxy shall present a duly executed proxy
+
+or other document establishing its authority to represent the Holder.
+
+16.7
+
+Without amending or varying these Terms and Conditions, the Agent may prescribe such
+
+further regulations regarding the convening and holding of a Holders' Meeting as the Agent
+
+may deem appropriate. Such regulations may include a possibility for Holders to vote
+
+without attending the meeting in Person.
+
+17.
+
+WRITTEN PROCEDURE
+
+17.1
+
+The Agent shall instigate a Written Procedure no later than five (5) Business Days after
+
+receipt of a request from the Issuer or the Holder(s) (or such later date as may be necessary
+
+for technical or administrative reasons) by sending a communication to each such Person
+
+who is registered as a Holder on the Business Day prior to the date on which the
+
+communication is sent.
+
+17.2
+
+Should the Issuer want to replace the Agent, it may send a communication in accordance
+
+with Clause 17.1 to each Holder with a copy to the Agent.
+
+17.3
+
+A communication pursuant to Clause 17.1 shall include (a) each request for a decision by the
+
+Holders, (b) a description of the reasons for each request, (c) a specification of the Business
+
+Day on which a Person must be registered as a Holder in order to be entitled to exercise
+
+voting rights, (d) instructions and directions on where to receive a form for replying to the
+
+request (such form to include an option to vote yes or no for each request) as well as a form
+
+of power of attorney, and (e) the stipulated time period within which the Holder must reply
+
+to the request (such time period to last at least ten (10) Business Days from the
+
+communication pursuant to Clause 17.1). If the voting shall be made electronically,
+
+instructions for such voting shall be included in the communication.
+
+17.4
+
+If the Agent, in breach of these Terms and Conditions, has not instigated a Written
+
+Procedure within ten (10) Business Days after having received such notice, the requesting
+
+Person may instigate a Written Procedure itself. If the requesting Person is a Holder, the
+
+43
+
+17.5 18. 18.1
+18.2 18.3
+18.4 19. 19.1 19.1.1
+
+Issuer shall upon request from such Holder provide the Holder with necessary information from the register kept by the CSD.
+When the requisite majority consents of the total Adjusted Nominal Amount pursuant to Clauses 15.5 and 15.6 have been received in a Written Procedure, the relevant decision shall be deemed to be adopted pursuant to Clause 15.5 and 15.6, as the case may be, even if the time period for replies in the Written Procedure has not yet expired.
+AMENDMENTS AND WAIVERS
+The Issuer and the Agent (acting on behalf of the Holders) may agree to amend the Finance Documents or waive any provision in a Finance Document, provided that:
+(a) such amendment or waiver is not detrimental to the interest of the Holders, or is made solely for the purpose of rectifying obvious errors and mistakes;
+(b) such amendment or waiver is required by applicable law, a court ruling or a decision by a relevant authority;
+(c) such amendment or waiver is necessary for the purpose of listing the Bonds on Nasdaq Stockholm (or any other Regulated Market, as applicable) provided such amendment or waiver does not materially adversely affect the rights of the Holders; or
+(d) such amendment or waiver has been duly approved by the Holders in accordance with Clause 15 (Decisions by Holders).
+The consent of the Holders is not necessary to approve the particular form of any amendment or waiver to the Finance Documents. It is sufficient if such consent approves the substance of the amendment or waiver.
+The Agent shall promptly notify the Holders of any amendments or waivers made in accordance with Clause 18.1, setting out the date from which the amendment or waiver will be effective, and ensure that any amendments to the Finance Documents are available on the websites of the Group and the Agent. The Issuer shall ensure that any amendments to these Terms and Conditions are duly registered with the CSD and each other relevant organisation or authority.
+An amendment or waiver to the Finance Documents shall take effect on the date determined by the Holders' Meeting, in the Written Procedure or by the Agent, as the case may be.
+APPOINTMENT AND REPLACEMENT OF THE AGENT
+Appointment of Agent
+By subscribing for Bonds, each initial Holder appoints the Agent to act as its agent in all matters relating to the Bonds and the Finance Documents, and authorises the Agent to act on its behalf (without first having to obtain its consent, unless such consent is specifically required by these Terms and Conditions) in any legal or arbitration proceedings relating to
+
+44
+
+19.1.2
+19.1.3
+19.1.4
+19.1.5 19.1.6 19.2 19.2.1
+19.2.2 19.2.3
+19.2.4 19.2.5
+
+the Bonds held by such Holder. By acquiring Bonds, each subsequent Holder confirms such appointment and authorisation for the Agent to act on its behalf.
+Each Holder shall immediately upon request by the Agent provide the Agent with any such documents, including a written power of attorney (in form and substance satisfactory to the Agent), as the Agent deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents. The Agent is under no obligation to represent a Holder which does not comply with such request.
+The Issuer shall promptly upon request provide the Agent with any documents and other assistance (in form and substance satisfactory to the Agent), that the Agent deems necessary for the purpose of exercising its rights and/or carrying out its duties under the Finance Documents.
+The Agent is entitled to fees for its work and to be indemnified for costs, losses and liabilities on the terms set out in the Finance Documents and the Agent's obligations as agent and security agent under the Finance Documents are conditioned upon the due payment of such fees and indemnifications.
+The Agent may act as agent and/or security trustee for several issues of securities issued by or relating to the Issuer and other Group Companies notwithstanding potential conflicts of interest.
+The Issuer further appoints the Agent as representative (Da. repræsentant) for the Holders in accordance with Chapter 2a of the Danish act on trading in securities etc. (Da. værdipapirhandelsloven) (as amended from time to time).
+Duties of the Agent
+The Agent shall represent the Holders in accordance with the Finance Documents. However, the Agent is not responsible for the execution or enforceability of the Finance Documents. The Agent shall keep the latest version of these Terms and Conditions (including any document amending these Terms and Conditions) available on the website of the Agent.
+The Agent shall upon request by a Holder disclose the identity of any other Holder who has consented to the Agent in doing so.
+When acting in accordance with the Finance Documents, the Agent is always acting with binding effect on behalf of the Holders. The Agent shall carry out its duties under the Finance Documents in a reasonable, proficient and professional manner, with reasonable care and skill.
+The Agent is entitled to delegate its duties to other professional parties, but the Agent shall remain liable for the actions of such parties under the Finance Documents.
+The Agent shall treat all Holders equally and, when acting pursuant to the Finance Documents, act with regard only to the interests of the Holders and shall not be required to have regard to the interests or to act upon or comply with any direction or request of any other Person, other than as explicitly stated in the Finance Documents.
+45
+
+19.2.6 19.2.7
+19.2.8 19.2.9
+19.2.10 19.3 19.3.1 19.3.2 19.3.3
+
+The Agent shall be entitled to disclose to the Holders any event or circumstance directly or indirectly relating to the Issuer or the Bonds. Notwithstanding the foregoing, the Agent may if it considers it to be beneficial to the interests of the Holders delay disclosure or refrain from disclosing certain information other than in respect of an Event of Default that has occurred and is continuing.
+The Agent is entitled to engage external experts when carrying out its duties under the Finance Documents. The Issuer shall on demand by the Agent pay all costs for external experts engaged (a) after the occurrence of an Event of Default, (b) for the purpose of investigating or considering an event which the Agent reasonably believes is or may lead to an Event of Default or a matter relating to the Issuer which the Agent reasonably believes may be detrimental to the interests of the Holders under the Finance Documents or (c) when the Agent is to make a determination under the Finance Documents. Any compensation for damages or other recoveries received by the Agent from external experts engaged by it for the purpose of carrying out its duties under the Finance Documents shall be distributed in accordance with Clause 14 (Distribution o fproceeds).
+Notwithstanding any other provision of the Finance Documents to the contrary, the Agent is not obligated to do or omit to do anything if it would or might in its reasonable opinion constitute a breach of any law or regulation.
+If in the Agent's reasonable opinion the cost, loss or liability which it may incur (including reasonable fees to the Agent) in complying with instructions of the Holders, or taking any action at its own initiative, will not be covered by the Issuer, the Agent may refrain from acting in accordance with such instructions, or taking such action, until it has received such funding or indemnities (or adequate security has been provided therefore) as it may reasonably require.
+The Agent shall give a notice to the Holders (a) before it ceases to perform its obligations under the Finance Documents by reason of the non-payment by the Issuer of any fee or indemnity due to the Agent under the Finance Documents or (b) if it refrains from acting for any reason described in Clause 19.2.9.
+Limited liability for the Agent
+The Agent will not be liable to the Holders for damage or loss caused by any action taken or omitted by it under or in connection with any Finance Document, unless directly caused by its negligence or wilful misconduct. The Agent shall never be responsible for indirect loss.
+The Agent shall not be considered to have acted negligently if it has acted in accordance with advice from or opinions of reputable external experts engaged by the Agent or if the Agent has acted with reasonable care in a situation when the Agent considers that it is detrimental to the interests of the Holders to delay the action in order to first obtain instructions from the Holders.
+The Agent shall not be liable for any delay (or any related consequences) in crediting an account with an amount required pursuant to the Finance Documents to be paid by the Agent to the Holders, provided that the Agent has taken all necessary steps as soon as reasonably
+46
+
+19.3.4 19.3.5 19.4 19.4.1 19.4.2 19.4.3
+19.4.4
+19.4.5 19.4.6 19.4.7
+
+practicable to comply with the regulations or operating procedures of any recognised clearing or settlement system used by the Agent for that purpose.
+The Agent shall have no liability to the Holders for damage caused by the Agent acting in accordance with instructions of the Holders given in accordance with Clause 15 (Decisions by Holders).
+Any liability towards the Issuer which is incurred by the Agent in acting under, or in relation to, the Finance Documents shall not be subject to set-off against the obligations of the Issuer to the Holders under the Finance Documents.
+Replacement of the Agent
+Subject to Clause 19.4.6, the Agent may resign by giving notice to the Issuer and the Holders, in which case the Holders shall appoint a successor Agent at a Holders' Meeting convened by the retiring Agent or by way of Written Procedure initiated by the retiring Agent.
+Subject to Clause 19.4.6, if the Agent is insolvent, the Agent shall be deemed to resign as Agent and the Issuer shall within ten (10) Business Days appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+A Holder (or Holders) representing at least 10.00 per cent. of the Adjusted Nominal Amount may, by notice to the Issuer (such notice may only be validly given by a Person who is a Holder on the Business Day immediately following the day on which the notice is received by the Issuer and shall, if given by several Holders, be given by them jointly), require that a Holders' Meeting is held for the purpose of dismissing the Agent and appointing a new Agent. The Issuer may, at a Holders' Meeting convened by it or by way of Written Procedure initiated by it, propose to the Holders that the Agent be dismissed and a new Agent appointed.
+If the Holders have not appointed a successor Agent within ninety (90) calendar days after (a) the earlier of the notice of resignation was given or the resignation otherwise took place or (b) the Agent was dismissed through a decision by the Holders, the Issuer shall appoint a successor Agent which shall be an independent financial institution or other reputable company which regularly acts as agent under debt issuances.
+The retiring Agent shall, at its own cost, make available to the successor Agent such documents and records and provide such assistance as the successor Agent may reasonably request for the purposes of performing its functions as Agent under the Finance Documents.
+The Agent's resignation or dismissal shall only take effect upon the appointment of a successor Agent and acceptance by such successor Agent of such appointment and the execution of all necessary documentation to effectively substitute the retiring Agent.
+Upon the appointment of a successor, the retiring Agent shall be discharged from any further obligation in respect of the Finance Documents but shall remain entitled to the benefit of the Finance Documents and remain liable under the Finance Documents in respect of any action
+47
+
+19.4.8
+20. 20.1 20.2
+21. 21.1 21.2
+21.3
+
+which it took or failed to take whilst acting as Agent. Its successor, the Issuer and each of the Holders shall have the same rights and obligations amongst themselves under the Finance Documents as they would have had if such successor had been the original Agent.
+In the event that there is a change of the Agent in accordance with this Clause 19.4, the Issuer shall execute such documents and take such actions as the new Agent may reasonably require for the purpose of vesting in such new Agent the rights, powers and obligation of the Agent and releasing the retiring Agent from its further obligations under the Finance Documents. Unless the Issuer and the new Agent agrees otherwise, the new Agent shall be entitled to the same fees and the same indemnities as the retiring Agent.
+APPOINTMENT AND REPLACEMENT OF THE ISSUING AGENT
+The Issuer appoints the Issuing Agent to manage certain specified tasks under these Terms and Conditions and in accordance with the legislation, rules and regulations applicable to and/or issued by the CSD and relating to the Bonds.
+The Issuing Agent may retire from its assignment or be dismissed by the Issuer, provided that the Issuer has approved that a commercial bank or securities institution approved by the CSD accedes as new Issuing Agent at the same time as the old Issuing Agent retires or is dismissed. If the Issuing Agent is insolvent, the Issuer shall immediately appoint a new Issuing Agent, which shall replace the old Issuing Agent as issuing agent in accordance with these Terms and Conditions.
+NO DIRECT ACTIONS BY HOLDERS
+A Holder may not take any steps whatsoever against the Issuer or any Guarantor to enforce or recover any amount due or owing to it pursuant to the Finance Documents, or to initiate, support or procure the winding-up, dissolution, liquidation, company reorganisation or bankruptcy (or its equivalent in any jurisdiction) of the Group Companies in relation to any of the liabilities of the Issuer or any Guarantor under the Finance Documents.
+Clause 21.1 shall not apply if the Agent has been instructed by the Holders in accordance with the Finance Documents to take certain actions but fails for any reason to take, or is unable to take (for any reason other than a failure by a Holder to provide documents in accordance with Clause 19.1.2), such actions within a reasonable period of time and such failure or inability is continuing. However, if the failure to take certain actions is caused by the non-payment by the Issuer of any fee or indemnity due to the Agent under the Finance Documents or by any reason described in Clause 19.2.9, such failure must continue for at least forty (40) Business Days after notice pursuant to Clause 19.2.10 before a Holder may take any action referred to in Clause 21.1.
+The provisions of Clause 21.1 shall not in any way limit an individual Holder's right to claim and enforce payments which are due to it under Clause 11.4 (Mandatory repurchase due to a Change o f Control Event (put option)) or other payments which are due by the Issuer to some but not all Holders.
+
+48
+
+22. 22.1 22.2 23. 23.1 23.1.1
+23.1.2
+
+TIME-BAR
+The right to receive repayment of the principal of the Bonds shall be time-barred and become void ten (10) years from the relevant Redemption Date. The right to receive payment of Interest (excluding any capitalised Interest) shall be time-barred and become void three (3) years from the relevant due date for payment. The Issuer is entitled to any funds set aside for payments in respect of which the Holders' right to receive payment has been time-barred and has become void.
+If a limitation period is duly interrupted in accordance with the Swedish Act on Limitations (Sw. preskriptionslag (1981:130)), a new time-bar period of ten (10) years with respect to the right to receive repayment of the principal of the Bonds, and of three (3) years with respect the right to receive payment of Interest (excluding capitalised Interest) will commence, in both cases calculated from the date of interruption of the time-bar period, as such date is determined pursuant to the provisions of the Swedish Act onLimitations.
+NOTICES AND PRESS RELEASES
+Notices
+Any notice or other communication to bemade under or in connection with these Terms and Conditions:
+(a) if to the Agent, shall be given at the address registered with the Swedish Companies Registration Office (Sw. Bolagsverket) on the Business Day prior to dispatch or, if sent by email by the Issuer, to such email address as notified by the Agent to the Issuer from time to time;
+(b) if to the Issuer, shall be given at the address 6, rue Guillaume Schneider, L-2522 Luxembourg, Luxembourg or such address notified by the Issuer to the Agent from time to time or, if sent by email by the Agent, to such email address as notified by the Issuer to the Agent from time to time;
+(c) if to a Guarantor, shall be given to the address stated in the Guarantee or such address notified by the Guarantor to the Agent from time to time or, if sent by email by the Agent, to such email address as notified by the Guarantor to the Agent from time to time; and
+(d) if to the Holders, shall be given at their addresses as registered with the CSD, on the Business Day prior to dispatch, and by either courier delivery or letter for all Holders. A notice to the Holders shall also be published on the websites of the Group and the Agent.
+Any notice or other communication made by one Person to another under or in connection with these Terms and Conditions shall be sent by way of courier, personal delivery or letter (and, if between the Agent and the Issuer, by email) and will only be effective, in case of courier or personal delivery, when it has been left at the address specified in Clause 23.1.1 or, in case of letter, three (3) Business Days after being deposited postage prepaid in an
+
+49
+
+23.1.3 23.2 23.2.1
+23.2.2
+24. 24.1
+24.2 24.3 24.4 25. 25.1
+
+envelope addressed to the address specified in Clause 23.1.1 or, in case of email to the Agent or the Issuer, when received in legible form by the email address specified in Clause 23.1.1.
+Failure to send a notice or other communication to a Holder or any defect in it shall not affect its sufficiency with respect to other Holders.
+Press releases
+Any notice that the Issuer or the Agent shall send to the Holders pursuant to Clauses 11.3.2, 11.5 (Optional redemption for taxation reasons), 11.6 (Equity claw back), 12.13.1 (e), 13.6, 14.3, 15.16, 16.1, 17.1, 18.3, 19.2.10 and 19.4.1 shall also be published by way of press release by the Issuer or the Agent, as applicable.
+In addition to Clause 23.2.1, if any information relating to the Bonds, the Issuer or the Group contained in a notice that the Agent may send to the Holders under these Terms and Conditions has not already been made public by way of a press release, the Agent shall before it sends such information to the Holders give the Issuer the opportunity to issue a press release containing such information. If the Issuer does not promptly issue a press release and the Agent considers it necessary to issue a press release containing such information before it can lawfully send a notice containing such information to the Holders, the Agent shall be entitled to issue such press release.
+FORCE MAJEURE AND LIMITATION OF LIABILITY
+Neither the Agent nor the Issuing Agent shall be held responsible for any damage arising out of any legal enactment, or any measure taken by a public authority, or war, strike, lockout, boycott, blockade or any other similar circumstance (for the purpose of this Clause 24, a "Force Majeure Event"). The reservation in respect of strikes, lockouts, boycotts and blockades applies even if the Agent or the Issuing Agent itself takes such measures, or is subject to such measures.
+The Issuing Agent shall have no liability to the Holders if it has observed reasonable care. The Issuing Agent shall never be responsible for indirect damage with exception of gross negligence and wilful misconduct.
+Should a Force Majeure Event arise which prevents the Agent or the Issuing Agent from taking any action required to comply with the Finance Documents, such action may be postponed until the obstacle has been removed.
+The provisions in this Clause 24 apply unless they are inconsistent with the provisions of the Financial Instruments Accounts Act which provisions shall take precedence.
+GOVERNING LAW AND JURISDICTION
+These Terms and Conditions, and any non-contractual obligations arising out of or in connection therewith, shall be governed by and construed in accordance with the laws of Sweden. For the avoidance of doubt, articles 86 to 94-8 of the Luxembourg Company Law shall not apply to the Bonds.
+
+50
+
+25.2
+
+Any dispute or claim arising in relation to these Terms and Conditions shall, subject to
+
+Clause 25.3, be determined by Swedish courts and the District Court of Stockholm (Sw.
+
+Stockholms tingsrätt) shall be the court of first instance.
+
+25.3
+
+The submission to the jurisdiction of the Swedish courts shall not limit the right of the
+
+Agent (or the Holders, as applicable) to take proceedings against the Issuer or the
+
+Guarantors in any court which may otherwise exercise jurisdiction over the Issuer, the
+
+Guarantors or any of the Issuer's or the Guarantors' assets.
+
+51
+
+We hereby certify that the above Terms and Conditions are binding upon ourselves.
+Place: Stockholm
+4FINANCE S.A. as Issuer
+
+Name:
+
+Name:
+
+We hereby undertake to act in accordance with the above Terms and Conditions to the extent they refer to us.
+Place: Stockholm
+NORDIC TRUSTEE & AGENCY AB (publ) as Agent
+Name:
+
+52
+
+

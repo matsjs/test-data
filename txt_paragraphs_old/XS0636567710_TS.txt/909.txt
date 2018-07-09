@@ -1,0 +1,9 @@
+193
+180
+Currency
+change 10%
+193
+0
+0
+Sensitivity analysis for embedded derivatives Embedded derivatives are common features in physical commodity contracts. The most common embedded derivatives are price indices, hereunder national consumer price and producer price indices. Some embedded derivatives have option features. The analysis below combines all indices into one price index. Currency effects will arise when contract values nominated in foreign currencies are translated to NOK.
+EMBEDDED DERIVATIVES

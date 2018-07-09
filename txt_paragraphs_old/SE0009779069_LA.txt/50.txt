@@ -1,0 +1,9 @@
+The Issuer shall:
+29
+(b) maintain a reserve account (the "Reserve Account") into which the Reserve Amount will be transferred that shall be pledged in favour of the Trustee and the Bondholders represented by the Trustee,
+the Issuer shall be permitted (i) to use funds from the Reserve Account to purchase Eligible Securities which will be held in the VP Account and (ii) to sell Eligible Securities held on the VP Account provided that the proceeds from such sale are immediately transferred to the Reserve Account. Upon the occurrence of an Event of Default the Reserve Account and the VP Account shall be blocked for the Issuer.
+14. Events of Default and Acceleration of the Bonds
+Each of the events or circumstances set out in this Clause 14 (other than Clause 14.10 (Acceleration of the Bonds)) is an Event of Default.
+14.1 Non-Payment
+The Issuer fails to pay an amount on the date it is due in accordance with the Finance Documents unless its failure to pay is caused by administrative or technical error and payment is made within five (5) Business Days of the due date.
+14.2 Other Obligations

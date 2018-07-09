@@ -1,0 +1,9 @@
+Date. Any Subsequent Bond will carry Interest at the Interest Rate calculated on the
+to its issuance up to (and including) the relevant Redemption Date.
+8.2
+Interest accrues during an Interest Period. Payment of Interest in respect of the Bonds
+shall be made to the Bondholders on each Interest Payment Date for the preceding
+Interest Period.
+8.3
+Interest shall be calculated on the basis of the actual number of days in the Interest
+Period in respect of which payment is being made divided by 360 (Day-count fraction is

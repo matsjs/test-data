@@ -1,0 +1,9 @@
+9.3 C alculation o f interest paym ents
+The relevant interest payable amount shall be calculated based on a period from,
+and including, the Issue Date or one Interest Payment Date (as the case may be)
+to, but excluding, the next following applicable Interest Payment Date.
+(b)
+The day count fraction ("Floating R ate Day C ount Fraction") in respect of the
+calculation of the payable interest amount shall be "Actual/360", which means
+19
+Execution version

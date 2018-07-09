@@ -1,0 +1,9 @@
+Floating Rate
+Day Count Fraction
+10 Maturity of the Bonds andRedemption
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 Call Option
+10.2.1 The Issuer may redeem parts of the Bond Issue or the entire Bond Issue at any time at a price of 101 % of par plus accrued interest on redeemed amount (Call Option).
+10.2.2 Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders and at least thirty Business Days prior to the settlement date of the Call Option.
+10.2.3 Partial redemption must be carried out pro rata between the Bonds (according to the procedures of the Security Depository).

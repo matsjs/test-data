@@ -1,0 +1,45 @@
+To the bondholders of:
+ISIN NO 001 033433.7 - FRN Eitzen Chemical ASA Callable Bond Issue 2006/2011
+ISIN NO 001 033434.5 - FRN Eitzen Chemical ASA Callable Bond Issue 2006/2011
+Oslo, 27 September 2009
+Norsk Tillitsmann ASA ("NTM" or the "Trustee") acts as loan trustee for the bond loan consisting of a USD tranche with ISIN NO 001033433.7 (the "USD Tranche") and a NOK tranche with ISIN NO 001033434.5 (the "NOK Tranche") (together the "Loan") where Eitzen Chemical ASA is the Borrower (the "Borrower", "Eitzen", or the "Company").
+All capitalized terms used herein and not otherwise defined herein shall have the meanings assigned thereto in the agreement for the Loan (the "Loan Agreement") or the Summons (as defined below) unless otherwise stated.
+Based on recent negotiations with bondholders, the Company has decided to amend the Proposal included in the summons to bondholders' meeting dated 21 September 2009 (the "Summons"). The Additional Proposal, as defined below, will be considered on the bondholders' meeting to be held on 29 September 2009 at 14:00 hours (Oslo time).
+In addition to the proposed amendments described in the Summons, the Company wishes to propose that the Bondholders shall receive an up-front fee of 0.75% flat of the outstanding Loan to be paid upon receipt of the proceeds from the Equity Issue, and a back-end fee of 1.25% flat of the outstanding Loan on the Moratory Expiry Date (6 November 2012). Furthermore, the Company proposes that the Loan shall mature on the Maturity Date (4 October 2014) at 103.0% of par (plus accrued interest on the redeemed amount), with call options to redeem the Loan at 100.0% of par (plus accrued interest on the redeemed amount) in 2012 and 101.5% of par (plus accrued interest on the redeemed amount) in 2013. The Company also proposes to introduce an "aggregated secured group loan to value" covenant after the Moratory Expiry Date (6 November 2012). The covenant is further described below. If the "aggregated secured group loan to value" ratio is between 80.01% and 83.25% the interest margin shall increase with 0.50% from the current level, and with 1.0% (i.e. with an additional 0.50%) from the current level if the ratio is between 83.26% and 86.50%. If the ratio is below 80.00% the interest margin shall be unchanged from the current level. If the ratio exceeds 86.51% the Loan may be deemed to be in default. The covenant shall be measured quarterly. The additional proposed amendments to the Loan Agreement are set forth below.
+Bondholders representing approximately 50% of the outstanding Loan have confirmed to the Trustee that they will support the revised proposal in the bondholders' meeting on 29 September 2009.
+With reference to the Summons, the Company hereby proposes the following additional amendments to the Loan Agreement to the Bondholders (the "Additional Proposal"):
+a) A new clause 14.3 (Fees and expenses) shall be added with the following wording:
+
+"The Borrower shall pay an amendment fee of 0.75% of the total outstanding Loan, being a fee of USD 187,500 in respect of the USD Tranche and a fee of NOK 3,675,000 in respect of the NOK Tranche. The fee shall be paid to the Trustee (on behalf of the Bondholders). Such amendment fee shall be due and payable within three (3) days from the receipt by the Borrower of the proceeds from the Equity Issue (as defined in the Summons)."
+b) A new clause 14.4 (Fees and expenses) shall be added with the following wording:
+"The Borrower shall pay a fee of 1.25% of the total outstanding Loan, being a fee of USD 312,500 in respect of the USD Tranche and a fee of NOK 6,125,000 in respect of the NOK Tranche. The fee shall be paid to the Trustee (on behalf of the Bondholders). Such fee shall be due and payable at the Moratory Expiry Date or, if called earlier in 2012, on the date of repayment of the Loan in 2012 (in case of partial repayment before the Moratory Expiry Date in 2012, the fee shall only be payable for the part of the Loan which is being repaid)."
+c) The following two new definitions shall be added to Clause 1 (Definitions)
+"Aggregated Group Loan: the total debt directly or indirectly secured against vessels owned by the Group companies."
+"Aggregated Group Loan to Value Ratio: the ratio of Aggregated Group Loan to Value"
+"Margin: means
+(1) in the period until the Moratory Expiry Date (including) 3.50 %.
+(2) in the period after the Moratory Expiry Date the Margin shall be determined and reset on each Interest Determination Date in order to reflect that if the Aggregated Group Loan to Value Ratio (such Aggregated Group Loan to Value Ratio to be measured quarterly) is:
+(i) less than 80.00 %, the Margin for the next interest period shall be 3.50 %.
+(ii) between 80.01 % and 83.25 %, the Margin for the next interest period shall be 4.00 %.
+(iii)between 83.26 % and 86.50 %, the Margin for the next interest period shall be 4.50 %."
+"Value: the aggregated value of all vessels owned by Group companies (for the avoidance of doubt, vessels financed by financial or operational leases shall not be deemed as vessels owned by Group companies), where the value of each vessel is calculated by calculating the arithmetic mean of two valuations of the fair market value of such mortgaged vessel, obtained from two shipbrokers appointed by the agent of the loan agreements between Eitzen Singapore and the Syndicate Lenders, such valuations to be made on the basis of a sale for prompt delivery for cash at arm's
+
+length on normal commercial terms as between a willing buyer and seller, on an "as is where is" basis free of any existing charter or other contract of employment and/or pool arrangements"
+d) The first paragraph of Clause 9.2 (Interest) of the Loan Agreement shall be deleted and replaced by the by the following paragraph:
+"The interest on the Loan is reset with effect from each Interest Payment Date. The new interest is set on the Interest Determination Date based on NIBOR plus the Margin for the NOK Tranche and LIBOR plus the Margin for the USD Tranche. Should NIBOR or LIBOR not be available, the interest rate will be set based on NIBOR - Reference Banks (for the NOK Tranche) or LIBOR - Reference Banks (for the USD Tranche) plus the Margin."
+e) A new Clause 15.1 (g) (Events of Default) shall be added with the following wording:
+"in the period after the Moratory Expiry Date, the Aggregated Group Loan to Value Ratio is above 86.51%."
+f) The wording of Clause 10.1 (Maturity etc.) shall be replaced by the following wording:
+"The Loan will run without installments and mature in whole on the Maturity Date at 103.00% of par."
+g) The wording of the first paragraph of Clause 10.2 (Maturity etc.) shall be replaced by the following wording:
+"The Borrower may redeem parts of the Loan or the entire Loan as follows (Call Option):
+(i) at Interest Payment Date in October 2009 at 104% of par plus accrued interests on redeemed amount,
+(ii) at Interest Payment Date in October 2010 at 102% of par plus accrued interests on redeemed amount,
+(iii) in 2012 at par (100.00%) plus accrued interest on redeemed amount,
+(iv) in 2013 at 101.50% of par plus accrued interests on redeemed amount, and
+(v) in 2014 at 103.00% of par plus accrued interests on redeemed amount."
+Yours faithfully,
+Terje Askvig Chief Executive Officer
+Eitzen Chemical ASA
+
+

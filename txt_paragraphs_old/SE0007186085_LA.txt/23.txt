@@ -1,0 +1,9 @@
+if any such rate is below zero, STIBOR will be deemed to be zero.
+"Subsidiary" means a subsidiary of the Issuer according to Chapter 1 Section 11 of the Swedish Companies Act (or under such provision as may replace this provision).
+12
+"Swedish Government Bond Rate" means:
+(a) the interpolated SGB rate between the SGB 12 August 2017 (series 1051) and the SGB 12 March 2019 (series 1052) (mid rates), as determined by the Issuing Agent on or about 11.00 am on the date of the notification of redemption; or
+(b) if no quotation is available pursuant to paragraph (a), the SGB rate which the Issuing Agent deems appropriate for the purpose of the calculation set out in this definition (acting reasonably); and
+if any such rate is below zero, the Swedish Government Bond Rate will be deemed to be zero.
+"Swedish Kronor" and "SEK" means the lawful currency of Sweden.
+"Soderpunkten Project" means the Group's project in respect of the urban shopping and entertainment centre located at the real property Helsingborg Holland 25, including inter alia reconstruction and development of the existing building on the real property for shopping, entertainment and housing purposes.

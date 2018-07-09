@@ -1,0 +1,9 @@
+9.1 Interest rate The Issuer shall pay interest on the par value of the Bonds from, and including, the Issue Date at a fixed rate of 8.00 per cent per annum (the "Fixed Rate").
+9.3 Calculation of interest payments
+(a)
+The relevant interest payable amount shall be calculated based on a period from,
+and including, one Interest Payment Date to, but excluding, the next following
+applicable M erest Payment Date.
+(b)
+The day count fraction ("Fixed Rate Day Count Fraction") in respect of the
+calculation of the payable interest amount shall be "30/360", which means that

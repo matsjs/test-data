@@ -1,0 +1,9 @@
+"Mid-Swap Rate" means the linearly interpolated Reference Rate in the currency of the Bonds for the actual period on the day falling two Business Days before the notification to the Bondholders of the Make Whole Amount pursuant to Clause 10.2(c), or, if such is not quoted, the mid-swap rate for the leading banks in the relevant interbank market, based on the last quoted Reference Rate or mid-swap rate in the currency of the Bonds for the actual period.
+"Net Debt" means the Outstanding Bond Amount (not including any Bonds owned by the Issuer or any Group Company), less the Liquidity.
+"Nominal Amount" means the Initial Nominal Amount less the aggregate amount by which each Bond has been partially redeemed pursuant to Clause 10 {Redemption and repurchase o f Bonds).
+"Obligor" means the Issuer, any Guarantor and any other company granting Security for the Bonds.
+"Outstanding Bond Amount" means the Outstanding Bonds multiplied with the Nominal Amount.
+"Outstanding Bonds" means any Bonds issued in accordance with these Bond Terms to the extent not redeemed or otherwise discharged.
+"Overdue Amount" means any amount required to be paid by the Issuer under any of the Finance Documents but not made available to the Bondholders on the relevant Payment Date or otherwise not paid on its applicable due date.
+"Paying Agent" means the legal entity appointed by the Issuer to act as its paying agent with respect to the Bonds in the CSD.
+"Payment Date" means any Interest Payment Date or any Repayment Date.

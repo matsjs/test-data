@@ -1,0 +1,9 @@
+"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
+"Call Option Amount" means:
+(a) 103 per cent. of the Nominal Amount if the Call Option is exercised on or after the First Call Date up to (but not including) the date falling 30 months after the Issue Date;
+(b) 101.8 per cent. of the Nominal Amount if the Call Option is exercised on or after the date falling 30 months after the Issue Date up to (but not including) the date falling 36 months after the Issue Date;
+(c) 101.2 per cent. of the Nominal Amount if the Call Option is exercised on or after the date falling 36 months after the Issue Date up to (but not including) the date falling 42 months after the Issue Date;
+(d) 101.6 per cent. of the Nominal Amount if the Call Option is exercised on or after the date falling 42 months after the Issue Date up to (but not including) the Final Redemption Date.
+"Change of Control Event" means the occurrence of an event or series of events whereby:
+(a) one or more Persons (other than the Shareholder, or an Affiliate thereof) acting together, acquire control over the Issuer and where "control" means (i) acquiring or controlling, directly or indirectly, more than 50 per cent. of the voting rights of the Issuer, or (ii) the right to, directly or indirectly, appoint or remove the whole or a majority of the directors of the board of directors of the Issuer, or;
+(b) the Shareholder, or an affiliate thereof ceases to control at least 50 per cent. of the shares in the Issuer held by Tobin Properties AB, or an Affiliate thereof as of the Issue Date.

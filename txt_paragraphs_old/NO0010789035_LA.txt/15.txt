@@ -1,0 +1,9 @@
+(b) repayment of that cash is not contingent on the prior discharge of any other indebtedness of any member of the Group or of any other person whatsoever or on the satisfaction of any other condition;
+(d) the cash is freely and immediately available to be applied in repayment or prepayment of Financial Indebtedness.
+"Loan to Value" means the ratio of NIBD to EV.
+"Make Whole Amount" means an amount equal to the sum of:
+(a) the present value on the Call Option Repayment Date of 104.00 per cent. of the Nominal Amount of the redeemed Bonds as if such payment originally had taken place on the First Call Date; and
+9 (48)
+(b) the present value on the Call Option Repayment Date of the remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the First Call Date,
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
+"Managers" means each of, or collectively as the case may be, DNB Markets, a part of DNB Bank ASA and Pareto Securities AS, who jointly act as managers for the Bond Issue.

@@ -1,0 +1,9 @@
+Day Count
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 Call Option
+10.2.1 The Issuer may redeem the Bond Issue in whole or in part as follows (Call Option):
+(a) with settlement date at any time from and included Interest Payment Date in March 2016 to, but not included, the Interest Payment Date in March 2017 at 103.0 % of par plus accrued interests on redeemed amount,
+(b) with settlement date any time from and included Interest Payment Date in March 2017 to, but not included, Maturity Date at 101.5 % of par plus accrued interests on redeemed amount.
+10.2.2 Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty Business Days prior to the settlement date of the Call Option.
+10.2.3 Partial redemption must be carried out pro rata (in accordance with the procedures of the Securities Depository).

@@ -1,0 +1,9 @@
+8.1 The Issuer's payment obligations under this Bond Agreement shall rank ahead of all subordinated payment obligations of the Issuer and shall rank at least pari passu with all the Issuer's other obligations, save for (i) secured obligations to the extent they are secured and (ii) obligations which are mandatorily preferred by law.
+13
+9 Interest
+9.1 The Issuer shall pay interest on the face value of the Bonds from, and including, 6 April 2017 at the Bond Reference Rate plus the Margin (together the "Floating Rate").
+9.2 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date falls in December 2017.
+9.3 The interest is payable in cash to the extent the Issuer will have Free Cash of no less than USD 250,000 and USD 7,000,000 on consolidated level after such interest payment. To the extent interest is not paid in cash, it will be settled by way of issuance of additional Bonds (payment-in-kind interest).
+9.4 The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+9.5 The day count fraction in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.
+9.6 The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period.

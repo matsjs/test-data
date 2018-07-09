@@ -1,0 +1,9 @@
+10.2 Mandatory Redemption In the event that the conditions precedent set out in Clause 6.4 have not been fulfilled within sixty (60) Business Days after Settlement Date, the Issuer shall immediately redeem the Bonds at a price of 101% of par value plus accrued interest (by inter alia applying the funds deposited on the Escrow Accounts).
+(a)
+The Issuer may redeem the Bond Issue (in whole or in parts) (a "Call Option") at any
+time from and including:
+(i) the Settlement Date to, but not including, the Interest Payment Date falling twentyfour (24) months after the Settlement Date (the "Call Date") at a price equivalent to the sum of:
+A. the present value on the relevant record date of 103 % of par value as if such payment originally should have taken place on the Call Date;
+B. the present value on the relevant record date of the remaining interest payments (less any accrued but unpaid interest) through to and including the Call Date; and
+C. accrued but unpaid interest on the redeemed amount,
+where the present value under both (A) and (B) above shall be calculated by using a discount rate of 50 basis points over the comparable Norwegian government bonds (i.e. comparable to the remaining duration of the Bonds until the Call Date and where "relevant record date" shall mean a date agreed upon between the Bond Trustee, the Paying Agent, VPS and the Issuer in connection with such repayment;

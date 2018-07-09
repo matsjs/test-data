@@ -1,0 +1,9 @@
+"Regulated Market" means any regulated market (as defined in Directive 2004/39/EC on markets in financial instruments).
+"Security Amount" means SEK 14,000,000.
+"Sole Bookrunner and Issuing Agent" means ABG Sundal Collier AB, (reg. no. 5565388674), P.O. Box 7269 SE-103 89 Stockholm, Sweden and ABG Sundal Collier ASA, (reg. no. 883 603 362), P.O. Box 1444 Vika, 0115 Oslo, Norway.
+"STIBOR" means:
+(a) the applicable percentage rate per annum displayed on Nasdaq Stockholm's website for STIBOR fixing (or through another website replacing it) as of or around 11.00 a.m. on the Quotation Day for the offering of deposits in SEK and for a period comparable to the relevant Interest Period; or
+(b) if no rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by leading banks in the Stockholm interbank market reasonably selected by the Issuing Agent, for deposits of SEK one hundred million (100,000,000) for the relevant period; or
+(c) if no quotation is available pursuant to item (b) above, the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in SEK offered in the Stockholm interbank market for the relevant period; and
+(d) if any such rate is below zero (0), STIBOR will be deemed to be zero (0).
+"Subordinated Loan" means any Financial Indebtedness with maturity after the Final Redemption Date and which according to its terms (or a subordination agreement on terms and conditions satisfactory to the Agent) is subordinated to the Financial Indebtedness incurred by the Issuer under the Bonds and according to its terms yield only payment-in-kind interest.

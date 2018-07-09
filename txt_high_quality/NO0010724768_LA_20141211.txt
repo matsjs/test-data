@@ -1,0 +1,1429 @@
+ISIN NO oox 072476.8
+BOND AGREEMENT between
+Agrinos AS (Issuer) and
+Nordic Trustee ASA (Bond Trustee) on behalf of
+the Bondholders in the bond issue PIK FRN Agrinos AS Convertible Bond Issue 2014/2017
+1
+
+TABLE OF CONTENTS
+1 INTERPRETATION
+2 THE BONDS
+3 LISTING 4 REGISTRATION IN THE SECURITIES DEPOSITORY 5 PURCHASE AND TRANSFER OF BONDS
+6 CONDITIONS PRECEDENT
+7 REPRESENTATIONS AND WARRANTIES
+8 STATUS OF THE BONDS AND SECURITY
+9 INTEREST
+10 MATURITY OF THE BONDS AND REDEMPTION
+li PAYMENTS
+12 ISSUER'S ACQUISITION OF BONDS
+13 COVENANTS
+H CONVERSION TERMS
+15 ADJUSTMENTS TO THE CONVERSION PRICE
+16 MERGERS AND DE-MERGERS
+17 FEES AND EXPENSES
+18 EVENTS OF DEFAULT
+19 BONDHOLDERS' MEETING
+20 THE BOND TRUSTEE
+21 MISCELLANEOUS
+
+Nordic Trustee ASA
+3 9 10 10 10 11 12 15 15 16 17 19 19 22 23 25 26 27 31 34 37
+
+Nordic Trustee ASA
+
+This agreement has been entered into on December 2014 between
+
+(1)
+
+Agrinos AS, a company existing under the laws of Norway with registration
+
+number 993 853 631, as issuer (the "Issu er"), and
+
+(2) Nordic Trustee ASA, a company existing under the laws of Norway with registration number 963 342 624, as bond trustee (the "Bond T rustee").
+
+1
+
+Interpretation
+
+1.1 Definitions
+In this Bond Agreement, the following terms shall have the following meanings:
+"Account M anager" means a Bondholder's account manager in the Securities Depository.
+"Attachm ent" means each of the attachments to this Bond Agreement.
+"Bioderpac Sellers" means Gerardo Enrique Esquer Aguirre, Angel Francisco Castanon Torres, Marco Antonio Karam Amado, Karl Reiner Ficlc Rochin, Jaime Lopez Cervantes, Jose Julio Rascon Soria and Ernesto Gil Lamadrid Santini.
+"Bond A greem ent" means this bond agreement, including the Attachments, each as amended from time to time.
+"Bond D efeasance" shall have the meaning given to it in Clause 21.2.
+"Bond Issu e" means the bond issue constituted by the Bonds.
+"Bond Reference R ate" means three months' NIBOR.
+"Bondholder" means a holder of Bond (s), as registered in the Securities Depository, from time to time.
+"Bondholders' M eeting" means a meeting of Bondholders, as set out in Clause 19.
+"Bonds" means the convertible debt instruments issued by the Issuer pursuant to this Bond Agreement.
+"Business Day" means any day on which commercial banks are open for general business and can settle foreign currency transactions in Oslo.
+"B u siness D ay C onvention" means that if the relevant Payment Date originally falls on a day that is not a Business Day, an adjustment of the
+
+3
+
+Nordic Trustee ASA
+Payment Date will be made so that the relevant Payment Date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day (Modified Following Business Day Convention).
+"Call O ption" shall have the meaning set out in Clause 10.2.
+"Change o f Control Event" means, if and when any person or a group of persons acting in concert, directly or indirectly, acquires Decisive Influence over the Issuer.
+"Conversion D ate" means the date falling ten (10) Business Days after the Paying Agent has received an exercise notice pursuant to Clause 10.2.2 or 14.4.
+"Conversion Price" means the per share cost at which the Conversion Right is effected, where the cost depends on the circumstances in which the Conversion Right is exercised, being either:
+(a) by notice from the Bondholder prior to 1 April 2017, NOK 6 (six); and
+(b) by notice from the Bondholder on 1 April 2017 or at any time thereafter, NOK 8 (eight),
+in each case subject to adjustments as set forth herein, and notwithstanding the foregoing:
+(c) upon notice from the Bondholder within any time in a period o f 30 (thirty) Business Days following completion of an issuance of new equity (other than a Permitted Equity Issue) by the Issuer, at a price equal to the issue price in the equity issue less 25% (twenty five percent);
+(d) upon notice from the Bondholder in a period of 30 (thirty) Business Days following notification by the Bond Trustee to the Bondholders that an Event of Default has occurred and is continuing, NOK 1 (one); or
+(e) upon notice from the Bondholder in a period of 2 (two) months following notification from the Issuer to the Bond Trustee of a Change of Control Event in accordance with Clause 10.3 (Change o f Control), NOK 1 (one),
+but, with respect to (c) and (d), only to the extent legally permitted.
+"Conversion R igh t" means the right o f each Bondholder to convert each Bond into Shares at the Conversion Price applicable on the relevant Conversion Date in accordance with the terms of this Bond Agreement (including but not limited to the conversion rights listed in the Conversion Price definition).
+4
+///-
+
+Nordic Trustee ASA
+"D ecisive Influence" means a person having, as a result of an agreement or through the ownership of shares or interests in another person:
+(a) a majority of the voting rights in that other person; or
+(b) a right to elect or remove a majority of the members o f the board of directors of that other person.
+When determining the relevant person's number o f voting rights in the other person or the right to elect and remove members of the board of directors, rights held by the parent company o f the relevant person and the parent company's Subsidiaries shall be included.
+"D efeasance Security" shall have the meaning given to it in Clause 21.2.
+"Escrow Account" means an account in the name of the Issuer, pledged and blocked on first priority in favour of the Bond Trustee as security for the Issuer's obligations under the Finance Documents.
+"Escrow Account P ledge" means the pledge over the Escrow Account, where the bank operating the account has waived any set-off rights.
+"Event o f D efault" means the occurrence of an event or circumstance specified in Clause 18.1.
+"Exchange" means (i) a securities exchange or other reputable regulated market, or (ii) Oslo Børs ASA's Nordic ABM, while always excluding OTC trading or other trades via similar dealer networks.
+"Exercise Period" means (a) the period commencing on 1 April 20x6 and ending on the tenth (xo) Business Days prior to the Maturity Date (both days inclusive) during which the Conversion Rights may be exercised, and (b) at any time within thirty (30) Business Days following (i) completion of an issuance of new equity by the Issuer (but only to the extent legally permitted, and not taking into regard Permitted Equity Issue) or (ii) a notification from the Bond Trustee to the Bondholders that an Event of Default has occurred and is continuing, and (c) at any time within two months after the Issuer has given notification to the Bond Trustee and the Bondholders of a Change of Control Event.
+"Face V alue" means the denomination of each o f the Bonds, as set out in Clause 2.2.
+"Finance D ocum ents" means (i) this Bond Agreement, (ii) the agreement between the Bond Trustee and the Issuer referred to in Clause X7.2, (iii) the Security Documents (including any notice, acknowledgement and other ancillary documentation relating thereto), (iv) any other document executed in relation to the granting of any Security to the Bond Trustee under the Finance Documents, and (v) any other document (whether creating a Security
+5
+
+Nordic Trustee ASA
+
+or not) which is executed at any time by the Issuer or any other person in relation to any amount payable under this Bond Agreement.
+
+"Financial Indebtedness" means any indebtedness for or in respect of:
+
+(a) moneys borrowed;
+
+(b) any amount raised by acceptance under any acceptance credit facility or dematerialized equivalent;
+
+(c) any amount raised pursuant to any note purchase facility or the issue o f bonds, notes, debentures, loan stock or any similar instrument;
+
+(d) the amount of any liability in respect of any lease or hire purchase contract which would, in accordance with GAAP, be treated as finance or capital lease;
+
+(e) receivables sold or discounted (other than any receivables to the extent they are sold on a non-recourse basis);
+
+(f)
+
+any amount raised under any other transaction (including any forward
+
+sale or purchase agreement) having the commercial effect of a
+
+borrowing;
+
+(g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price (and, when calculating the value o f any derivative transaction, only the mark to market value shall be taken into account); and
+
+(h) without double counting, the amount o f any liability in respect of any guarantee or indemnity for any o f the items referred to in paragraphs (a) to (g) above.
+
+"Financial Statem ents" means the audited unconsolidated and consolidated annual financial statements of the Issuer for any financial year, drawn up according to GAAP, such accounts to include a profit and loss account, balance sheet, cash flow statement and report from the Board of Directors.
+
+"GAAP" means the generally accepted accounting principles, practices and standards in the country in which the Issuer is incorporated including, if applicable, the International Financial Reporting Standards (IFRS) and guidelines and interpretations issued by the International Accounting Standards Board (or any predecessor and successor thereof), in force from time to time.
+
+"Group" means the Issuer and its Subsidiaries from time to time (each a "Group Com pany").
+
+6
+
+Nordic Trustee ASA
+"Interest Payment Date" means 12 March, 12 June, 12 September and 12 December each year and the Maturity Date. Any adjustment will be made according to the Business Day Convention.
+"ISIN" means International Securities Identification Number - the identification number of the Bond Issue.
+"Issue Date" means 12 December 2014.
+"Issuer's Bonds" means any Bonds owned by the Issuer or any person or persons over whom the Issuer has Decisive Influence.
+"Margin" means 10.00 percentage points (10.00%) per annum.
+"Material Adverse Effect" means a material adverse effect on (a) the business, financial condition or operations o f the Issuer, (b) the Issuer's ability to perform and comply with its obligations under any o f the Finance Documents or (c) the validity and enforceability o f any o f the Finance Documents.
+"Material Subsidiaries" means Agrinos Inc, Agrinos Do Brasil Fertilizantes Biologicos Ltda, Bioderpac S.A. de C.V. and Agrinos India Pvt Ltd.
+"Maturity Date" means 12 June 2017. Any adjustment will be made according to the Business Day Convention.
+"NIBOR" means the interest rate fixed for a defined period on Oslo Børs' webpage at approximately 12.15 Oslo time or, on days on which Oslo Børs has shorter opening hours (New Year's Eve and the Wednesday before Maundy Thursday), the data published at approximately 10.15 a.m. shall be used. In the event that such page is not available, has been removed or changed such that the quoted interest rate no longer represents, in the opinion of the Bond Trustee, a correct expression o f the relevant interest rate, an alternative page or other electronic source which in the opinion of the Bond Trustee and the Issuer gives the same interest rate shall be used. If this is not possible, the Bond Trustee shall calculate the relevant interest rate based on comparable quotes from major banks in Oslo. If any such rate is below zero, NIBOR will be deemed to be zero.
+"NOK" means Norwegian kroner, being the lawful currency o f Norway.
+"Outstanding Bonds" means the Bonds not redeemed or otherwise discharged.
+"P arty" means a party to this Bond Agreement (including its successors and permitted transferees).
+"Paying Agent" means the legal entity appointed by the Issuer to act as its paying agent in the Securities Registry with respect to the Bonds.
+7
+
+Nordic Trustee ASA
+
+"Paym ent D ate" means a date for payment of principal or interest under this Bond Agreement.
+
+"Perm itted Equity Issue" means (i) any equity issuance made in connection with subscription rights or similar equity instruments being exercised and where such instruments were issued prior to 15 November 2014, (ii) the issue of warrants in any employee and/or board member incentive program, and (iii) any issue to the Bioderpac Sellers as part of settling their earn-out entitlements.
+
+"PIK means payment o f interest through the issuance of additional Bonds (based on the Face Value of each Bond), as set out in Clause 9.5.
+
+"Securities D epository" means the securities depository in which the Bond Issue is registered, being Verdipapirsentralen ASA (VPS) in Norway.
+
+"Security Agent" means the Bond Trustee in its capacity as security agent and/or security trustee pursuant to Clause 20.4.
+
+"Security" means any encumbrance, mortgage, charge, pledge, lien or other security interest securing any obligation of any person or any other agreement or arrangement having a similar effect.
+
+"Security D ocum ents" means, collectively, all the documents evidencing, creating or granting the Security Interests.
+
+"Security In terests" means the Escrow Account Pledge and the Share Pledge.
+
+"Share Pledge" means the first priority share pledge granted by the Issuer over all the outstanding shares in Agrinos Inc. in favour of the Bond Trustee (on behalf o f the Bondholders), securing the Issuer's obligations under the Finance Documents.
+
+"Shares" means the ordinary shares issued by the Issuer.
+
+"Stam data" means the web site www.stamdata.no, maintained by the Bond Trustee.
+
+"Subsidiary" means a company over which another company has Decisive Influence.
+
+"US Securities Act" means the U.S. Securities Act of 1933, as amended.
+
+"Voting Bonds" means the Outstanding Bonds less the Issuer's Bonds.
+
+1.2
+
+Construction
+
+In this Bond Agreement, unless the context otherwise requires:
+
+(a) headings are for ease o f reference only;
+
+8
+
+Nordic Trustee ASA
+
+(b) words denoting the singular number shall include the plural and vice versa;
+
+(c) references to Clauses are references to the Clauses o f this Bond Agreement;
+
+(d) references to a time is a reference to Oslo time;
+
+(e) references to a provision of law is a reference to that provision as it may be amended or re-enacted, and to any regulations made by the appropriate authority pursuant to such law, including any determinations, rulings, judgments and other binding decisions relating to such provision or regulation;
+
+(f)
+
+an Event of Default is "continuing" if it has not been remedied or
+
+waived; and
+
+(g) references to a "p erso n " shall include any individual, firm, company, corporation, government, state or agency of a state or any association, trust, joint venture, consortium or partnership (whether or not having separate legal personality).
+
+2
+
+The Bonds
+
+2.1
+
+Binding nature o f this Bond Agreement
+
+2.1.1 By virtue of being registered as a Bondholder (directly or indirectly) with the Securities Depository, the Bondholders are bound by the terms of this Bond Agreement and any other Finance Document, without any further action required to be taken or formalities to be complied with, see also Clause 21.1.
+
+2.1.2 This Bond Agreement is available to anyone and may be obtained from the Bond Trustee or the Issuer. The Issuer shall ensure that this Bond Agreement is available to the general public throughout the entire term o f the Bonds. This Bond Agreement may be published on Stamdata or such other venues as decided by the Bond Trustee.
+
+2.2 The Bonds
+
+The Issuer has resolved to issue a series o f Bonds in an amount of NOK 115,796,500 (Norwegian kroner one hundred and fifteen million seven hundred and ninety six thousand five hundred).
+
+The Face Value is NOK 1 (one). The Bonds shall rank pari passu between themselves.
+
+The minimum subscription amount in the Bond Issue is NOK 1,000,000 (one million) per Bondholder.
+
+9
+
+Nordic Trustee ASA
+
+The Bond Issue will be described as "PIK FRN Agrinos AS Convertible Bond Issue 2014/2017".
+
+The ISIN of the Bond Issue will be NO 001 072476.8.
+
+The tenor of the Bonds is from and including the Issue Date to the Maturity Date.
+
+2.3
+
+Purpose and utilization
+
+The net proceeds of the Bonds (net of fees to the Bond Trustee, underwriting commission to underwriters in the Bond Issue and other agreed costs and expenses) shall be applied towards the general corporate purposes of the Group which will allow for further research and development, establishment of new production facilities and/or improvements to existing and new production facilities, and development of commercial activities in the Group's core markets.
+
+3
+
+Listing
+
+3.1
+
+The Issuer may only apply for listing of the Bonds on an Exchange subject to
+
+the prior consent of the Bondholders in accordance with Clause 19.3.5 and in
+
+the period from 12 to 24 months after the Issue Date.
+
+3.2 If the Bonds are listed, the Issuer shall ensure that the Bonds remain listed until they have been discharged in full.
+
+4
+
+Registration in the Securities Depository
+
+4.1
+
+The Bond Issue and the Bonds shall prior to disbursement be registered in the
+
+Securities Depository according to the Norwegian Securities Depository Act
+
+(Act 2002/64) and the terms and conditions o f the Securities Depository.
+
+4.2 The Issuer shall ensure that correct registration in the Securities Depository is made and shall notify the Securities Depository of any changes in the terms and conditions o f this Bond Agreement. The Bond Trustee shall receive a copy of the notification. The registration may be executed by the Paying Agent.
+
+4.3 The Bonds have not been registered under the US Securities Act, and the Issuer is under no obligation to arrange for registration of the Bonds under the US Securities Act.
+
+5
+
+Purchase and transfer o f Bonds
+
+5.1
+
+Bondholders may be subject to purchase or transfer restrictions with regard to
+
+the Bonds, as applicable from time to time under local laws to which a
+
+Bondholder may be subject (due e.g. to its nationality, its residency, its
+
+registered address, its place(s) for doing business). Each Bondholder must
+
+10
+
+Nordic Trustee ASA
+
+ensure compliance with applicable local laws and regulations at its own cost and expense.
+
+5.2 Notwithstanding the above, a Bondholder which has purchased the Bonds in breach of applicable mandatory restrictions may nevertheless utilize its rights (including, but not limited to, voting rights) under this Bond Agreement.
+
+6
+
+Conditions Precedent
+
+6.1
+
+Disbursement o f the net proceeds of the Bonds to the Issuer will be subject to
+
+the Bond Trustee having received the documents listed below, in form and
+
+substance satisfactory to it, at least two Business Days prior to the Issue Date:
+
+(a) this Bond Agreement, duly executed by all parties thereto;
+
+(b) certified copies o f all necessary corporate resolutions of the Issuer to issue the Bonds and execute the Finance Documents;
+
+(c) a power of attorney from the Issuer to relevant individuals for their execution of the relevant Finance Documents, or extracts from the relevant register or similar documentation evidencing such individuals' authorisation to execute the Finance Documents on behalf o f the Issuer;
+
+(d) certified copies of (i) the Certificate of Incorporation or other similar official document for the Issuer, evidencing that it is validly registered and existing and (ii) the Articles of Association of the Issuer;
+
+(e) the Issuer's latest Financial Statements;
+
+(f)
+
+confirmation from the Issuer's Norwegian legal counsel that the
+
+requirements set out in Chapter 7 of the Norwegian Securities Trading
+
+Act (implementing the EU prospectus directive (2003/71 EC)
+
+concerning prospectuses have been fulfilled;
+
+(g) shareholder resolutions made by the general meeting o f the Issuer as required to issue or grant authority to the Issuer's board of directors to issue the convertible loan representing the Bonds;
+
+(h) resolutions made by the board o f directors o f the Issuer as required to issue the convertible loan representing the Bonds;
+
+(i)
+
+to the extent necessary, any public authorisations required for the
+
+Bond Issue;
+
+(j)
+
+confirmation that the Bonds have been registered in the Securities
+
+Depository;
+
+(k) the Bond Trustee fee agreement set out in Clause 17.2, duly executed;
+
+11
+
+Nordic Trustee ASA
+
+(l)
+
+copies o f any written documentation used in the marketing of the
+
+Bonds or made public by the Issuer in connection with the Bond Issue;
+
+(m) any statements or legal opinions reasonably required by the Bond Trustee (including any capacity corporate opinions for the Issuer and opinions related to the validity, perfection and enforceability of the Finance Documents); and
+
+(n) establishment o f the Escrow Account Pledge, duly executed by all parties (including relevant acknowledgement from the bank).
+
+6.2 The Bond Trustee may, in its reasonable opinion, waive the deadline or requirements for documentation as set out in Clause 6.1.
+
+6.3 Disbursement of the net proceeds from the Bonds is subject to the Bond Trustee's written notice to the Issuer, the Issuer's Norwegian legal counsel and the Paying Agent that the documents have been controlled and that the required conditions precedent are fulfilled.
+
+6 4 On the Issue Date, subject to receipt of confirmation from the Bond Trustee pursuant to Clause 6.3, the Issuer's Norwegian legal counsel shall transfer the net proceeds from the Bond Issue to the Escrow Account.
+
+6.5 The proceeds in the Escrow Account shall be released to the Issuer by the Bond Trustee upon the Bond Trustee receiving, in form and substance satisfactory to it, the Security Documents duly executed by all parties thereto (including any necessary corporate resolutions from security providers and any legal opinions requested by the Bond Trustee) and evidence of the establishment and perfection of the Security Interests.
+
+7
+
+Representations and Warranties
+
+7-i
+
+The Issuer represents and warrants to the Bond Trustee that:
+
+7.1.1 Status
+
+It is a limited liability company, duly incorporated and validly existing and registered under the laws of Norway, and has the power to own its assets and carry on its business as it is being conducted.
+
+7.1.2 Power and authority
+
+It has the power to enter into, perform and deliver, and has taken all necessary action to authorise its entry into, performance and delivery of, this Bond Agreement and any other Finance Document to which it is a party and the transactions contemplated by those Finance Documents.
+
+7.1.3 Valid, binding and enforceable obligations
+
+12
+
+Nordic Trustee ASA
+
+This Bond Agreement and each other Finance Document to which it is a party constitutes (or will constitute, when executed by the respective parties thereto) its legal, valid and binding obligations, enforceable in accordance with their respective terms, and (save as provided for therein) no further registration, filing, payment of tax or fees or other formalities are necessary or desirable to render the said documents enforceable against it.
+
+7.1.4 Non-conflict with other obligations
+
+The entry into and performance by it of this Bond Agreement and any other Finance Document to which it is a party and the transactions contemplated thereby do not and will not conflict with (i) any law or regulation or judicial or official order; (ii) its constitutional documents; or (iii) any agreement or instrument which is binding upon it or any of its assets.
+
+7.1.5 No Event o f Default
+
+(i)
+
+No Event o f Default exists or is likely to result from the making of any
+
+drawdown under this Bond Agreement or the entry into, the
+
+performance of, or any transaction contemplated by, any Finance
+
+Document.
+
+(ii) No other event or circumstance is outstanding which constitutes (or with the expiry of a grace period, the giving o f notice, the making of any determination or any combination of any o f the foregoing, would constitute) a default or termination event (howsoever described) under any other agreement or instrument which is binding on it or any of its Subsidiaries or to which its (or any of its Subsidiaries') assets are subject which has or is likely to have a Material Adverse Effect.
+
+7.1.6 Authorizations and consents
+
+All authorisations, consents, approvals, resolutions, licenses, exemptions, filings, notarizations or registrations required:
+
+(i)
+
+to enable it to enter into, exercise its rights and comply with its
+
+obligations under this Bond Agreement or any other Finance
+
+Document to which it is a party; and
+
+(ii) to carry on its business as presently conducted and as contemplated by this Bond Agreement,
+
+have been obtained or effected and are in full force and effect.
+
+7.1.7 Litigation
+
+No litigation, arbitration or administrative proceedings or investigations of or before any court, arbitral body or agency which, if adversely determined, is
+
+13
+
+Nordic Trustee ASA
+likely to have a Material Adverse Effect have (to the best of its knowledge and belief) been started or threatened against it or any of its Subsidiaries.
+7.1.8 Financial Statements
+Its most recent Financial Statements fairly and accurately represent the assets and liabilities and financial condition as at their respective dates, and have been prepared in accordance with GAAP, consistently applied.
+7.J.9 No Material Adverse Effect
+Since the date o f the most recent Financial Statements, there has been no change in its business, assets or financial condition that is likely to have a Material Adverse Effect.
+7.1.10 No misleading information
+Any factual information provided by it to the subscribers or the Bond Trustee for the purposes of this Bond Issue was true and accurate in all material respects as at the date it was provided or as at the date (if any) at which it is stated.
+7.1.11 No withholdings
+The Issuer is not required to make any deduction or withholding from any payment which it may become obliged to make to the Bond Trustee or the Bondholders under this Bond Agreement.
+7.1.12 Pari passu ranking
+Its payment obligations under this Bond Agreement or any other Finance Document to which it is a party rank at least pari passu as set out in Clause 8.1.
+7.1.13 Security
+No Security exists over any of the present assets of any Group Company in conflict with this Bond Agreement.
+7.1.14 Share Conversion
+It will, during the Exercise Period, have the authority to issue and allot, free from pre-emption rights, sufficient Shares to enable the Conversion Right to be satisfied in full at the Conversion Price.
+7.2 The representations and warranties set out in Clause 7.1 are made on the execution date o f this Bond Agreement, and shall be deemed to be repeated on the Issue Date and on the drawdown date from the Escrow Account.
+14
+
+Nordic Trustee ASA
+
+8
+
+Status o f the Bonds and security
+
+8.1
+
+The Bonds shall constitute senior debt obligations of the Issuer. The Bonds
+
+shall rank at least pari passu with all other obligations of the Issuer (save for
+
+such claims which are preferred by bankruptcy, insolvency, liquidation or
+
+other similar laws of general application) and shall rank ahead of subordinated
+
+debt.
+
+8.2 The Bonds, including accrued but unpaid interest, costs and expenses, shall be secured by the Security Interest.
+
+9
+
+Interest
+
+9.1 The Issuer shall pay interest quarterly on the par value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating R ate").
+9.2 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date falling in March 2015. All interest payment shall be made as PIK in the form of additional Bonds (based on the Face Value), calculated based on the total number of Bonds at each Interest Payment Date, rounded down to the nearest Bond.
+9.3 The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date to, but excluding, the next following applicable Interest Payment Date, and thereafter from and including, that Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+9.4 The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.
+9.5 The Paying Agent shall carry the PIK into effect at the relevant Interest Payment Date. The additional Bonds issued as PIK give the same rights as the other issued Bonds (including with respect to conversion) as o f the registration of the increased outstanding amount of the Bonds in the Securities Depository, and shall be deemed to constitute part o f the Bonds.
+9.6 The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning o f the relevant calculation period, based on the Bond Reference Rate two Business Days preceding that Interest Payment Date.
+When the interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and the actual number of calendar days up to that
+
+15
+
+jb t
+
+Nordic Trustee ASA
+
+date shall immediately be notified to the Bondholders, the Issuer, the Paying Agent, and if the Bonds are listed, the Exchange.
+
+9.7 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
+
+Interest = Face
+
+x
+
+Amount
+
+Value
+
+Floating x
+
+Floating Rate
+
+Rate
+
+Day Count Fraction
+
+10 Maturity of the Bonds and Redemption
+
+10.1 Maturity
+
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+
+X0.2 Call Option
+
+10.2.1
+
+The Issuer may, at any time after 1 April 2016, redeem the Bond Issue in whole or in part (but if in part, being in a minimum amount of NOK 10,000,000 (ten million)) with settlement date any time from and included 1 April 2016 to, but not included, the Maturity Date at 100% of par plus accrued interests on the redeemed amount.
+
+10.2.2
+
+Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least forty Business Days prior to the settlement date of the Call Option. Each Bondholder may notify the Paying Agent (via its Account Manager) no later than twenty Business Days after the Issuer has given notification to the Bond Trustee and the Bondholders of the exercise of the Call Option that it will instead opt for exercising its Conversion Right with respect to the Bonds it holds and which the Issuer intends to redeem.
+
+10.2.3 Partial redemption must be carried out pro rata (in accordance with the procedures o f the Securities Depository).
+
+10.2.4
+
+On the settlement date of the Call Option, except to the extent the Bondholders exercise their Conversion Right in accordance with Clause 10.2.2, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the principal amount of such Bond and any unpaid interest accrued up to the settlement date.
+
+10.2.5 Bonds redeemed by the Issuer in accordance with this Clause 10.2 shall be discharged against the Outstanding Bonds.
+
+10.3 Change o f control
+
+10.3.1 Upon the occurrence of a Change of Control Event, each Bondholder shall have the right to:
+
+16
+
+Jc #
+
+Nordic Trustee ASA
+
+(i)
+
+require that the Issuer redeems its Bonds (a "Put O ption") at a price
+
+of 100% of par plus accrued interest; or
+
+(ii) exercise its Conversion Right at the relevant Conversion Price (i.e. N O K 1) in accordance with the procedures set out in Clause 14 (Conversion terms),
+
+which in each case must be exercised within two months after the Issuer has given notification to the Bond Trustee and the Bondholders of a Change of Control Event. Such notification shall be given as soon as possible after a Change of Control Event has taken place.
+
+10.3,2
+
+The Put Option may be exercised by each Bondholder by giving written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent of the redemption request. The settlement date of the Put Option shall be the fifth Business Day after the end o f the two month exercise period of the Put Option.
+
+10.3.3 On the settlement date of the Put Option, the Issuer shall:
+
+(i) for Bondholders who have required that the Issuer redeems its Bonds pursuant to Clause 10.3.1(1) above, pay to each such Bondholder holding Bonds to be redeemed, the principal amount of each such Bond and any unpaid and outstanding interest accrued up to (but not including) the settlement date; and
+(ii) for Bondholders who have exercised their Conversion Right pursuant to Clause io.3.i(ii) above, issue to each such Bondholder Shares in accordance with the procedures in Clause 14.
+
+11
+
+Payments
+
+11.1
+11.1.1
+11.1.2 11.2 11.2.1
+
+Covenant to pay
+The Issuer will on any Payment Date (or any other due date pursuant to any Finance Document) unconditionally pay to or to the order of the Bond Trustee all amounts due under this Bond Agreement or any other Finance Document.
+The covenant contained in Clause 11.1.1 shall be for the benefit o f the Bond Trustee and the Bondholders.
+Payment mechanics
+If no specific order is made by the Bond Trustee under Clause 11.1.1, the Issuer shall pay all amounts due to the Bondholders under this Bond Agreement or any other Finance Document by crediting the bank account nominated by each Bondholder in connection with its securities account in the Securities Depository.
+
+17
+
+Nordic Trustee ASA
+
+11.2.2
+
+Payment shall be deemed to have been made once the amount has been credited to the bank which holds the bank account nominated by the Bondholder in question, but if the paying bank and the receiving bank are the same, payment shall be deemed to have been made once the amount has been credited to the bank account nominated by the Bondholder in question, see however Clause 11.3.
+
+11.2.3
+
+In case of irregular payments, the Bond Trustee may instruct the Issuer, the Bondholders or others of other payment mechanisms than described in Clause 11.2.1 or 11.2.2 above. The Bond Trustee may also obtain payment information regarding Bondholders' accounts from the Securities Depository or Account Managers.
+
+11.2.4 Subject to Clause 11.3, payment by the Issuer in accordance with this Clause 11.2 shall constitute good discharge of its obligations under Clause 11.1.1.
+
+11.3 Currency
+
+11.3.1
+
+If the Bonds are denominated in other currencies than NOK, each Bondholder has to provide the Paying Agent (either directly or through its Account Manager) with specific payment instructions, including foreign exchange bank account details. Depending on any currency exchange settlement agreements between each Bondholder's bank and the Paying Agent, cash settlement may be delayed, and payment shall be deemed to have been made at the date o f the cash settlement, provided however, that no default interest or other penalty shall accrue for the account o f the Issuer.
+
+11.3.2
+
+Except as otherwise expressly provided, all amounts payable under this Bond Agreement and any other Finance Document shall be payable in the same currency as the Bonds are denominated in. If, however, the Bondholder has not given instruction as set out in Clause 11.3 within five Business Days prior to a Payment Date, the cash settlement will be exchanged into NOK and credited to the NOK bank account registered with the Bondholder's account in the Securities Depository.
+
+11.3.3 Amounts payable in respect of costs, expenses, taxes and other liabilities of a similar nature shall be payable in the currency in which they are incurred.
+
+11.4 Set-offand counterclaims
+
+The Issuer may not apply or perform any counterclaims or set-off against any payment obligations pursuant to this Bond Agreement or any other Finance Document.
+
+11.5 Interest in the event o f late payment
+
+11.5.1 In the event that any amount due under this Bond Agreement or any Finance Document is not made on the relevant due date, the unpaid amount shall bear
+
+18
+
+Nordic Trustee ASA
+
+interest from the due date at an interest rate equivalent to the interest rate according to Clause 9 plus five percentage points (5.00%) per annum.
+
+II.5.2
+
+The interest charged under this Clause 11.5 shall be added to the defaulted amount on each respective Interest Payment Date relating thereto until the defaulted amount has been repaid in full.
+
+n-5-3
+
+The unpaid amounts shall bear interest as stated above until payment is made, whether or not the Bonds are declared to be in default pursuant to Clause 18.1.1, cf. Clauses 18.2 -18.4.
+
+11.6 Partial payments
+
+If the Bond Trustee or the Paying Agent receives a payment that is insufficient to discharge all the amounts then due and payable under the Finance Documents, that payment shall be applied in the following order:
+
+(a) first, in or towards payment o f any unpaid fees, costs and expenses of the Bond Trustee under the Finance Documents;
+
+(b) secondly, in or towards payment of any accrued interest due but unpaid under the Bond Agreement, pro rata and without any preference or priority of any kind; and
+
+(c) thirdly, in or towards payment of any principal due but unpaid under the Bond Agreement, pro rata and without any preference or priority o f any kind.
+
+12
+
+Issuer's acquisition of Bonds
+
+The Issuer has the right to acquire and own Bonds (Issuer's Bonds). The Issuer's holding o f Bonds may at the Issuer's discretion be retained by the Issuer, sold or discharged.
+
+13
+
+Covenants
+
+13.1 General
+
+13.1.1 13.2
+
+The Issuer undertakes from the date o f this Bond Agreement and until such time that no amounts are outstanding under this Bond Agreement or any other Finance Document, to the Bond Trustee, as further set out in this Clause i3-
+Information Covenants
+
+13.2.1 The Issuer shall:
+
+(a) without being requested to do so, promptly inform the Bond Trustee in writing o f any Event of Default, any event or circumstance which
+
+19
+
+J tf'
+
+Nordic Trustee ASA
+
+could reasonably be expected to lead to an Event o f Default and any other event which could reasonably be expected to have a Material Adverse Effect;
+
+(b) without being requested to do so, inform the Bond Trustee in writing if the Issuer agrees to sell or dispose of all or a substantial part of its assets or operations, or change the nature o f its business;
+
+(c) without being requested to do so, prepare Financial Statements and make them available on its website in the English language as soon as they become available, and not later than 180 days after the end of the financial year;
+
+(d) at the request o f the Bond Trustee, report the balance of the Issuer's Bonds;
+
+(e) without being requested to do so, send the Bond Trustee copies of any statutory notifications of the Issuer, including but not limited to in connection with mergers, de-mergers and reduction of the Issuer's share capital or equity;
+
+(f)
+
+if the Bonds are listed on an Exchange, without being requested to do
+
+so, send a copy to the Bond Trustee of its notices to the Exchange;
+
+(g) if the Issuer and/or the Bonds are rated, without being requested to do so, inform the Bond Trustee of its and/or the rating of the Bond Issue, and any changes to such rating;
+
+(h) without being requested to do so, inform the Bond Trustee of changes in the registration of the Bonds in the Securities Depository (however, the Bond trustee is entitled to receive such information from the Security Depository or Paying Agent directly); and
+
+(i)
+
+within a reasonable time, provide such information about the Issuer's
+
+business, assets and financial condition as the Bond Trustee may
+
+reasonably request.
+
+13.2.2
+
+The Issuer shall in connection with the publication of its financial reports under Clause 13.2.1(c), confirm to the Bond Trustee in writing the Issuer's compliance with the covenants in this Clause 13, unless the Bond Trustee explicitly waives such requirement. Such confirmation shall be undertaken in a certificate, substantially in the form set out in Attachment 1 hereto, signed by the Chief Executive Officer or Chief Financial Officer of the Issuer (a "Com pliance C ertificate"). In the event of non-compliance, the Compliance Certificate shall describe the non-compliance, the reasons therefore as well as the steps which the Issuer has taken and will take in order to rectify the noncompliance.
+
+13.3 General Covenants
+
+20
+
+Mt
+
+Nordic Trustee ASA
+
+13.3.1 Pari passu ranking
+
+The Issuer shall ensure that its obligations under this Bond Agreement and any other Finance Document shall at all time rank at least pari passu as set out in Clause 8.1.
+
+13.3.2 Mergers
+
+The Issuer shall not, and shall ensure that none of the Material Subsidiaries will, carry out any merger or other business combination or corporate reorganization involving a consolidation o f the assets and obligations of the Issuer or any other Material Subsidiary with any other companies or entities if such transaction would have a Material Adverse Effect.
+
+13.3.3 De-mergers
+
+The Issuer shall not, and shall ensure that no Material Subsidiary will, carry out any de-merger or other corporate reorganization involving a split of the Issuer or any Material Subsidiary into two or more separate companies or entities, if such transaction would have a Material Adverse Effect.
+
+13.3.4 Continuation o f business
+
+The Issuer shall not cease to carry on its business and shall procure that no substantial change is made to the general nature of the business of the Group from that carried on at the date o f this Bond Agreement, and/or as set out in this Bond Agreement.
+
+13.3.5 Disposal of business
+
+The Issuer shall not, and shall procure that no Material Subsidiary will, sell or otherwise dispose of all or a substantial part o f the Group's assets or operations, unless:
+
+(i)
+
+the transaction is carried out at fair market value, on terms and
+
+conditions customary for such transactions; and
+
+(ii) such transaction would not have a Material Adverse Effect.
+
+13.3.6 Arm's length transactions
+
+The Issuer shall not, and the Issuer shall ensure that no Material Subsidiary will, enter into any transaction with any person except on arm's length terms and for fair market value.
+
+13.3.7 Corporate status
+
+The Issuer shall not change its type of organization or jurisdiction of incorporation.
+
+21
+fir
+
+Nordic Trustee ASA
+
+13.3.8 Compliance with laws
+
+The Issuer shall, and shall ensure that all Material Subsidiaries will, carry on its business in accordance with acknowledged, careful and sound practices in all aspects and comply in all respects with all laws and regulations it or they may be subject to from time to time. Breach of these obligations shall be regarded as non-compliance only if such breach would have a Material Adverse Effect.
+
+13.3.9 Shareholder rights
+
+The Issuer shall not permit any amendment to the right of the holders of Shares.
+
+13.3.10 New equity
+
+The issuer shall not resolve to issue new equity (including convertible instruments) in a form different from the existing Shares, except for any Permitted Equity Issue.
+
+14
+
+Conversion terms
+
+14.1 Each Bondholder may exercise the Conversion Right at the Conversion Price at any time during the Exercise Period provided that the relevant Bondholder at the time of exercise has the right to own Shares under Norwegian law and that notification is given pursuant to Clause 14.4.
+14.2 The Conversion Right cannot be separated from the Bonds.
+14.3 The Bondholder is on the Conversion Date entitled to receive a number of Shares equal to the aggregate Face Value of the converted Bonds divided by the Conversion Price in effect on the relevant Conversion Date. The Conversion Price shall be adjusted pursuant to Clause 15.
+14.4 In order to exercise the Conversion Right, a Bondholder shall deliver to the Paying Agent (via its Account Manager) a duly completed, irrevocable and signed conversion notice. Exercise o f the Conversion Right(s) shall be effected on the Conversion Date. The relevant Bondholder's Account Manager shall notify the Paying Agent o f the request to exercise the Conversion Right(s).
+
+22 ?c*-
+
+Nordic Trustee ASA
+
+14.5 Conversion will be effected by a set-off of the total Face Value of the Bonds to be converted against the issuing of the whole number of Shares resulting from dividing the total Face Value of the Bonds to be converted by the Conversion Price. Any excess amount beyond the whole number of Shares converted by the Bonds shall fall to the Issuer and accordingly fractions of Shares will not be issued or transferred upon exercise o f a Conversion Right and no cash payment will be made in lieu thereof. Where Conversion Rights are exercised by a Bondholder in respect of more than one Bond, the number o f Shares to be issued will be determined on the basis of the aggregate Face Value o f such Bonds.
+
+Interest accrued since the last Interest Payment Date but not due on a Conversion Date, shall not be paid to the Bondholders, but shall accrue to the Issuer unless the Conversion Date shall fall on a Payment Date and/or the Maturity Date, then interest due shall be paid to the relevant Bondholder as PIK in the form of additional Bonds in accordance with Clause 9 (Interest).
+
+14.6 The Issuer is responsible for ensuring that:
+
+(a) necessary approvals to increase the share capital of the Issuer exist;
+
+(b) the share capital increase is registered in the Companies Register (Foretaksregisteret) as soon as possible;
+
+(c)
+
+Shares issued upon exercise of the Conversion Right(s) are registered
+
+in the Securities Depository on the Conversion Date.
+
+14.7 Shares issued upon exercise of the Conversion Right(s) give rights in the Issuer as of the registration of the share capital increase in the Companies Register, unless the general meeting o f the Issuer has resolved differently.
+
+15
+
+Adjustments to the Conversion Price
+
+15.1 In the event of a new issue of Shares (other than a Permitted Equity Issue) in which shareholders have preferential rights to subscribe for the new Shares:
+(a) if the Shares are listed at an Exchange, a new Conversion Price shall be calculated as follows:
+(share pricex number o f shares before share issue) + (share issue pricex number o f new shares) N ew Conversion Piice = --------------------- number o f shares before share issue I number o f new shares------------------------x old Conversion Price
+Share Price
+
+where the share price is the average of the weighted average of official daily trading price on the Exchange the last three days the shares are quoted including rights; and
+(b) if the Shares are not listed, each Bondholder shall have the same subscription right as the shareholders, as if the Bondholder already
+23
+
+Nordic Trustee ASA
+had exercised his Conversion Right(s) (however not limiting the Bondholders' right to convert its Bonds at the discount set out in the definition of Conversion Price).
+15.2 In the event of an issue o f financial instruments (other than a Permitted Equity Issue) in accordance with Chapter 11 of the Norwegian Companies Act in which existing shareholders of the Issuer have preferential rights to subscribe for the financial instruments (the "Subscription Rights"),
+(a) if the Shares are listed at an Exchange, a new Conversion Price shall be calculated as follows:
+Nt,tew C,, onversi·on Pnri·ce = ----A--v--e-r-a=g-e--S--u--b-s-c--r-ip--t-io--n--P--e-r--io--d--P--r-i-c-e-----x old. .C^onversion Pric.e Average Subscription Period Price plus the Average Subscription Rights Price
+where: (a) "Average Subscription P erio d Price" means the average of the weighted average of official daily trading price of such Shares on the Exchange, measured during the period when the Subscription Rights may be exercised, and (b) `A verage Subscription Rights Price" means either (1) if the Borrower has listed the Subscription Rights on an Exchange, the average of the weighted average of official daily trading price of such Subscription Rights on the Exchange, measured during the period when the Subscription Rights may be exercised, or (2) if the Borrower has not listed the Subscription Rights on an Exchange, the average o f the trading price of the Subscription Rights calculated by a broker agreed upon by the Issuer and the Bond Trustee, measured during the period when the Subscription Rights may be exercised. Days without trading are not included in the aforesaid calculations; and
+(b) if the Shares are not listed, each Bondholder shall have the same subscription right as the shareholders, as if the Bondholder already had exercised his Conversion Right(s).
+15.3 In the event of a capital write-down of the Issuer's share capital and subsequent repayment to shareholders:
+(a) if the Shares are listed at an Exchange, a new Conversion Price shall be calculated as follows:
+NTew C^onversion Pri.ce = -s-h-a--r-e p--r-i-c-e--l-e-s-s--a-m--o-u--n-t--r-ep--a-i-d--p-e-r--s-h-a-r-e- x ol,d, C^onversion Price share price
+where the share price is the average of the weighted average of official daily trading price on the Exchange the last three days Shares are quoted including rights; and
+24
+
+Nordic Trustee ASA
+
+(b) if the Shares are not listed, the Conversion Price shall be reduced with an amount equal to the amount repaid per Share.
+Reduction o f the share capital without repayment to the shareholders shall have no influence on the Conversion Price.
+15.4 In the event of a Bonus Issue of new Shares (with the exception of shares issued in settlement of a merger offer), split or consolidation, the new Conversion Price shall be fixed as follows:
+number of shares prior to bonus issue, .N. Tew Conversi.on Price = --sp-l-it--o-r---c-o-n--s-o-l-i-d-a-t-i-o--n------------------- x ol.d. Conversion Price
+number of shares after bonus issue, split or consolidation
+
+In the event that the Shares are split into more than one class of shares, the Conversion Right shall be adjusted so that Bondholders' interest in the separate share classes remains unchanged, regardless of whether the Bondholders elect to exercise prior to, or after the date on which the Shares are quoted post split.
+
+A Bonus Issue writing up the par value of the Shares in the Issuer shall have no influence of the Conversion Price.
+15 4 For the purpose of this Clause . , "Bonus Issue" means an issue of new Shares to
+shareholders against no consideration.
+
+15.5 Should the Issuer make a dividend payment to shareholders of the Issuer, the Conversion Price shall be adjusted according to the principles of Clause 15.3.
+
+15.6 If changes are made in the share capital other than those mentioned in Clause 15.1 to 15.5 above (and other than as the result of a Permitted Equity Issue), which are unfavourable to the Bondholders compared to the shareholders, the Bond Trustee and the Issuer shall agree on a new Conversion Price. This also applies to other transactions, which are unfavourable to the Bondholders. The principles expressed in Clause 15.1 to 15.5 above shall always be the basis for any adjustments pursuant to this Clause 15.6.
+
+15.7 If the Conversion Price is below par value o f the Shares, par value o f the shares still applies, and the Issuer shall upon conversion pay the Bondholders the difference between the par value of the Shares and the Conversion Price.
+
+16
+
+Mergers and de-mergers
+
+16.1 If the Issuer prior to the expiry o f the Exercise Period decides on a statutory merger (in accordance with prevailing legislation from time to time) in which the Issuer is the acquired company, each Bondholder has the right to demand the Bonds to be redeemed at par plus accrued interest.
+
+25
+
+Nordic Trustee ASA
+
+The Issuer shall give the Bondholders written notification through the Securities Depository at the latest 5 - five - Business Days after notification of the merger. The notification shall refer to the regulations and deadlines of Clause 16.2.
+
+16.2 Request for redemption takes place by the Bondholder notifying his Account Manager at the latest two (2) months after notification o f the merger. The Bondholder's Account Manager shall then promptly forward the request to the Paying Agent.
+
+Redemption shall take place 5 - five- Business Days after the acquiring company has notified that the merger shall be effective.
+
+16.3 If a Bondholder does not use the right to request redemption according to Clause 16.2, the conversion right shall be transferred to a right to convert to shares in the acquiring company on terms that are adjusted to reflect the exchange ratio of the merger.
+
+16.4 If the Issuer decides on a merger in which the Issuer is the acquiring company, and the shareholders of the acquired company receive settlement in the form of shares only, no adjustment will be made to the Conversion Price. If the shareholders of the acquired company receive settlement in any other form, in full or partly, the Conversion Price shall be adjusted according to Clause 15.
+
+16.5 In the event of a de-merger, a split-up, a spin-off, split-off or if any other event occurs which in the opinion of the Bond Trustee has the same effect as a de merger, the Issuer and the Bond Trustee shall agree on appropriate adjustments to the Conversion Right and the Conversion Price, which shall be made pursuant to the principles as set out in Clause 15.
+
+17
+
+Fees and expenses
+
+17.1 The Issuer shall cover all costs and expenses incurred by it or the Bond Trustee (and/or the Security Agent) in connection with this Bond Agreement and the fulfilment of its obligations under this Bond Agreement or any other Finance Document, including in connection with the negotiation, preparation, execution and enforcement of this Bond Agreement and the other Finance Documents and any registration or notifications relating thereto (including any stamp duty), the listing of the Bonds on an Exchange (if applicable), and the registration and administration of the Bonds in the Securities Depository. The Bond Trustee may withhold funds from any escrow account (or similar arrangement) or from other funds received from the Issuer or any other person, irrespective of such funds being subject to Security under a Finance Documents, to set-off and cover any such costs and expenses.
+17.2 The fees, costs and expenses payable to the Bond Trustee (and/or the Security Agent) shall be paid by the Issuer and are set out in a separate agreement between the Issuer and the Bond Trustee (and/or the Security Agent).
+
+26
+
+Nordic Tmstee ASA
+
+17.3 Fees, costs and expenses payable to the Bond Trustee (or the Security Agent) which, due to the Issuer's insolvency or similar circumstances, are not reimbursed in any other way may he covered by making an equivalent reduction in the proceeds to the Bondholders hereunder o f any costs and expenses incurred by the Bond Trustee (or the Security Agent) in connection with the restructuring or default of the Bond Issue and the enforcement of any Finance Document.
+17.4 Any public fees levied on the trade o f Bonds in the secondary market shall be paid by the Bondholders, unless otherwise provided by law or regulation, and the Issuer is not responsible for reimbursing any such fees.
+17.5 The Issuer is responsible for withholding any withholding tax imposed by law on any payments to the Bondholders.
+17.6 If the Issuer is required by law to withhold any withholding tax from any payment under any Finance Document:
+(a) the amount of the payment due from the Issuer shall be increased to such amount which is necessary to ensure that the Bondholders receive a net amount which is (after making the required withholding) equal to the payment which would have been due if no withholding had been required; and
+
+(b) the Issuer shall at the request o f the Bond Trustee deliver to the Bond Trustee evidence that the required tax reduction or withholding has been made.
+
+17.7 If any withholding tax is imposed due to subsequent changes in applicable law after the date o f this Bond Agreement, the Issuer shall have the right to call all but not some of the Bonds at par value plus accrued interest. Such call shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least fourty - 40 - Business Days prior to the settlement date of the call. Each Bondholder may notify the Paying Agent (via its Account Manager) no later than twenty Business Days after the Issuer has given notification to the Bond Trustee and the Bondholders of the exercise of this call option that it will instead opt for exercising its Conversion Right with respect to the Bonds it holds.
+
+18
+
+Events of Default
+
+18.1 The Bond Trustee may declare the Bonds to be in default upon occurrence of any of the following events:
+18.1.1 Non-payment
+The Issuer fails to fulfil any payment obligation due under this Bond Agreement or any Finance Document when due, unless the Issuer provides the
+
+27
+
+Nordic Trustee ASA
+
+Bond Trustee with satisfactory evidence that such payment will be made in full within five Business Days following the original due date.
+
+18.1.2 Breach o f other obligations
+
+The Issuer does not comply with any material provision pursuant to this Bond Agreement or any other Finance Document, unless, in the opinion of the Bond Trustee, such failure is capable of being remedied and is remedied within twenty Business Days after notice thereof is given to the Issuer by the Bond Trustee or, if earlier, the date on which the Issuer became aware o f the breach.
+
+18.1.3 Cross default
+
+If, for the Issuer or any Material Subsidiary
+
+(i)
+
+any Financial Indebtedness is not paid when due nor within any
+
+originally applicable grace period;
+
+(ii) any Financial Indebtedness is declared to be or otherwise becomes due and payable prior to its specified maturity as a result of an event of default (however described);
+
+(iii) any commitment for any Financial Indebtedness is cancelled or suspended by a creditor as a result of an event of default (however described); or
+
+(iv) any creditor becomes entitled to declare any Financial Indebtedness due and payable prior to its specified maturity as a result o f an event of default (however described),
+
+always provided that a threshold in the aggregate amount of Financial Indebtedness or commitment for Financial Indebtedness falling within paragraphs (i) to (iv) above o f a total o f USD 1,000,000 (one million), or the equivalent thereof in other currencies, shall apply.
+
+18.1.4 Misrepresentations
+
+Any representation, warranty or statement (including statements in compliance certificates) made under this Bond Agreement or any other Finance Document or in connection therewith is or proves to have been incorrect, inaccurate or misleading in any material respect when made or deemed to have been made.
+
+18.1.5 Insolvency
+
+(i)
+
+The Issuer or any Material Subsidiary, is unable or admits inability to
+
+pay its debts as they fall due or suspends making payments on any of
+
+its debts.
+
+28
+
+Nordic Trustee ASA
+
+(ii) The value of the assets of the Issuer or any Material Subsidiary is less than its liabilities (taking into account contingent and prospective liabilities)
+18.1.6 Insolvency proceedings and dissolution
+
+If for the Issuer or any Material Subsidiary, any corporate action, legal proceedings or other procedure step is taken in relation to:
+
+(i)
+
+the suspension of payments, a moratorium of any indebtedness,
+
+winding-up, dissolution, administration or reorganisation (by way of
+
+voluntary arrangement, scheme of arrangement or otherwise) other
+
+than solvent liquidation or reorganization;
+
+(ii) a composition, compromise, assignment or arrangement with any creditor, having an adverse effect on the Issuer's ability to perform its payment obligations hereunder; or
+
+(iii) the appointment of a liquidator (other than in respect of a solvent liquidation), receiver, administrative receiver, administrator, compulsory manager or other similar officer of any o f its assets;
+
+or any analogous procedure or step is taken in any jurisdiction. The provisions of this Clause 18.1.6 shall not apply to any winding-up petition which is frivolous or vexatious and is discharged, stayed or dismissed within 30 (thirty) days of commencement.
+
+18.1.7 Compliance with financial covenants
+
+The Issuer or any Material Subsidiary is in breach of any financial covenant in its financing arrangements.
+
+18.1.8 Creditors'process
+
+The Issuer or any Material Subsidiary having any of its assets having an aggregate value o f USD 1,000,000 (one million) (or the equivalent thereof in other currencies) impounded, confiscated, attached or subject to distraint, or is subject to enforcement of Security.
+
+18.1.9 Impossibility or illegality
+
+It is or becomes impossible or unlawful for the Issuer or any of the Material Subsidiaries to fulfil or perform any of the material terms of any Finance Document to which it is a party.
+
+18.1.10 Criminal proceedings
+
+The Issuer or any Material Subsidiary is formally charged in criminal court proceedings.
+
+29
+7^
+
+Nordic Trustee ASA
+18.1.11 Material Adverse Change
+Any other event or circumstance occurs which, in the reasonable opinion of the Bond Trustee, after consultations with the Issuer, would have a Material Adverse Effect.
+18.1.12 Change o f Control
+The Issuer ceases to own or control, directly or indirectly, 100% of the votes or share capital of Agrinos Inc. or Bioderpac SA de CV.
+18.2 In the event that one or more of the circumstances mentioned in Clause 18.1 occurs and is continuing, the Bond Trustee can, in order to protect the interests of the Bondholders, declare the Outstanding Bonds including accrued interest, costs and expenses to be in default and due for immediate payment or conversion at the choice of each Bondholder in accordance with the Conversion Right.
+The Bond Trustee may at its discretion, take every measure necessary to recover the amounts due under the Outstanding Bonds, and all other amounts outstanding under this Bond Agreement and any other Finance Document, including any other contractual and non-contractual claims, that are derived therefrom or in connection therewith.
+18.3 In the event that one or more of the circumstances mentioned in Clause 18.1 occurs and is continuing, the Bond Trustee shall declare the Outstanding Bonds including accrued interest, costs and expenses to be in default and due for immediate payment or conversion at the choice of each Bondholder in accordance with the Conversion Right if:
+(a) the Bond Trustee receives a demand in writing that a default shall be declared from Bondholders representing at least 1/5 of the Voting Bonds, and the Bondholders' Meeting has not decided on other solutions, or
+(b) the Bondholders' Meeting has with simple majority decided to declare the Outstanding Bonds in default and due for payment.
+In either case the Bond Trustee shall take every measure necessary to recover the amounts due under the Outstanding Bonds or ensure conversion o f the relevant Outstanding Bonds at the choice o f each Bondholder in accordance with the Conversion Right.
+18.4 In the event that the Bond Trustee pursuant to the terms of Clauses 18.2 or 18.3 declares the Outstanding Bonds to be in default and due for payment, the Bond Trustee shall immediately deliver to the Issuer a notice demanding payment o f interest and principal due to the Bondholders under the Outstanding Bonds including accrued interest and interest on overdue amounts and expenses or ensure conversion of the relevant Outstanding
+30
+
+Nordic Trustee ASA
+
+Bonds at the choice of each Bondholder in accordance with the Conversion Right.
+19 Bondholders' Meeting
+
+19.1 Authority o f the Bondholders' Meeting
+
+19.1.1
+
+The Bondholders' Meeting represents the supreme authority o f the Bondholders community in all matters relating to the Bonds, and has the power to make all decisions altering the terms and conditions of the Bonds, including, but not limited to, any reduction o f principal or interest and any conversion of the Bonds into other capital classes.
+
+19.1.2
+
+The Bondholders' Meeting cannot resolve that any overdue payment o f any instalment shall be reduced unless there is a pro rata reduction of the principal that has not fallen due, but may resolve that accrued interest (whether overdue or not) shall be reduced without a corresponding reduction of principal.
+
+19.1.3
+
+If a resolution by or an approval o f the Bondholders is required, such resolution shall be passed at a Bondholders' Meeting, see however Clause 20.1. Resolutions passed at Bondholders' Meetings shall be binding upon all Bondholders and prevail for all the Bonds.
+
+19.2 Procedural rulesfo r Bondholders' meetings
+
+19.2.1 A Bondholders' Meeting shall be held at the written request of:
+
+(a) the Issuer;
+
+(b) Bondholders representing at least 1/10 of the Voting Bonds;
+
+(c) the Exchange, if the Bonds are listed; or
+
+(d) the Bond Trustee.
+
+19.2.2
+
+The Bondholders' Meeting shall be summoned by the Bond Trustee. A request for a Bondholders' Meeting shall be made in writing to the Bond Trustee, and shall clearly state the matters to be discussed.
+
+19.2.3
+
+If the Bond Trustee has not summoned a Bondholders' Meeting within ten Business Days after having received a valid request, then the requesting party may summon the Bondholders' Meeting itself.
+
+19.2.4
+
+The summons to a Bondholders' Meeting shall be dispatched no later than ten Business Days prior to the date o f the Bondholders' Meeting. The summons and a confirmation of each Bondholder's holdings of Bonds shall be sent to all Bondholders registered in the Securities Depository at the time of distribution. The Exchange shall also be informed if the Bonds are listed.
+
+31
+
+A/
+
+Nordic Trustee ASA
+
+19.2.5
+
+The summons shall specify the agenda of the Bondholders' Meeting. The Bond Trustee may in the summons also set out other matters on the agenda than those requested. If amendments to this Bond Agreement have been proposed, the main content of the proposal shall be stated in the summons.
+
+19.2.6 The Bond Trustee may restrict the Issuer from making any changes in the number of Voting Bonds in the period from distribution of the summons until the Bondholders' Meeting, by serving notice to it to such effect.
+
+19.2.7 Matters that have not been reported to the Bondholders in accordance with the procedural rules for summoning of a Bondholders' Meeting may only be adopted with the approval of all Voting Bonds.
+
+19.2.8
+
+The Bondholders' Meeting shall be held on premises designated by the Bond Trustee. The Bondholders' Meeting shall be opened and shall, unless otherwise decided by the Bondholders' Meeting, be chaired by the Bond Trustee. If the Bond Trustee is not present, the Bondholders' Meeting shall be opened by a Bondholder, and be chaired by a representative elected by the Bondholders' Meeting.
+
+19.2.9
+
+Minutes of the Bondholders' Meeting shall be kept. The minutes shall state the numbers of Bondholders and Bonds represented at the Bondholders' Meeting, the resolutions passed at the meeting, and the result of the voting. The minutes shall be signed by the chairman and at least one other person elected by the Bondholders' Meeting. The minutes shall be deposited with the Bond Trustee and shall be available to the Bondholders.
+
+19.2.10
+
+The Bondholders, the Bond Trustee and - provided the Bonds are listed representatives of the Exchange, have the right to attend the Bondholders' Meeting. The chairman may grant access to the meeting to other parties, unless the Bondholders' Meeting decides otherwise. Bondholders may attend by a representative holding proxy. Bondholders have the right to be assisted by an advisor. In case of dispute the chairman shall decide who may attend the Bondholders' Meeting and vote for the Bonds.
+
+19.2.11
+
+Representatives of the Issuer have the right to attend the Bondholders' Meeting. The Bondholders' Meeting may resolve that the Issuer's representatives may not participate in particular matters. The Issuer has the right to be present under the voting.
+
+19.3 Resolutions passed at Bondholders' Meetings
+
+19.3.1
+
+At the Bondholders' Meeting each Bondholder may cast one vote for each Voting Bond owned at close of business on the day prior to the date of the Bondholders' Meeting in accordance with the records registered in the Securities Depository. The Bond Trustee may, at its sole discretion, accept other evidence of ownership. Whoever opens the Bondholders' Meeting shall adjudicate any question concerning which Bonds shall count as the Issuer's Bonds. The Issuer's Bonds shall not have any voting rights.
+
+32
+
+Nordic Trustee ASA
+
+For this purpose, a Bondholder that has a Bond that is nominee registered shall be deemed as the Bondholder of such Bond (instead of the nominee) provided that the Bondholder presents relevant evidence stating that the relevant Bondholder is the Bondholder o f the Bond and the amount o f Bonds held by such Bondholder.
+19.3.2 In all matters, the Issuer, the Bond Trustee and any Bondholder have the right to demand vote by ballot. In case of parity of votes, the chairman shall have the deciding vote, regardless of the chairman being a Bondholder or not.
+
+19.3.3
+
+In order to form a quorum, at least half (1/2) o f the Voting Bonds must be represented at the meeting, see however Clause 19.4. Even if less than half (1/2) of the Voting Bonds are represented, the Bondholders' Meeting shall be held and voting completed.
+
+19.3.4
+
+Resolutions shall be passed by simple majority of the Voting Bonds represented at the Bondholders' Meeting, unless otherwise set out in Clause
+19- 3 - 5-
+
+19.3.5
+
+Save where all the Bonds are being held by one (1) Bondholder, a majority consisting o f at least two Bondholders jointly and representing at least 90% of the Voting Bonds represented at the Bondholders' Meeting is required for:
+
+(a) any waiver or amendment of any terms of this Bond Agreement (including but not limited to the replacement o f the Bond Trustee);
+
+(b) consent to an amendment of any right of the holders of Shares;
+
+(c) consent to issue of new equity (including convertible instruments, but excluding Permitted Equity Issue) in a form different from the existing Shares; and
+
+(d) listing of the Bonds on an Exchange.
+
+19.3.6 The Bondholders' Meeting may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+19.3.7
+
+The Bond Trustee shall ensure that resolutions passed at the Bondholders' Meeting are properly implemented, however, the Bond Trustee may refuse to carry out resolutions being in conflict with this Bond Agreement (or any other Finance Document) or any applicable law.
+
+19.3.8 The Issuer, the Bondholders and the Exchange shall be notified of resolutions passed at the Bondholders' Meeting.
+
+19.4 Repeated Bondholders' Meeting
+
+19.4.1 If the Bondholders' Meeting does not form a quorum pursuant to Clause 19.3.3, a repeated Bondholders' Meeting may be summoned to vote on the same
+
+33
+
+Nordic Trustee ASA
+
+matters. The attendance and the voting result of the first Bondholders' Meeting shall be specified in the summons for the repeated Bondholders' Meeting.
+
+19.4.2
+
+The procedures and resolutions as set out in 19.2 and 19.3 above also apply for a repeated Bondholders' meeting, however, a valid resolution may be passed at a repeated Bondholders' Meeting even though less than half (1/2) of the Voting Bonds are represented.
+
+20
+
+The Bond Trustee
+
+20.1 The role and authority o f the Bond Trustee
+
+20.1.1
+
+The Bond Trustee shall monitor the compliance by the Issuer of its obligations under this Bond Agreement and applicable laws and regulations which are relevant to the terms of this Bond Agreement, including supervision o f timely and correct payment of principal or interest, (however, this shall not restrict the Bond Trustee from discussing matters of confidentiality with the Issuer), arrange Bondholders' Meetings, and make the decisions and implement the measures resolved pursuant to this Bond Agreement. The Bond Trustee is not obligated to assess the Issuer's financial situation beyond what is directly set out in this Bond Agreement.
+
+20.1.2
+
+The Bond Trustee may take any step it in its sole discretion considers necessary or advisable to ensure the rights o f the Bondholders in all matters pursuant to the terms o f this Bond Agreement and is entitled to rely on advice from professional advisors. The Bond Trustee may in its sole discretion postpone taking action until such matter has been put forward to the Bondholders' Meeting. The Bond Trustee is not obliged to take any steps to ascertain whether any Event o f Default has occurred and until it has actual knowledge or express notice to the contrary the Bond Trustee is entitled to assume that no Event of Default has occurred.
+
+20.1.3
+
+The Bond Trustee may make decisions binding for all Bondholders concerning this Bond Agreement, including amendments to this Bond Agreement and waivers or modifications of certain provisions, which in the opinion of the Bond Trustee, do not materially and adversely affect the rights or interests of the Bondholders pursuant to this Bond Agreement.
+
+20.1.4
+
+The Bond Trustee may reach decisions binding for all Bondholders in circumstances other than those mentioned in Clause 20.1.3 provided that prior notification has been made to the Bondholders. Such notice shall contain a proposal of the amendment and the Bond Trustee's evaluation. Further, such notification shall state that the Bond Trustee may not reach a decision binding for all Bondholders in the event that any Bondholder submits a written protest against the proposal within a deadline set by the Bond Trustee. Such deadline may not be less than five Business Days following the dispatch of such notification.
+
+34
+
+jgr-
+
+Nordic Trustee ASA
+
+20.1.5
+
+The Bond Trustee may reach other decisions than set out in Clauses 20.1.3 or 20.1.4 to amend or rectify decisions which due to spelling errors, calculation mistakes, misunderstandings or other obvious errors do not have the intended meaning.
+
+20.1.6 The Bond Trustee may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+20.1.7 The Issuer, the Bondholders and the Exchange shall be notified of decisions made by the Bond Trustee pursuant to Clause 20.1 unless such notice obviously is unnecessary.
+
+20.1.8 The Bondholders' Meeting can decide to replace the Bond Trustee without the Issuer's approval, as provided for in Clause 19.3.5.
+
+20.1.9
+
+The Bond Trustee may act as bond trustee and/or security agent for several bond issues relating to the Issuer notwithstanding potential conflicts of interest. The Bond Trustee may delegate exercise of its powers to other professional parties.
+
+20.1.10 The Bond Trustee may instruct the Paying Agent to split the Bonds to a lower denomination in order to facilitate partial redemptions or restructuring of the Bonds or other situations.
+
+20.2 Liability and indemnity
+
+20.2.1
+
+The Bond Trustee is liable only for direct losses incurred by Bondholders or the Issuer as a result of gross negligence or wilful misconduct by the Bond Trustee in performing its functions and duties as set out in this Bond Agreement. Such liability is limited to the maximum amount set out in Clause 2.2. The Bond Trustee is not liable for the content o f information provided to the Bondholders on behalf of the Issuer.
+
+20.2.2
+
+The Issuer is liable for, and shall indemnify the Bond Trustee fully in respect of, all losses, expenses and liabilities incurred by the Bond Trustee as a result of negligence by the Issuer (including its directors, management, officers, employees, agents and representatives) to fulfil its obligations under the terms of this Bond Agreement and any other Finance Document, including losses incurred by the Bond Trustee as a result of the Bond Trustee's actions based on misrepresentations made by the Issuer in connection with the establishment and performance of this Bond Agreement and any other Finance Document.
+
+20.2.3
+
+The Bond Trustee can as a condition for carrying out an instruction from the Bondholders (including, but not limited to, instructions set out in Clause 18.3(a) or 19.2.1 (b), require satisfactory security and indemnities for any possible liability and anticipated costs and expenses, from those Bondholders who requested that instruction and/or those who voted in favour of the decision to instruct the Bond Trustee. Any instructions from the Bondholders
+
+35
+
+Mr
+
+Nordic Trustee ASA
+
+may be put forward to the Bondholders' Meeting by the Bond Trustee before the Bond Trustee takes any action.
+
+20.3 Change o f Bond Trustee
+
+20.3.1
+
+Change of Bond Trustee shall be carried out pursuant to the procedures set out in Clauseip. The Bond Trustee shall continue to carry out its duties as bond trustee until such time that a new Bond Trustee is elected.
+
+20.3.2
+
+The fees and expenses of a new bond trustee shall be covered by the Issuer pursuant to the terms set out in Clause 17, but may be recovered wholly or partially from the Bond Trustee if the change is due to a breach by the Bond Trustee o f its duties pursuant to the terms of this Bond Agreement or other circumstances for which the Bond Trustee is liable.
+
+20.3.3
+
+The Bond Trustee undertakes to co-operate so that the new bond trustee receives without undue delay following the Bondholders' Meeting the documentation and information necessary to perform the functions as set out under the terms of this Bond Agreement.
+
+20.4 Appointment o f Security Agent
+
+20.4.1 The Bond Trustee is appointed to act as Security Agent for the Bond Issue.
+
+The main functions of the Security Agent may include holding Security on behalf of the Bondholders and monitoring compliance by the Issuer and other relevant parties o f their respective obligations under this Bond Agreement and/or the Security Documents with respect to the Security.
+
+Before the appointment o f a Security Agent other than the Bond Trustee, the Issuer shall be given the opportunity to state its views on the proposed Security Agent, but the final decision as to appointment shall lie exclusively with the Bond Trustee.
+
+20.4.2
+
+The functions, rights and obligations o f the Security Agent may be determined by a Security Agent agreement to be entered into between the Bond Trustee and the Security Agent, which the Bond Trustee shall have the right to require the Issuer and any other parties to any Security Document to sign as a party, or, at the discretion o f the Bond Trustee, to acknowledge. The Bond Trustee shall at all times retain the right to instruct the Security Agent in all matters.
+
+Any changes to this Bond Agreement necessary or appropriate in connection with the appointment o f a Security Agent shall be documented in an amendment to this Bond Agreement, signed by the Bond Trustee.
+
+20.4.3 If so desired by the Bond Trustee, any or all of the Security Documents shall be amended, assigned or re-issued, so that the Security Agent is the holder of the relevant Security (on behalf of the Bondholders). The costs incurred in
+
+36
+
+Nordic Trustee ASA
+
+connection with such amendment, assignment or re-issue shall be for the account of the Issuer.
+21 M iscellaneous
+
+21.1 The community o f Bondholders
+
+By virtue o f holding Bonds, which are governed by this Bond Agreement (which pursuant to Clause 2.1.1 is binding upon all Bondholders), a community exists between the Bondholders, implying, inter alia, that:
+
+(a) the Bondholders are bound by the terms of this Bond Agreement;
+
+(b) the Bond Trustee has power and authority to act on behalf of, and/or represent; the Bondholders, in all matters, included but not limited to taking any legal or other action, including enforcement of the Bond Issue and/or any Security, opening of bankruptcy or other insolvency proceedings;
+
+(c) the Bond Trustee has, in order to manage the terms o f this Bond Agreement, access to the Securities Depository to review ownership of Bonds registered in the Securities Depository; and
+
+(d) this Bond Agreement establishes a community between Bondholders meaning that:
+
+(i)
+
+the Bonds rank pari passu between each other;
+
+(ii) the Bondholders may not, based on this Bond Agreement, act
+
+directly towards, and may not themselves institute legal
+
+proceedings against, the Issuer, guarantors or any other third
+
+party based on claims derived from the Finance Documents,
+
+including but not limited to recover the Bonds, enforcing any
+
+Security Interest or pursuing claims against any party as a
+
+substitute for damages to the interests under the Finance
+
+Documents, regardless of claims being pursued on a
+
+contractual or non-contractual basis, however not restricting
+
+the Bondholders to exercise their individual rights derived
+
+from this Bond Agreement;
+
+(iii) the Issuer may not, based on this Bond Agreement, act
+
+directly towards the Bondholders;
+
+(iv) the Bondholders may not cancel the Bondholders' community;
+
+and
+
+(v) the individual Bondholder may not resign from the
+
+Bondholders' community.
+
+21.2 Bond Defeasance
+
+37
+A t-
+
+Nordic Trustee ASA
+
+21.2.1
+
+The Issuer may, at its option and at any time, elect to have certain obligations discharged (see Clause 21.2.2) upon complying with the following conditions (the "Bond D efeasance"):
+
+(a) the Issuer shall have irrevocably pledged to the Bond Trustee for the benefit of the Bondholders cash or government bonds accepted by the Bond Trustee, or other security accepted by the Bond Trustee, (the "D efeasance Security") in such amounts as will be sufficient for the payment o f principal (including if applicable premium payable upon exercise of a Call Option) and interest on the Outstanding Bonds to Maturity Date (or upon an exercise of a Call Option plus applicable premium) or any other amount agreed between the Parties;
+
+(b)
+
+the Issuer shall have delivered to the Bond Trustee a duly signed
+
+certificate that the Defeasance Security was not made by the Issuer
+
+with the intent o f preferring the Bondholders over any other creditors
+
+of the Issuer or with the intent of defeating, hindering, delaying or
+
+defrauding any other creditors of the Issuer or others; and
+
+(c) the Issuer shall have delivered to the Bond Trustee any certificate or legal opinion reasonably required by the Bond Trustee regarding the Bond Defeasance including any statements regarding the perfection and enforceability, rights against other creditors (including any hardening period) and other issues regarding the Defeasance Security.
+
+21.2.2 Upon the exercise by the Issuer o f the Bond Defeasance:
+
+(a) the Issuer shall be released from the obligations under all provisions in Clause 13, except Clauses 13.2.1(a), (g) and (i), or as otherwise agreed;
+
+(b) the Issuer shall not (and shall ensure that all Group Companies shall not) take any actions that may cause the value of the Defeasance Security to be reduced, and shall at the request of the Bond Trustee execute, such further actions as the Bond Trustee may reasonably require;
+
+(c) any Security other than the Defeasance Security shall be discharged; and
+
+(d) all other provisions o f this Bond Agreement (except (a) - (c) above) shall remain fully in force without any modifications, or as otherwise agreed.
+
+21.2.3
+
+All amounts owed by the Issuer hereunder covered by the Defeasance Security shall be applied by the Bond Trustee, in accordance with the provisions of this Bond Agreement, against payment to the Bondholders of all sums due to them under this Bond Agreement on the due date thereof.
+
+38
+
+Nordic Trustee ASA
+
+Any excess funds not required for the payment of principal, premium and interest to the Bondholders (including any expenses, fees etc. due to the Bond Trustee hereunder) shall be returned to the Issuer.
+21.2.4 if the Bonds are secured, the Defeasance Security shall be considered as a replacement o f the Security established prior to the Defeasance Security.
+21.3 Limitation o f claims
+
+All claims under the Bonds and this Bond Agreement for payment, including interest and principal, shall be subject to the time-bar provisions of the Norwegian Limitation Act of May 18,1979 No. 18.
+
+21.4 Access to information
+
+21.4.1
+
+This Bond Agreement is available to anyone and copies may be obtained from the Bond Trustee or the Issuer. The Bond Trustee shall not have any obligation to distribute any other information to the Bondholders or others than explicitly stated in this Bond Agreement. The Issuer shall ensure that a copy of this Bond Agreement is available to the general public until all the Bonds have been fully discharged.
+
+21.4.2
+
+The Bond Trustee shall, in order to carry out its functions and obligations under this Bond Agreement, have access to the Securities Depository for the purposes o f reviewing ownership of the Bonds registered in the Securities Depository.
+
+21.5 Amendments
+
+All amendments o f this Bond Agreement shall be made in writing, and shall unless otherwise provided for by this Bond Agreement, only be made with the approval of all parties hereto.
+
+21.6 Notices, contact information
+
+21.6.1
+
+Written notices, warnings, summons etc to the Bondholders made by the Bond Trustee shall be sent via the Securities Depository with a copy to the Issuer and the Exchange. Any such notice or communication shall be deemed to be given or made when sent from the Securities Depository.
+
+21.6.2 The Issuer's written notifications to the Bondholders shall be sent via the Bond Trustee, alternatively through the Securities Depository with a copy to the Bond Trustee and the Exchange.
+
+21.6.3
+
+Unless otherwise specifically provided, all notices or other communications under or in connection with this Bond Agreement between the Bond Trustee and the Issuer shall be given or made in writing, by letter, e-mail or fax. Any such notice or communication shall be deemed to be given or made as follows:
+
+(a) if by letter, when delivered at the address o f the relevant Party;
+
+39
+
+Nordic Trustee ASA
+
+(b) if by e-mail, when received; and
+
+(c) if by fax, when received.
+
+21.6.4 The Issuer and the Bond Trustee shall ensure that the other party is kept informed of changes in postal address, e-mail address, telephone and fax numbers and contact persons.
+
+21.6.5 When determining deadlines set out in this Bond Agreement, the following shall apply (unless otherwise stated):
+
+(a) If the deadline is set out in days, the first day when the deadline is in force shall not be inclusive, however, the meeting day or the occurrence the deadline relates to, shall be included.
+
+(b) If the deadline is set out in weeks, months or years, the deadline shall end on the day in the last week or the last month which, according to its name or number, corresponds to the first day the deadline is in force. If such day is not a part of an actual month, the deadline shall be the last day o f such month.
+
+(c) If a deadline ends on a day which is not a Business Day, the deadline is postponed to the next Business Date.
+
+21.7 Dispute resolution and legal venue
+
+21.7.1
+
+This Bond Agreement and all disputes arising out of, or in connection with this Bond Agreement between the Bond Trustee, the Bondholders and the Issuer, shall be governed by Norwegian law.
+
+21.7.2
+
+All disputes arising out of, or in connection with this Bond Agreement between the Bond Trustee, the Bondholders and the Issuer, shall, subject to Clause 21.7.3, be exclusively resolved by the courts of Norway, with the District Court of Oslo as sole legal venue.
+
+21.7.3
+
+Clause 21.7.2 is for the benefit of the Bond Trustee only. As a result, the Bond Trustee shall not be prevented from taking proceedings relating to a dispute in any other courts with jurisdiction. To the extent allowed by law, the Bond Trustee may take concurrent proceedings in any number of jurisdictions.
+
+*****
+
+40
+
+Nordic Trustee ASA
+This Bond Agreement has been executed in two originals, of which the Issuer and the Bond Trustee retain one each.
+
+Issuer
+Co L
+* y : JJ&y
+Capacity:
+
+Bond Trustee
+By: F redrik Lundberc
+Capacity:
+
+41
+
+Nordic Trustee ASA
+
+Attachment
+
+COMPLIANCE CERTIFICATE
+
+NNP.o-O0r.d1B1ic6oTxOru1sls4ot7e0e
+
+ASA Vika
+
+Norway
+
+Fax: +47228794 10
+E-mail: mail@nordictrustee.com
+
+[date]
+
+Dear Sirs,
+PIK FRN AGRINOS AS CONVERTIBLE BOND ISSUE 2014/2017 - ISIN 001 072476.8
+
+We refer to the Bond Agreement for the abovementioned Bond Issue made between Nordic Trustee ASA as Bond Trustee on behalf of the Bondholders, and the undersigned as Issuer under which a Compliance Certificate shall be issued. This letter constitutes the Compliance Certificate for the period [PERIOD].
+
+Capitalised terms used herein shall have the same meaning as in this Bond Agreement.
+With reference to Clause 13.2.2 we hereby certify that:
+
+1. all information contained herein is true and accurate and there has been no change which would have a Material Adverse Effect on the financial condition o f the Issuer since the date of the last accounts or the last Compliance Certificate submitted to you;
+2. 13 the covenants set out in Clause are satisfied; and
+3. all relevant Security is established in accordance with this Bond Agreement.
+
+Copies of our latest consolidated Financial Statements are enclosed. Yours faithfully, Agrinos AS
+
+Name o f authorizedperson
+Enclosure: [copy o f any written documentation]
+
+42
+J t*
+
+

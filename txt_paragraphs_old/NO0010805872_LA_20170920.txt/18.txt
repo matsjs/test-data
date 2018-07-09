@@ -1,0 +1,9 @@
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
+"Managers" means;
+(a) DNB Bank ASA, DNB Markets, Dronning Eufemias gate 30, 0021 Oslo, Norway; and
+(b) Fearnley Securities AS, Grev Wedels Plass 9, NO-0151 Oslo, Norway.
+"Mandatory Prepayment" means that prepayment of Bonds made in accordance with clause 10.4.
+"Margin" means 4.75 per cent.
+"Market Value" means the fair market value of the Vessels and, if relevant, of any Cure Vessel, in USD, determined as the arithmetic mean of independent valuations of the Vessels obtained from two Approved Shipbrokers. Such valuation shall be made on the basis of a sale for prompt delivery for cash at arm's length on normal commercial terms as between a willing seller and willing buyer, on an "as is where is" basis, free of any existing charters or other contracts for employment. The cost of such determination shall be for the account of the Issuer. The valuation shall be made at least semi-annually on each Calculation Date, or following an Event of Default, upon the request of the Bond Trustee.
+"Material Adverse Effect" means a material adverse effect on:
+(A) the ability of the Obligors to perform and comply with their obligations under any of the Finance Documents; or

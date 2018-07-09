@@ -1,0 +1,1223 @@
+ISIN NO O01 0321 17.7
+LOAN AGREEMENT between
+Tandberg Data ASA (Borrower) and
+Norsk Tillitsmann ASA on behalf of Bondholders in bond issue
+11,25 % Tandberg Data ASA Senior Secured Bond Issue 2006/2010
+
+Norsk Tillitsmann ASA
+
+TABLE OF CONTENTS
+
+<<<
+
+
+
+1 Definitions
+
+3
+
+2 The Loan
+
+7
+
+3 Listing
+
+8
+
+4 Registration in a Securities Depository
+
+8
+
+5 The functions, duties and liability of the Loan Trustee
+
+8
+
+6 Conditions Precedent
+
+9
+
+7 Representations and Warranties
+
+10
+
+8 Status of the Loan
+
+<<<
+
+ and Security
+
+10
+
+9 Interest
+
+11
+
+10 Maturity of the Loan
+
+11
+
+11 Interest in the event of late payment
+
+12
+
+12 Borrower's acquisition of Borrower's Bonds
+
+12
+
+13 Borrower's obligations during the term of the Loan
+
+12
+
+14 Fees and expenses
+
+<<<
+
+
+
+14
+
+15 Events of Default
+
+15
+
+16 Authority of the Bondholders' meeting and the Loan Trustee
+
+16
+
+17 Procedural rules
+
+17
+
+18 Repeated Bondholders' meeting
+
+20
+
+19 Change of Bondholder's representative
+
+20
+
+20 Limitation
+
+21
+
+21 Dispute resolution
+
+<<<
+
+ and legal venue
+
+21
+
+Schedule 1 - Security list Schedule 2 - List of Obligors
+
+2
+
+Norsk Tillitsmann ASA
+
+This agreement (the "Loan Agreement") has been entered into on 22 June 2006 between Tandberg Data ASA (Company No 928 661 88 1) as Borrower
+
+<<<
+
+ and Norsk Tillitsmann ASA (Company No 963 342 624) as Loan Trustee.
+Through their subscription in the Loan the Bondholders have acceded to the Loan Agreement (i.e.):
+* The Bondholders are bound by the terms of the Loan Agreement provided that
+
+<<<
+
+
+information about the accession was given in the subscription documents.
+* The Loan Trustee has through the Bondholders subscription been granted authority to
+act on behalf of the Bondholders to the extent provided for in the Loan Agreement
+
+<<<
+
+.
+The Loan Agreement is available to anyone and may be obtained fi-omthe Loan Trustee or the Borrower. The Borrower shall ensure that the Loan Agreement is available to the general public throughout the entire term of the Loan.
+
+1 Definitions
+
+<<<
+
+
+
+Whenever used in this Loan Agreement the following terms shall have the following meaning:
+
+Banking Day: Bondholders:
+
+any day on which commercial banks are open for general business (including dealings in foreign exchange and foreign currency
+
+<<<
+
+ deposits) in each of Oslo, London and New York.
+the holders of the Bonds.
+
+Bonds: Borrower's Bonds:
+
+bonds in the Loan.
+Bonds in the Remaining Loan, owned by the Borrower or any party over whom the Borrower has decisive influence or any party
+
+<<<
+
+ who has decisive influence over the Borrower.
+
+Borrower Group: Call Option: Cash:
+
+the Borrower and its Subsidiaries.
+the Borrower's optional early redemption of the Loan.
+means, for any given period, the sum of the Borrower Group's fi-eelyavailable
+
+<<<
+
+ cash, readily available marketable securities and other cash equivalents in accordance with IFRS.
+
+Norsk Tillitsmann ASA
+
+Change of Control Event:
+
+means that any person or a group of persons acting in concert gains control of more than 4
+
+<<<
+
+0 per cent of the voting shares of the Borrower at any time in the period starting on Disbursement Date and ending two months prior to Maturity Date.
+
+Coordination Agreement:
+
+the priority agreement between the Loan Trustee on behalf of the
+
+<<<
+
+ Bondholders under the Loan and the Tranche A Loan, the Borrower, the Obligors and the Security Trustee.
+
+Disbursement Date:
+
+the date on which the Loan Trustee confirms to the Borrower in writing that it has received all of the documents and
+
+<<<
+
+ evidence set out in Clause 6.1 in form and substance reasonably satisfactory to the Loan Trustee, being June 27 2006.
+
+Escrow Account:
+
+account established to secure interest of the Loan, pledged on first priority and blocked in favour of the
+
+<<<
+
+ Loan Trustee (on behalf of the Bondholders), where the bank operating the account has waived any set-off rights.
+
+Evaluation Date:
+
+means, in respect of the Security Adequacy Test, the last day in each calendar month.
+
+Event of Default:
+
+means
+
+<<<
+
+ a circumstance or event specified as such in Clause 15.1 of the Loan Agreement, or any event or circumstance specified in Clause 15.1 which would, with the expiry of any grace period, the giving of notice or the lapse of time, be an Event of
+
+<<<
+
+ Default.
+
+Exchange:
+
+securities exchange or other reputable market place for securities having satisfactory requirements as to listing and trading, where the Loan is listed or applied for listing.
+
+Finance Documents:
+
+means this Loan Agreement
+
+<<<
+
+, the Tranche A Loan Agreement, the Coordination Agreement, a Security Document and any other document designated as such by the Loan Trustee and the Borrower.
+
+German Loan
+
+means a loan of Euro 1,000,000taken up by Tandberg Data GmbH as borrower
+
+<<<
+
+ and Dresdner Bank GmbH as lender under a loan agreement dated May 15 1996 with subsequent amendments.
+
+German Mortgage:
+
+means a property mortgage of DM Euro 1,661,699 granted by Tandberg Data GmbH as security for the German Loan.
+
+Interest
+
+<<<
+
+ Payment Date:
+
+Mars 27, June 27, September 27 and December 27 each year.
+
+Norsk Tillitsmann ASA
+
+Japanese Loan
+Japanese Receivables: Maturity Date: Obligors: OEMs: Outstanding Loan: Payment Date: Permitted Indebtedness:
+Permitted Security
+
+<<<
+
+:
+Put Option: Remaining Loan:
+Remaining Loan
+
+means three loans of aggregate total of JPY383,330,000, (with the individual amounts of (i) JPY 183,330,000of February 28 2005 and maturity February 28 2008, (ii) JPY 100,000,000 of December 26 
+
+<<<
+
+2005 and maturity December 12 2008 and (iii) JPY 100,000,000of February 17 2006 and maturity August 13 2009) taken up by Tandberg Data Inc. (Japan) as borrower and MitsuiSumitomo Bank, Japan as lender.
+means the receivables of Tandberg Data
+
+<<<
+
+ Inc. (Japan).
+June 27 2010.
+means the companies listed in Schedule 2, and "Obligor" shall be construed accordingly.
+means the original equipment manufacturer which the Borrower or an Obligor has contracted with from time to time.
+Remaining
+
+<<<
+
+ Loan less Borrower's Bonds.
+in relation to the Loan the dates specified for payment of interest or principal. If Payment Date is not a Banking Day payments should be made the following Banking Day.
+(i) the German Loan, (ii) the Japanese Loan
+
+<<<
+
+, and (iii) trade credits granted for a period of less than 60
+days and other commitments deriving from the ordinary course of business.
+(i) the German Mortgage, (ii) the Security Documents, and (iii) any right of set-off or lien, in each case
+
+<<<
+
+ arising by
+operation of law in the ordinary course of business.
+the Bondholders' optional early redemption of its Bonds.
+the aggregate principal amount of all Bonds outstanding in the Loan less the principal amount of the Bonds redeemed by
+
+<<<
+
+ the Borrower and discharged through the Securities Depository.
+
+5
+
+Norsk Tillitsmann ASA
+
+Tranche A:
+
+the aggregate principal amount of all bonds outstanding in the Tranche A less the principal amount of the bonds redeemed by the Borrower
+
+<<<
+
+ for Tranche B and discharged through the Securities Depository.
+
+Remaining Loan Combined: the aggregate of Remaining Loan and Remaining Loan Tranche A.
+
+Reporting Dates:
+
+means, in respect of the Security Adequacy Test, the date falling ten
+
+<<<
+
+ days after the end of a calendar month.
+
+Securities Depository:
+
+the securities depository in which the Loan is registered. On Disbursement Date the Securities Depository is Verdipapirsentralen ("VPS").
+
+Securities Depository act: the Norwegian
+
+<<<
+
+ act of 2002 no. 64 regarding securities depository.
+
+Security Documents:
+
+the security agreements listed in Schedule 1 hereto and any other document evidencing or creating security over any asset of the Borrower or an Obligor to secure any
+
+<<<
+
+ obligation under the Finance Documents.
+
+Security Adequacy Test:
+
+confirmation of the following in respect of the Borrower and the Obligors:
+
+(i) that the ratio of the Remaining Loan Combined to Total Receivables and Cash less Permitted
+Indebtedness
+
+<<<
+
+ is less than 90%; and
+(ii) that the value of the Tandberg Storage's shares is greater than NOK 2.00 per share.
+
+Security Adequacy Report:
+
+means the report to be given by the Borrower on each Reporting Date with respect to the Total Receivables
+
+<<<
+
+ and Eligible Receivables relevant for the performing of the Security Adequacy Test. Such report to be confirmed monthly by the Borrower's C F 0 that the Borrower is in compliance with the Security Adequacy Test at the relevant Evaluation Date
+
+<<<
+
+, and in respect of each quarterly report containing figures applicable to the relevant Evaluation Date, specified and broken down in order for the Loan Trustee to veri@ that the Borrower is in compliance with the Security Adequacy Test at the
+
+<<<
+
+ relevant Evaluation Date.
+
+Security Trustee
+
+means Norsk Tillitsmann ASA.
+
+Side Letter:
+
+the agreement between the Borrower and C p s Capital Partners Europe LLP regarding execution of warrants.
+
+Norsk Tillitsmann ASA
+
+Subsidiary:
+
+means an
+
+<<<
+
+ entity from time to time of which a person:
+
+(i) has direct or indirect control; or (ii) owns directly or indirectly more than fifty (50) per
+cent (votes and capital),
+
+for these purposes, an entity shall be treated as being controlled by a
+
+<<<
+
+ person if that person is able to direct its affairs and/or control the composition of its board of directors or equivalent body.
+
+Tandberg Storage:
+
+Tandberg Storage ASA (Company No 985 728 720).
+
+Total Receivables:
+
+means the value of all
+
+<<<
+
+ accounts receivables of the Borrower and the Obligors pledged to the Security Trustee (on behalf of the Bondholders), being the total of the following calculations of the value of the following assets:
+
+(i) 90 % of book value in accordance
+
+<<<
+
+ with IFRS of all receivables of the Borrower and the Obligors from external purchasers or from the OEM's at any
+relevant time, being not older than 60 days and not being defaulted (ie. still within the indicated
+invoice period); less
+
+(ii)
+
+<<<
+
+ the Japanese Receivables and any other pledged or otherwise encumbered receivables of the Obligors.
+
+Tranche A Loan:
+
+the "9,75 % Tandberg Data ASA Senior Secured Bond Issue 2006/2010" with ISIN NO O01 032095.5 in the maximum amount of USD
+
+<<<
+
+ 17,250,000.
+
+Tranche A Loan Agreement: the loan agreement dated the date hereof relating to the Tranche A Loan.
+
+2 The Loan
+2.1 The Borrower has resolved to issue a series of Bonds at an amount of USD 5,950,000 (USdollarsfivemillionninehundredandfiftythousand
+
+<<<
+
+),herein referred to as "theLoan". The Bonds will be in denominations of USD 50,000 each and rank pari passu. The Loan will be described as "11.25 % Tandberg Data ASA open bond Issue 2006/201o". The registration number (ISIN) of the Loan will
+
+<<<
+
+ be: NO O01 032117.7. The term of the Loan is from and including Disbursement Date to Maturity Date.
+7
+
+Norsk Tillitsmann ASA
+The net proceeds of the Loan will be employed across the Borrower Group for: (i) the repayment of existing indebtedness
+
+<<<
+
+ which is not Permitted Indebtedness; (ii) the financing of working capital of the Borrower Group; and (iii) other capital expenditure requirements or liquidity needs of the Borrower Group.
+3 Listing
+3.1 The Loan will not be applied for listing
+
+<<<
+
+.
+4 Registration in a Securities Depository
+4.1 The Loan must prior to disbursement be registered in a Securities Depository according to the Securities Depository act and the conditions from the Securities Depository.
+4.2 The Borrower shall
+
+<<<
+
+ promptly arrange for notification to the Securities Depository of any changes in the terms and conditions of the Loan. The Loan Trustee shall have a copy of the notification.
+4.3 The Borrower is responsible for the implementation of correct
+
+<<<
+
+ registration in the Securities Depository. The registration may be executed by an agent for the Borrower provided that the agent is qualified according to relevant regulation.
+5 The functions, duties and liability of the Loan Trustee
+5.1 The
+
+<<<
+
+ Loan Trustee shall pursuant to this Loan Agreement and in compliance with laws and regulations monitor the Bondholders'interests and rights vis-a-vis the Borrower, inter alia,
+- monitor the Borrower's fulfilment of his obligations under the
+
+<<<
+
+ Loan Agreement, - exercise necessary discretion in carrying out the duties assigned to the Loan Trustee
+under the Loan Agreement,
+- ensure that valid decisions made at Bondholder meetings are carried out, - make the decisions and implement
+
+<<<
+
+ the measures that are assigned to or imposed on the
+Loan Trustee pursuant to this Loan Agreement,
+- forward to the Bondholders necessary information which is obtained and received in
+its capacity as Bondholder's representative, - verify the
+
+<<<
+
+ timely and correct payment of interest and principal, and
+- provided the Loan is listed, inform the Exchange of circumstances which are of
+importance to the listing and quotation of the Loan; however, this only applies to cases in which the
+
+<<<
+
+ Loan Trustee gains knowledge of or should have knowledge of such circumstances and the Borrower fails to fulfil its duty of information towards the Exchange after having been urged to do so by the Loan Trustee.
+8
+.
+
+Norsk Tillitsmann ASA
+
+
+<<<
+
+5.2 In performing its functions as Bondholder's representative, the Loan Trustee is not obligated to assess the Borrower's financial situation or ability to service the Loan except to the extent such duty may clearly be inferred from the Loan
+
+<<<
+
+ Agreement.
+5.3 The Loan Trustee shall be liable to pay damages for financial losses suffered by the Bondholders as a result of negligence of the Loan Trustee in performing its functions and duties under the Loan Agreement. The Loan Trustee
+
+<<<
+
+ is not responsible for the content of the information the Loan Trustee has submitted on behalf of the Borrower.
+6. Conditions Precedent
+6.1 Disbursement of the Loan will be subject to the Loan Trustee having received the following documents
+
+<<<
+
+, in form and substance satisfactory to it, at least three Banking Days prior to the Disbursement Date:
+the Finance Documents duly signed and delivered,
+certified copies of all necessary corporate resolutions and certificates of the Borrower
+
+<<<
+
+ and the Obligors to issue the Bonds and to sign and deliver the Finance Documents,
+certified copies of the Articles of Association and/ or Articles of Incorporation andor Memorandum of Associations or the equivalent in respect of'the Borrower
+
+<<<
+
+ and each Obligor and documentation evidencing the individuals authorised to sign on behalf of the Borrower and each Obligor,
+to the extent necessary, certified copies of authorisations required for the validity of and execution, delivery and
+
+<<<
+
+ performance by and the enforceability against the
+Borrower of the Loan Agreement, 1.e. - confirmation that the subscription
+documents have been controlled by the Exchange, or confirmation from the manager of the Loan that the subscription documents
+
+<<<
+
+ have been controlled and that a prospectus is not required according to Norwegian law,
+confirmation that the Loan has been registered in a Securities Depository,
+written confirmation fi-om the Borrower in accordance with Clause 7.1,
+the agreement
+
+<<<
+
+ set forth in Clause 14.1, duly signed,
+evidence of establishment (i.e. execution, and as appropriate, registration or perfection) of the Security Documents, including any legal opinion required by the Loan Trustee in connection hereto,
+evidence
+
+<<<
+
+ that all prior loans and security granted has been repaid, other than the Permitted Tndebtedness and the Permitted Securitv.
+9
+
+Norsk Tillitsmann ASA
+(j) delivery of the Security Adequacy Report with May 3 1 2006 as Evaluation Date duly signed
+
+<<<
+
+ by the CF0 of the Borrower evidencing that the Borrower and the Obligors are in compliance with the Security Adequacy Test,
+(k) any written documentation made public in connection with the Loan,
+(1) evidence for release of security over the
+
+<<<
+
+ receivables of the Borrower's Singapore subsidiary; and
+(m) the Side Letter duly signed and executed by all parties thereto.
+6.2 The Loan Trustee is entitled to accept a delay in receiving documents listed above.
+6.3 Subject to the conditions
+
+<<<
+
+ set out above the Loan will be made available to the Borrower at Disbursement Date, which shall occur no later than 30 June 2006. An amount of USD 843,750 will be transferred to the Escrow Account.
+7 Representations and Warranties
+7.1 The Borrower
+
+<<<
+
+ shall in writing represent and warrant that:
+(a) all documents and information, including the term sheet and loan description provided to the Bondholders in connection with this Loan presents the latest available financial information concerning
+
+<<<
+
+ the Borrower Group and there has been no change in the Borrower Group which could have a material adverse change on the Borrower'sability to perform its duties under the Loan Agreement,
+(b) all authorisations, consents, licenses or approvals
+
+<<<
+
+ of governmental authorities required by the Borrower or the Obligors in connection with the execution, performance validity or enforceability of the Loan Agreement and the Security Documents have been obtained and are valid, and
+(c) no litigation
+
+<<<
+
+, arbitration or administrative proceeding is pending or, to the best of the Borrower's knowledge, threatened against it or any Obligor which would materially and adversely affect the affairs, assets or financial condition of the Borrower or
+
+<<<
+
+ the Obligors or their ability to perform their respective obligations under the Loan Agreement and the Security Documents.
+7.2 The Borrower shall indemnify the Loan Trustee for any economic losses suffered as a result of not complying with
+
+<<<
+
+ the representations and warranties provided by the Borrower herein both prior to disbursement of the Loan, and during its life.
+8 Status of the Loan and security
+8.1 The Loan shall rankpuripussu with all other debt of the Borrower and shall
+
+<<<
+
+ rank ahead of subordinated capital.
+
+Norsk Tillitsmann ASA
+
+8.2 To secure repayment of the Loan (together with, among other things, any interest accrued thereon and any other amounts outstanding under the Loan Agreement) the Borrower shall
+
+<<<
+
+ establish, and shall procure that each Obligor will establish, the Security Documents listed in Schedule 1 in favour of the Security Trustee (on behalf of the Bondholders). All security granted under the Security Documents will be subject to
+
+<<<
+
+ the term and conditions the Coordination Agreement.
+8.3 To secure initial repayment of interest of the Loan, the Borrower shall establish the Escrow Account with an initial amount of USD 843,750 at the Disbursement Day. The Loan Trustee will
+
+<<<
+
+ for each Interest Payment Date release amount from the Escrow Account for due payment of interest, until the balance of the Escrow Account is zero. Thereafter interest payments shall be made directly from the Borrower to the Bondholders.
+
+
+
+<<<
+
+9 Interest
+9.1 The Borrower shall pay interest on the Loan from and including Disbursement Date at a fixed rate of 11.25 per cent per annum. Interest payments shall be made in arrears on each Interest Payment Date, the first interest payment
+
+<<<
+
+ to be made on the Interest Payment Date in August 2006 (see also Clause 8.3).
+9.2 Interest shall be calculated on the basis of a year of 360 days with twelve 30-day months, unless a) the last day of the period is the 3lStday of a month but
+
+<<<
+
+ the first day of the period is a day other than the 30thor 3lStday of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or b) the last day of the period is the last day of
+
+<<<
+
+ the month of February, in which case the month of February shall not be considered to be lengthened to a 30-day month.
+
+10 Maturity of the Loan, Call Option and Put Option
+
+10.1 The Loan will run without installments and mature in whole on
+
+<<<
+
+ Maturity Date at par (100%).
+10.2 Subject to Clause 10.3, the Borrower has the right to redeem the Remaining Loan or any portion of the Remaining Loan plus accrued unpaid interest (the "Call Option") as follows (redemption period and redemption
+
+<<<
+
+ price of nominal value):
+
+Period:
+
+-_
+
+From and including June 27,2007 to June 26,2008 at
+
+From and including June 27,2008 to June 26,2009 at
+
+107 105 %
+
+10.3 If the Borrower acquires the shares or assets o f a business equal to or greater
+
+<<<
+
+ to 30 % of the average market capitalisation of the Borrower during the 30 Banking Days prior to the Borrowers announcement of such a transaction, the Borrower has the right to
+11
+
+Norsk Tillitsmann ASA
+redeem the Remaining Loan or any portion
+
+<<<
+
+ of the Remaining Loan at a price of 105 % of nominal value plus accrued unpaid interest.
+10.4 Should the Borrower exercise the Call Option pursuant to Clause 10.2 or 10.3, the
+Bondholders must be informed of this in writing via VPS no later
+
+<<<
+
+ than 30 - thirty -
+Banking Days before the date of redemption. The Exchange shall immediately be informed it the Loan is listed.
+Partial redemption of the Loan must be carried out pro rata between the Bonds (by a full repayment of individual
+
+<<<
+
+ Bonds, allocated pro rata between the Bonds).
+10.5 Upon a Change of Control Event, the Loan Trustee shall within five Banking Days after having received notification as set out in Clause 13.1 (g) summon a Bondholder's meeting according to Clause
+
+<<<
+
+ 17. The Bondholders meeting may decide with simple majority that the Loan shall be redeemed at a price of 105 % of nominal value plus accrued interest (the "Put Option").
+The Put date shall be fifteen - 15 - Banking Days following a decision
+
+<<<
+
+ from a Bondholders' meeting to exercise the Put Option.
+11 Interest in the event of late payment
+11.1 In the event that payment of interest or principal is not made on the relevant Payment Date, the amount outstanding shall bear interest from
+
+<<<
+
+ the Payment Date at an interest rate equivalent to the interest rate according to Clause 9 plus 5,OO percentage points.
+11.2 The outstanding amounts shall bear interest as mentioned above until payment is made, whether or not the Loan is declared
+
+<<<
+
+ to be in default pursuant to Clause 15.1 (a), cf.
+Clauses 15.2 - 15.4.
+12 Borrower's acquisition of Borrower's Bonds
+12.1 The Borrower has the right to acquire and own Borrower's Bonds. Borrower's Bonds may at the Borrower'sdiscretion be retained
+
+<<<
+
+ by the Borrower, sold or used for partial redemption of the Remaining Loan.
+13 Borrower's obligations during the term of the Loan
+13.1 During the term of the Loan the Borrower shall:
+(a) immediately inform the Loan Trustee of any default of
+
+<<<
+
+ the Loan pursuant to Clause 15 as well as of any circumstances which the Borrower understands or should understand may lead to default,
+12
+I'
+
+Norsk Tillitsmann ASA
+of its own accord, make annual and interim reports available on the Borrower
+
+<<<
+
+'s website (alternatively by sending them to the Loan Trustee) as soon they are available, and not later than 150 days after the end of the financial year and not later than 60 days after the end of the relevant interim report,
+at the request
+
+<<<
+
+ of the Loan Trustee send a report outlining the balance of Borrower's Bonds,
+forward to the Loan Trustee copies of any creditors' notifications of the Borrower and its Subsidiaries, including but not limited to; mergers, demergers and reduction
+
+<<<
+
+ of shareholders capital,
+at the request of the Loan Trustee provide the documents and information necessary to maintain the listing and quotation of the Loan on Exchange (if applicable) and to otherwise enable the Loan Trustee to carry out
+
+<<<
+
+ its rights and duties pursuant to the Loan Agreement, laws and regulations,
+within a reasonable time limit provide information about the Borrower Group's financial condition as the Loan Trustee may reasonably request,
+immediately notify the
+
+<<<
+
+ Loan Trustee and the Exchange (if listed) if a Change of Control Event takes place,
+except for the Permitted Indebtedness and the Permitted Security, not, without written consent from the Loan Trustee, incur, create or enter into any new financial
+
+<<<
+
+ indebtedness other than current liabilities related to the day to day operation of the Borrower Group or mortgage or otherwise pledge any assets pertaining to the Borrower and/or its Subsidiaries as security or collateral for any of the Borrower
+
+<<<
+
+'s and/or its Subsidiaries' past, present or future loan or guarantee obligations.
+For the avoidance of any doubt, the Borrower has the right, without prior approval of the Loan Trustee, to maintain, but not to increase the Permitted Indebtedness
+
+<<<
+
+ and the Permitted Security, and to maintain Tranche A.
+on any date comply with the Security Adequacy Test,
+on any date accept audit by the Loan Trustee in connection with the Security Adequacy Test,
+maintain its listing on Oslo Bars, and procure
+
+<<<
+
+ that Tandberg Storage ASA maintains its listing on Oslo Bars (except in the event where Tandberg Storage ASA is acquired by the Borrower),
+on the dates mentioned in (b) above, report to the Loan Trustee compliance with (h) above,
+(m) deliver
+
+<<<
+
+ a Security Adequacy Report to the Loan Trustee on each Reporting Date in order for the Loan Trustee to monitor the Borrower's compliance with the Security Adequacy Test,
+13
+
+Norsk Tillitsmann ASA
+(n) not make any prepayment of principal under
+
+<<<
+
+ this Tranche B until all of the Remaining Loan Tranche A has been redeemed in full,
+(0) fulfil its obligation under the Side Letter no later than July 3 2006, and
+(p) procure that each of the Obligors fulfil their obligation as set out in the
+
+<<<
+
+ Security Documents.
+13.2 The Borrower shall, and shall ensure that each Obligor shall, not without the approval of the Loan Trustee or, where necessary, the Bondholders' meeting subject to Clause 16:
+(a) cease to carry on its business,- or
+
+<<<
+
+
+(b) (i) sell or dispose of all or a substantial part of its operations, or (ii) change the nature of its business, or (iii) make any financial arrangements concerning the security constituted under the Security Documents, which (for (i), (ii
+
+<<<
+
+), and (iii)) might jeopardise the Borrower's fulfilment of its obligations under the Loan Agreement or the Borrower's or the Obligors' obligations under the Finance Documents.
+14 Fees and expenses
+14.1 The Borrower shall pay an annual fee to
+
+<<<
+
+ the Loan Trustee, the amount of which is set out in a separate agreement between the Borrower and the Loan Trustee.
+14.2 The Borrower shall cover all expenses in connection with the Loan and the Security Documents, such as preparation of the
+
+<<<
+
+ Loan Agreement and the Security Documents, registration and perfection of the Security Documents, listing of the Loan on the Exchange (if applicable) and registration and administration of the Loan in the Securities Depository in accordance
+
+<<<
+
+ with the agreement between the Borrower and the Securities Depository.
+14.3 The Borrower shall cover any document fee and other public fees in connection with the Loan and the Security Documents. Any public fees or taxes on sales of Bonds in
+
+<<<
+
+ the secondary market shall be paid by the Bondholders, unless otherwise decided by law or regulation.
+The Borrower is responsible for withholding any withholding tax imposed by Norwegian law.
+14.4 In addition to the fee of the Loan Trustee
+
+<<<
+
+ pursuant to Clause 14.1 and normal expenses pursuant to Clauses 14.2 and 14.3, the Borrower shall on demand cover necessary extraordinary expenses incurred by the Loan Trustee in connection with the Loan, as determined in separate agreement
+
+<<<
+
+ between the Borrower and the Loan Trustee. See however Clause 19.2.
+14
+
+Norsk Tillitsmann ASA
+15 Events of Default
+15.1 The Loan will be deemed to be in default upon the occurrence of any of the following events:
+(a) the Borrower shall on
+
+<<<
+
+ any Payment Date fail to pay any interest or principal due or any other amount payable under the Loan Agreement; provided, however, that such
+failure shall not include failures which are remedied within 10 - ten - Banking Days
+after the Payment
+
+<<<
+
+ Date, and it is obvious the Borrower will remedy the failure within this time.
+(b) the Borrower shall fail to duly perform any other covenant or obligation, to be performed under the Loan Agreement, including failure to comply with Clause 
+
+<<<
+
+13.1
+(i), (i)and (k), (0)and (p), and such failure is not remedied within 15 - fifteen -
+Banking Days after notice thereof is given to the Borrower by the Loan Trustee,
+(c) any other loan or indebtedness of, or guaranteed by, the Borrower exceeding
+
+<<<
+
+ a total,
+in aggregate when taken together with other such defaults, of NOK 500,000 - or the
+equivalent thereof in other currencies - is or could be declared due prior to its agreed maturity caused by an event of default by the Borrower,
+(d
+
+<<<
+
+) the Borrower shall enter into voluntary or involuntary bankruptcy, liquidation or dissolution or become insolvent or any other event analogous thereto and having similar effect shall take place, or a substantial part of the Borrower's assets
+
+<<<
+
+ are impounded, confiscated or subject to distraint,
+(e) the Borrower has presented the Loan Trustee or the Bondholders with incorrect or incomplete information, which has, or can have significant consequences for the Borrower's obligations
+
+<<<
+
+, and ability to comply with such, in accordance with the Loan Agreement,
+( f ) any change occurs in the financial condition of the Borrower Group which in the opinion of the Loan Trustee, after consultation with the Borrower, gives the Loan
+
+<<<
+
+ Trustee fair reason to assume that the Borrower will not be able to fulfil its obligations under the Loan Agreement,
+(g) it is or becomes unlawful for the Borrower or an Obligor to perform any of its obligations under the Finance Documents
+
+<<<
+
+,
+(h) any Finance Document is not effective in accordance with its terms or is alleged by the Borrower or an Obligor to be ineffective in accordance with its terms for any reason,
+(i) a Security Document does not purport to create the security
+
+<<<
+
+ interests it purports to create, or
+(i) any event of default occurs under the Tranche A Loan Agreement or the Security Documents.
+
+Norsk Tillitsmann ASA
+15.2 In the event that one or more of the circumstances mentioned in Clause 15.1 occurs
+
+<<<
+
+ and is continuing, the Loan Trustee can, in order to protect the interests of the Bondholders, declare the entire Remaining Loan including accrued interest and expenses to be in default and due for immediate payment. The Loan Trustee may at
+
+<<<
+
+ his discretion, on behalf of the Bondholders, take every measure necessary to recover the Loan and all other amounts outstanding under the Loan Agreement.
+15.3 In the event that one or more of the circumstances mentioned in Clause 15.1 occurs
+
+<<<
+
+ and is continuing, the Loan Trustee shall declare the entire Remaining Loan including accrued interest and costs to be in default and due for payment if:
+(a) the Loan Trustee receives a demand in writing with respect to the above from Bondholders
+
+<<<
+
+ representing at least 1/5 of the Outstanding Loan, and the Bondholders' meeting has not decided on other solutions, or
+(b) the Bondholders' meeting has decided to declare the Loan in default and due for payment.
+In either case the Loan Trustee
+
+<<<
+
+ shall on behalf of the Bondholders take every measure necessary to recover the Remaining Loan and all other amounts outstanding under the Loan Agreement. The Loan Trustee can request satisfactory security for anticipated expenses from those
+
+<<<
+
+ Bondholders who requested that the declaration of default be made pursuant to sub clause a) above and/or those who voted in favour of the decision pursuant to sub clause b) above.
+15.4 In the event that the Loan Trustee pursuant to the terms
+
+<<<
+
+ of Clauses 15.2 or 15.3 declares the Loan to be in default and due for payment, the Loan Trustee shall immediately deliver to the Borrower a notice demanding payment of interest and principal due to the Bondholders under the Loan including
+
+<<<
+
+ accrued interest and interest on overdue amounts and, in the case of the Borrower, expenses.
+15.5 The individual Bondholder cannot of his own accord recover his bond(s) directly from the Borrower.
+16 Authority of the Bondholders' meeting and
+
+<<<
+
+ the Loan Trustee
+16.1 To the extent creditor's approval is required according to law, regulation or agreement, the Bondholders' meeting may make decisions in all questions concerning the Loan, such as:
+(a) change of Loan Trustee,
+(b) change
+
+<<<
+
+ of Borrower,
+(c) changes to the Loan Agreement regarding interest, payment, maturity or other conditions,
+(d) changes in the Borrower's corporate structure, such as mergers, demergers, capital reduction or conversion,
+
+Norsk Tillitsmann ASA
+
+<<<
+
+
+(e) approve the sale or other transactions concerning the Borrower's assets,
+( f ) declaring the Loan to be in default.
+The Bondholders' meeting may attach conditions to its decisions.
+The Bondholders' meeting cannot make decisions that are
+
+<<<
+
+ liable to give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+16.2 The Loan Trustee can make a decision regarding other changes in the Loan Agreement as mentioned in Clause 16.1 (c), provided that
+
+<<<
+
+ the matters in question are, in the judgment of the Loan Trustee, of minor importance to the Bondholders' financial and legal rights in the Loan. Before such a decision is made, the Bondholders shall be notified in writing through the Securities
+
+<<<
+
+ Depository. The notification shall clearly describe the proposal and the opinion of the Loan Trustee of it, and shall also inform that the proposal cannot be approved by the Loan Trustee alone if any Bondholder submits a written protest against
+
+<<<
+
+ the proposal, and such protest is dispatched within a time limit which shall not be shorter than 5 - five - Banking Days from the dispatchment of the notification.
+The Loan Trustee may attach conditions to its decision.
+The Loan Trustee cannot
+
+<<<
+
+ make a decision under the Loan Agreement that is liable to give certain Bondholders or others unreasonable advantages at the expense of other Bondholders.
+16.3 The Loan Trustee is free, subject as aforesaid, to submit any question to the Bondholders
+
+<<<
+
+' meeting.
+16.4 The Loan Trustee has the right and obligation to implement all decisions validly made at the Bondholders' meeting.
+16.5 The Borrower, the Bondholders and - if the Loan is listed - the Exchange shall be
+notified of decisions made
+
+<<<
+
+ in accordance with Clauses 16.1 and 16.2 as soon as possible and in a suitable manner.
+17 Procedural rules
+17.1 A Bondholders' meeting shall be held at the request of:
+(a) the Borrower,
+(b) Bondholders representing at least 1/10 of Outstanding
+
+<<<
+
+ Loan or
+(c) the Exchange - if the Loan is listed - or
+(d) the Loan Trustee.
+
+Norsk Tillitsmann ASA
+A request of a Bondholders' meeting shall be made in writing and clearly state the matters to be discussed and the provisions of this Loan Agreement
+
+<<<
+
+ on which the request is based. The request shall be sent to the Loan Trustee.
+17.2 The Bondholders' meeting shall be summoned by the Loan Trustee pursuant to the provisions of Clause 17.3, Simultaneously with the decision to summon the Bondholders
+
+<<<
+
+' meeting, the Loan Trustee can demand that the Borrower does not increase the Outstanding Loan.
+If the Loan Trustee has not complied with a valid request for a Bondholders' meeting as set forth in Clause 17.1 within five Banking Days after
+
+<<<
+
+ having received such request,
+then the Borrower and the relevant Bondholder(s) and - if the Loan is listed - the
+Exchange have the right themselves to summon the meeting pursuant to the provisions of Clause 17.3.
+17.3 The summons to a Bondholders
+
+<<<
+
+' meeting shall be dispatched and if necessary notified at the latest five Banking Days before the date of the meeting.
+The summons shall be effected by written notification through the Securities Depository
+to every Bondholder with known place
+
+<<<
+
+ of residence and - if the Loan is listed - the
+Exchange for publication. The notification through the Securities Depository shall also state the number of Bonds in the Loan (print-out) owned by the Bondholder in question at the time the print
+
+<<<
+
+-out is made.
+The summons shall clearly state the matters to be discussed at the Bondholders' meeting, and the provisions of this Loan Agreement on which the request is based and inform that the relevant documents are available from the Loan
+
+<<<
+
+ Trustee, the Borrower or at such other place as stated in the summons. If any change of the Loan Agreement has been proposed, the main content of the proposal shall be stated in the summons.
+The meeting can only make decisions regarding the
+
+<<<
+
+ matters which were stated in the summons, unless all the Bondholders in the Outstanding Loan agree otherwise subject to the provisions hereof.
+If in order to make a valid decision it is necessary, pursuant to Clause 18, to hold a new Bondholders
+
+<<<
+
+' meeting and discuss the matter a second time, such new Bondholders' meeting cannot be summoned before the first meeting has been held. The summons to the second meeting shall inform of the turnout and result of the vote at the first Bondholders
+
+<<<
+
+' meeting.
+17.4 The meeting shall be held at the premises of the Loan Trustee or at premises designated by the Loan Trustee.
+The meeting shall be presided over by the Loan Trustee, unless the Bondholders' meeting decides otherwise. If the Loan
+
+<<<
+
+ Trustee is not present, the meeting shall be presided over by a Bondholder or representative of the Bondholders, elected by the Bondholders.
+
+Norsk Tillitsmann ASA
+The minutes of the meeting shall be kept, showing the Bondholders present 
+
+<<<
+
+- personally or by proxy - as well as how many votes each Bondholder can cast. Further, the
+decisions made at the meeting, as well as the result of the vote, shall be recorded. The minutes shall be signed by the chairman and two Bondholders
+
+<<<
+
+ or proxies. The minutes shall be kept in a safe manner by the Loan Trustee, and shall be available to the Bondholders.
+17.5 Bondholders, the Borrower, the Loan Trustee and - if the Loan is listed - the Exchange
+have the right to attend the
+
+<<<
+
+ Bondholders' meeting. The Bondholders' meeting can grant entrance to the meeting to other parties by simple majority. The participants at the meeting have the right to meet with an advisor and/or by proxy.
+17.6 At the Bondholders' meeting each
+
+<<<
+
+ Bondholder has one vote for each Bond he owns. The notification of the number of Bonds in the Loan (print-out) which was sent to each Bondholder through the Securities Depository in the summons to the meeting, see Clause 17.3, serves as proof
+
+<<<
+
+ of ownership of the Bonds and of each owner's right to vote. In the event that Bonds have been transferred aRer the print-out was made, the new Bondholder must bring to the meeting the original summons and the print-out, endorsed so as to document
+
+<<<
+
+ the transfer.
+The Borrower's Bonds do not give the right to vote and are not taken into account when determining the number of voting Bonds.
+In case of doubt, the Bondholders' meeting decides which Bondholders can vote and how many votes each
+
+<<<
+
+ one has.
+17.7 In order for the Bondholders' meeting to be able to make valid decisions, Bondholders representing at least 2/10 of the Outstanding Loan must be represented, see however Clause18.
+In the event that the Bondholders present represent
+
+<<<
+
+ less than 5/10 of the Outstanding Loan, decisions may only be made by a 2/3 majority of the Bonds represented. If the Bondholders present represent 5/10 or more of the Outstanding Loan, valid decisions may be made by a simple majority, see
+
+<<<
+
+ however Clause 17.8.
+17.8 In the following matters a majority of 2/3 of the Bonds represented at the meeting must vote in favour of the decision:
+(a) change of bondholders' representative,
+(b) changeof borrower,
+(c) changes in the Loan Agreement
+
+<<<
+
+'s conditions, including interest, maturity, term and security/collateral, or
+(d) corporate or business changes in the Borrower which are of significant importance for the fulfilment of the Loan Agreement.
+19
+
+Norsk Tillitsmann ASA
+17.9 In
+
+<<<
+
+ all matters where unanimity is not attained, the voting shall be in writing and the number of votes shall be recorded in the minutes of the meeting. In the case of a tie in the votes, the matter shall be decided by the chairman, even if he
+
+<<<
+
+ is not a Bondholder or proxy.
+Decisions made at a Bondholders' meeting which entail changes to the Loan Agreement shall be attached to the Loan Agreement in the form of a certified copy of the minutes of the meeting.
+18 Repeated Bondholders
+
+<<<
+
+' meeting In the event that less than 2/10 of the Outstanding Loan are represented, a valid decision may not be made at the first Bondholders' meeting at which the matter is discussed. After a new meeting has been summoned and the matter discussed
+
+<<<
+
+ a second time, a valid decision may be made pursuant to the voting rules set forth above; this also applies to cases in which less than 2/10 of the Outstanding Loan are represented.
+19 Change of Loan Trustee
+19.1 In the event that the Borrower
+
+<<<
+
+ or Bondholders in accordance with sub-clause 17.1 b) wish to replace the Loan Trustee, or a change of Loan Trustee is necessary according to law, regulation or ordinance, or the Loan Trustee has requested such change, the Loan Trustee shall
+
+<<<
+
+ immediately summon a Bondholders' meeting to discuss the matter.
+The Loan Trustee shall put before the Bondholders' meeting a proposal for a new loan
+trustee. The bondholders, the Borrower and the Exchange - if the Loan is listed - can
+submit
+
+<<<
+
+ proposals.
+The Bondholders and the Exchange - if the Loan is listed - shall after the Bondholders'
+meeting, be notified of the decision and the date on which the change of loan trustee becomes effective.
+19.2 The Loan Trustee shall act as Loan
+
+<<<
+
+ Trustee until a new loan trustee has been elected. In the event that the Loan Trustee does not act properly and the interests of the bondholders suffer, the Exchange may appoint a temporary loan trustee. The cost of the temporary loan trustee
+
+<<<
+
+ shall be covered by the Borrower pursuant to sub-clause 14.4, but may be recovered wholly or in part from the former loan trustee if the change is due to breach of the loan trustee's duties under the Loan Agreement, or other circumstances for
+
+<<<
+
+ which the loan trustee is responsible.
+19.3 The Loan Trustee shall co-operate so that the new loan trustee is given, without undue delay after the Bondholders' meeting, the documents and information necessary to perform his functions and duties
+
+<<<
+
+ under the Loan Agreement. The Loan Trustee shall provide a summary of the following up of conditions of the Loan Agreement.
+
+Norsk TillitsmannASA
+20 Limitation Claims for interest and principal shall be limited in time pursuant to the Norwegian
+
+<<<
+
+ Act relating to the Limitation Period for Claims of May 18, 1979 nr. 18.
+21 Dispute resolution and legal venue 21.1 Disputes arising out of or in connection with the Loan Agreement which are not
+resolved amicably shall be resolved in accordance
+
+<<<
+
+ with Norwegian law and in the Norwegian courts. 21.2 Legal suits shall be served at the competent legal venue of the Loan Trustee.
+
+Oslo, 22 June 2006 Tandberg Data ASA
+
+Norsk Tillitsmann ASA Loan Trustee
+
+The Loan Agreement has been executed
+
+<<<
+
+ in 2 copies (originals), of which the Borrower and the Loan Trustee keep one each.
+
+21
+
+

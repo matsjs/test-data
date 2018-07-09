@@ -1,0 +1,9 @@
+quoted cum-DIvIdend or cum-any other entitlement, the closing price on such Dealing Day shall be deemed to be the amount thereof reduced by an amount equal to the Fair Market Value of any such Dividend or entitlement per Share as at the date of first public announcement of such Dividend or entitlement (or, if that is not a Dealing Day, the immediately preceding Dealing Day)), translated into EUR at the Prevailing Rate on such Dealing Day.
+10.3.1 require early redemption of Its Bonds at 100% of their par Value plus accrued interest; or
+10.3.2 convert Its Bonds at the Change of Control Conversion Price, which shall be calculated as set out below, but In each case adjusted, If appropriate, under the provisions of clauses 14 and 15 (provided that no adjustment to the Conversion Price will be made in respect of such Change of Control Event other than pursuant to this clause 10.3 in respect of exercise of the conversion right In the Change of Control Conversion Period):
+COCCP [fcP * (N - n)] + [(OCP x n)] N
+where:
+COCCP RP OCP N
+n
+is the Change of Control Conversion Price; is the Reference Price; is the current Conversion Price on the relevant Conversion Date; Is the number of days from (and including) the Disbursement Date to (but excluding) the Maturity Date; and is the number of days from (and Including) the Disbursement Date to (but excluding) the date of the Change of Control Event.
+To exercise either such option, a Bondholder must, Via its VPS account manager, notify the Paying Agent within the Change of Control Conversion Period. For the avoidance of doubt; the aforesaid Is an option exercisable at the sole discretion of each Bondholder, and each Bondholder may elect not to exercise such option and to continue to bold its Bonds.

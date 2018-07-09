@@ -1,0 +1,9 @@
+Interest
+9.2 Interest payments shall be made inarrears on theInterest Payment Dateseach year, the first Interest Payment Date falling in 4January 2017 (3 months after the Issue Date).
+9.3 The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date to, but excluding, the next following applicable Interest
+Nordic Trustee ASA
+Payment Date, and thereafter from and including, that Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
+9.4 Interest will accrue on the Face Value of any Additional Bonds for each Interest Period starting with the Interest Period commencing on the Interest Payment Date immediately prior to the issuance of the Additional Bonds (or, if the date of the issuance is not an Interest Payment Date and there is no Interest Payment Date prior to such date of issuance, starting with the Interest Period commencing on the Issue Date).
+9.5 The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.
+9.6 The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period, based on the Bond Reference Rate two Business Days preceding that Interest Payment Date.
+When the interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and the actual number of calendar days up to that date shall immediately be notified to the Bondholders, the Issuer, the Paying Agent, and if the Bonds are listed, the Exchange.

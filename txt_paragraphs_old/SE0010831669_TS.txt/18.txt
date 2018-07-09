@@ -1,0 +1,9 @@
+"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Financial Instruments Accounts Act in which (i) an owner of
+such security is directly registered or (ii) an owner's holding of securities is registered in the name of a nominee.
+"Securitisation Framework Agreement" means an agreement between the Issuer, the Originator, the Servicer, the Cash Manager and the Trustee regulating, amongst other things, the transfer of the Promissory Notes from the Originator to the Issuer and the duties of the Servicer and the Cash Manager.
+"Security" means a mortgage, charge, pledge, lien, security assignment or other security interest securing any obligation of any person, or any other agreement or arrangement having a similar effect.
+"Security Agent" means the security agent holding the Transaction Security on behalf of the Secured Persons, being Intertrust (Sweden) AB on the First Issue Date.
+"Security Documents" means the security documents pursuant to which the Transaction Security is created.
+"Servicer" means the Originator or, following termination of the Servicer's assignment in accordance with the Securitisation Framework Agreement, any replacement servicer.
+"STIBOR" means:
+(a) the applicable percentage rate per annum displayed on NASDAQ OMX's website for STIBOR fixing (or through another website replacing it) as of or around 11.00 a.m. on the Quotation Day for the offering of deposits in Swedish Kronor and for a period comparable to the relevant Interest Period; or

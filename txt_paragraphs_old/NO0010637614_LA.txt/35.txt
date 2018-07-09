@@ -1,0 +1,9 @@
+Interest = Amount
+x Fixed Rate
+x Fixed Rate Day Count Fraction
+10 Maturity of the Bonds - Prepayments
+10.1 Maturity
+The Bonds shall be repaid as follows:
+10 % of the Loan Amount shall be repaid on the Interest Payment Day in March 2014
+- The remaining Outstanding Bonds shall be repaid at Final Maturity Date
+All repayments shall be made at 100% of Par Value plus accrued interest. Payment shall be made on the subsequent Banking Day if the relevant Interest Payment Date is not a Banking Day.

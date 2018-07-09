@@ -1,0 +1,9 @@
+number, corresponds to the first day the deadline is in force. If such day is
+month.
+36
+Nordic Trustee ASA
+(c) If a deadline ends on a day which is not a Business Day, the deadline is postponed to the next Business Date.
+18.7 Dispute resolution and legal venue
+18.7.1 This Bond Agreement and all disputes arising out of, or in connection with this Bond Agreement between the Bond Trustee, the Bondholders and the Issuer, shall be governed by Norwegian law.
+18.7.2
+All disputes arising out of, or in connection with this Bond Agreement between the Bond Trustee, the Bondholders and the Issuer, shall, subject to Clause 18.7.3 below, be exclusively resolved by the courts of Norway, with the District Court of Oslo as sole legal venue.

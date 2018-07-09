@@ -1,0 +1,9 @@
+(ii) The calculation of the Loan to Value Ratio shall be made as per a testing date determined by the Issuer, falling no earlier than the last day of the period covered by the most recent Financial Report delivered to the Bond Trustee prior to the event relevant for the application of the Incurrence Test:
+(A) For any Tap Issue: The Loan to Value Ratio shall be measured on the relevant testing date, and then so that for the purposes of calculating the Outstanding Bond Amount, the full commitment of any Tap Issue in respect of which the Incurrence Test is applied shall be taken into account.
+(B) For any Distributions: The Loan to Value Ratio shall be measured on the relevant testing date, and then so that for the purposes of calculating the Liquidity, the amount of the contemplated Distribution shall be deducted.
+14. EVENTS OF DEFAULT AND ACCELERATION OF THE BONDS 14.1 Events of Default
+Each of the events or circumstances set out in this Clause 14.1 shall constitute an Event of Default:
+(a) Non-payment
+The Issuer fails to pay any amount payable by it under the Finance Documents when such amount is due for payment, unless:
+(i) its failure to pay is caused by administrative or technical error in payment systems or the CSD and payment is made within five (5) Business Days following the original due date; or
+(ii) in the discretion of the Bond Trustee, the Issuer has substantiated that it is likely that such payment will be made in full within five (5) Business Days following the original due date.

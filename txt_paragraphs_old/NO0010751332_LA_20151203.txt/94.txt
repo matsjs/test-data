@@ -1,0 +1,9 @@
+The prepayment shall be made, together with accrued but unpaid interest on the Cash Sweep Prepayment Amount and a premium of 2.00% of the Cash Sweep Prepayment Amount. For the sake of clarity, no Make Whole Amount or Call Option Amount shall be paid in respect of any Mandatory Cash Sweep.
+The prepayment shall be executed on the next Interest Payment Date falling immediately after the Liquidity Testing Dates in the relevant year (or if the relevant Interest Payment Date does not fall on a Business Day, on the first subsequent Business Day).
+100404 The Issuer shall give not less than 10 Business Days' notice of the prepayment to the Bondholders and the Bond Trustee.
+10.5 Mandatory prepayment
+10.5.1 Upon a Mandatory Prepayment Event occurring, the Issuer shall redeem:
+(i)
+100% of the Outstanding Bonds at a price equal to the prevailing call
+price under Clause 10.2.1 above if any of the Mandatory Prepayment
+Events listed as (a) - (c) occur;

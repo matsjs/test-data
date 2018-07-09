@@ -1,0 +1,9 @@
+(b) Any redemption of Bonds pursuant to Clause 10.2 (a) above shall be determined based upon the redemption prices applicable on the Call Option Repayment Date.
+(d) Any Call Option exercised in part will be used for pro rata payment to the Bondholders in accordance with the applicable regulations of the CSD.
+(e) Each Bondholder may within the Exercise Period elect to exercise its Conversion Right within 14 (fourteen) calendar days after having received the Issuer's call option notice.
+10.3 Mandatory repurchase due to a Put Option Event (a) Upon the occurrence of a Put Option Event, each Bondholder shall at any time during the period commencing on the date on which a Put Option Event occurs and ending sixty (60) calendar days following such date or, if later, sixty (60) calendar days period following the notification of a Put Option Event, be entitled at its option to (at each Bondholder's discretion) either:
+(i) require early redemption of its Bonds (the "Put Option") at par value plus accrued interest; or
+(ii) convert Bonds at the Change of Control Conversion Price, as set out below (adjusted to reflect any previous adjustment to the Conversion Price (if applicable)):
+COCCP = OCP / (1 + (CP x c/t))
+Where
+COCCP: Change of Control Conversion Price

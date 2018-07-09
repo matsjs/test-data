@@ -1,0 +1,9 @@
+"Business Day" means any day on which commercial banks are open for general business and can settle foreign currency transactions in Oslo.
+NT
+3
+Nordic Trustee ASA
+the first preceding day that is a Business Day (.Modified Following Business Day Convention).
+"Capitalization" means Book Equity plus Gross Debt,
+"Cash Flow Coverage Ratio" means, for any Relevant Period, the Gross Debt of the Recourse Group net of any cash and cash equivalents of the Issuer divided by the Issuer's aggregate Cash Flow to Equity from Power Production, O&M and Corporate (as reported in the Issuer's quarterly statements).
+"Cash Flow to Equity" means EBITDA less Normalized Debt Service less Normalized Income Tax Expenses, multiplied by the Issuer's ownership share in each relevant Subsidiary.
+"Change of Control Event" means if any person or group of persons acting in concert other than Scatec AS and/or Itochu Corporation, directly or indirectly acquires Decisive Influence over the Issuer.

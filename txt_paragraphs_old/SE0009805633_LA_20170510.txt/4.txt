@@ -1,0 +1,9 @@
+"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
+"Compliance Certificate" means a certificate, in the agreed form between the Agent and the Issuer, signed by the Issuer certifying that so far as it is aware no Event of Default is continuing or, if it is aware that such event is continuing, specifying the event and steps, if any, being taken to remedy it. If the Compliance Certificate is provided in connection with an Incurrence Test, the certificate shall confirm satisfaction of the Incurrence Test and include calculations and figures in respect of the Incurrence Test.
+"CSD" means the Issuer's central securities depository and registrar in respect of the Bonds, from time to time, initially Euroclear Sweden AB, Swedish Reg. No. 556112 8074, P.O. Box 191, 101 23 Stockholm, Sweden.
+"CSD Regulations" means the CSD's rules and regulations applicable to the Issuer, the Agent and the Bonds from time to time.
+"DKK" means the lawful currency of Denmark.
+"EBITDA" means, in respect of the Reference Period, the consolidated profit of the Group from ordinary activities according to the latest Financial Report(s):
+3
+(a) before deducting any amount of tax on profits, gains or income paid or payable by any member of the Group;
+(b) before deducting any Net Finance Charges;

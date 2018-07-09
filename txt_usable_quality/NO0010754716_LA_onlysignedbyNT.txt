@@ -1,0 +1,977 @@
+Bond Agreement
+
+EXECUTION VERSION
+
+Entered into:
+
+17 December 2015
+
+between the Issuer:
+
+RCH Holding AS
+
+Company No.
+
+914531 047
+
+and the Bond Trustee:
+
+Nordic Trustee ASA
+
+Company No.
+
+963342624
+
+on behalf of the Bondholders in: 3.75% RCH Holding AS Tap Issue 2015 / 2025
+
+with ISIN:
+
+NO 001 0754716
+
+The Issuerundertakes to issue the Bondsin accordance with the terms set forth in this BondAgreement.
+
+1.
+
+TERMS OF THE ISSUE
+
+The terms of the Issue are as follows, supplemented by the definitions and clarifications set forth in Clause 2:
+
+Maximum Issue Amount:
+
+NOK 1,800,000,000.
+
+Initial Issue Amount:
+
+NOK 1,214,200,000.
+
+Face Value:
+
+NOK 100,000.
+
+Currency:
+
+NOK (Norwegian kroner).
+
+Issue Date:
+
+21 December 2015.
+
+Final Maturity Date:
+
+19 December 2025.
+
+Call:
+
+Yes, see Clause 3.7.
+
+Put Option:
+
+Yes, see Clause 3.10.
+
+CouponAccrual Date:
+
+Issue Date.
+
+Coupon:
+
+The Bonds shall carry interest at a fixed rate of 3.75 % per annum.
+
+Coupon Payment Dates:
+First Coupon Payment Date: Day Count Fraction: BusinessDay Convention: Listing:
+
+1 April, 1 July, 1 October and 1 January each year, and the Final Maturity Date. 1 April 2016. 30/360. No adjustment. The Bondswill not be listed.
+
+2.
+
+CLARIFICATIONSAND DEFINITIONS
+
+When used in this Bond Agreement, the following words and terms shall have the following meaning and definition:
+
+Account Bank:
+
+DNB Bank ASA
+
+Account Manager:
+
+A Bondholder's account manager in the Securities Depository.
+
+Additional Bonds:
+
+Bonds issued in any Tap Issue.
+
+Assignment of Claims:
+
+Monetary A first priority assignment of all of the Property Company's monetary claims under the Lease Agreement, provided by the Property Company in favour of the Bond Trustee (on behalf of the Bondholders).
+
+Bond Agreement:
+
+This agreement and any subsequent amendments and additions agreed between the parties hereto.
+
+Bond Issue:
+
+The bond issue constituted by the Bonds.
+
+Bond LTV:
+
+The ratio of all amounts under the Outstanding Bonds (including accrued interest) to the Market Value.
+
+Bond Trustee:
+
+Nordic Trustee ASA or its successor(s).
+
+Bondholder:
+
+Holder of Bond(s) as registered in the Securities Depository.
+
+Bondholders' Meeting:
+
+Meeting of Bondholders as set forth in Clause 5 of this Bond Agreement.
+
+Bonds:
+
+Securities issued pursuant to this Bond Agreement and which are registered in the Securities Depository, each a "Bond", which shall also include any Additional Bonds.
+
+Business Day:
+
+Any day when the Norwegian Central Bank's Settlement System is open and when Norwegian banks can settle foreign currency transactions.
+
+BusinessDay Convention:
+
+Convention for adjusting any relevant payment date ("Payment Date") if it would otherwise fall on a day that is not a Business Day, being the applicable Coupon Payment Date, which shall not be adjusted even if that day is not a Business Day (payments shall be made on the first
+
+#6179746/6
+
+2 (25)
+
+Changeof Control Event: CompaniesAct: Coupon: CouponAccrual Date: Coupon Payment Date: Currency: Day Count Fraction:
+Decisive Influence:
+Distribution: EarningsAccount:
+
+following BusinessDay).
+If any person or group of persons other than any of the Parent Shareholders, directly or indirectly, gains Decisive Influence over the Issuer.
+The Norwegian Private Limited Liability CompaniesAct of 13 June 1997 (as amended).
+Rate of interest applicable to the Bonds, which shall accrue at a fixed rate of 3.75 % per annum (based on the Day Count Fraction set forth in Clause 1), from and including the Coupon Accrual Date to the Final Maturity Date.
+The date on which interest on the Bond starts to accrue.
+Date(s) on which the payment of Coupon falls due (as set forth in Clause 1). The Coupon Payment Date shall be adjusted pursuant to the BusinessDay Convention.
+The currency in which the Bonds are denominated.
+The convention for calculation of payment of Coupon, being the number of days in the relevant coupon period shall be calculated from and including the Coupon Accrual Date/Coupon Payment Date to the next Coupon Payment Date on basis of a year of 360 calendar days with 12 months of 30 calendar days divided by 360, unless (a) the last day in the relevant coupon period is the 31st calendar day but the first day of the relevant coupon period is a day other than the 30th or the 31st day of a month, in which case the month that includes that last day shall not be shortened to a 3D-day month, or (b) the last day of the relevant coupon period is the last calendar day in February, in which case February shall not be considered to be lengthened to a 3D-daymonth.
+A person having, as a result of an agreement or through the ownership of shares or interests in another person:
+(a) a majority of the voting rights in that other person; or
+(b) a right to elect or remove a majority of the members of the board of directors of that other person.
+When determining the relevant person's number of voting rights in the other person or the right to elect and remove members of the board of directors, rights held by the parent company of the relevant person and the parent company's Subsidiaries shall be included.
+In respect of any company, any payment of dividends, repayment of Subordinated Loans, repurchase of shares or any other action which constitutes a distribution from that company to its shareholders.
+An account in the Account Bank in the name of the Property Company into which all payments under the Lease Agreement and any other
+
+#6179746/6
+
+3 (25)
+
+Earnings Account Charge:
+Event of Default: Face Value: Final Maturity Date: Finance Documents:
+Financial Indebtedness:
+
+lease agreements between the Property Company and any tenants shall be deposited.
+A first priority charge over the Property Company's claim against the Account Bank for the amount from time to time standing to the credit of the Earnings Account, where the Account Bank has waived any setoff rights, in favour of the Bond Trustee (on behalf of the Bondholders).
+The occurrence of an event set forth in Clause 3.11.
+The face value of each Bond as set out in Clause 1.
+The date on which the Bonds fall due. The Final Maturity Date shall be adjusted pursuant to the Business Day Convention.
+This Bond Agreement, the Security Documents, the agreement regarding the Bond Trustee's fees and expenses and any other document designated as a "Finance Document" by the Bond Trustee and the Issuer.
+Any indebtedness for or in respect of:
+(a) moneys borrowed;
+(b) any amount raised by acceptance under any acceptance credit facility or dematerialized equivalent;
+(c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument;
+(d) the amount of any liability in respect of any lease or hire purchase contract which would, in accordance with GAAP, be treated as finance or capital lease;
+(e) receivables sold or discounted (other than any receivables to the extent they are sold on a nonrecourse basis);
+(f) any amount raised under any other transaction (including any forward sale or purchase agreement) having the commercial effect of a borrowing;
+(g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price (and, when calculating the value of any derivative transaction, only the mark to market value shall be taken into account); and
+(h) (without double counting) the amount of any liability in respect of any guarantee or indemnity for any of the items referred to in paragraphs (a) to (g) above.
+
+#6179746/6
+
+4 (25)
+
+GAAP: Group: Initial Issue Amount: ISIN: Issue: Issue Date: Issuer: Issuer Share Pledge: Issuer's Bonds: Lease Agreement:
+LTV Covenant: Market Value:
+Material Adverse Effect:
+Maximum Issue Amount:
+
+Generally accepted accounting principles in Norway (as amended), consistently applied.
+The Issuerand its Subsidiariesfrom time to time.
+The amount equal to the aggregate Face Value of the Bonds (minimum) issued under the first Issue.
+The identification number of the Bonds (International Securities Identification Number).
+Any issue of Bonds pursuant to this Bond Agreement.
+The date of the first Issue.
+The person or entity that has issued the Bonds and is the borrower (debtor).
+A first priority pledge over the Parent's shares in the Issuer, provided by the Parent in favour of the Bond Trustee (on behalf of the Bondholders).
+Bonds owned by the Issuer, any party who has Decisive Influence over the Issuer, or any party over whom the Issuer has Decisive Influence.
+The lease agreement dated 24 June 2009 in respect of the Property, entered into between the Property Company as lessor and Clarion Hotel Royal Christiania AS (organisation no. 933 856 038) as tenant (as amended from time to time).
+Means the LTV covenant set out in Clauses3.5.3 and 3.5.4.
+The market value of the Property, as evidenced by an external report addressed to the Bond Trustee and prepared by an independent and reputable real-estate broker or valuer familiar with the Norwegian commercial real estate market appointed by the Issuer and acceptable to the Bond Trustee.
+Any event or circumstance which will have an effect which is materially adverse to:
+(a) the ability of the Issuer or the Property Company to perform and comply with any of its obligations under the Finance Documents; or
+(b) the enforceability of, or the effectiveness of any security granted or purporting to be granted pursuant to any of the Security Documents.
+The maximum aggregate Face Value of Bonds which may be issued pursuant to this Bond Agreement.
+
+#6179746/6
+
+5 (25)
+
+Mortgage:
+
+A first priority mortgage over the Property, provided by the Property Company in favour of the Bond Trustee (on behalf of the Bondholders).
+
+Outstanding Bonds:
+
+The aggregate value of the total number of Bonds not redeemed or otherwise discharged in the Securities Depository.
+
+Parent:
+
+Strawberry Brothers AS, a limited liability company existing under the laws of Norway with organisation no. 813012472, being the owner (legally and beneficially) of 100 % of the shares in the Issuer.
+
+Parent Shareholder Group: Meanseither of the Parent Shareholdersand its respective Subsidiaries.
+
+Parent Shareholders:
+
+Each of: (i) Anker Properties AS, a limited liability company existing under the laws of Norway with organisation no. 990 727 716; and (ii) Varner Invest AS, a limited liability company existing under the laws of Norway with organisation no. 992 605 170; being the owner (legally and beneficially) of 100 % of the shares in the Parent (50% each).
+
+Paying Agent:
+
+DNB Bank ASA, being the entity acting as registrar for the Bonds in the Securities Depository and paying agent on behalf of the Issuer in the Securities Depository.
+
+Permitted Debt:
+
+Financial Indebtedness:
+
+(a) under the Bond Issue (including any Tap Issues);
+
+(b) under any loan agreement with DNB Bank ASA, which may be secured on a second priority basis over the Property;
+
+(c) under any Subordinated Loans;
+
+(d) under any guarantees permitted by Clause 3.5.9(e);
+
+(e) under any loan agreement with banks or financial institutions other than DNB Bank ASA, provided that if such Financial Indebtedness is to be secured, intercreditor arrangements satisfactory to the Bond Trustee must be entered into before such Financial Indebtedness is incurred; and
+
+(f) to which the bondholders have given their prior written consent,
+
+in each case provided that the Issuer is in compliance with the LTV Covenant before and immediately after the incurrence of such Financial Indebtedness, based on a Market Value dated no more than 3 months prior to the date such Financial Indebtedness is incurred. In case of a Tap Issue, the Bond LTV must not in any event exceed 65 %. In case of Financial Indebtedness mentioned in (e) above, the Total LTV shall not exceed 75 % before and immediately after the incurrence of such Financial Indebtedness.
+
+#6179746/6
+
+Property:
+
+The property with (i) cadastral number (Nw: gårdsnummer) 208, title number (Nw: bruksnummer) 271, 631 and 860 in Oslo, Norway.
+
+Property Company:
+
+Royal Christiania Hotel AS, a limited liability company existing under the laws of Norway with organisation no. 992 670 959, being the owner of the Property.
+
+Property Company Share A first priority pledge over the Issuer's shares in the Property Company,
+
+Pledge:
+
+provided by the Issuer in favour of the Bond Trustee (on behalf of the
+
+Bondholders)
+
+Receivables Charge:
+
+A first priority charge over all of the Property Company's receivables (Nw: factoringpant), provided by the Property Company in favour of the Bond Trustee (on behalf of the Bondholders).
+
+Securities Depository:
+
+The securities depository in which the Bonds are registered, being the VPS (Verdipapirsentralen).
+
+Security:
+
+Any encumbrance, mortgage, charge, pledge, lien or other security interest securing any obligation of any person or any other agreement or arrangement having a similar effect.
+
+Security Documents:
+
+(a) The Assignment of Monetary Claims;
+
+(b) The Issuer Share Pledge;
+
+(c) The Property CompanyShare Pledge;
+
+(d) The EarningsAccount Charge;
+
+(e) The Receivables Charge; and
+
+(f) The Mortgage.
+
+Seller:
+
+DNB Kjøpesenter og Hotell AS, a limited liability company existing under the laws of Norway with organisation no. 899 277 902.
+
+Share PurchaseAgreement:
+
+The share purchase agreement dated 4 December 2015 related to the acquisition of all shares of the Property Company dated on or about the date of this Bond Agreement and made between the Issuer as purchaser and the Seller.
+
+Subordinated Loans:
+
+Any loans made to the Issuer or the Property Company, which shall be fully subordinated to their obligations under the Finance Documents on terms satisfactory to the Bond Trustee (on behalf of the Bondholders).
+
+Subsidiary:
+
+A company over which another company has, directly or indirectly, Decisive Influence.
+
+Tap Issue:
+
+A subsequent Issue of Additional Bonds pursuant to Clause4.3.
+
+Total Loss Event:
+
+A total loss of a building on the Property, in each case determined as a "total loss" by reference to the underlying insurance agreement(s)
+
+#6179746/6
+
+7 (25)
+
+Total LTV: Total Net Debt:
+Voting Bonds:
+
+and/or insurance policies.
+The ratio of the Group's consolidated Total Net Debt to the Market Value.
+At any time, the aggregate amount of all obligations of the Group for or in respect of Financial Indebtedness at that time, however:
+(a) excluding any such obligations to any other member of the Group;
+(a) excluding any Subordinated Loans from the Parent to the Issuer; and
+(b) deducting the aggregate amount of cash held by any member of the Group,
+and so that no amount shall be included or excluded more than once.
+Outstanding Bonds less Issuer's Bonds.
+
+#6179746/6
+
+3.
+
+OTHERTERMS OF THE ISSUE
+
+3.1 The purpose of the Issue
+The net proceedsfrom the Bond Issue (Le. net of legal costs, fees and any other agreed costs and expenses)shall be employed by direct settlement from the Bondholdersto the Seller as payment of the purchaseprice under the SharePurchaseAgreement.
+
+3.2 Listing The Bonds shall not be listed.
+
+3.3 Status
+The Issuer's payment obligations under this Bond Agreement shall rank ahead of all subordinated payment obligations of the Issuerand shall rank at least pari passu with all the Issuer'sother obligations, savefor obligationswhich are mandatorily preferred by law.
+
+3.4 Security 3.4.1 The Bonds are securedon first priority by the Securitycreated by the Security Documents.
+
+3.4.2
+
+The Assignmentof Monetary Claims, the EarningsAccount Chargeand the ReceivablesCharge are granted subject to the limitations set out in the CompaniesAct section 8-10. The Issuershall ensure that the Property Company without undue delay after the Issue Date submits an application to the NorwegianMinistry of Trade, Industry and Fisheriesto obtain an approval for granting the Assignmentof Monetary Claims, the EarningsAccount Chargeand the Receivables Chargeand any other security (except for the Mortgage)provided by the Property Company(of which a copy shall be delivered to the Bond Trustee), but any failure to obtain such approval shall not constitute an Event of Default.
+
+3.5 3.5.1
+
+Covenants
+The Issuerundertakesnot to, and shall ensurethat no memberof the Group will, (either in one action or as several actions, voluntarily or involuntarily):
+
+(a) sell or otherwise dispose of all or parts of its assets or business, unless the Bonds are repaid in accordancewith Clause3.8 (Mandatory prepayment - disposal); or
+
+(b) merge, demergeor in any other way restructure its business.
+
+3.5.2 The Issuershall, and shall ensurethat all other membersof the Groupwill:
+
+(a) comply with all laws;
+
+(b) obtain, maintain and ensurecompliancewith all requisite environmental permits; and
+
+(c) implement procedures to monitor compliance with and to prevent liability under any environmental law,
+
+where failure to do so has or is reasonablylikely to have a Material AdverseEffect.
+
+3.5.3
+
+For as long as no member of the Group has any Financial Indebtednessother than Financial Indebtednessreferred to in paragraphs(a), (b), (c) and (d) of the definition of Permitted Debt, the Issuershall ensurethat the Total LTV doesnot exceedthe following levels:
+
+#6179746/6
+
+9 (25)
+
+(a) Fromthe IssueDate and until 31 December2020, 85 %; and
+
+(b) From 1 January2021 and until the Final Maturity Date, 80 %.
+
+3.5.4
+
+If any member of the Group has any Financial Indebtednessother than Financial Indebtedness referred to in paragraphs(a), (b), (c) and (d) of the definition of Permitted Debt, the Issuer shall ensurethat the Total LTV doesnot at any time exceed75 %.
+
+3.5.5
+
+The Issuer's compliance with the LTV Covenant shall be evidenced on an annual basis (in connectionwith the annual audited financial statementsof the Groupin accordancewith Clause 4.6.1(a)) based on a Market Value dated no earlier than 12 months after the date of the previousvaluation. The first valuation shall be provided no later than 1 2 months after the Issue Date. Such compliance shall be confirmed in a certificate, substantially in the form set out in Schedule1 hereto, signedby the Chief ExecutiveOfficer or Chief Financial Officer of the Issuer (a "Compliance Certificate"). In the event of non-compliance,the ComplianceCertificate shall describe the non-compliance, the reasonstherefore as well as the steps which the Issuerhas taken and will take in order to rectify the non-compliance.
+
+3.5.6 If at any time the Total LTV exceedsthe relevant LTV threshold pursuant to Clause3.5.3 or 3.5.4):
+
+(a) the Issuershall promptly notify the BondTrustee thereof;
+
+(b) the Issuershall not makeany Distributions; and
+
+(c) the Issuershall within three (3) monthsafter becomingaware of the LTV breach deposit a NOK amount in an accountwhich is pledgedand blockedin favour of the BondTrustee (on behalf of the bondholders)which is sufficient to comply with the relevant LTVCovenant. The amount so deposited shall be deducted from the Total Net Debt.
+
+Alternatively, the Issuermay acquire and dischargeBonds in order to reduce the LTV, but the Bondholdersshall be under no obligation to sell any Bondsto the Issuer.
+
+3.5.7 The Issuershall remain a wholly-owned Subsidiaryof the Parent.
+
+3.5.8 The Issuershall, and shall ensurethat all other membersof the Groupwill:
+
+(a) ensurethat each Property is adequatelymanagedand maintained;
+
+(b) ensure that each Property is fully insured (Nw: fullverdiforsikret) in accordance with market practice for companiesinvestingin commercial real estate in Norway,with a wellreputed insurance company with a minimum long-term financial rating of "A-". The insurance shall cover all risks and comprise project risk, terrorism and loss of earnings covering loss of income for at least 48 months. The insurancesshall also cover liability insurance(landownerliability, project liability and general liability insurances);
+
+(c) ensurethat the BondTrustee is noted as a eo-insuredand beneficiary under any insurance policies;
+
+(d) ensurethat any tenants are informed about any security regulationsunder the insurances;
+
+(e) on an annual basis, procure a review of the insurance programme and risk reduction requirements;
+
+#6179746/6
+
+10 (25)
+
+(f) to the extent the insurancesare renewed or replaced, provide the Bond Trustee with renewedinsurancecertificates;
+(g) ensure that the Property Company and the Property remains (directly or indirectly) wholly-owned by the Issuer,unlessthe Bondsare repaid in accordancewith Clause3.7;
+(h) do all acts which may be necessaryto ensurethat each Security created by the Security Documentsremainsduly enforceableand perfected at first priority, at the expenseof the Issueror the relevant security provider (as the casemay be); and
+(i) enforce any rights that it has to ensure that the Property is to the best of its knowledge at all times operated and maintained in accordance with the Lease Agreement in all material respects.
+3.5.9 The Issuershall ensurethat neither it nor any other memberof the Groupwill, without the prior written consentof the Bondholders:
+(a) amend or replace the LeaseAgreementin a way which will have a detrimental effect on the Property Company's earnings;
+(b) incur FinancialIndebtednessother than Permitted Debt;
+(c) changethe nature of its businessin a way which may havea Material AdverseEffect;
+(d) conduct any businesswhich is not related to the ownership and management of the Property and ancillary uses in connectiontherewith;
+(e) issue any form of guarantee other than guarantees issued in the ordinary course of business;
+(f) provide or permit any Security to exist over any of its/their assets(present or future) to secureany obligation, other than:
+(i) Securityfor any Permitted Debt;
+(ii) Securityarisingin the ordinary courseof business;
+(iii) Security arising by operation of statutory law (e.g. as security for property taxes); or
+(iv) Security consentedto in writing by the BondTrustee (acting on the instructions of the Bondholders,and which consent may be made conditional upon intercreditor arrangements or subordination provisions satisfactory to the Bond Trustee (on behalf of the Bondholders)).
+(g) reduceits sharecapital;
+(h) be a creditor in respect of any Financial Indebtednessto any third party (i.e. to any companywhich is not a memberof the Group);
+(i) enter into any agreementwhich limits its ability to pay dividendsor makeother payments to the Issuer;or
+#6179746/6
+
+(j) in respect of the LeaseAgreement (i) transfer by way of assignmentany of its rights and interests other than pursuant to the Finance Documents,(ii) amend, waive, supplement or modify the LeaseAgreementin any material respect, (iii) or give any indulgence to the tenant under the LeaseAgreement, or (iv) take any legal or administrative action that seeksto rescind or terminate the LeaseAgreement, except for a substitution of the Lease Agreement which is acceptable to the Bond Trustee (on behalf of the Bondholders), acting reasonably.
+3.5.10 The Issuershall be entitled to make Distributionsto the Parent, provided that:
+(a) no Eventof Default has occurred and is continuing; and
+(b) the Issuer is and will be in compliance with the relevant LTV Covenant before and immediately after such Distribution.
+3.5.11 The Issuershall ensure that all paymentsunder the LeaseAgreement are made directly to the EarningsAccount.
+3.5.12 For information covenants,seeClause4.6.
+
+3.6 3.6.1
+
+Payments On each CouponPaymentDate the Issuershall in arrears pay the accrued Couponamount to the Bondholders.
+
+3.6.2 On the Final Maturity Date the Issuershall repay the Bondsat the FaceValue.
+
+3.6.3 The Issuermay not apply any counterclaims in set-off against its payment obligations pursuant to this BondAgreement.
+
+3.6.4 Any amounts payable to the Bondholdersby the Issuershall be available to the Bondholderson the date suchamount is due for payment pursuantto this BondAgreement.
+
+3.6.5
+
+In the event that the Issuer has not fulfilled its payment obligations pursuant to this Bond Agreement, regardlessof whether an Event of Default has been declared or not, interest shall accrue on the amount due at the applicable Couponat the due date plus 3.0 percentagepoints.
+
+3.6.6 Default interest shall be added to the amount due on a monthly basis and accrue interest together with this (compoundinterest).
+
+3.7 3.7.1
+
+Call Option
+The Issuermay redeem the Bonds(all or nothing) with settlement on the dates falling three (3), five (5) and seven (7) years after the Initial Issue Date (each a "Call Date"), in each case at 100 % of the FaceValue (the "Call Option").
+
+3.7.2 Exerciseof the Call Option shall be notified by the Issuerin writing to the BondTrustee and the Bondholdersat least two (2) months prior to the relevant Call Date.
+
+3.7.3
+
+On the settlement date of the Call Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the principal amount of such Bond and any unpaid interest accrued to but not including the settlement date.
+
+#6179746/6
+
+121251~
+
+3.8 Mandatory prepayment - disposal Upon a sale of the Property or any shares in the Property Company, the Issuer shall on or immediately after the completion date of the relevant sale (the "Prepayment Date") prepay all outstandingBonds with an amount equal to:
+(a) the present value on the date of prepayment of the principal amountsoutstanding under the Bonds as if such payment originally had taken place on the next Call Date which is more than two (2) monthsfrom the PrepaymentDate; and
+(b) the present value on the date of prepaymentof the remainingCouponof the Bonds,less any accrued and unpaid interest on the Bonds as at the Prepayment Date, to and including the next Call Date which is more than two (2) months from the Prepayment Date,
+where the presentvalue shall be calculated by usinga discountrate of 50 basispoints abovethe comparable NOK swap rate (i.e. comparableto the remainingMacauleyduration of the Bonds from the PrepaymentDate until the next Call Date which is more than two (2) monthsfrom the PrepaymentDate usinglinear interpolation).
+
+3.9 Mandatory prepayment - Total LossEvent
+Uponthe occurrenceof a Total Loss Event, the Issuershall repay the Bonds(including accrued Coupon)at par value promptly upon receipt of insurance proceedsand in any event no later than three (3) monthsdaysafter the date of the Total Loss Event.
+
+3.10 Changeof Control
+3.10.1 Upon the occurrence of a Changeof Control Event, each Bondholdershall have the right to require that the Issuer redeems its Bonds (a "Put Option") at a price of 101 % of par plus accrued interest.
+
+3.10.2 The Put Option must be exercisedwithin two (2) months after the Issuerhas given notification to the BondTrustee of a Changeof Control Event. Such notification shall be given as soon as possibleafter a Changeof Control Eventhas taken place.
+
+3.10.3
+
+The Put Option may be exercisedby each Bondholderby giving written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent of the redemption request. The settlement date of the Put Option shall be the fifth BusinessDayafter the end of the two month exerciseperiod of the Put Option.
+
+3.10.4
+
+On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bondsto be redeemed, the principal amount of each suchBond (including any premium pursuant to Clause 3.10.1) and any unpaid interest accrued up to (but not including) the settlement date.
+
+3.11 3.11.1
+
+Events of Default
+The BondTrustee may declare the Bondsto be in default upon the occurrence of any of the following events:
+
+(a) the Issuer fails to fulfil any payment obligation pursuant to Clause 3.6 unless, in the opinion of the BondTrustee, it is obviousthat suchfailure will be remedied, and payment is made, within five (5) BusinessDays following the original due date;
+
+#6179746/6
+
+(b) the Issuer fails to fulfil (or it is obvious that the Issuer will fail to fulfil) its obligation pursuant to Clause 3.5.6(c) within the ninety (90) day period stipulated therein;
+
+(c) the Issuer fails to duly perform any other substantial obligation pursuant to this Bond Agreement, unless, in the opinion of the Bond Trustee, it is obvious that such failure will be remedied and is remedied within twenty (20) Business Days from the date the Issuer became aware thereof;
+
+(d) any member of the Group fails to fulfil any other Financial Indebtedness, which is or could be declared due and repayable prior to its specified maturity as a result of an event of default (however described), provided that the aggregate amount of such Financial Indebtedness exceeds NOK 10,000,000 (or its equivalent in other currencies);
+
+(e) provided that one of the Parent Shareholders obtains Decisive Influence (directly or indirectly) over the Issuer, any member of such Parent Shareholder Group fails to fulfil any other Financial Indebtedness, which is or could be declared due and repayable prior to its specified maturity as a result of an event of default (however described), provided that the aggregate amount of such Financial Indebtedness exceeds NOK 10,000,000 (or its equivalent in other currencies);
+
+(f) any member of the Group becomes subject to insolvency or enforcement proceedings, is taken under public administration, enters into debt negotiations, admit to insolvency or if a substantial proportion of the Issuer's assets are impounded, confiscated or subject to distraint;
+
+(g) any member of the Group is resolved to be dissolved;
+
+(h) the Issuer has in respect of the Bonds or this Bond Agreement (in the reasonable discretion of the Bond Trustee) in any respect made any incorrect or misleading - or otherwise failed to make - representation, warranty, statement or certificate of compliance and which could reasonably be expected to have a Material Adverse Effect; or
+
+(i) the Issuer is in a situation which, in the reasonable opinion of the Bond Trustee, after consultations with the Issuer, provides reason to assume that the Issuer will be unable to fulfil its payment obligations under this Bond Agreement.
+
+3.11.2
+
+In the event that one or more of the circumstances mentioned in Clause 3.11.1 occurs and is continuing, the Bond Trustee can, in order to protect the interests of the Bondholders, declare the Outstanding Bonds including accrued interest, costs and expenses to be in default and due for immediate payment.
+
+The Bond Trustee may at its discretion, take every measure necessary to recover the amounts due under the Outstanding Bonds, and all other amounts outstanding under this Bond Agreement and any other Finance Document, including any other contractual and non-contractual claims, that are derived therefrom or in connection therewith.
+
+3.11.3
+
+In the event that one or more of the circumstances mentioned in Clause 3.11.1 occurs and is continuing, the Bond Trustee shall declare the Outstanding Bonds including accrued interest, costs and expenses to be in default and due for immediate payment if:
+
+(a) the Bond Trustee receives a demand in writing that a default shall be declared from Bondholders representing at least 1/5 of the Voting Bonds, and the Bondholders' Meeting has not decided on other solutions, or
+
+#6179746/6
+
+14(25~
+
+(b) the Bondholders' Meeting has with simple majority decided to declare the Outstanding Bonds in default and due for payment.
+
+3.11.4 In either case the Bond Trustee shall take every measure necessary to recover the amounts due under the Outstanding Bonds.
+
+3.11.5
+
+In the event that the Bond Trustee declares the Outstanding Bonds to be in default and due for payment, the Bond Trustee shall immediately deliver to the Issuer a notice demanding payment of interest and principal due to the Bondholders under the Outstanding Bonds including accrued interest and interest on overdue amounts and expenses, The claim derived from the Outstanding Bonds due for payment as a result of an Event of Default shall be calculated at the prices set out in Clause 3.8.
+
+4.
+4.1 4.1.1
+
+OTHERTERMS AND CONDITIONS
+Conditions precedent The Bond Trustee shall have received the following documentation, no later than two (2) Business Days prior to the Issue Date:
+
+(a) this Bond Agreement duly signed;
+
+(b) the agreement regarding the Bond Trustee's fees and expenses as set forth in Clause 4.8.2 duly signed;
+
+(c) in respect of each of the Issuer, the Parent and the Property Company:
+
+(i) copies of its certificate of incorporation;
+
+(ii) copies of its articles of association;
+
+(iii) its corporate resolutions to enter into the Finance Documents to which it is a party;
+
+(iv) unless included in the corporate resolutions, evidence that the relevant individuals are authorised to sign the Finance Documents on its behalf;
+
+(d) the Security Documents duly executed and perfected with the agreed priority;
+
+(e) confirmation that the requirements set forth in Chapter 7 of the Norwegian Securities Trading Act (prospectus requirements) are fulfilled;
+
+(f) evidence that the Issue will be applied in accordance with the purpose set out in Clause 3.1 (by way of a release notice evidencing that the proceeds from the Issue will be transferred to DNB Kjøpesenter og Hotell AS);
+
+(g) evidence that insurances have been taken out in respect of the Property, and these insurances having been approved by the Bond Trustee (on behalf of the Bondholders), including the Bond Trustee in its capacity as mortgagee being eo-insured under the insurances;
+
+(h) a copy of the LeaseAgreement;
+
+(i) (j) #6179746/6
+
+confirmation that the Bondshave been registered in the Securities Depository;
+
+to the extent necessary, any public authorisations required for the Issue;
+
+lr
+15(25
+
+(k) evidencethat the purchaseprice under the SharePurchaseAgreement has been or will be paid in full (by way of a payment instruction for transfer of the equity part of the purchaseprice to DNB Kjøpesenterog Hotell AS);
+
+(l) confirmation accordingto Clause4.2.2 if applicable;
+
+(m) any other relevant documentation presentedin relation to the Issue; and
+
+(n) any statements (including legal opinions regarding the Property Company's compliance with Section 8-10 of the Companies Act) required by the Bond Trustee regarding documentationin this Clause4.1.1.
+
+4.1.2 The Bond Trustee may, in its reasonableopinion, waive the deadline or requirements for the documentation as set forth in Clause4.1.1.
+
+4.1.3
+
+The Issuanceof the Bondsis subject to the BondTrustee's written notice to the Issuerand the Paying Agent that the documents have been controlled and that the required conditions precedent are fulfilled.
+
+4.1.4 Settlement of the proceeds from the first Issue will be made (net of legal costs, fees and any other agreedcostsand expenses)directly from the Bondholdersto the account of the Seller.
+
+4.2 Representations and warranties 4.2.1 At any Issue, the Issuerrepresentsand warrants that:
+(a) all information which has been presented in relation to such Issue is, including any information presented by the Issuer in relation to the Property Company, to the best knowledgeof the Issuer, in accordancewith the facts and contains no omissionslikely to effect the importance of the information as regardsthe evaluation of the Bonds,and that the Issuerhas taken all reasonablemeasuresto ensurethis;
+(b) the Issuer has made a valid resolution to make such Issue, and such Issue does not contraveneany of the Issuer'sother liabilities; and
+(c) public requirements have been fulfilled (i.a. NorwegianSecuritiesTrading Act Chapter 7), and that any required public authorisationshave been obtained.
+4.2.2 The Bond Trustee may prior to any Issue require a statement from the Issuer confirming the Issuer'scompliancewith Clause4.2.1.
+
+4.3 Tap Issues 4.3.1 The Issuer may at one or more occasionsmake subsequent Issues ("Tap Issues") up to the
+MaximumIssue Amount, provided that:
+(a) the Bond LTV is less than 65 % and will remain less than 65 % immediately after the Tap Issue;
+(b) the Tap Issue is made no later than five (5) BusinessDays prior to the Final Maturity Date; and
+(c) all conditions set forth in Clauses4.1 and 4.2 have been satisfied or waived by the Bond Trustee no later than two (2) BusinessDays prior to the date of the Tap Issue.
+
+#6179746/6
+
+4.3.2
+
+Additional Bonds shall be issued subject to the terms and conditions of this Bond Agreement and constitute a single series with the Bonds already issued. The Additional Bonds may be issued at a discount or at a higher price than the Face Value.
+
+4.4
+
+Registration of Bonds
+
+The Issuer shall continuously ensure the correct registration of the Bonds in the Securities Depository.
+
+4.5 The Issuer's acquisition of Bonds The Issuer has the right to acquire Bonds and to retain, sell or discharge such Bonds in the Securities Depository.
+
+4.6 4.6.1
+
+Information covenants The Issuer undertakes to (unless otherwise stated, without being requested to do so):
+
+(a) within one hundred and twenty (120) calendar days after the end of its financial year, provide the Bond Trustee with consolidated audited financial statements of the Group, and instruct the Bond Trustee to publish the statements on www.stamdata.no;
+
+(b) within sixty (60) calendar days after the end of each quarter, provide the Bond Trustee with quarterly consolidated reports of the Group and instruct the Bond Trustee to publish the reports on www.stamdata.no;
+
+(c) inform the Bond Trustee promptly of any Event of Default pursuant to this Bond Agreement, and of any situation which the Issuer understands or should understand could lead to an Event of Default;
+
+(d) inform the Bond Trustee of any other event which may have a material effect on the Issuer's ability to fulfil its obligations pursuant to this Bond Agreement;
+
+(e) inform the Bond Trustee if the Issuer intends to sell or dispose of all or a substantial part of its assets or operations or change the nature of its business;
+
+(f) upon request, provide the Bond Trustee with a report as to the balance of Issuer's Bonds and any other information reasonably required by the Bond Trustee;
+
+(g) send the Bond Trustee copies of any statutory notifications of the Issuer or the Property Company, including but not limited to in connection with mergers, de-mergers and reduction of the Issuer's share capital or equity;
+
+(h) inform the Bond Trustee of changes in the registration of the Bonds in the Securities Depository; and
+
+(i) annually in connection with the release of its annual report, or upon request, confirm to the Bond Trustee compliance with any covenants set forth in this Bond Agreement.
+
+4.7 4.7.1
+
+Notices
+Written notices, warnings, summons etc to the Bondholders made by the Bond Trustee shall be sent via the Securities Depository with a copy to the Issuer. Any such notice or communication shall be deemed to be given or made when sent from the Securities Depository
+
+#6179746/6
+
+17(25~
+
+-_
+
+-
+
+4.7.2 The Issuer's written notifications to the Bondholders shall be sent via the Bond Trustee, alternatively through the Securities Depository with a copy to the Bond Trustee.
+
+4.7.3
+
+Unless otherwise specifically provided, all notices or other communications under or in connection with this Bond Agreement between the Bond Trustee and the Issuer shall be given or made in writing, by letter, e-rnail or fax. Any such notice or communication shall be deemed to be given or made as follows:
+
+(a) if by letter, when delivered at the addressof the relevant Party;
+
+(b) if bye-mail, when received; and
+
+(c) if by fax, when received.
+
+4.8 4.8.1
+
+Expenses
+The Issuer shall cover all its own expenses in connection with this Bond Agreement and the fulfilment of its obligations hereunder, including the preparation of this Bond Agreement and the registration and administration of the Bonds in the Securities Depository.
+
+4.8.2
+
+The expenses and fees payable to the Bond Trustee shall be paid by the Issuer. Fees and expenses payable to the Bond Trustee which, due to insolvency or similar by the Issuer, are not reimbursed in any other way may be covered by making an equivalent reduction in the payments to the Bondholders.
+
+4.8.3
+
+Any public fees payable in connection with this Bond Agreement and fulfilling of the obligations pursuant to this Bond Agreement shall be covered by the Issuer. The Issuer is not responsible for reimbursing any public fees levied on the trading of Bonds.
+
+4.8.4 The Issuer is responsible for withholding any withholding tax imposed by Norwegian law.
+
+5.
+
+BONDHOLDERSM' EETING
+
+5.1 Authority of the Bondholders' Meeting
+The Bondholders' Meeting represents the supreme authority of the Bondholders' community in all matters regarding the Bonds. If a resolution by or an approval of the Bondholders is required, such resolution shall be passed at a Bondholders' Meeting. Resolutions passed at Bondholders' Meetings shall be binding and prevail for all Bonds.
+
+5.2 Procedural rules for the Bondholders' Meeting 5.2.1 A Bondholders' Meeting shall be held at the request of:
+
+(a) the Issuer;
+
+(b) Bondholders representing at least 1/10 of the Voting Bonds; or
+
+(c) the Bond Trustee.
+
+5.2.2
+
+The Bondholders' Meeting shall be summoned by the Bond Trustee. A request for a Bondholders' Meeting shall be made in writing to the Bond Trustee, and shall clearly state the matters to be discussed.
+
+#6179746/6
+
+18 (25)
+
+5.2.3
+
+If the Bond Trustee has not summoned a Bondholders' Meeting within ten (10) Business Days after having received such a request, then the requesting party may summons the Bondholders' Meeting itself.
+
+5.2.4
+
+Summons to a Bondholders Meeting shall be dispatched no later than ten (10) Business Days prior to the Bondholders' Meeting. The summons and a confirmation of each Bondholder's holdings of Bonds shall be sent to all Bondholders registered in the Securities Depository at the time of distribution.
+
+5.2.5
+
+The summons shall specify the agenda of the Bondholders' Meeting. The Bond Trustee may in the summons also set forth other matters on the agenda than those requested. If amendments to this Bond Agreement have been proposed, the main content of the proposal shall be stated in the summons.
+
+5.2.6 The Bond Trustee may restrict the Issuer to make any changesin the number of Voting Bonds in the period from distribution of the summonsuntil the Bondholders' Meeting.
+
+5.2.7
+
+Matters that have not been reported to the Bondholders in accordance with the procedural rules for summoning of a Bondholders' Meeting may only be adopted with the approval of all Voting Bonds.
+
+5.2.8
+
+The Bondholders' Meeting shall be held on premises designated by the Bond Trustee. The Bondholders' Meeting shall be opened and shall, unless otherwise decided by the Bondholders' Meeting, be chaired by the Bond Trustee. If the Bond Trustee is not present, the Bondholders' Meeting shall be opened by a Bondholder, and be chaired by a representative elected by the Bondholders' Meeting.
+
+5.2.9
+
+Minutes of the Bondholders' Meeting shall be kept. The minutes shall state the number of Bondholders represented at the Bondholders' Meeting, the resolutions passed at the meeting, and the result of the voting. The minutes shall be signed by the chairman and at least one other person elected by the Bondholders' Meeting. The minutes shall be deposited with the Bond Trustee and shall be available to the Bondholders.
+
+5.2.10
+
+The Bondholders and the Bond Trustee have the right to attend the Bondholders' Meeting. The chairman may grant access to the meeting to other parties, unless the Bondholders' Meeting decides otherwise. Bondholders may attend by a representative holding proxy. Bondholders have the right to be assisted by an advisor. In case of dispute the chairman shall decide who may attend the Bondholders' Meeting and vote for the Bonds.
+
+5.2.11 Representatives of the Issuer have the right to attend the Bondholders' Meeting. The Bondholders' Meeting may resolve that the Issuer's representatives may not participate in particular matters. The Issuer has the right to be present during the voting.
+
+5.3 Resolutions passed at Bondholders' Meetings
+5.3.1 At the Bondholders' Meeting each Bondholder may cast one vote for each Voting Bond owned at close of business on the day prior to the date of the Bondholders' Meeting in accordance with the records registered in the Securities Depository. Whoever opens the Bondholders' Meeting shall adjudicate any question concerning which Bonds shall count as Issuer's Bonds. The Issuer's Bonds have no voting rights.
+
+#6179746/6
+
+19(25)~
+
+5.3.2 In all matters to be dealt with at the Bondholders' Meeting, the Issuer, the Bond Trustee and any Bondholder have the right to demand vote by ballot. In case of parity of votes, the chairman shall have the casting vote, regardless of the chairman being a Bondholder or not.
+
+5.3.3
+
+In order to form a quorum, at least half (1/2) of the Voting Bonds must be represented at the meeting, see however Clause 5.4. Even if less than half (1/2) of the Voting Bonds are represented, the Bondholders' Meeting shall be held and voting completed.
+
+5.3.4 Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, unless otherwise set forth in clause 5.3.5.
+
+5.3.5 In the following matters, a majority of at least 2/3 of the votes is required:
+
+(a) any amendment of the terms of this Bond Agreement regarding the Coupon, the tenor, redemption price and other terms and conditions affecting the cash flow of the Bonds;
+
+(b) the transfer of rights and obligations of this Bond Agreement to another issuer (borrower); or
+
+(c) change of Bond Trustee.
+
+5.3.6 The Bondholders' Meeting may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+5.3.7 The Bond Trustee shall ensure that resolutions passed at the Bondholders' Meeting are properly implemented.
+
+5.3.8 The Issuer and the Bondholders shall be notified of resolutions passed at the Bondholders' Meeting.
+
+5.4 5.4.1
+
+Repeated Bondholders' Meeting
+If the Bondholders' Meeting does not form a quorum pursuant to Clause 5.3.3, a repeated Bondholders' Meeting may be summoned to vote on the same matters. The attendance and the voting result of the first Bondholders' Meeting shall be specified in the summons for the repeated Bondholders' Meeting.
+
+5.4.2 When a matter is tabled for discussion at a repeated Bondholders' Meeting, a valid resolution may be passedeven though less than half (112) of the Voting Bonds are represented.
+
+6.
+
+THE BOND TRUSTEE
+
+6.1 The role and authority of the Bond Trustee
+6.1.1 The Bond Trustee shall monitor the compliance by the Issuer of its obligations under this Bond Agreement and applicable laws and regulations which are relevant to the terms of this Bond Agreement, including supervision of timely and correct payment of principal or interest, informing the Bondholders and the Paying Agent of relevant information which is obtained and received in its capacity as Bond Trustee (however this shall not restrict the Bond Trustee from discussing matters of confidentiality with the Issuer), arrange Bondholders' Meetings, and make the decisions and implement the measures resolved pursuant to this Bond Agreement. The Bond Trustee is not obligated to assess the Issuer's financial situation beyond what is directly set forth in this Bond Agreement.
+
+#6179746/6
+
+201251c/t
+
+6.1.2
+
+The Bond Trustee may take any step necessary to ensure the rights of the Bondholders in all matters pursuant to the terms of this Bond Agreement. The Bond Trustee may postpone taking action until such matter has been put forward to the Bondholders' Meeting.
+
+6.1.3
+
+The Bond Trustee may reach decisions binding for all Bondholders concerning this Bond Agreement, including amendments to the Bond Agreement, which, in the opinion of the Bond Trustee, do not have a material adverse effect on the rights or interests of the Bondholders pursuant to this Bond Agreement, see however Clause 6.1.5.
+
+6.1.4
+
+The Bond Trustee may reach decisions binding for all Bondholders in circumstances other than those mentioned in Clause 6.1.3 provided prior notification to the Bondholders are given, see however Clause 6.1.5. Such notice shall contain a proposal of the amendment and the Bond Trustee's evaluation. Further, such notification shall state that the Bond Trustee may not reach a decision binding for all Bondholders in the event that any Bondholder submit a written protest against the proposal within a deadline set by the Bond Trustee. Such deadline may not be less than five (5) Business Days after the date of such notification.
+
+6.1.5 The Bond Trustee may not reach decisions pursuant to Clauses 6.1.3 or 6.1.4 for matters set forth in Clause 5.3.5 except to rectify obvious incorrectness, vagueness or incompleteness.
+
+6.1.6
+
+The Bond Trustee may not adopt resolutions which may give certain Bondholders or others an unreasonable advantage at the expense of other Bondholders.
+
+6.1.7
+
+The Issuer and the Bondholders shall be notified of decisions made by the Bond Trustee pursuant to Clause 6.1 unless such notice obviously is unnecessary.
+
+6.1.8
+
+The Bondholders' Meeting can decide to replace the Bond Trustee without the Issuer's approval, as provided for in Clause 5.3.5.
+
+6.2 6.2.1
+
+Liability and indemnity
+The Bond Trustee is liable only for direct losses incurred by Bondholders or the Issuer as a result of negligence or wilful misconduct by the Bond Trustee in performing its functions and duties as set forth in this Bond Agreement. The Bond Trustee is not liable for the content of information provided to the Bondholders on behalf of the Issuer.
+
+6.2.2
+
+The Issuer is liable for and shall indemnify the Bond Trustee fully in respect of all direct losses, expenses and liabilities incurred by the Bond Trustee as a result of negligence by the Issuer to fulfil its obligations under the terms of this Bond Agreement, including losses incurred by the Bond Trustee as a result of the Bond Trustee's actions based on misrepresentations made by the Issuer in connection with the establishment and performance of this Bond Agreement.
+
+6.2.3
+
+The Bond Trustee can as a condition for carrying out an instruction from the Bondholders, require satisfactory security and indemnities for any possible liability and anticipated costs and expenses, from those Bondholders who requested that instruction and/or those who voted in favour of the decision to instruct the Bond Trustee. Any instructions from the Bondholders may be put forward to the Bondholders' Meeting by the Bond Trustee before the Bond Trustee takes any action.
+
+6.3 6.3.1
+
+Change of Bond Trustee
+Change of Bond Trustee shall be carried out pursuant to the procedures set forth in Clause 5. The Bond Trustee shall continue to carry out its duties as bond trustee until such time that a new Bond Trustee is elected.
+
+#6179746/6
+
+21 (251~
+
+6.3.2
+
+The fees and expenses of a new bond trustee shall be covered by the Issuer pursuant to the terms set out in Clause 4.9, but may be recovered wholly or partially from the Bond Trustee if the change is due to a breach of the Bond Trustee duties pursuant to the terms of this Bond Agreement or other circumstances for which the Bond Trustee is liable.
+
+6.3.3
+
+The Bond Trustee undertakes to co-operate so that the new bond trustee receives without undue delay following the Bondholders' Meeting the documentation and information necessary to perform the functions as set forth under the terms of this Bond Agreement.
+
+7.
+7.1 7.1.1
+
+GENERAL PROVISIONS
+The Bondholders' community By virtue of holding Bonds, which are governed by this Bond Agreement (which is binding upon all Bondholders), a community exists between the Bondholders, implying, inter alia, that:
+
+(a) the Bondholders are bound by the terms of this Bond Agreement;
+
+(b) the Bond Trustee has power and authority to act on behalf of, and/or represent; the Bondholders, in all matters, included but not limited to taking any legal or other action, including enforcement of the Bond Issue and/or any Security Documents, opening of bankruptcy or other insolvency proceedings;
+
+(c) the Bond Trustee has, in order to manage the terms of this Bond Agreement, access to the Securities Depository to review ownership of Bonds registered in the Securities Depository; and
+
+(d) this Bond Agreement establishes a community between Bondholders, meaning that:
+
+(i) the Bonds rank pari passu between each other;
+
+(ii) the Bondholders may not, based on this Bond Agreement, act directly towards, and may not themselves institute legal proceedings against, the Issuer, guarantors or any other third party based on claims derived from the Finance Documents, including but not limited to recover the Bonds, enforcing any Security Interest or pursuing claims against any party as a substitute for damagesto the interests under the Finance Documents, regardless of claims being pursued on a contractual or noncontractual basis, however not restricting the Bondholders to exercise their individual rights derived from this Bond Agreement;
+
+(iii) the Issuer may not, based on this Bond Agreement, act directly towards the Bondholders;
+
+(iv) the Bondholders may not cancel the Bondholders' community; and
+
+(v) the individual Bondholder may not resign from the Bondholders' community.
+
+7.2 Deadlines
+When determining deadlines set out in this Bond Agreement, the following shall apply (unless otherwise stated):
+
+#6179746/6
+
+22(25)~
+
+(a) If the deadline is set out in days, the first day when the deadline is in force shall not be inclusive, however, the meeting day or the occurrence the deadline relates to, shall be included.
+(b) If the deadline is set out in weeks, months or years, the deadline shall end on the day in the last week or the last month which, according to its name or number, corresponds to the first day the deadline is in force. If such day is not a part of an actual month, the deadline shall be the last day of such month.
+(c) If a deadline ends on a day which is not a Business Day, the deadline is postponed to the next Business Date.
+
+7.3
+
+Governing law, dispute resolution and legal venue
+
+Disputes arising out of or in connection with this Bond Agreement which are not resolved amicably shall be resolved in accordance with Norwegian law in the Oslo District Court.
+
+7.4 Amendments Amendments of this Bond Agreement may only be made with the approval of the parties to this Bond Agreement, with the exception of amendments as set forth under Clause 6.1.8.
+
+7.5 7.5.1
+
+Contact information
+The Issuer and the Bond Trustee shall ensure that the other party is kept informed of any changes in its postal address, e-rnail address, telephone and fax numbers and contact persons.
+
+#6179746/6
+
+23(25) ~
+
+The Issuer: RCH Holding AS
+By: Name:
+Title:
+
+SIGNATORIES: The Bond Trustee: Nordic Trustee ASA
+By: Name:
+Title:
+
+#6179746/6
+
+24 (25)
+
+Nordic Trustee ASA
+p.a. Box 1470 Vika
+N-0116 Oslo Norway
+
+SCHEDULE 1
+FORM OF COMPLIANCE CERTIFICATE
+
+Fax: + 47 22879410 E-mail: mail@nordictrustee.no
+
+[date]
+
+3.75% RCH Holding AS Tap Issue 2015 /2025 - ISIN NO 001 0754716
+We refer to the Bond Agreement for the abovementioned Bond Issue made between Nordic Trustee ASA as Bond Trustee on behalf of the Bondholders, and the undersigned as Issuer under which a Compliance Certificate shall be issued. This letter constitutes the Compliance Certificate for [YEAR].
+
+Capitalised terms used herein shall have the same meaning as in the Bond Agreement.
+
+With reference to Clause 3.5.5 and Clause 4.6.1 (a) we hereby certify that:
+
+1.
+
+all information contained herein is true and accurate and there has been no change which would
+
+have a Material Adverse Effect on the financial condition of the Issuer since the date of the last
+
+accounts or the last Compliance Certificate submitted to you.
+
+2.
+
+the covenants set out in Clause 3.5 are satisfied;
+
+3.
+
+all relevant Security is established in accordance with the Bond Agreement,
+
+4.
+
+in accordance with Clause [3.5.3]/[3.5.4], the LTV as of [date] is [e] %.
+
+5.
+
+the Market Value of the Property as of [date] is [e], see enclosed statement from [el.
+
+Copies of our latest consolidated annual accounts are enclosed.
+
+Yours faithfully,
+
+RCH Holding AS
+
+Name of authorized person Enclosure: [copy of any written documentation, including Market Value]
+
+#6179746/6
+
+25 (25)
+
+

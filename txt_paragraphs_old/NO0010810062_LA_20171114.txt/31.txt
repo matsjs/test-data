@@ -1,0 +1,9 @@
+(a) a Minor Asset Disposal Event;
+(c) a Minor Total Loss Event; or
+(d) a Change of Control Event,
+provided that:
+(a) the events listed in paragraphs (a) to (c) above shall only constitute a Put Option Event if the applicable Put Option Amount exceed the Put Option Threshold Amount during any Calculation Period; and
+(b) no event shall constitute a Put Option Event if a waiver thereof has been resolved by simple majority of the Voting Bonds in a Bondholders' Meeting.
+"Put Option Repayment Date" means the settlement date for the Put Option Event pursuant to Clause 10.3 (Mandatory repurchase due to a Put Option Event).
+"Put Option Threshold Amount" means USD 10,000,000.
+"Qualified Pledged Account" means a dedicated bank account held in the name of Issuer and designated as a "Qualified Pledged Account" by notice from the Issuer to the Bond Trustee. If the Issuer establishes a Qualified Pledged Account, the Issuer shall ensure that the Qualified Pledged Account shall, prior to transferring any amounts to such account, be pledged and blocked on first priority as security for the Obligors' obligations under the Finance Documents.

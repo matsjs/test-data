@@ -1,0 +1,9 @@
+(b) The Issuer and the Agent shall not agree to amend any provisions of the Agency Agreement without the prior consent of the Bondholders if the amendment would be detrimental to the interests of the Bondholders.
+Each of the events or circumstances set out in this Clause 14 (other than Clause 14.10 (Acceleration of the Bonds)) is an Event of Default.
+26
+14.1 Non-Payment
+The Issuer fails to pay an amount on the date it is due in accordance with the Finance Documents unless its failure to pay is caused by administrative or technical error and payment is made within five (5) Business Days of the due date.
+14.2 Maintenance Covenants
+The Issuer has failed to comply with any of the Maintenance Covenants on the applicable Reference Date set out in Clause 12.1 (Maintenance Covenants) above and such failure has not been cured in accordance with Clause 12.2 (Equity Cure)provided that if there is a breach of the Maintenance Covenants on any Reference Date on or before 31 March 2019, such breach shall not be deemed to be occurred provided that the Issuer meets the Maintenance Covenants on the next following Reference Date (a "Mulligan"). The Issuer may only exercise one Mulligan during the lifetime of the Bonds.
+14.3 Other Obligations
+The Issuer does not comply in any material respect with the Finance Documents, other than as set out under Clause 14.1 (Non-Payment) or Clause 14.2 (Maintenance Covenants) above, provided that the Agent has requested the Issuer in writing to remedy such failure and the Issuer has not remedied the failure within thirty (30) Business Days from such request. If the failure or violation is not capable of being remedied, the Agent may, after due inquiry, declare the Bonds payable without such prior written request.

@@ -1,0 +1,9 @@
+"Business Day Convention" means the first following day that is a Business Day.
+"Call Option Amount" means:
+(a) 100.00 per cent, of the Nominal Amount plus the Applicable Premium, together with accrued but unpaid interest, if the Call Option is exercised anytime before the First Call Date;
+3
+(b) 104.00 per cent, of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the First Call Date to, but not including, the date falling 48 months after the First Issue Date; and
+(c) 100.00 per cent, of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 48 months after the First Issue Date to, but not including, the Final Maturity Date.
+"Cash" means, at any time, cash in hand or at bank and (in the latter case) credited to an account in the name of a Group Company with a bank and to which a Group Company is alone (or together with other Group Companies) beneficially entitled and for so long as:
+(a) repayment of that cash is not contingent on the prior discharge of any other indebtedness of any Group Company or of any other person whatsoever or on the satisfaction of any other condition;
+(b) there is no Security over that cash except for any Permitted Security constituted by a netting or set-off arrangement entered into by Group Companies in the ordinary course of their banking arrangements; and

@@ -1,0 +1,9 @@
+where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
+"Margin" means 5.25 per cent. per annum.
+"Material Adverse Effect" means a material adverse effect on:
+(a) the ability of the Issuer and any Group Company to perform and comply with its obligations under any of the Finance Documents; or
+(b) the validity or enforceability of any of the Finance Documents.
+"Material Asset Sale Event" means, except if it constitutes a Total Loss Event:
+(a) any of the Norwegian Low Frequency Licenses and Norwegian High Frequency Licenses are sold or disposed of; or
+(b) the Issuer ceases to be the owner (directly or indirectly) of the Subsidiaries owned by the Issuer at the time of the Bond Issue (however excluding the Swedish Subsidiary and the Danish Subsidiary for the purposes of determining a Material Asset Sale Event).
+"Maturity Date" means 7 April 2022, adjusted according to the Business Day Convention.

@@ -1,0 +1,797 @@
+PRESERVIA AB (PUBL) VILLKOR FÖR OBLIGATIONSLÅN om h ögst
+SEK 1 0 0 0 0 0 0 0 0 7 ,5 0 % 2 0 1 6 /2 0 2 0
+ISIN: S E 0 0 0 8 0 1 4 0 8 8 (re s e rv e ra d )
+47
+
+INNEHÅLLSFÖRTECKING
+
+1. DEFINITIONER.................................................................................................................................... 49
+
+2. OBLIGATIONERNA............................................................................................................................. 51
+
+3. OBLIGATIONERNAS FÖRHÅLLANDE TILL ANNAN SKULD......................................................... 51
+
+4. REGISTRERING AV OBLIGATIONERNA ETC,...................................................................................51
+
+5. LISTNING......................................................................................................
+
+52
+
+6. FÖRUTSÄTTNINGAR FÖR UTBETALNING AV OBLIGATIONSLÅNET.........................................52
+
+7. RÄNTA.................................................................................................................................................. 52
+
+8. ÅTERBETALNING, INLÖSEN OCH FÖRVÄRV................................
+
+52
+
+9. BETALNING AV LÅNEBELOPP OCH RÄNTA.................................................................................. 54
+
+10. DRÖJSMÅLSRÄNTA.......................................................................................................................... 54
+
+11. BOLAGETS ÅTAGANDEN.................................................................................................................54
+
+12. UPPSÄGNING AV OBLIGATIONERNA............................................................................................ 56
+
+13. BETALNINGSORDNING....................................................................................................................57
+
+14. FORDRINGSHAVARMÖTE ETC........................................................................................................58
+
+15. AGENTEN........................................................................................................................................... 61
+
+16. AGENTUTBYTE...........................................................,.................................................................... 63
+
+17. UTBYTE AV EMISSIONSINSTITUTET............................................................................................64
+
+18. MEDDELANDEN................................................................................................................................64
+
+19. ÄNDRING AV VILLKOREN...............................................................................................................65
+
+20. PRESKRIPTION..................................................................................................................................65
+
+21. FÖRVALTARREGISTRERING...........................................................................................................65
+
+22. FORCE MAJEURE OCH BEGRÄNSNING AV ANSVAR...................................................................65
+
+23. TILLÄMPLIG LAG OCH BEHÖRIG DOMSTOL............................................................................... 66
+
+48
+
+1.
+
+Definitioner
+
+I dessa Villkor har definierade termer följande betydelse:
+
+"Agent" avser Intertrust CN (Sweden) AB, org. nr. 556625-5476, Sveavägen 9, Box 16285,103 25 Stockholm, eller annan agent som från tid till annan representerar Fordringshavarna enligt dessa Villkor;
+
+"Agentavtalet" avser agentavtalet som ska ingås på eller före Emissionsdagen mellan Bolaget och Agenten, eller annat agentavtal som ersätter sådant avtal och ingås efter Emissionsdagen mellan Bolaget och en agent;
+
+"Avstämningsdagen"har den innebörd som beskrivs i punkt 9.1;
+
+"Bankdag" avser dag (som inte är lördag eller söndag) då banker normalt är öppna i Sverige;
+"Bolaget" avser Preservia AB (publ), org. nr. 559038-6107;
+
+"Dotterbolag" avser en svensk eller utländsk juridisk person (oavsett registrering) som vid var tidpunkt, direkt eller indirekt, är ett dotterbolag till Bolaget enligt aktiebolagslagen (2005:511);
+"Efterträdande Agent" har den innebörd som anges i punkt 16.1;
+
+"Emissionsdag" avser den 2016-03-03;
+
+"Emissionsinstitut" avser em issionsinstitutet för Obligationerna, från tid till annan, f.n. Aqurat Fondkommission A B, Box 7461,103 92 Stockholm, org.nr. 556736-0515
+
+49
+
+"Euroclear" avser Bolagets centrala värdepappersförvarare avseende Obligationerna från tid till annan, f.n. Euroclear Sweden AB, org, nr 556112-8074, Box 191,101 23 Stockholm;
+"Extraordinärt Beslut" har den innebörd som anges i punkt 14.5;
+"Fordringshavare"avser den som är registrerad på VP-konto som borgenär eller som är berättigad att i annat fall ta emot betalning i fråga om en Obligation enligt dessa Villkor;
+"Fordringshavarmöte" har den innebörd som anges i punkt 14.1;
+"Förtida inlösen"har den innebörd som anges i punkt 8.2.1;
+"Handelsplatsen" avser NGMs reglerade marknad NDX, Stockholm, annan MTF eller organiserad marknadsplats;
+"Inlösendagen" avser Återbetalningsdag eller sådan tidigare dag som följer av punkterna 8.2, 8.3, 8.4 eller 12;
+"Justerat Nominellt Belopp" avser det sammanlagda utestående Nominella Beloppet av Obligationer som inte innehas av Bolaget eller något annat Koncernbolag;
+"Koncern" avser Bolaget och dess Dotterbolag, och ett "Koncernbolag" betyder Bolaget eller något av Dotterbolagen;
+"Kontoförande Institut" avser bank eller annan som innehar vederbörligt tillstånd att vara kontoförande institut enligt lag (1998:1479) om kontoföring av finansiella instrument och hos vilken Fordringshavare öppnat VP-konto avseende Obligationerna;
+"MTF" avser sådan handelsplattform (Multilateral Trading Facility) vartill hänvisas i lag (2007:528) om värdepappersmarknaden;
+"Nominellt Belopp" har den innebörd som anges i punkt 2.1;
+"Obligation" avser skuldförbindelse enligt 1 kap. 3 § lagen (1998:1479) om kontoföring av finansiella instrument utgiven av Bolaget i enlighet med dessa Villkor;
+"Relevant Part" har den innebörd som anges i punkt 22.1;
+"Ränteförfallodag" avser 30 mars, 30 juni, 30 september och 30 december varje år, eller om sådan dag inte är en Bankdag, den närmast efterföljande Bankdagen samt Återbetalningsdagen. Den första Ränteförfallodagen ska vara den 30 mars 2016 och den sista Ränteförfallodagen ska vara Återbetalningsdagen;
+"Ränteperiod" avser den period som börjar från (men exkluderar) Emissionsdagen eller varje Ränteförfallodag, och som löper till och med (och inkluderar) nästa Ränteförfallodag. Ränteperioden ändras inte även om Ränteförfallodagen infaller på en helgdag;
+"Räntesats" avser en ränta om 7,5% per år;
+"Räntetäckningsgrad" avser förvaltningsresultat plus finansiella kostnader dividerat med finansiella kostnader;
+50
+
+SEK" avser valutan svenska kronor;
+
+"Uppsägningsgrund" avser sådan händelse eller omständighet som är angiven i punkt 12.1;
+"Villkor" avser dessa villkor och, i tillämpliga avseenden, Obligationerna;
+"VP-konto" avser värdepapperskonto, d.v.s. ett avstämningskonto (konto för aktier och andra värdepapper) enligt 4 kap. 16 § lagen (1998:1479) om kontoföring av finansiella instrument;
+"Återbetalningsdag"avser den 2 mars 2020.
+
+2.
+
+Obligationerna
+
+2.1
+
+Det sammanlagda beloppet av obligationslånet uppgår till högst SEK ett hundra
+
+miljoner (100 000 000) och representeras av Obligationer, vardera med ett nominellt
+
+belopp om SEK tiotusen (10 000) ("Nominellt Belopp"). Minsta teckningsbelopp är
+
+100 000 SEK och sedan i poster om 10 000 SEK.
+
+2.2
+
+Varje Obligation kommer att emitteras till ett pris motsvarande 100 procent av det
+
+Nominella Beloppet.
+
+2.3
+
+Likviden från Obligationerna skall användas för utveckling och förvaltning av
+
+fastighetsprojektbolag, sedvanliga kommersiella ändamål i Bolaget samt för
+
+transaktionskostnader.
+
+2.4
+
+Bolaget förbinder sig att återbetala Obligationerna, att betala ränta och att i övrigt
+
+agera i enlighet med och uppfylla dessa Villkor.
+
+3.
+
+Obligationernas förhållande till annan skuld
+
+Obligationerna utgör ej efterställda, direkta, ovillkorade och ej säkerställda förpliktelser för Bolaget. Obligationerna är fritt överlåtbara.
+
+4.
+
+Registrering av Obligationerna etc.
+
+4.1
+
+Obligationerna ska för Fordringshavarnas räkning registreras på VP-konto hos
+
+Euroclear. Inga fysiska värdepapper kommer att utfärdas. Den som på grund av
+
+uppdrag, pantsättning, bestämmelser i föräldrabalken (1949:381), villkor i
+
+testamente eller gåvobrev eller annars förvärvat rätt att ta emot betalning under
+
+Obligationerna ska låta registrera sin rätt till betalning. Begäran om viss
+
+registreringsåtgärd avseende Obligationerna ska riktas till Kontoförande Institut.
+
+4.2
+
+Bolaget ska äga rätt att erhålla information avseende Obligationerna ur den av
+
+Euroclear förda skuldboken.
+
+4.3
+
+Bolaget får och ska, på Agentens begäran, inhämta och tillhandahålla Agenten
+
+information ur den av Euroclear förda skuldboken, eller, på Agentens begäran, förse
+
+Agenten med fullmakt för att kunna erhålla relevant information. Agenten ska också (i
+
+den mån regelverket för Bolagets centrala värdepappersförvarare så tillåter) vara
+
+behörig att erhålla information från den aktuella skuldboken.
+
+51
+
+5. 6.
+6.1
+6.2
+7.
+8.
+8.1 8.2 8.2.1
+
+Listning
+Bolaget avser att ansöka om att Obligationerna ska tas upp till handel på Handelsplatsen NGM NDX.
+Förutsättningar för utbetalning av Obligationslånet
+En förutsättning för att Emissionsinstitutet ska utbetala Obligationslånet till Bolaget är att Bolaget tillhandahåller Emissionsinstitutet och Agenten följande handlingar:
+(i) en kopia av Bolagets bolagsordning;
+(j) en kopia av gällande registreringsbevis för Bolaget;
+(k) en kopia av protokoll från styrelsemöte i Bolaget som utvisar att styrelsen godkänner (i) upptagande av Obligationslånet enligt Villkoren och (ii) att Bolaget ska ansöka om notering av Obligationerna på Handelsplatsen;
+(l) en kopia av Villkoren vederbörligen undertecknade av firmatecknare för Bolaget; och
+(m) en kopia av undertecknat Agentavtal mellan Bolaget och Agenten.
+Vid överlåtelse av Obligationer av en Fordringshavare till en annan Fordringshavare eller någon som vid överlåtelsen blir Fordringshavare, så ska den överlåtande Fordringshavarens rättigheter och Bolagets skyldigheter enligt Villkoren omfattas av överlåtelsen och därigenom överlåtas till den övertagande Fordringshavaren.
+Ränta
+Obligationerna löper med ränta från (men exklusive) Emissionsdagen till och med (och inklusive) Inlösendagen enligt Räntesatsen på utestående Nominellt Belopp. Räntan ska erläggas kvartalsvis, vid varje Ränteförfallodag, eller (i förekommande fall) för aktuell Ränteperiod i efterskott. Ränta ska för varje Ränteperiod beräknas på grundval av ett år om 360 dagar bestående av 12 månader med 30 dagar i respektive månad, eller, vid händelse av icke fullbordad månad, det faktiska antalet dagar i månaden.
+Återbetalning, inlösen och förvärv
+Återbetalning
+Bolaget ska återbetala alla utestående Obligationer på Återbetalningsdagen, eller den tidigare dag som följer av dessa Villkor.
+Förtida Inlösen
+Vid händelse att Obligationerna avnoteras från Handelsplatsen utan att senast trettio (30) Bankdagar därefter fortsätta att handlas på annan MTF eller organiserad marknadsplats ska varje Fordringshavare ha rätt att begära förtida inlösen ("Förtida Inlösen") av Fordringshavarens Obligationer i dess helhet till Nominellt Belopp jämte upplupen ränta till och med (och inklusive) dagen för Förtida Inlösen.
+
+52
+
+8.2.2 8.2.3 8.2.4 8.3
+8.4 8.5
+
+Begäran om Förtida Inlösen ska framställas inom trettio (30) dagar efter det att Bolaget meddelat Fordringshavarna om en avnotering från Handelsplatsen. Meddelande om avnotering från Handelsplatsen ska lämnas så snart som möjligt efter det att avnoteringen har skett.
+Begäran om Förtida Inlösen ska göras skriftligen i enlighet med punkt 18.
+Bolaget ska senast femton (15) Bankdagar efter dagen då Bolaget mottog begäran om Förtida Inlösen återbetala samtliga Obligationer som är föremål för Förtida Inlösen, jämte upplupen ränta till och med (och inklusive) dagen för Förtida Inlösen.
+Frivillig inlösen av Bolaget
+Bolaget har rätt att inlösa alla (men inte endast vissa) Obligationer på varje Bankdag som infaller efter Emissionsdagen. Bolaget kan utnyttja rätten genom att, i enlighet med punkt 18, meddela Fordringahavarna samt Agenten minst femton (15) dagar och högst sextio (60) dagar i förväg. Sådant meddelande ska vara oåterkalleligt och ange datum för inlösen och relevant Avstämningsdag. Obligationerna ska inlösas till ett belopp som motsvarar:
+(n) 104 procent av det Nominella beloppet, om inlösen sker under perioden från Emissionsdagen till och med den dag som infaller ett (1) år efter Emissionsdagen;
+(o) 103 procent av det Nominella beloppet, om inlösen sker under perioden från den dag som infaller ett (1) år efter Emissionsdagen till och med den dag som infaller två (2) år efter Emissionsdagen;
+(p) 102 procent av det Nominella beloppet, om inlösen sker under perioden från den dag som infaller två (2) år efter Emissionsdagen till och med den dag som infaller tre (3) år efter Emissionsdagen;
+(q) 101 procent av det Nominella beloppet, om inlösen sker under perioden från den dag som infaller tre (3) år efter Emissionsdagen till och med dagen före Återbetalningsdagen.
+Dessutom ska Bolaget betala upplupen ränta enligt punkt 7 från (men exklusive) den senaste Ränteförfallodagen till och med (och inklusive) dagen för frivillig inlösen.
+Tvingande inlösen
+Bolaget ska lösa in alla Obligationer till 100 procent av det Nominella Beloppet om det är eller blir olagligt för Bolaget att uppfylla sina åtaganden i enlighet med dessa Villkor.
+Egna förvärv
+Med förbehåll för tillämplig lag kan Bolaget när som helst förvärva Obligationer på marknaden eller på annat sätt. Bolaget har rätt att behålla, sälja eller annullera Obligationer som innehas av Bolaget.
+
+53
+
+9.
+9.1
+9.2
+9.3
+9.4 9.5
+9.6
+10.
+10.1
+10.2
+11.
+11.1 11.1.1
+
+Betalning av lånebelopp och ränta
+Betalning av lånebelopp och ränta ska ske till den som är Fordringshavare på femte Bankdagen före respektive förfallodag eller på sådan annan Bankdag som är närmare respektive förfallodag och som generellt tillämpas på den svenska obligationsmarknaden ("Avstämningsdagen").
+Har en Fordringshavare genom Kontoförande Institut låtit registrera att lånebelopp och räntebelopp ska sättas in på visst anvisat bankkonto, sker insättningen genom Euroclears försorg på vederbörlig förfallodag. I annat fall översänder Euroclear belopp till Fordringshavaren under den adress som på Avstämningsdagen finns registrerad för denne hos Euroclear.
+Skulle Euroclear, på grund av dröjsmål från Bolagets sida eller på grund av annat hinder, inte ha möjlighet att erlägga betalning enligt punkt 9.2, ska Bolaget tillse att sådana belopp betalas till de som är Fordringshavare på den aktuella Avstämningsdagen så snart hindret har upphört.
+Skulle Bolaget, på grund av hinder för Euroclear enligt punkt 22.1, inte kunna erlägga betalning på en Förfallodag, får Bolaget skjuta upp betalningen tills dess att hindret har upphört. Så länge betalningen är uppskjuten ska ränta enligt punkt 10 utgå.
+Visar det sig att den som tillställts belopp enligt denna punkt 9 saknade rätt att motta betalning, ska Bolaget och Euroclear likväl anses ha fullgjort sina skyldigheter, förutsatt att Bolaget och/eller Euroclear inte hade kännedom om att beloppet erlades till fel mottagare och förutsatt att Bolaget och/eller Euroclear har iakttagit normal aktsamhet.
+Har såväl lånebelopp som ränta förfallit till betalning och saknas tillgängliga medel för full betalning, ska tillgängliga medel i första hand användas till betalning av ränta och i andra hand till betalning av lånebeloppet.
+Dröjsmålsränta
+Vid dröjsmål med betalning av förfallet belopp ska Bolaget erlägga dröjsmålsränta på det förfallna beloppet. Sådan dröjsmålsränta löper med en årlig ränta motsvarande Räntesatsen med tillägg av två (2) procentenheter från förfallodagen till och med den dag då betalning erläggs, beräknat i enlighet med punkt 7. Upplupen dröjsmålsränta ska inte kapitaliseras.
+Beror dröjsmålet av sådant hinder på Agenten, Emissionsinstitutet eller Euroclear som avses i punkt 22.1, ska dröjsmålsränta inte erläggas av Bolaget.
+Bolagets åtaganden
+Informationsåtaganden
+Bolaget åtar sig, så länge någon Obligation är utestående, att:
+(r) omedelbart meddela Agenten om det föreligger en Uppsägningsgrund (enligt punkt 12.1) eller om en händelse inträffat som sannolikt skapar en Uppsägningsgrund;
+
+54
+
+11.1.2
+11.1.3 11.2
+
+(s) så länge Obligationerna är upptagna till handel vid Handelsplatsen, offentliggöra information i enlighet med Handelsplatsens regelverk, inkluderande men inte begränsat till finansiella rapporter; och
+(t) tillställa Agenten sådan information om Bolagets finansiella ställning som Agenten skäligen kan begära, samt (i] senast samma dag som Bolaget publicerar/skickar ut kallelse till årsstämma och (ii) senast tjugo (20) dagar efter Agentens skäliga begäran, skriftligen bekräfta i ett särskilt intyg, vilket ska följa den struktur som bilagts som bilaga 1 (Struktur för efterlevnadsintyg), som undertecknats av två behöriga firmatecknare för Bolagets räkning, att, såvitt Bolaget känner till, inget förhållande föreligger som skulle berättiga Agenten att säga upp de utestående Obligationerna till omedelbar betalning eller, om Bolaget känner till att ett sådant förhållande föreligger, beskriva detta samt de eventuella åtgärder som vidtas för att åstadkomma rättelse.
+Bolaget ska på Agentens eller Emissionsinstitutets begäran tillhandahålla sådana dokument och sådan information som är nödvändig för att Agenten eller Emissionsinstitutet ska kunna utöva sina rättigheter och skyldigheter i enlighet med dessa Villkor samt följa för uppdraget tillämpliga lagar och bestämmelser.
+Bolagets skyldigheter att tillhandahålla information i enlighet med dessa Villkor ska gälla såvida det inte strider mot gällande lagstiftning eller Handelsplatsens regelverk.
+Allmänna åtaganden
+Så länge någon Obligation är utestående åtar sig Bolaget:
+(u) Efterlevnad av lagar etc.: att tillse att Bolaget i alla väsentliga avseenden följer de lagar och regler som, från tid till annan, är tillämpliga. Bolaget ska också tillse att Bolaget vidmakthåller och i alla väsentliga avseenden följer tillstånd, godkännanden, licenser etc. som krävs för att bedriva verksamheten.
+(v) Förmånsrättsligt läge: att betalningsförpliktelserna enligt dessa Villkor, med undantag för sådana betalningsförpliktelser som har lagstadgad förmånsrätt, alltid ska ha samma förmånsrättsliga läge utan inbördes ordning och åtminstone ha samma förmånsrättsliga läge som Bolagets övriga ickeefterställda betalningsförpliktelser utan allmän eller särskild förmånsrätt.
+(w) Begränsad utdelning: att inte besluta om någon utdelning på Bolagets aktier, annat än om Koncernens Räntetäckningsgrad under en period om fyra sammanhängande kvartal före kvartalet då utdelningen föreslås har en Räntetäckningsgrad som inte understiger 1,5. Så snart utdelning på Bolagets aktier föreslås på bolagsstämma ska Bolaget tillställa Agenten ett efterlevnadsintyg i enlighet med bilaga 1 om att inget förhållande föreligger, såvitt Bolaget känner till, som skulle berättiga Agenten att säga upp de utestående Obligationerna till omedelbar betalning, inklusive men inte begränsat till efterlevnad av denna punkt. Bolaget ska även till bilaga 1 bilägga beräkningsunderlag som styrker att kravet på Räntetäckningsgraden är uppfyllt.
+
+55
+
+12.
+12.1
+12.2 12.3 12.3.1 12.3.2
+
+Uppsägning av Obligationerna
+Agenten är, för Fordringshavarnas räkning, berättigad att förklara att alla, men inte endast vissa, Obligationer vid den tidpunkt som Agenten genom meddelande till Bolaget bestämmer förfaller till omedelbar betalning, om (var och en utgör en "Uppsägningsgrund") :
+(x) Bolaget inte i rätt tid betalar för Bolaget förfallet belopp enligt Obligationerna, såvida inte betalningsdröjsmålet beror på ett administrativt eller tekniskt fel och betalning sker inom tio (10) Bankdagar efter ursprunglig förfallodag;
+(y) Bolaget inte fullgör sina förpliktelser enligt dessa Villkor, eller på annat satt handlar i strid mot dem, såvida inte överträdelsen kan läkas genom rättelse och rättelse sker inom trettio (30) Bankdagar beroende av vad som inträffar först, att Agenten uppmanar Bolaget att vidta rättelse eller om Bolaget blir varse överträdelsen;
+(z) Bolaget:
+(i) är, eller kan antas bli, insolvent enligt svensk rätt;
+(ii) medger sin oförmåga att betala sina skulder allteftersom de förfaller jämlikt 2 kap. 7-9 § konkurslagen (1987:672);
+(iii) ställer in sina betalningar;
+(iv) inleder ackordsförhandlingar i syfte att upprätta en avbetalningsplan över sina skulder (inkluderat företagsrekonstruktion enligt lag (1996:764) om företagsrekonstruktion); eller
+(v) blir föremål för likvidation.
+(aa) Bolaget upphör med sin verksamhet eller Bolaget och/eller Koncernen väsentligen förändrar sin verksamhet; eller
+(bb) en eller flera händelser inträffar som sannolikt medför en materiellt negativ effekt för Bolaget eller Koncernen.
+Agenten får dock inte förklara Obligationerna förfallna till betalning om Uppsägnings grunden ej längre är pågående eller om Uppsägningsgrunden har eftergetts (i) av Agenten, eller (ii) av Fordringshavarmöte eller (iii) genom skriftligt beslutsförfarande. Vid (ii) eller (iii) ska ett majoritetskrav om femtio (50) procent baserat på det Justerade Nominella Beloppet gälla.
+Generella regler för förtida återbetalning
+Vid händelse som innebär Uppsägningsgrund ska Agenten informera Fordringshavarna om detta och överväga om Obligationerna, genom underrättelse till Bolaget, ska återbetalas i förtid. Agenten ska inom tio (10) Bankdagar från dagen då Agenten fick kännedom om att händelse som medför Uppsägningsgrund har inträffat, bestämma om Obligationerna ska återbetalas i förtid.
+Om Agenten beslutar att förtida återbetalning av Obligationerna inte ska ske, ska Agenten omedelbart inhämta instruktioner från Fordringshavarna enligt punkt 14.
+
+56
+
+12.3.3 12.3.4
+13.
+13.1
+13.2
+
+Om Fordringshavarna instruerar Agenten om återbetalning av Obligationerna i förtid ska Agenten omedelbart fastställa Obligationerna som förfallna och återbetalningsbara. Om de kostnader, förluster eller skyldigheter som Agenten kan komma att lida vid fullföljande av sådana instruktioner enligt Agentens rimliga uppfattning inte täcks genom en förväntad utdelning av intäkterna, får Agenten avstå från att agera i enlighet med Fordringshavarnas instruktioner tills dess att Agenten har mottagit sådan ersättning (eller säkerhet därför) som Agenten rimligen kan kräva.
+Om rätten till förtida återbetalning av Obligationerna baseras på ett beslut från domstol eller statlig myndighet är det inte nödvändigt att beslutet har vunnit laga kraft eller att tiden för överklagande har löpt ut för att grund för förtida återbetalning ska anses föreligga.
+Vid förtida återbetalning av Obligationerna enligt denna punkt 12 ska Bolaget lösa in varje Obligation med ett belopp motsvarande det Nominella Beloppet jämte vid utbetalningstillfället upplupen och obetald ränta.
+Betalningsordning
+Alla utbetalningar Bolaget gör till följd av en förtida uppsägning av Obligationerna enligt punkt 12 ska, i enlighet med Agentens instruktioner, distribueras enligt följande:
+(cc) iförsta hand, som eller mot pro rata betalning av (i) alla obetalade skulder, kostnader, utlägg och ersättningar som ska betalas av Bolaget till Agenten i enlighet med Agentavtalet (med undantag för ersättningar som lämnats för åtaganden mot Fordringshavarna), (ii) övriga kostnader, utlägg och ersättningar som rör den förtida betalningen enligt Obligationerna och som kan ha upparbetats av Agenten (iii) kostnader som upparbetats av Agenten för externa rådgivare som inte har blivit ersatta av Bolaget i enlighet med punkt 15.2.5 och (iv) varje kostnad och utgift som har upparbetats av Agenten med anledning av ett Fordringshavarmöte eller ett skriftligt beslutsförfarande som inte har ersatts av Bolaget i enlighet med punkt 14.6;
+(dd) i andra hand, som eller mot pro rata betalning för intjänad men icke-utbetald Ränta under Obligationerna (Ränta som förfallit till betalning vid en tidigare Ränteförfallodag ska betalas ut före Ränta som förfallit till betalning på en senare Ränteförfallodag);
+(ee) i tredje hand, som eller mot pro rata betalning för obetalt lånebelopp under Obligationerna; och
+(ff) ifjärde hand, som eller mot pro rata betalning för varje annan kostnad eller utestående belopp som är obetald enligt Villkoren.
+Varje överskjutande belopp som återstår efter tillämpandet av betalningsordningen i punkterna 13.1(cc)-(ff) ska utbetalas till Bolaget.
+Om en Fordringshavare eller någon annan part har betalat några avgifter, kostnader, utlägg eller ersättningar som är omnämnda i punkt 13.1(cc) ska Fordringshavaren eller annan part vara berättigad till ersättning genom ett motsvarande förfarande som framgår av punkt 13.1 (cc).
+
+57
+
+Ekonomiska medel som Agenten erhåller (direkt eller indirekt) i anslutning till en förtida uppsägning av Obligationerna utgör redovisningsmedel och måste förvaras på ett separat räntebärande konto å Fordringshavarnas och andra berättigade parters vägnar. Agenten ska tillse att utbetalning i enlighet med denna punkt 13 görs så snart det rimligen är praktiskt genomförbart.
+Om Bolaget eller Agenten ska göra några utbetalningar enligt denna punkt 13 ska Bolaget eller Agenten, såsom tillämpligt, meddela Fordringshavarna om varje sådan betalning minst femton (15) Bankdagar innan betalningen görs. Sådant meddelande ska ange Avstämningsdagen, betalningsdagen och summan som ska utbetalas. Oavsett det föregående för Ränta som är förfallen men ännu inte betalad ska Avstämningsdagen som framgår av punkt 7 tillämpas.
+Fordringshavarmöte etc.
+Bolaget eller Agenten kan, var för sig, när som helst kalla till fordringshavarmöte ("Fordringshavarmöte") eller påkalla ett skriftligt beslutsförfarande bland Fordringshavarna. Fordringshavare som representerar minst tio (10) procent av då sammanlagt utestående Justerat Nominellt Belopp får begära att sådan kallelse sker. Sådan begäran ska framställas skriftligen till Agenten med (i) uppgift om de frågor som ska behandlas och (ii) underlag som utvisar de aktuella Fordringshavarnas innehav per dagen för sådan begäran. Om Agenten konstaterar att begäran inkommit i vederbörlig ordning ska Agenten senast inom fem (5) Bankdagar (eller sådant senare datum kan krävas av tekniska eller administrativa skäl) från mottagandet av sådan begäran kalla till Fordringshavarmöte eller inleda ett skriftligt beslutsförfarande. Sådan skyldighet föreligger dock inte om, enligt Agentens mening, (A) förslaget inte är förenligt med tillämplig lag, (B) förslaget kräver godkännande av Bolaget och Bolaget informerar Agenten att det inte avser att lämna sådant godkännande, eller (C) det framstår som uppenbart osannolikt att förslaget kommer vinna bifall mot bakgrund av redan genomförda Fordringsägarmöten.
+Kallelse ska ske till Fordringshavarna och Agenten, och i förekommande fall till Bolaget, enligt punkt 18 och ska ske senast tio (10) Bankdagar och tidigast trettio (30) Bankdagar före Fordringshavarmötet eller den sista svarsdagen. Kallelsen ska ange:
+(gg) tid för Fordringshavarmötet eller (vad gäller skriftligt beslutsförfarande) sista svarsdag;
+(hh) plats eller (vad gäller skriftligt beslutsförfarande) svarsadress;
+(ii) dagordning för Fordringshavarmötet eller det skriftliga beslutsförfarandet;
+(jj) uppgift om den dag då Fordringshavare ska vara införd som ägare till en Obligation för att ha rösträtt enligt sitt innehav på Fordringsägarmötet eller vid det skriftliga beslutsförfarandet, inklusive instruktioner avseende rösträtt som framgår av 14.10; samt
+(kk) vad som i övrigt krävs för att en Fordringshavare ska ha rätt att delta vid Fordringshavarmötet eller vid det skriftliga beslutsförfarandet. Bolaget, eller om det är Agenten som kallar till Fordringshavarmötet eller påkallar det skriftliga beslutsförfarandet, ska fastställa innehållet i kallelsen samt tillhandahålla ett fullmaktsformulär eller, vid skriftligt beslutsförfarande,
+
+beslutsformulär med aktuella beslutsalternativ i pappersform eller i lättillgänglig elektronisk form.
+
+14.3
+
+Beslut fattas genom omröstning vid möte (eller vid skriftligt beslutsförfarande genom
+
+sammanräkning), varvid varje röstberättigad Fordringshavare ska ha en röst per
+
+innehavd Obligation om vardera Nominellt Belopp som sådan Fordringshavare
+
+innehar. En Fordringshavare som innehar mer än en Obligation måste rösta likadant
+
+för varje sådan Obligation. Ombud eller förvaltare som företräder olika
+
+Fordringshavare eller slutliga innehavare får dock avge röster på olika sätt för skilda
+
+Fordringsinnehavare eller slutliga innehavare. Obligationer som innehas av Bolaget
+
+eller något annat Koncernbolag, medför inte någon rösträtt.
+
+14.4
+
+Med undantag för punkt 14.5 (och sådana ändringar som anges i punkt 14.6) och för
+
+sådana ändringar eller åsidosättande av Villkoren som är av teknisk art, som utgör en
+
+ändring av en uppenbar felskrivning eller som inte i materiellt hänseende påverkar
+
+Fordringshavarnas intressen, kräver varje ändring eller åsidosättande av Villkoren
+
+för Obligationerna samtycke från Fordringshavare representerande åtminstone
+
+femtio (50) procent av rösterna, baserat på det totala Justerade Nominella beloppet.
+
+14.5
+
+Följande frågor kräver samtycke av åtminstone sextiosju (67) procent av det totala
+
+Justerade Nominella Beloppet ("Extraordinärt Beslut"):
+
+(11) godkännande av överenskommelse med Bolaget eller annan om ändring av Återbetalningsdagen, nedsättning av Nominellt Belopp samt ändring av Ränteförfallodag eller annat räntevillkor;
+
+(mm) godkännande av gäldenärsbyte; eller
+
+(nn) godkännande av ändring av denna punkt 14.5.
+
+14.6
+
+Oaktat andra punkter i dessa Villkor kan Agenten och Bolaget, utan att inhämta
+
+Fordringshavarnas samtycke, avtala om sådana tekniska förändringar, korrigeringar
+
+av fel samt tillägg i Villkoren för Obligationerna, som inte väsentligt påverkar
+
+Fordringshavarnas intressen.
+
+14.7
+
+Ändringar av Villkoren ska utan dröjsmål meddelas av Bolaget i enlighet med punkt
+
+18 varvid sådant meddelande ska innehålla uppgift om från vilket datum ändringen
+
+träder i kraft. Ändringar av Villkoren ska utan dröjsmål även meddelas av Bolaget till
+
+Euroclear.
+
+14.8
+
+Beslutsförhet föreligger endast om Fordringshavare representerande minst en
+
+femtedel av Justerat Nominellt Belopp, eller för det fall det rör sig om ett
+
+Extraordinärt Beslut, hälften av det Justerade Nominella Beloppet, i vederbörlig
+
+ordning närvarar vid Fordringshavarmötet (eller, vid skriftligt beslutsförfarande,
+
+avger svar). Om beslutsförhet inte uppnåtts genom närvaro inom femton (15)
+
+minuter från utsatt mötestid (eller, vid skriftligt beslutsförfarande, genom erhållna
+
+svar vid utgången av svarstiden), ska Fordringshavarmötet ajourneras (eller, vid
+
+skriftlig beslutsförfarande, svarstiden förlängas) till den dag som infaller på den femte
+
+Bankdagen därefter. Meddelande om tid och plats för fortsatt möte (eller, vid skriftligt
+
+beslutsförfarande, information om förlängd svarstid) ska ofördröjligen tillställas
+
+Fordringshavare enligt punkt 18. Vid fortsatt möte (eller, vid skriftligt
+
+beslutsförfarande, genom ny sammanräkning) kan beslut fattas genom ordinärt
+
+beslut (eller, om så kravs enligt punkt 14.5, genom ett Extraordinärt Beslut) av
+
+59
+
+14.9 14.10
+14.11
+14.12 14.13 14.14 14.15 14.16
+
+Fordringshavare som har rätt att rösta oavsett andelen Obligationer som representeras.
+Vid Fordringshavarmötet får Bolaget, Fordringshavare och Agenten närvara tillsammans med sina representanter, ombud och biträden. Fordringshavarmötet får besluta att ytterligare personer ska få närvara.
+Förvaltare av förvaltarregistrerade Obligationer ska vid Fordringshavarmöte eller skriftligt beslutsförfarande bedömas vara Fordringshavare av sådan Obligation om inte den faktiska ägaren av Obligationerna är närvarande (personligen eller genom en vederbörligen bemyndigad representant med fullmakt]. För att få rösta för förvaltarregistrerade Obligationer ska innehavaren uppvisa ett intyg från den förvaltare som är registrerad i den av Euroclear förda skuldboken, eller en sammanhängande kedja av intyg som börjar med den förvaltare som är registrerad i den av Euroclear förda skuldboken och slutar på den faktiska innehavaren, i vilket förvaltaren bekräftar att innehavaren var ägare av Obligationerna på den dag som angetts i kallelsen till Fordringshavarmötet eller det skriftliga beslutsförfarandet, då Fordringshavare ska vara införd som ägare till en Obligation för att ha rösträtt på Fordringshavarmötet eller det skriftliga beslutsförfarandet.
+Fordringshavarmötet öppnas av en av Bolaget utsedd och närvarande person (eller, i avsaknad av sådan person, en av Agenten utsedd och närvarande person] och leds av den personen tills dess närvarande och representerade Fordringshavare har utsett en ordförande för Fordringshavarmötet. Genom ordförandens försorg ska protokoll föras vid Fordringshavarmötet. I protokollet ska antecknas närvarande röstberättigade Fordringshavare, vilka ämnen som har avhandlats, hur omröstningar har utfallit samt vilka beslut som har fattats. Protokollet ska undertecknas av ordföranden och minst en av Fordringshavarmötet utsedd justeringsman.
+Vid skriftligt beslutsförfarande ska Agenten ombesörja sammanräkningen och upprätta protokoll över sammanräkningen. Agenten får begära ytterligare information och förtydliganden men har inte någon skyldighet att göra det utan kan bortse från otydliga och oläsliga svar. Agenten ska bortse från svar som inte följer angivna svarsalternativ eller svar där Fordringshavarens rösträtt inte framgår av tillhandahållet material eller av material erhållet från Euroclear. Bolaget får närvara vid sammanräkningen.
+Protokollet ska färdigställas skyndsamt och hållas tillgängligt för Fordringshavare hos Bolaget och Agenten.
+Om Bolaget och Agenten bedömer det lämpligt får ett möte kombineras med en möjlighet för Fordringshavare att avge svar i enlighet med ett skriftligt beslutsformulär som ett alternativ till närvaro eller representation genom ombud vid ett möte.
+Beslut som har fattats vid ett i behörig ordning sammankallat och genomfört möte eller genom ett skriftligt beslutsförfarande är bindande för samtliga Fordringshavare, oavsett om dessa har varit närvarande eller representerade vid Fordringshavarmötet eller deltagit i det skriftliga beslutsförfarandet samt oberoende av om och hur de har röstat.
+Bolaget ska svara för alla kostnader som Bolaget och Agenten har åsamkats med anledning av Fordringshavarmöte eller skriftligt beslutsförfarande, oavsett vem som har initierat Fordringshavarmötet eller det skriftliga förfarandet.
+
+60
+
+15.
+15.1 15.1.1
+15.1.2
+15.1.3 15.1.4 15.1.5 15.2 15.2.1 15.2.2 15.2.3 15.2.4 15.2.5
+
+Agenten
+Utnämning av Agenten
+Genom att en Fordringshavare tecknar sig för Obligationer utser även Fordringshavaren Agenten att agera som agent åt Fordringshavaren i alla avseenden som är hänförliga till Obligationerna och Villkoren. Även utan särskilt uppdrag från Fordringshavarna är Agenten, eller någon person utsedd av Agenten, befullmäktigad att företräda Fordringshavarna gentemot Bolaget i enlighet med dessa Villkor i samtliga frågor som rör Obligationerna vare sig det sker vid domstolar eller verkställande myndigheter. Även om Agenten äger rätt att företräda Fordringshavarna är Agenten inte skyldig att agera om det inte uttryckligen följer av dessa Villkor. Genom förvärv av minst en Obligation bekräftar varje efterkommande Fordringshavare utnämningen av Agenten och dennes rätt att företräda Fordringshavaren.
+Varje Fordringshavare ska på begäran omedelbart förse Agenten med sådana dokument, inkluderande en skriftlig fullmakt (som till sin form och innehåll är tillfredsställande för Agenten), som Agenten begär för dess fullgörande av sina skyldigheter enligt dessa Villkor. Agenten är inte skyldig att företräda Fordringshavare som inte följer en sådan begäran.
+Bolaget ska på begäran omedelbart förse Agenten med sådana dokument och bistående (som till sin form och innehåll är tillfredsställande för Agenten), som Agenten anser nödvändiga för dess fullgörande av sina rättigheter och/eller för att utföra sina skyldigheter enligt Villkoren.
+Ingen Fordringshavare får på egen hand vidta åtgärder av något slag mot Bolaget i frågor med anknytning till Obligationerna utan att Agenten först har blivit instruerad av Fordringshavarna att vidta åtgärder mot Bolaget, men avstått från att vidta sådana åtgärder inom skälig tid.
+Agenten har rätt att agera som agent vid flera emissioner av instrument som utfärdas av eller hänför sig till Koncernbolag med reservation för eventuella intressekonflikter.
+Agentens uppdrag m.m.
+Agenten ska representera Fordringshavarna i enlighet med Villkoren.
+Agentens agerande i enlighet med Villkoren görs alltid med bindande verkan för Fordringshavarna. Agenten ska alltid utföra sina skyldigheter enligt dessa Villkor med rimlig aktsamhet och på ett sakligt, skickligt och professionellt sätt.
+Agenten har i utförandet av sina åtaganden enligt Villkoren rätt att agera genom sin personal och andra professionella uppdragstagare, men Agenten ska förbli ansvarig för de åtgärder som sådana parter vidtar enligt Villkoren.
+Agenten ska behandla Fordringshavare lika och ska, när åtgärder vidtas enligt Villkoren, enbart agera med hänsyn till i Fordringshavarnas intressen och ska inte behöva ta hänsyn till eller agera för någon annan persons intressen eller instruktioner.
+Agenten har rätt att anlita, betala för och förlita sig på råd eller tjänster från jurister, revisorer eller andra sakkunniga. Bolaget ska på begäran av Agenten betala alla
+
+61
+
+15.2.6 15.3 15.3.1
+15.3.2 15.3.3
+15.4 15.4.1 15.4.2
+15.4.3
+
+kostnader för externa rådgivare som engageras efter att en Uppsägningsgrund inträffat, eller i syfte att undersöka eller överväga (i] en händelse som Agenten rimligen kan anta kan komma att leda till en Uppsägningsgrund eller (ii) en fråga som hänför sig till Bolaget som Agenten rimligen anser kan vara avgörande eller av relevans för Fordringshavarnas intressen enligt Villkoren. Varje skadestånd eller annan ersättning som Agenten erhåller från anlitade externa rådgivare som Agenten anlitat för att utföra dennes uppdrag enligt Villkoren ska distribueras proportionerligt mellan Fordringshavarna i relation till varje Fordringshavares fordran i enlighet med Villkoren.
+Oavsett vad som i övrigt stadgas i dessa Villkor är Agenten inte skyldig att vidta eller underlåta att vidta åtgärd om sådan åtgärd/underlåtenhet enligt Agentens uppfattning, efter skäligt övervägande, kan antas utgöra ett brott mot tillämplig lag eller föreskrift eller ett brott mot förvaltaruppdraget eller Agentens sekretessåtagande.
+Agentens rätt att förlita sig på uppgifter
+Agenten äger förlita sig på utfästelser, meddelanden eller handlingar som Agenten har anledning att anta är äkta, korrekta och vederbörligen godkända. Agenten äger vidare förlita sig på uttalanden gjorda av en styrelseledamot, behörig firmatecknare eller anställd hos Bolaget avseende frågor som sådan styrelseledamot, behörig firmatecknare eller anställd skäligen kan antas ha kännedom om eller ha möjlighet att bekräfta.
+Agenten har rätt att anta att en händelse som konstituerar en Uppsägningsgrund inte har inträffat, såvida inte Agenten har faktisk vetskap om detta eller i sin egenskap av Agent för Fordringshavarna har mottagit meddelande om motsatsen.
+Utan att påverka Bolagets ansvar avseende information som har lämnats av Bolaget eller å dess vägnar enligt dessa Villkor, bekräftar varje Fordringshavare till Agenten, genom sitt förvärv av en Obligation, att Fordringshavaren kommer fortsätta att vara ensamt ansvarig för att utföra sin egna självständiga bedömning och utredning beträffande alla risker som kan hänföras till eller anses uppkomna i samband med dessa Villkor.
+Agentens ersättning
+Agenten har rätt att, med undantag för de fall som uttryckligt nämns i dessa Villkor, erhålla arvode från Bolaget avseende sitt uppdrag som Agent samt att erhålla ersättning för eventuella kostnader, förluster eller ansvar i enlighet med dessa Villkor. De förpliktelser som Agenten förväntas utföra under dessa Villkor förutsätter att sådana arvoden och ersättningar vederbörligen betalas.
+Om det är Agentens rimliga bedömning att kostnaden, förlusten eller ansvaret som Agenten kan ådra sig (inklusive agentarvoden) för att följa instruktioner eller vidta åtgärder på Fordringshavarnas eller eget initiativ inte kommer kunna täckas av Bolaget, får agenten avstå från att följa sådana instruktioner eller att vidta sådan åtgärd, till dess att sådana medel, kompensation (eller tillfredställande säkerhet) har erhållits som Agenten rimligen kan begära.
+Agenten ska meddela Fordringshavarna (i) innan denne upphör med att utföra sina åtaganden enligt Villkoren beroende på uteblivet arvode eller ersättning från Bolaget
+
+62
+
+som förfallit till betalning till Agenten eller (ii] om Agenten avstår från att vidta åtgärd som framgår av punkterna 12.3.2 och 15.4.2.
+
+15.4.4 15.5
+
+Om Agenten meddelar Fordringshavarana att denne inte kommer att vidta ytterligare åtgärder får varje Fordringshavare självständigt företräda sitt innehav av Obligationer mot Bolaget utan hinder av punkterna 12,14.1 och 15.
+Agentens ansvarsbegränsning
+
+15.5.1
+
+Agenten är inte ansvarig för skada på grund av handling, eller underlåtenhet, vidtagen av Agenten i enlighet med eller hänförligt till Villkoren om inte handlingen, eller underlåtenheten, orsakats genom Agentens grova vårdslöshet eller uppsåt. Agenten ska inte i något fall hållas ansvarig för indirekta skador.
+
+15.5.2 15.5.3 15.5.4
+
+Agenten ska inte anses ha agerat vårdslöst om denne har agerat i enlighet med rådgivning från erkända externa experter som Agenten har anlitat eller om Agenten har vidtagit rimlig försiktighet i en situation där Agenten anser att det är avgörande för Fordringshavarnas intresse att senarelägga en åtgärd i syfte att först inhämta Fordringshavarnas instruktioner.
+Agenten ska inte hållas ansvarig för någon försening (eller några följdkonsekvenser] avseende kreditering av ett belopp som Agenten enligt Villkoren ska utbetala till en Fordringshavare. Detta förutsätter att Agenten så snart det praktiskt är möjligt vidtagit alla nödvändig steg för att följa de bestämmelser och rutiner som satts upp av det erkända klarering- och awecklingsinstitut som Agenten använder i det syftet.
+Ansvar som åsamkas Bolaget och som uppstår till följd av att Agenten agerar enligt, eller i anslutning till Villkoren ska inte bli föremål för kvittning gentemot Bolagets förpliktelser gentemot Fordringshavarna enligt Villkoren.
+
+16. Agentutbyte
+
+16.1
+
+I enlighet med punkterna 16.2 till 16.8 får Agenten frånträda sitt uppdrag genom
+
+meddelande till Bolaget och Fordringshavarna, varpå Fordringshavarna äger rätt att
+
+utse en efterträdande Agent på ett Fordringshavarmöte eller skriftligt
+
+beslutsförfarande som sammankallas av den avgående Agenten. Fordringshavarna
+
+äger rätt att genom ett Extraordinärt Beslut kräva att Agenten frånträder sitt uppdrag
+
+i enlighet med denna punkt 16.1. och besluta om en ny Agent ("Efterträdande Agent").
+
+16.2
+
+För det fall Fordringshavarna inte har utsett en Efterträdande Agent i enlighet med
+
+punkt 16.1 inom nittio (90) dagar från det tidigast inträffade av antingen (i) att
+
+meddelandet om Agentens frånträde tillkännagavs eller (ii) ett Extraordinärt Beslut
+
+om att ersätta Agenten har antagits, ska Agenten, efter skäliga avväganden, utse en
+
+välrenommerad part som Efterträdande Agent.
+
+16.3
+
+Med beaktande av Punkt 16.6, om Agenten blir insolvent ska Agenten anses ha avgått
+
+varvid Bolaget inom tio (10) Bankdagar ska, efter skäliga avväganden, utse en
+
+välrenommerad part som Efterträdande Agent.
+
+16.4
+
+En eller flera gemensamma Fordringshavare som representerar minst tio (10)
+
+procent av det Justerade Nominella Beloppet får, genom meddelande till Bolaget
+
+kräva att ett Fordringshavarmöte hålls i syfte att entlediga Agenten och att utse en ny
+
+Agent. Meddelande får endast lämnas av sådan person som på den omedelbart
+
+följande Bankdagen från det att meddelande mottagits är en Fordringshavare och om
+
+63
+
+den överlämnas av flera Fordringshavare ska det göras gemensamt. Bolaget får på ett Fordringshavarmöte som Bolaget initierat föreslå för Fordringshavarna att Agenten ska entledigas och att en ny Agent ska utses.
+
+16.5
+
+Den avgående Agenten ska, på egen bekostnad, i sådant fall då Agenten själv har
+
+avgått från sitt uppdrag, tillse att sådana dokument och förteckningar tillgängliggörs
+
+den Efterträdande Agenten, och, på egen bekostnad, i sådant fall då Agenten själv har
+
+avgått från sitt uppdrag, tillhandahålla sådan assistans och hjälp som den
+
+Efterträdande Agenten skäligen kan begära i syfte att kunna utföra sina skyldigheter i
+
+enlighet med Villkoren.
+
+16.6
+
+Agentens uppdrag och förpliktelser enligt dessa Villkor upphör inte förrän en
+
+Efterträdande Agent har utsetts och sådan Efterträdande Agent har accepterat sitt
+
+uppdrag och samtliga nödvändiga handlingar har undertecknats.
+
+16.7
+
+Vid utnämningen av en Efterträdande Agent ska den avgående Agenten befrias från
+
+ytterligare skyldigheter enligt dessa Villkor. Den avgående Agenten ska emellertid
+
+vara fortsatt berättigad att åberopa sådana rättigheter under dessa Villkor som är
+
+hänförliga till varje åtgärd som Agenten vidtog eller underlät att vidta vid sitt uppdrag
+
+som Agent. Den Efterträdande Agenten, Bolaget och Fordringshavarna ska ha samma
+
+rättigheter och skyldigheter sinsemellan som de skulle haft om den Efterträdande
+
+Agenten hade varit den ursprungliga Agenten.
+
+16.8
+
+För det fall Agenten har bytts ut i enlighet med denna punkt 16, ska Bolaget upprätta
+
+de dokument och vidta de åtgärder som den Efterträdande Agenten skäligen kan
+
+kräva i syfte att utöva sina rättigheter, befogenheter och skyldigheter som Agent samt
+
+att befria den avgående Agenten från dennes fortsatta skyldigheter enligt dessa
+
+Villkor.
+
+17. Utbyte av Emissionsinstitutet
+
+Emissionsinstitutet får frånträda sitt uppdrag enligt dessa Villkor förutsatt att Bolaget har godkänt att en affärsbank eller ett värdepappersinstitut som godkänts av Euroclear tillträder som nytt Emissionsinstitut samtidigt med det avgående Emissionsinstitutets frånträde. Om Emissionsinstitutet har blivit föremål för konkurs eller rekonstruktion enligt lag eller föreskrifter från tillsynsmyndighet, ska Bolaget omgående utse ett nytt Emissionsinstitut som omgående ska ersätta det avgående Emissionsinstitutet som emissionsinstitut enligt dessa Villkor.
+
+18. Meddelanden
+
+18.1
+
+Meddelanden från Bolaget eller Agenten till Fordringshavare ska tillställas
+
+Fordringshavare under dennes adress registrerad hos Euroclear, Meddelanden från
+
+Agenten till Bolaget får skickas per e-post till Bolaget.
+
+18.2
+
+Meddelanden (inklusive begäran om Fordringshavarmöte] ska tillställas Agenten och
+
+Bolaget på adress som anges i punkt 1 (eller till annan adress som meddelats till
+
+Fordringshavarna].
+
+18.3
+
+All korrespondens och andra dokument upprättade eller levererade av en person till
+
+en annan under eller i samband med dessa Villkor ska anses ha kommit mottagande
+
+part tillhanda fem (5] Bankdagar efter dess avsändande/kungörelse.
+
+64
+
+18.4
+
+Meddelanden, kallelser eller underrättelser från Bolaget eller Agenten till
+
+Fordringshavare enligt punkterna 8.2.2, 8.3,12.3.1,14.2, eller 16.1 skall utöver vad
+
+som framgår av punkt 18.1 även offentliggöras av Bolaget eller, i förekommande fall,
+
+av Agenten genom pressmeddelande.
+
+19. ÄNDRING AV VILLKOREN
+
+19.1
+
+Agenten får, för Innehavarnas räkning, avtala med Bolaget om ändring av dessa
+
+Villkor under förutsättning att sådan ändring inte inskränker Bolagets förpliktelse att
+
+erlägga betalning av kapital- eller räntebelopp eller på annat sätt som enligt Agentens
+
+bedömning kan inverka negativt på Innehavarnas intressen i väsentligt hänseende
+
+eller att ändringen sker uteslutande i syfte att korrigera uppenbara fel och misstag i
+
+dessa Villkor. Efter erforderligt beslut av Fordringshavarna i enlighet med punkt 14
+
+(Fordringshavarmöte etc.) får Agenten även avtala med Bolaget om andra ändringar.
+
+19.2
+
+Avtalad ändring av Villkoren ska av Bolaget snarast meddelas i enlighet med punkt 18
+
+CMeddelanden) med angivande av den dag då ändringarna träder i kraft.
+
+20. Preskription
+
+20.1
+
+Rätten att motta återbetalning av Obligationernas lånebelopp ska preskriberas tio
+
+[10) år från Inlösendagen. Rätten att erhålla räntebetalning ska preskriberas tre [3)
+
+år från relevant förfallodagen för betalning. Bolaget är berättigat till de medel som
+
+avsatts för betalning till Fordringshavare men som har preskriberats.
+
+20.2
+
+Om vederbörligt preskriptionsavbrott sker i enlighet med preskriptionslagen
+
+[1981:130) påbörjas en ny preskriptionstid enligt följande: (i) beträffande rätten till
+
+mottagande av återbetalning av Obligationernas lånebelopp en preskriptionstid om
+
+tio [10) år, och [ii) beträffande erhållande av räntebelopp en preskriptionstid om tre
+
+[3) år.
+
+21. Förvaltarregistrering
+
+För Obligationer som är förvaltarregistrerade enligt lagen [1998:1479) om kontoföring av finansiella instrument ska vid tillämpningen av dessa Villkor förvaltaren betraktas som Fordringshavare, med förbehåll för bestämmelserna om Fordringshavares rösträtt enligt punkt 12.3.4.
+
+22. Force majeure och begränsning av ansvar
+
+22.1
+
+Varken Agenten, Emissionsinstitutet eller Euroclear [var för sig en "Relevant Part")
+
+ska hållas ansvarig för skada som uppkommer med anledning av svensk eller
+
+utländsk lag, svensk eller utländsk myndighetsåtgärd, krigshändelse, strejk, blockad,
+
+bojkott, lockout eller annan liknande omständighet. Förbehållet i fråga om strejk,
+
+blockad, bojkott och lockout gäller även om någon av de Relevanta Parterna själva är
+
+föremål för eller vidtar sådan konfliktåtgärd.
+
+22.2
+
+Skada som uppkommer i andra fall ska inte ersättas av någon av de Relevanta
+
+Parterna om vederbörande iakttagit normal aktsamhet. Ingen av de Relevanta
+
+Parterna ska i något fall bli ersättningsskyldig för indirekt skada.
+
+65
+
+22.3
+
+Föreligger hinder på grund av sådan omständighet som anges i punkt 22.1 för någon
+
+av de Relevanta Parterna att vidta åtgärd i enlighet med dessa Villkor får sådan åtgärd
+
+skjutas upp tills dess att hindret har upphört.
+
+22.4
+
+Bestämmelserna i denna punkt 22 gäller i den utsträckning inte annat följer av lagen
+
+(1998:1479) om kontoföring av finansiella instrument, vilkas bestämmelser ska äga
+
+företräde.
+
+23. Tillämplig lag och behörig domstol
+
+23.1
+
+Svensk lag ska tillämpas på dessa Villkor.
+
+23.2
+
+Tvist rörande dessa Villkor ska avgöras av svensk domstol. Stockholms tingsrätt ska
+
+vara första instans.
+
+Vi bekräftar härmed att Villkoren enligt ovan är bindande för Bolaget. Stockholm den___2016 PRESERVIA AB (PUBL)
+
+[Namn och titel]
+
+[Namn och titel]
+
+Vi åtar oss härmed att agera som Agent i enlighet med Villkoren enligt ovan. Stockholm den___2016 INTERTRUST CN (Sweden) AB
+[Namn och titel]
+
+66
+
+EFTERLEVNADSINTYG
+
+Bilaga 1
+
+Till: Intertrust CN (Sweden) AB som Agent
+Från: Preservia AB (publ) Box 5339 102 47 Stockholm
+
+Stockholm den___
+Preservia AB (publ) - Obligationslån om högst SEK 100 000 000 7,5 % 2 0 1 6 /2 0 2 0 ISIN S E 0008014088
+("Villkoren")
+Vi hänvisar till Villkoren. Detta är ett Efterlevnadsintyg som vi förbundit oss att tillhandahålla i enlighet med punkt [ ll.l.l( t ) ] alt. [11.2(w)] i Villkoren. Definitioner som anges i Villkoren ska ha samma betydelse i Efterlevnadsintyget om inget annat anges i detta Efterlevnadsintyg.
+Vi bekräftar att inget förhållande föreligger från inlämnandet av det senaste Efterlevnadsintyget som skulle berättiga Agenten att säga upp de utestående Obligationerna till omedelbar betalning, att inget sådant förhållande är nära till att uppstå och att såvitt vi känner till, inget sådant förhållande kommer att uppstå intill tiden för inlämnandet av nästa Efterlevnadsintyg.
+[Alternativt: om Bolaget känner till att ett sådant förhållande föreligger, beskriv detta samt de eventuella åtgärderna som vidtagits för att åstadkomma rättelse]
+[Beräkning av Räntetäckningsgrad ska anges i det fall Efterlevandeintyg lämnas i enlighet med punkt 11.2 (w).]
+Förvaltningsresultat:
+Finansiella kostnader:
+Räntetäckningsgrad:
+
+PRESERVIA AB (PUBL)
+
+[Namn och titel]
+
+[Namn och titel]
+
+67
+
+Adresser
+Emittent Preservia AB (publ) Box 5339 102 47 Stockholm www.preservia.se (gemensam för Bolaget och Koncernen]
+Kontoförande institut Euroclear Sweden AB Klarabergsviadukten 63 111 64 Stockholm Telefon: 08-402 90 00
+Emissionsinstitut Aqurat Fondkommission AB Box 7461 103 92 Stockholm Telefon: +46 8 684 05 800 www.aqurat.se
+Revisor Grant Thornton, med Elizabeth Falk som huvudansvarig revisor Sveavägen 20 Box 7623 103 94 Stockholm Telefon: 08-563 070 00 www.grantthornton.se
+Företrädare för fordringshavare (Agent) Intertrust CN (Sweden) AB Svevägen 9 Box 162 85 103 25 Stockholm. Telefon: 08-402 72 00 www.intertrustgroup.com
+Legal Rådgivare Nyman Rudenstam Advokatbyrå AB Blasieholmsgatan 5 111 48 Stockholm Telefon: 08-20 98 10 www.nymanrudenstam.se
+68
+
+

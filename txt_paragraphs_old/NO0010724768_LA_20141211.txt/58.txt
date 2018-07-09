@@ -1,0 +1,9 @@
+where: (a) "Average Subscription P erio d Price" means the average of the weighted average of official daily trading price of such Shares on the Exchange, measured during the period when the Subscription Rights may be exercised, and (b) `A verage Subscription Rights Price" means either (1) if the Borrower has listed the Subscription Rights on an Exchange, the average of the weighted average of official daily trading price of such Subscription Rights on the Exchange, measured during the period when the Subscription Rights may be exercised, or (2) if the Borrower has not listed the Subscription Rights on an Exchange, the average o f the trading price of the Subscription Rights calculated by a broker agreed upon by the Issuer and the Bond Trustee, measured during the period when the Subscription Rights may be exercised. Days without trading are not included in the aforesaid calculations; and
+15.3 In the event of a capital write-down of the Issuer's share capital and subsequent repayment to shareholders:
+(a) if the Shares are listed at an Exchange, a new Conversion Price shall be calculated as follows:
+NTew C^onversion Pri.ce = -s-h-a--r-e p--r-i-c-e--l-e-s-s--a-m--o-u--n-t--r-ep--a-i-d--p-e-r--s-h-a-r-e- x ol,d, C^onversion Price share price
+where the share price is the average of the weighted average of official daily trading price on the Exchange the last three days Shares are quoted including rights; and
+24
+Nordic Trustee ASA
+(b) if the Shares are not listed, the Conversion Price shall be reduced with an amount equal to the amount repaid per Share.
+Reduction o f the share capital without repayment to the shareholders shall have no influence on the Conversion Price.

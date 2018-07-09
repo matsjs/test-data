@@ -1,0 +1,202 @@
+LATINA OFFSHORE HOLDING LIMITED - USD 50M BOND
+
+# of days in period
+
+#
+
+Calculation of Excess Cash Flow & Cash Flow Sweep
+
++ Revenue and/or factoring proceeds
+
+USD
+
+- Operating Expenses
+
+"
+
+- SG&A
+
+"
+
+- Capital Expenditures
+
+"
+
+- Taxes (paid or accrued)
+
+"
+
+- Factoring costs
+
+"
+
+= CF for interest
+
+"
+
+- Next interest
+
+"
+
+= CF for Cash Flow Sweep
+
+"
+
++ CF for Cash Flow Sweep
+
+USD
+
+- Amortization (principal amount)
+
+"
+
+- Am ortization (call premium )
+
+"
+
+= Surplus CF
+
+"
+
+31
+Dec-16 2,106,000 (576,072)
+(93,000) (34,100)
+(49,575) 1,353,253 (1,839,236) (485,983)
+
+31
+Jan-17 918,930 (365,481) (93,000) (34,100) (94,766) (10,414) 321,169 (579,340) (258,171)
+
+28
+Feb-17 1,122,634 (1,235,138)
+(84,000) (30,800) (29,850) (10,566) (267,721)
+(267,721)
+
+31
+Mar-17 1,314,610 (752,578)
+(93,000) (34,100)
+(9,369) 425,563
+425,563
+
+30
+Apr-17 1,299,301 (692,996)
+(90,000) (33,000)
+(10,665) 472,639 (1,109,386) (636,746)
+
+Actual cost per day Operating Expenses SG&A Capital Expenditures
+Max cost per day Operating Expenses SG&A Capital Expenditures
+Check Operating Expenses SG&A Capital Expenditures
+
+USD/d " "
+USD/d " "
+USD/d " "
+
+Dec-16 18,583 3,000
+1,100
+Dec-16 24,200 3,300
+1,100
+Dec-16 OK OK OK
+
+Jan-17 11,790 3,000
+1,100
+Jan-17 24,200 3,300
+1,100
+Jan-17 OK OK OK
+
+Feb-17 44,112
+3,000 1,100
+Feb-17 24,200 3,300
+1,100
+Feb-17 FAIL OK OK
+
+Mar-17 24,277
+3,000 1,100
+Mar-17 24,200
+3,300 1,100
+Mar-17 FAIL OK OK
+
+Apr-17 23,100 3,000
+1,100
+Apr-17 24,200 3,300
+1,100
+Apr-17 OK OK OK
+
+Calculation of change in cash Cash, BoP +/- CF pre debt service - Interest cost - Amortization Shareholder loan Cash, EoP
+
+USD
+
+798,000
+
+312,017
+
+53,846
+
+"
+
+1,353,253
+
+321,169
+
+(267,721)
+
+"
+
+(1,839,236)
+
+(579,340)
+
+-
+
+"
+
+220,000
+
+"
+
+312,017
+
+53,846
+
+6,126
+
+6,126 425,563
+-
+431,689
+
+431,689 472,639 (1,109,386)
+220,000 14,942
+
+Cash, EoP - Overview + Parent Modular Earnings Account + Debt Service Account = Total cash, EoP
+
+Dec-16
+
+Jan-17
+
+Feb-17
+
+Mar-17
+
+Apr-17
+
+USD
+
+312,017
+
+53,846
+
+6,126
+
+431,689
+
+14,942
+
+312,017
+
+53,846
+
+6,126
+
+431,689
+
+14,942
+
+

@@ -1,0 +1,9 @@
+8 901 0
+13 381 - 4 440
+8 941 0
+8 941
+All amounts presented in the table are notional amounts. Total interest-bearing liabilities will therefore differ from booked total amounts due to bond discounts/premiums, hedge reserve, and unrealised effects from fair value hedging (see Note 11 Interest-bearing liabilities). Floating rate exposure is calculated without accounting for potential future refinancing.
+In te re s t rate risk-- fair value h e d g e
+Changes in the fair value of derivatives which are designated and qualify as fair value hedges in accordance with IAS 39 F in a n c ia l In s tru m e n ts -- r e c o g n itio n a n d m e a s u r e m e n t are recorded in the income statement together with any changes in the fair value of the hedged asset or liability which are attributable to the hedged risk. The market value of hedging instruments terminated before maturity will remain within interest-bearing debt as adjustments of amortised cost, until the underlying hedged item is realised.
+CHANGE IN FAIR VALUE OF INTEREST RATE DERIVATIVES AND C O R R ESPO N DING HEDGED IT E M S
+Changes in fair value of interest rate s w a p s ........................................................ Changes in fair value of underlying debt (hedged ite m ).................................. Ineffectiveness recognised in the income statement(1 ).....................................

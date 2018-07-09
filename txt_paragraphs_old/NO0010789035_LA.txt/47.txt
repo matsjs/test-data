@@ -1,0 +1,9 @@
+(c) Interest shall be calculated on the basis of the actual number of days in the Interest Period in respect of which payment is being made divided by 360 (actual/360-days
+basis). The Interest Rate will be reset at each Interest Quotation Day by the Bond Trustee, who will notify the Issuer and the Paying Agent and, if the Bonds are listed, the Exchange, of the new Interest Rate and the actual number of calendar days for the next Interest Period.
+(d) Any interpolation of the interest rate will be quoted with the number of decimals corresponding to the quoted number of decimals of the Reference Rate.
+9.2 Payment of Interest Interest shall fall due on each Interest Payment Date for the corresponding preceding Interest Period and, with respect to accrued interest on the principal amount then due and payable, on each Repayment Date.
+10. REDEMPTION ANDREPURCHASE OF BONDS 10.1 Redemption of Bonds
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the Issuer on the Maturity Date at a price equal to 100 per cent. of the Nominal Amount.
+10.2 Voluntary early redemption - CallOption (a) The Issuer may redeem all but not only some of the Outstanding Bonds (the "Call Option") on any Business Day from and including:
+(i) the Issue Date to, but not including, the First Call Date at a price equal to the Make Whole Amount;
+(ii) the First Call Date to, but not including, the Interest Payment Date in April 2020 at a price equal to 104.00 per cent. of the Nominal Amount for each redeemed Bond;

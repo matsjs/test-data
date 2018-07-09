@@ -1,0 +1,9 @@
+"Borrowings" means, at any time, the aggregate outstanding principal, capital or nominal amount (and any fixed or minimum premium payable on prepayment or redemption which is due and payable at the time of calculation) of any Financial Indebtedness (including the Facilities but excluding Financial Indebtedness arising under Subordinated Debt) together with capitalised interest thereon outstanding at such time.
+"Cost to Income Ratio" means the ratio of Operating Expenses to total net income in respect of any Measurement Period.
+"Debt Service" means, in respect of any Measurement Period, the aggregate of:
+(a) Finance Charges for the Group for that Measurement Period;
+(b) the aggregate of all scheduled repayments of Borrowings for the Group (excluding Non-Recourse Funding SPV's and the First Scheduled Repayment) falling due during that Measurement Period;
+(c) the amount of the capital element of any payments in respect of that Measurement Period payable under any Finance Lease entered into by any member of the Group,
+and so that no amount shall be included more than once.
+31
+"Debt Service Cover Ratio" means the ratio of Free Cash Flow to Debt Service in respect of any Measurement Period.

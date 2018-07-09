@@ -1,0 +1,9 @@
+(a) the present value on the Make Whole Calculation Date of the Face Value of the redeemed Bonds, assuming such amount to be a payment due on the First Call Date (and at the then applicable redemption price); and
+where the present value shall be calculated by using a discount rate of 50 basis points over the comparable Bund Rate (i.e. comparable to the remaining duration of the Bonds until the First Call Date) (plus accrued interest on the redeemed amount), and where the interest rate applied for the remaining interest payments shall equal the interpolated EUR mid-swap rate for this period plus the Margin.
+"Make-Whole Calculation Date" means the first Business Day after the day the Issuer has sent the notice for exercising the Call Option.
+"Managers" means the managers for the Bond Issue, being Arctic Securities AS, DNB Markets, a part of DNB Bank ASA and Nordea Bank AB (publ), filial i Norge.
+"Margin" means:
+(a) initially, 4.25% per annum; and
+(b) from and including the first anniversary of the Issue Date:
+(i) if a Rating Release Event has occurred on or prior to that date, 4.25% per annum; or
+(ii) if a Rating Release Event has not occurred on or prior to that date, 5.25% per annum.

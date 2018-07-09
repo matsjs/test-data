@@ -1,0 +1,9 @@
+(b) if no rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by leading banks in the Stockholm interbank market reasonably selected by the Issuing Agent, for deposits of SEK 100,000,000 for the relevant period; or
+if any such rate is below zero, STIBOR will be deemed to be zero.
+"Subsidiary" means, in relation to any person, a subsidiary of the Issuer according to Chapter 1 Section 11 of the Swedish Companies Act (or under such provision as may replace this provision).
+"Swedish Government Note Rate" means the interpolated SGB rate between the SGB 12 August 2015 (series 1049) and the SGB 12 July 2016 (series 1050) (mid rates), as determined by the Issuing Agent on or about 11.00 am on the date of the notification
+8
+of redemption. If a quote for any aforementioned SGB rate is unavailable on the relevant date, the Issuing Agent may select a SGB rate it deems appropriate for the purpose of the calculation set out in this definition (acting reasonably).
+"Swedish Kronor" and "SEK" means the lawful currency of Sweden.
+"Tellus Disposal Proceeds" means the consideration receivable by Tellus Holdco for any disposal made of the shares in SSM Tellus, after deducting:
+(a) any reasonable expenses which are incurred with respect to such disposal; and

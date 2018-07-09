@@ -1,0 +1,9 @@
+14.4.1 The Issuer shall ensure that the Group, on a consolidated basis, at any time:
+(b) Debt to Assets Ratio: maintains Debt to Assets Ratio of not more than 0.6;
+(c) Interest Coverage Ratio: maintains an Interest Coverage Ratio of not less than 2.0; and
+(d) Leverage Ratio: maintains a Leverage Ratio of not more than 4.
+14.4.2 Compliance with the financial covenants in Clause 14.4.1 shall be measured on each Reporting Date by reference to the applicable interim or annual financial statements, commencing with the Relevant Period ending on 30 September 2013.
+14.4.3 Equity cure
+If the Issuer fails (or would otherwise fail) to comply with any of the financial covenants in Clause 14.4.1 for any Relevant Period, and within 25 Business Days of delivery o f the compliance certificate for that Relevant Period, the Issuer receives net cash proceeds from any New Shareholder Injections (a "Cure Amount"), then the applicable financial covenant shall be recalculated giving effect to the following pro forma adjustments as relevant by:
+(a) reducing Total Interest Bearing Debt by the Cure Amount; and
+(b) recalculating Net Interest Cost for the Relevant Period and the following Relevant Period, as if the Cure Amount had been applied in prepayment o f the Bonds at the beginning of the Relevant Period (such period the "First Relevant Period") and interest accruing on the Bonds during the First Relevant Period had been decreased by an amount equal to the interest which would have accrued on the amount deemed to have been prepaid over the First Relevant Period (such reduction to have effect also for the next Relevant Period, as if the Cure Amount was applied in prepayment o f the Bonds at the beginning o f the First Relevant Period).

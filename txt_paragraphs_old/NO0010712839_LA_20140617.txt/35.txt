@@ -1,0 +1,9 @@
+Floating Rate
+10
+Maturity of the Bonds and Redemption
+10.1 Maturity
+The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
+10.2 Call Option
+10.2.1 The Issuer may redeem the Bond Issue in whole or in part as follows (Call Option):
+(a) with settlement date at any time from and including the Interest Payment Date in June 2017 to, but not included, the Interest Payment Date in June 2018 at 103.50 % of par plus accrued interests on redeemed amount,
+(b) with settlement date at any time from and included the Interest Payment Date in June 2018 to, but not included, Maturity Date at 101.75 % of par plus accrued interests on redeemed amount.

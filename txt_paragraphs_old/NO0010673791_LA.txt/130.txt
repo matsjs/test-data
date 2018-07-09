@@ -1,0 +1,9 @@
+Requirement: the ratio o f A to B to be
+minimum 2.0
+[yes/no]
+(d)
+Leverage Ratio
+A: Total Interest Bearing Debt
+[tbi]
+B: EBITDA
+[tbi]
