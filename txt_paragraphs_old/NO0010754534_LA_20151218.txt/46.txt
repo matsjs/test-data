@@ -1,9 +1,0 @@
-Day Count Fraction
-10.1 Maturity
-The Bonds shall mature in full on the Maturity Date, and shall be repaid at the Face Value (100%) by the Issuer.
-10.2 Call Option
-18
-Nordic Trustee ASA
-10.2.1
-The Issuer may redeem the Bond Issue in whole or in part (Call Option) at any time from and including the Issue Date to, but not including, the Final Maturity Date at a price equal to the Make Whole Amount plus accrued but unpaid interest to (but not including) the Call Option Repayment Date.
-10.2.2 Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least 30 Business Days prior to the Call Option Repayment Date.

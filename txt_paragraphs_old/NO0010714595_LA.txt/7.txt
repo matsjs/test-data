@@ -1,9 +1,0 @@
-"Business Day Convention" means that if the relevant Payment Date originally falls on a day that is not a Business Day, an adjustment of the Payment Date will be made so that the relevant Payment Date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day (Modified Following Business Day Convention).
-"Call Date" shall have the meaning set out in Clause 10.3.
-"Call Option" shall have the meaning set out in Clause 10.3.
-"Change of Control Event" means:
-(a)
-before an IPO Event, any event where Norvestor Holding 1 AS, directly or indirectly
-ceases to have Decisive Influence over the Issuer; or
-(b)
-following an IPO Event, if (i) a Person or group of Persons acting in concert, other than

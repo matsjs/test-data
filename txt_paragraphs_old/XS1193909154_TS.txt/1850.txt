@@ -1,9 +1,0 @@
-- 1 200 947
--3 0 9 0 0 0 0
-159 - 150
-(1) Sales in the period consist of sale of excess energy from one of the contracts in Norway. Gains and losses related to the realised volume from contracts in level 3 are recognised in the income statement line Other gains and losses.
-F-191
-NORSKE SKOGINDUSTRIER ASA NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued)
-9. DERIVATIVES (Continued)
-The fair value of derivatives that are not traded in an active market (over-the-counter derivatives) is determined using various valuation techniques. Interest rate swaps, cross-currency swaps, forward rate agreements and foreign currency forward contracts are all valued by estimating the present value of future cash flows. Currency options are valued using recognised option pricing models. Quoted cash and swap rates are used as input for calculating zero coupon curves used for discounting. The exchange rates used are the quoted closing rates at 31 December.
-The fair value of commodity contracts recognised in the balance sheet is calculated by using quotes from actively traded markets when available. Otherwise, price forecasts from acknowledged external sources are used. Commodity contracts that fail to meet the own-use exemption criteria in IAS 39 are recognised in the balance sheet and valued on the same principle as financial contracts. Some of these are long-term energy contracts. In calculating the fair value of em bedded derivatives, valuation techniques are used in the absence of observable market inputs. Em bedded currency options are calculated using a Black 76 valuation model, where some input assumptions have been made in absence of an active long-term option market.

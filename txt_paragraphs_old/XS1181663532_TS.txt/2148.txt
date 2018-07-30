@@ -1,9 +1,0 @@
-The following foreign exchange sensitivity analysis calculates the sensitivity of derivatives and non-derivative financial instruments on net profit and equity, based on a defined appreciation/ depreciation of NOK against relevant currencies, keeping all other variables constant. The analysis is based on several assumptions, including:
-· Financial instruments denominated in the functional currency of the entity have no currency risk and will therefore not be applicable to this analysis. Furthermore, the foreign currency exposure of translating financial accounts of subsidiaries into the group's presentational currency is not part of this analysis.
-· Sensitivity on commodity contracts and em bedded derivatives is presented separately under ``Commodity risk''.
-· Currency derivatives and foreign currency debt that are designated as net investment hedges and qualify for hedge accounting according to IAS 39 will only affect equity.
-· Other currency derivatives that are recognised at fair value through profit and loss will affect the income statement. These effects come mainly from currency derivatives designated as hedging of the group's 12-month rolling cash flow exposure, and financial liabilities managed as economic net investment hedges which do not qualify for hedge accounting according to IAS 39.
-· Other non-derivative financial instruments accounted for in the analysis comprise cash, accounts payable, accounts receivable and borrowings denominated in currencies different from the functional currency of the entity.
-· Correlation effects between currencies are not taken into account. Figures are presented net of tax.
-F-249
-NORSKE SKOG GROUP NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued)

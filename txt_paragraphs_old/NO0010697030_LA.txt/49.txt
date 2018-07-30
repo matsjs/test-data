@@ -1,9 +1,0 @@
-10.3.3
-10.3.4
-On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, the principal amount of each such Bond (including any premium pursuant to Clause 10.3.1) and any unpaid interest accrued up to (but not including) the settlement date.
-10.4 Mandatory Prepayment
-10.4.1
-Upon a Mandatory Prepayment Event occurring, the Issuer shall, on or about the day the proceeds are received following the relevant Mandatory Prepayment Event, redeem Outstanding Bonds with the Mandatory Prepayment Amount (a "Mandatory Prepayment") at par value (100%) pro rata (in accordance with the procedures of the Securities Depository).
-10.4.2
-On the settlement date of the Mandatory Prepayment, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, in respect of each such Bond, the principal amount of such Bond (including any premium as stated above) and any unpaid interest accrued up to the settlement date.
-10.4.3 Bonds redeemed by the Issuer in accordance with this Clause 10.4 shall be discharged against the Outstanding Bonds.

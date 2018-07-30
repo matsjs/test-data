@@ -1,9 +1,0 @@
-The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of
-the calculation period in which payment being made divided by 360.
-9.5
-The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the
-Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant
-calculation period, based on the Bond Reference Rate two (2) Business Days preceding that
-Interest Payment Date.
-When the interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and
-9798893/5

@@ -1,9 +1,0 @@
-"Make Whole Amount" means an amount equal to the sum of:
-(b) the present value on the Call Option Repayment Date of the remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the Maturity Date,
-7
-Nordic Trustee ASA
-where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macauley duration of the Bonds from the Call Option Repayment Date until the Maturity Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate two Business Day prior to the Call Option Repayment Date plus the Margin (however so that the interest rate can never fall below the Margin).
-"Market Value of the Portfolio" means the fair market value of the Portfolio as determined by an independent valuation of the Portfolio obtained from an independent and well-reputed valuator familiar with the market for the Portfolio, appointed by the Issuer and approved by the Bond Trustee.
-"Mid-Swap Rate" means the linearly interpolated Reference Rate in the currency of the Bonds for the actual period, or, if such is not quoted, the mid-swap rate for the leading banks in the relevant interbank market, based on the last quoted Reference Rate or mid-swap rate in the currency of the Bonds for the actual period.
-"Manager" means the manager for the Bond Issue, being Arctic Securities AS.
-"Margin" means 7.00 percentage points (7.00%) per annum.

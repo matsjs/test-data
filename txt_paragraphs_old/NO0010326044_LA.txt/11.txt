@@ -1,9 +1,0 @@
-Interest
-Interest Payment Date.
-Interest Payment Date:
-- 14 January, 14 April, 14 July and 14 October each year. If the
-Interest Payment Date is not a Banking Day, the Interest Payment Date shall be postponed to the next Banking Day. However, if this day falls in the following calendar month, the Interest Payment Date is moved to the first Banking Day preceding the original date.
-Maturity Date:
-14 July 2009.
-NIBOR:
-- the interest rate rounded off to two decimal places or a 3 - three - months period that is quoted on Reuters N B R page at 12.00

@@ -1,9 +1,0 @@
-A- B A
-A is the Current Market Price of one Ordinary Share on the dealing day immediately preceding the date on which the terms of such offer are first publicly announced; and
-B is the Fair Market Value on the date of such public announcement by the Issuer or any Subsidiary as mentioned above of the portion of the relevant offer attributable to one Ordinary Share.
-Such adjustment shall become effective on the first date on which the Ordinary Shares are traded ex-rights on the Relevant Stock Exchange.
-(x) If a Change of Control shall occur, then upon any exercise of Conversion Rights where the Conversion Date falls during the Change of Control Period, the Conversion Price (the "Change of Control Conversion Price") shall be determined as set out below, but in each case adjusted, if appropriate, under this Condition 6(b).
-COCCP = OCP/(1+ (CP x c/t))
-where:
-COCCP OCP CP c
-t

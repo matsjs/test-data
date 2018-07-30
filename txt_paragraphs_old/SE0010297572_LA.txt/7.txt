@@ -1,9 +1,0 @@
-4
-"Escrow Accounts" means the Escrow Cash Account, the Escrow Interest Account and the Escrow VP Account.
-"Escrow Cash Account" means a bank account of the Issuer, into which the Net Proceeds will be transferred and which has been pledged in favour of the Agent and the Bondholders (represented by the Agent) under the Escrow Account Pledge Agreement.
-"Escrow Interest Account" means a bank account of the Issuer into which any interest received under the Exchanged Existing Bonds, during the period from the First Issue Date up to the date when the conditions precedent for disbursement (as set out in Clause 4(b)) have been fulfilled, shall be deposited and which has been pledged in favour of the Agent and the Bondholders (represented by the Agent) under the Escrow Accounts Pledge Agreement.
-"Escrow VP Account" means the VP securities account of the Issuer, into which the Exchanged Existing Bonds will be transferred and which has been pledged in favour of the Agent and the bondholders (represented by the Agent) under the Escrow Account Pledge Agreement.
-"Escrow Account Pledge Agreement" means the pledge agreement entered into between the Issuer and the Agent on or about the First Issue Date in respect of a first priority pledge over the Escrow Accounts and all funds held on the Escrow Accounts from time to time, granted in favour of the Agent and the Bondholders (represented by the Agent).
-"Exchange Offer" means the offer to Existing Bondholders to exchange their Existing Bonds for Bonds.
-"Exchanged Existing Bonds" means any Existing Bonds which an Existing Bondholder have used to participate in the Exchange Offer.
-"Existing Bondholder" means a holder of any Existing Bond.

@@ -1,9 +1,0 @@
-8.1 The Bonds shall be senior debt of the Issuer. The Bonds shall rank at least pari passu with all other obligations o f the Issuer (save for such claims which are preferred by bankruptcy, insolvency, liquidation or other similar laws of general application) and shall rank ahead of subordinated debt.
-8.3 Until the Share Pledge is duly established, the Bonds, including accrued interest and expenses, shall be secured by the Escrow Account Pledge and the Pledge over the Settlement Bonds.
-The Escrow Account Pledge shall only secure the ordinary Bonds (i.e. not the Temporary Bonds), and the Pledge over Settlement Bonds shall only secure the Temporary Bonds.
-9
-Interest
-9.1 The Issuer shall pay interest on the face value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate")
-9.2 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date falls in October 2010.
-9.3 The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
-9.4 The day count fraction in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.

@@ -1,9 +1,0 @@
-"Material Adverse Effect" means a material adverse effect on:
-(b) the validity or enforceability of any of the Finance Documents,
-"Material Asset Sale Event" means, except if it constitutes a Total Loss Event:
-(a) any of the Norwegian Low Frequency Licenses and Norwegian High Frequency Licenses are sold or disposed of; or
-(b) the Issuer ceases to be the owner (directly or indirectly) of the Guarantors owned by the Issuer at the time of the Bond Issue (however excluding the Swedish Guarantor and the Danish Subsidiary for the purposes of determining a Material Asset Sale Event).
-"M aturity Date" means 12 October 2021, adjusted according to the Business Day Convention.
-"Mid-Swap Rate" means the linearly interpolated Reference Rate in the currency of the Bonds for the actual period on the day falling 2 Business Days before the notification to the Bondholders of the Make Whole Amount pursuant to Clause 10.2(d), or, if such is not quoted, the mid-swap rate for the leading banks in the relevant interbank market, based on the last quoted Reference Rate or mid-swap rate in the currency of the Bonds for the actual period.
-"NIBD" means, on a consolidated basis for the Group, the aggregate consolidated interest bearing debt (excluding any Subordinated Loans) less Liquidity.
-"Nominal Amount" means the Initial Nominal Amount less (if relevant) the aggregate amount by which each Bond has been partially redeemed pursuant to Clause 10 {Redemption and repurchase o fBonds).

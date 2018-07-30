@@ -1,9 +1,0 @@
-The Issuer fails to fulfil any payment obligation due under this Bond Agreement or any Finance Document when due, unless, in the opinion of the Bond Trustee, it is likely that such payment will be made in full within five Business Days following the original due date.
-Any Obligor does not comply with any provision pursuant to this Bond Agreement or any other Finance Document, unless, in the opinion of the Bond Trustee, such failure is capable of being remedied and is remedied within ten Business Days after notice thereof is given to the Issuer by the Bond Trustee.
-(c) Breach of financial covenants
-If the Issuer fails (or would otherwise fail) to comply with any Financial Covenant at a Quarter Date, and the Issuer receives cash proceeds in the form of any new equity or subordinated debt (the "Cure Amount") prior to the delivery of the Compliance
-#4864810/1
-25 (39)
-Certificate for the relevant period ending on such Quarter Date, then such Financial Covenant shall be recalculated after giving effect to the following pro forma adjustments:
-(i) Book Equity and Total Assets shall each be increased by an amount equal to the Cure Amount;
-(ii) Liquidity shall be increased by an amount equal to the Cure Amount; and

@@ -1,9 +1,0 @@
-(e) The Issuer is not liable to gross-up any payments under the Finance Documents by virtue of any withholding tax, public levy or the similar.
-(a) Each Initial Bond carries Interest at the Interest Rate from (but excluding) the First Issue Date up to (and including) the relevant Redemption Date. Any Subsequent Bond will carry Interest at the Interest Rate from (but excluding) the Interest Payment Date falling immediately prior to its issuance up to (and including) the relevant Redemption Date.
-(b) If the Issuer subsequent to the First Issue Date has received injection(s) of Equity:
-(i) in an amount of at least SEK 100,000,000 on one occasion, then the Floating Rate Margin shall be reduced by 75 basis points; and
-(ii) in an additional amount of at least SEK 100,000,000 on one occasion (together with the injection referred to in paragraph (i) above, being an aggregate amount of SEK 200,000,000), then the Floating Rate Margin shall be reduced by an additional of 75 basis points,
-provided that the Trustee has received evidence of such equity injection(s) in form and substance satisfactory to it.
-(c) Upon a reduction of the Floating Rate Margin, the Issuer and the Trustee shall instruct the CSD to adjust the Interest Rate of the Bonds accordingly. Such adjusted Interest Date shall have effect from the first day in the next Interest Period following the relevant Equity injection.
-(d) Interest accrues during an Interest Period. Payment of Interest in respect of the Bonds shall be made to the Bondholders on each Interest Payment Date for the preceding Interest Period.
-(e) Interest shall be calculated on the basis of the actual number of days in the Interest Period in respect of which payment is being made divided by 360 (actual/360-days basis).

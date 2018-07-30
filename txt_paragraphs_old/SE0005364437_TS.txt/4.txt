@@ -1,9 +1,0 @@
-(iii) accrued but unpaid Interest up to the relevant Redemption Date; and
-"Borrowings" means, as at any particular time, the aggregate outstanding principal, capital or nominal amount (and any fixed or minimum premium payable on prepayment or redemption) of the Financial Indebtedness (excluding any Financial Indebtedness under any Treasury Transactions) of members of the Group (excluding any Financial Indebtedness between members of the Group).
-"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (midsommarafton), Christmas Eve (julafton) and New Year's Eve (nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
-"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
-"Call Option" means the Issuer's right to redeem outstanding Notes in full in accordance with Clause 10.3 (Voluntary Total Redemption).
-"Call Option Amount" means:
-(c) 100.00 per cent. of the Nominal Amount plus the Applicable Premium, together with accrued but unpaid interest, if the Call Option is exercised anytime before the First Call Date;
-(d) 103.00 per cent. of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the First Call Date to, but not including, the date falling 42 months after the First Issue Date;
-(e) 102.50 per cent. of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 42 months after the First Issue Date to, but not including, the date falling 48 months after the First Issue Date;

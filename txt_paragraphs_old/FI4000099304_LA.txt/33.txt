@@ -1,9 +1,0 @@
-10. Redemption and Repurchase of the Bonds
-The Issuer shall redeem all, but not only some, of the outstanding Bonds in full on the Final Maturity Date with an amount per Bond equal to the Nominal Amount together with accrued but unpaid Interest. If the Final Maturity Date is not a CSD Business Day, then the redemption shall occur on the CSD Business Day determined by application of the Business Day Convention.
-10.2 Group Companies' purchase of Bonds
-Each Group Company may at any time purchase Bonds. Bonds held by a Group Company may at such Group Company's discretion be retained, sold or, if held by the Issuer, be cancelled.
-10.3 Voluntary Total Redemption
-(a) The Issuer may redeem the Bonds in whole, but not in part, at any time from and including:
-(i) the First Issue Date to, but not including, the date falling 30 months after the First Issue Date at a price equivalent to the sum of:
-(A) the present value on the relevant record date (as defined below) of 102.75 per cent, of the Outstanding Nominal Amount as if such payment originally should have taken place on the Interest Payment Date falling 30 months after the First Issue Date; and
-(B) the present value on the relevant record date (as defined below) of the remaining coupon payments (assuming that the Interest Rate will be equal to the interpolated EUR mid-swap rate plus 2.75 per cent.) (less any accrued but unpaid interest)

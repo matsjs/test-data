@@ -1,9 +1,0 @@
-15
-Norsk Tillitsmann ASA
-Execution Version
-Interest Payment Date Early Redemption Amount (USD)
-2 July 2012 2 October 2012 2 January 2013 2 April 2013 2 July 2013 2 October 2013 2 January 2014 2 April 2014 2 July 2014 2 October 2014 2 January 2015
-.0375 .0769 .1182 .1616 .2072 .2551 .3053 .3581 .4135 .4717 .5328;
-r = 20%;
-d = number of days from and including the immediately preceding Interest Payment Date;
-p = 9 0 ;and

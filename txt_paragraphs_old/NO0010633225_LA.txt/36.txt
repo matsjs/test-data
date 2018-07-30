@@ -1,9 +1,0 @@
-10.3.3
-10.4 Mandatory Prepayment
-10.4.1
-Upon a Mandatory Prepayment Event occurring the Issuer shall, at the earlier of (i) on or about the day tire Issuer is receiving the proceeds following the relevant Mandatory Prepayment Event and (ii) 20 Business Days after the event triggering the actual Mandatory Prepayment Event, redeem 100% of the outstanding bonds at a price as follows:
-(i) if occurring anytime from Issue Date to, but not including, the Interest Payment Date in December 2013, at a price equivalent to the sum of:
-a. the present value on the relevant record date of 112.5 % of the par value discounted from tire Interest Payment Date in December 2013; and
-b. the present value on the relevant record date of the remaining coupon payments (less any accrued but unpaid interest, as such interest shall be paid in full) through and including the Interest Payment Date in December 2013 both calculated by using a discount rate of 50 basis points over the comparable U.S. Treasury Rate (i.e. comparable to the remaining duration of the Bonds until the mentioned Interest Payment Date in December 2013) (plus accrued interest on redeemed amount) and where "relevant record date" shall mean a date agreed upon between the Bond Trustee, the Paying Agent, VPS and the Issuer in connection with the such repayment; and
-(ii) if occurring anytime from and including the Interest Payment Date in December 2013 to, but not including, the Interest Payment Date in December 2014, at a price equal to 112.5 % of par value (plus accrued interest on redeemed amount);
-(iii) if occurring anytime from and including the Interest Payment Date in December 2014 to, but not including, the Final Maturity Date, at a price equal to 104.0% of par value (plus accrued interest on redeemed amount).

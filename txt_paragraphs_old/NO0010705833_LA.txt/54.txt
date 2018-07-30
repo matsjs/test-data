@@ -1,9 +1,0 @@
-10.3.2
-10.3.3
-The Put Option may be exercised by each Bondholder by giving written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent of the redemption request. The settlement date of the Put Option shall be the third Business Day after the end of the sixty days exercise period of the Put Option.
-10.3.4
-On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, the principal amount of each such Bond (including any premium pursuant to Clause 10.3.1) and any unpaid interest accrued up to (but not including) the settlement date.
-10.4 10.4.1
-Mandatory prepayment - Mandatory Prepayment Events and Total Loss Events
-Upon a Mandatory Prepayment Event occurring the Issuer shall, on or about the day the Issuer is receiving the proceeds following the relevant Mandatory Prepayment Event, redeem Bonds equivalent to the Redemption Amount (as defined below) at the following redemption prices:
-(a) From the Issue Date to, but not including, the interest Payment Date in September 2015, at a price equal to the sum of:

@@ -1,9 +1,0 @@
-accrue on the overdue amount from (but excluding) the due date up to (and including)
-Interest Rate. Accrued default interest shall not be capitalised. No default interest shall
-accrue where the failure to pay was solely attributable to the Agent or the CSD, in
-which case the Interest Rate shall apply instead.
-15
-10 10.1
-10.2
-10.3 10.3.1 10.3.2
-10.4 10.4.1 10.4.2

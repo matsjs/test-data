@@ -1,9 +1,0 @@
-10.3.2 The Put Option must be exercised within two months after the Issuer has given notification to the Bond Trustee of a Change o f Control Event. Such notification shall be given as soon as possible after a Change of Control Event has taken place.
-The Put Option may be exercised by each Bondholder by giving written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent o f the redemption request. The settlement date of the Put Option shall be the third Business Day after the end o f the two month exercise period of the Put Option.
-10.3.4
-On the settlement date o f the Put Option, the Issuer shall pay to each o f the Bondholders holding Bonds to be redeemed, the principal amount o f each such Bond (including any premium pursuant to Clause 10.3.1) and any unpaid interest accrued up to (but not including) the settlement date.
-10.4 Mandatory Prepayment
-10.4.1
-Upon a Mandatory Prepayment Event or a Mandatory Prepayment Disposal occurring, the Issuer shall, not later than 30 days following the relevant Mandatory Prepayment Event or Mandatory Prepayment Disposal, unless there is an Event of Default in which case it will be promptly, redeem 100% of the outstanding bonds:
-(a) upon a Mandatory Prepayment Event occurring: at the same prices as set out in Clause 10.2.1; and
-(b) upon Mandatory Prepayment Disposal occurring: at an price equal to 104% o f par value (plus accrued interests on the redeemed amount) for the time period from the Settlement Date to, but not including, the Interest Payment Date falling 2 years after the Settlement Date and thereafter at the same prices as set out in Clause 10.2.1.

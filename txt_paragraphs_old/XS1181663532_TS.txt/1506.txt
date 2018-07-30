@@ -1,9 +1,0 @@
-S e nsitivity a na lysis fo r c o m m o d ity c o n tra c ts
-W hen calculating fair value of future and forward contracts, cash flows are by principle assumed to occur in the middle of the period. Currency effects arise when contract values nominated in foreign currencies are translated into the reporting currency. Net profit after tax is affected in a non-linear manner due to changes in the fair value of options.
-COMMODITY CONTRACTS WITHIN THE SCOPE OF IAS 39
-Energy p r i c e ..................................... C u rre n c y .............................................
-change 10% change 10%
-FAIR VALUE 31.12.2013
-102 102
-RESULT NET OF TAX CHANGE DOWN
--157 0

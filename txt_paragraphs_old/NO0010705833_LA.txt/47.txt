@@ -1,9 +1,0 @@
-Interest payments shall be made in arrears on the Interest Payment Dates each year, the
-9.3
-The relevant interest payable amount shall be calculated based on a period from, and
-including, one Interest Payment Date to, but excluding, the next following applicable
-Interest Payment Date.
-9.4
-The day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of
-the payable interest amount shall be "30/360", which means that the number of days in
-the calculation period in respect of which payment is being made divided by 360 (the

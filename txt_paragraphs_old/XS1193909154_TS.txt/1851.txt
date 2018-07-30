@@ -1,9 +1,0 @@
-The fair value of derivatives that are not traded in an active market (over-the-counter derivatives) is determined using various valuation techniques. Interest rate swaps, cross-currency swaps, forward rate agreements and foreign currency forward contracts are all valued by estimating the present value of future cash flows. Currency options are valued using recognised option pricing models. Quoted cash and swap rates are used as input for calculating zero coupon curves used for discounting. The exchange rates used are the quoted closing rates at 31 December.
-The following table is presented in accordance with IFRS 7.27, showing the fair value of commodity contracts in level 3 given a change in assumptions to a reasonably possible alternative.
-FAIR VALUE OF DERIVATIVES IN LEVEL 3 GIVEN A REASONABLY POSSIBLE ALTERNATIVE
-Assets Commodity c o n tra c ts ..................................................................................................
-31.12.2012 31.12.2011
-827
-2 220
-Liabilities Commodity c o n tra c ts ..................................................................................................
--145

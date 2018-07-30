@@ -1,9 +1,0 @@
-20
-(b) Partial prepayment in accordance with Clause 10.5(a) shall be equal to the repaid percentage of the Outstanding Nominal Amount (rounded down to the nearest EUR 1,000) plus;
-(i) if made before the First Call Date, at the price set out in paragraph (ii) of Clause 10.3(a) (Voluntary Total Redemption), and if made at any time thereafter, at the relevant price set out in Clause 10.3(a) (Voluntary Total Redemption) for the relevant period; and
-(ii) accrued but unpaid interest on the repaid amount.
-(c) Repayment shall be made to each Bondholder on an Interest Payment Date occurring within one hundred eighty (180) days following the Equity Listing Event (giving not less than twenty (20) Business Days' notice prior to the relevant repayment date to the Bondholders and the Trustee).
-(d) Partial repayment in accordance with this Clause 10.5 may only be made at one occasion.
-10.6 Mandatory Prepayment upon a Total Loss Event
-(a) Should a Total Loss Event occur in relation to any New Vessel, the Issuer shall immediately upon receipt apply the full amount of the insurance proceeds received in connection with the Total Loss Event towards prepayment of the Vessel Financing attributable to that New Vessel. Any surplus remaining thereafter shall be applied in partial repayment of the Bonds by way of reducing the Outstanding Nominal Amount of each Bond pro rata.
-(b) Should a Total Loss Event occur in relation to the Existing Vessel, the Issuer shall immediately upon receipt apply the full amount of the insurance proceeds received in connection with the Total Loss Event in partial repayment of the Bonds by way of reducing the Outstanding Nominal Amount of each Bond pro rata.

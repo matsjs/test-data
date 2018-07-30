@@ -1,9 +1,0 @@
-10.2.3
-10.2.4 On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, its Pro Rata Share of the Payoff Amount.
-10.3 Mandatory Prepayment
-10.3.1
-Upon the occurrence of a Mandatory Prepayment Event, the Issuer shall (even if the Mandatory Prepayment Event Proceeds are lower than the outstanding principal and interest on the Outstanding Bonds at that date) redeem all the Outstanding Bonds in full by paying the Mandatory Prepayment Event Proceeds (including any amount of the Mandatory Prepayment Event Proceeds which exceeds the Payoff Amount) to the Bondholders.
-10.3.2
-On the settlement date of the Mandatory Prepayment, the Issuer shall pay to each of the Bondholders holding Outstanding Bonds, in respect of each such Outstanding Bond, its Pro Rata Share of the Mandatory Prepayment Event Proceeds.
-10.3.3
-The Issuer shall notify the Bond Trustee in writing of any Mandatory Prepayment Event at least ten (10) Business Days prior to when the settlement date of the Mandatory Prepayment is expected to occur. The settlement date may, however, upon further notice to the Bond Trustee and the Bondholders, be reduced or prolonged, due to the settlement of the Mandatory Prepayment Event, but not with shorter notice than five (5) Business Days before the settlement day of the Mandatory Prepayment.

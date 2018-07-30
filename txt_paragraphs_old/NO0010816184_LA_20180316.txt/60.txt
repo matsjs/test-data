@@ -1,9 +1,0 @@
-20
-11.7 11.7.1
-11.7.2 11.7.3
-11.7.4
-Early redemption due to illegality (call option)
-The Issuer may redeem all, but not some only, of the outstanding Notes at an amount per Note equal to the Nominal Amount together with accrued but unpaid Interest on a Redemption Date determined by the Issuer if it is or becomes unlawful for the Issuer to perform its obligations under the Finance Documents.
-The applicability of Clause 11.6.1 shall be supported by a legal opinion issued by a reputable law firm.
-The Issuer may give notice of redemption pursuant to Clause 11.6.1 no later than twenty (20) Business Days after having received actual knowledge of any event specified therein (after which time period such right shall lapse). The notice from the Issuer is irrevocable, shall specify the Redemption Date (which shall not be less than twenty (20) Business Days following the provision of such notice) and also the Record Date on which a person shall be registered as a Noteholder to receive the amounts due on such Redemption Date. The Issuer is bound to redeem the Notes in full at the applicable amount on the specified Redemption Date.
-Mandatory repurchase due to a Change of Control Event (put option)

@@ -1,9 +1,0 @@
-Fixed Rate
-9.2 Interest FRN Tranche
-9.2.1 The Issuer shall pay interest on the FRN Tranche from and including the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate").
-9.2.2 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date being on 27 July 2011.
-9.2.3
-The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
-9.2.4
-The day count convention in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment is being made is divided by 360 (the "Day Count Factor").
-9.2.5

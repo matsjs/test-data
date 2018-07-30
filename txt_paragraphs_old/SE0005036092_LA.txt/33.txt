@@ -1,9 +1,0 @@
-DEFINITIONS
-"Account Operator"
-means a bank or other party which has been authorised to act as an account operator pursuant to the Swedish Financial Instruments (Accounts) Act (Sw. lag (1998:1479) om kontoföring av finansiella instrument) and with whom a Noteholder has opened a Securities Account with respect to the Notes;
-"Additional Mortgages"
-means additional mortgages with respect to the Property issued upon an Additional Mortgages Event in an amount which, together with the existing mortgages issued in the Property, covers the Adjusted Loan Amount;
-"Additional Mortgages Event" means an event where the Loan to Value (as defined in Clause 13 (Financial Covenants)) exceeds 80%;
-"Adjusted Loan Amount"
-means the Nominal Amount reduced by any redemption made in accordance with these Terms and Conditions;
-"Agent"

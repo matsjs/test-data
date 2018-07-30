@@ -1,9 +1,0 @@
-1
-"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (Sw. midsommarafton), Christmas Eve (Sw. julafton) and New Year's Eve (Sw. nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
-"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
-"Call Option Price" means:
-(a) the Make Whole Price if the early redemption is exercised before the First Call Date;
-(b) 102.509 per cent. of the Nominal Amount if the early redemption is exercised on or after the First Call Date up to (but excluding) the date falling thirty six (36) months after the Issue Date;
-(c) 102.007 per cent. of the Nominal Amount if the early redemption is exercised on or after the date falling thirty six (36) months after the Issue Date up to (but excluding) the date falling forty two (42) months after the Issue Date;
-(d) 101.505 per cent. of the Nominal Amount if the early redemption is exercised on or after the date falling forty two (42) months after the Issue Date up to (but excluding) the date falling forty eight (48) months after the Issue Date;
-(e) 101.004 per cent. of the Nominal Amount if the early redemption is exercised on or after the date falling forty eight (48) months after the Issue Date up to (but excluding) the date falling fifty four (54) months after the Issue Date;

@@ -1,9 +1,0 @@
-Value
-x Fixed
-Rate
-Day Count Fraction
-10 Maturity of the Bonds and Redemption
-10.1 Maturity
-The Bonds shall mature in full on the Maturity Date, and shall be repaid by the Issuer at 102% of par.
-10.2 Call Option
-10.2.1 The Issuer may redeem the Bond Issue in whole or in part as follows ("Call Option"):

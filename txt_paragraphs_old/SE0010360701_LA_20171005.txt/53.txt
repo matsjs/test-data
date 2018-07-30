@@ -1,9 +1,0 @@
-12.2.2 12.2.3 12.3
-(iii) 2.75:1 from and including 1 January 2020 and to the Final Redemption Date;
-(b) the Interest Cover Ratio is greater than 3.00:1; and
-(c) no Event of Default is continuing or would occur upon the incurrence of a distribution of a Restricted Payment.
-Testing
-The calculation of Leverage shall be made as per a testing date determined by the Issuer (the "Test Date"), falling no more than one month prior to the incurrence of the new Financial Indebtedness or the distribution of the Restricted Payment. The Net Interest Bearing Debt shall be measured on the relevant testing date so determined, but include the new Financial Indebtedness provided it is an interest bearing obligation (however, any cash balance resulting from the incurrence of the new Financial Indebtedness shall not reduce the Net Interest Bearing Debt). EBITDA shall be adjusted as set out below.
-The calculation of Leverage for the Incurrence Test shall be made in accordance with the Accounting Principles applicable on the First Issue Date.
-When the Interest Cover Ratio is measured under the Incurrence Test, as applicable, the calculation of the Interest Cover Ratio shall be made for the Relevant Period ending on the last day of the period covered by the most recent Financial Report available.
-Calculation Adjustments

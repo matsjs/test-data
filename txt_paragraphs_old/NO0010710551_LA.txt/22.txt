@@ -1,9 +1,0 @@
-8
-"NOK" means Norwegian kroner, being the lawful currency of Norway.
-"Norwegian Government Rate" means the rate interpolated from Norwegian Government rates available from Norges Bank on the 10th Business Day prior to redemption, as determined by the Bond Trustee. If the aforementioned rate is unavailable on the relevant date, the Bond Trustee may select a rate it deems appropriate for the purpose of the calculation set out in this definition (acting reasonably).
-"Obligor" means the Issuer and the Guarantors.
-"Original Guarantors" means the Material Group Companies (as at the Issue Date).
-"Outstanding Bonds" means the Bonds not redeemed or otherwise discharged.
-"Owner" means the Sponsor and other existing or future owners of shares in the Issuer.
-"Party" means a party to this Bond Agreement (including its successors and permitted transferees).
-"Paying Agent" means the legal entity appointed by the Issuer to act as its paying agent in the Securities Depository with respect to the Bonds.

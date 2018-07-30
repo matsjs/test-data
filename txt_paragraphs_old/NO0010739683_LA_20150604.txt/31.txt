@@ -1,9 +1,0 @@
-l 0.2.1 The Issuer may redeem parts of the Bond Issue or the entire Bond Issue as follows (Call Option):
-at any time from and including the Interest Payment Date in June 2018 to, but not
-including, the Interest Payment Date in June 2019 at 103.75% of par plus accrued
-interests on redeemed amount,
-(b) at any time from and including the Interest Payment Date in June 2019 to, but not including, the Interest Payment Date in December 2019 at 102.50% of par plus accrued interests on redeemed amount, and
-13 (33)
-(c) at any time from and including the Interest Payment Date in December 2019 to, but not including, the Maturity Date at 101 % of par plus accrued interests on redeemed amount.
-The applicable call price above shall be determined on the basis of the settlement date of the Call Option.
-10.2.2 Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty - 30 - Business Days prior to the settlement date of the Call Option.

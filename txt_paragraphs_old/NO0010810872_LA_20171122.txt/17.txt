@@ -1,9 +1,0 @@
-"Issuer's Bonds" means any Bonds which are owned by the Issuer or any Affiliate of the Issuer.
-"Leverage Ratio" means the ratio of (i) Outstanding Bond Amount and (ii) any drawn amounts under the Revolving Credit Facility or the RCF Bridge (as the case may be), less (a)
-10(61)
-any amounts standing to the Issuer's credit on any of the Escrow Account, the Debt Service Retention Account and the Disposal Account and (b) freely available, unrestricted and unencumbered consolidated cash balance of the Group as defined in accordance wifh GAAP (other than such restrictions and encumbrances made in favour of the Bond Trustee or the Security Agent), to the aggregate of (i) the total book value of the Vessels in accordance with GAAP, and, (ii) the total Market Value of any Cure Vessels.
-"Listing Failure Event" means that the Bonds have not been admitted to listing on an Exchange within 12 months following the Issue Date.
-"Make Whole Amount" means an amount equal to the sum of:
-(a) the present value on the relevant Call Option Repayment Date of 104.125 per cent, of the Nominal Amount of the redeemed Bonds as if such payment originally should have taken place on the First Call Date; and
-(b) the present value on the relevant Call Option Repayment Date o f the remaining interest payments of the redeemed Bonds (less any accrued but unpaid interest on the redeemed Bonds as of the Call Option Repayment Date) to and including the First Call Date,
-where the "present value" (in respect of both (a) and (b) above) shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation).

@@ -1,9 +1,0 @@
-10.4 10.4.1
-Upon the occurrence of a Mandatory Prepayment Event other than a Total Loss Event, the Issuer shall, not later than 30 days following the relevant Mandatory Prepayment Event, redeem Outstanding Bonds with the Redemption Amount at a price as follows:
-(a) if occurring anytime from the Issue Date to, but not including, the Interest Payment Day falling 12 months after Issue Date at a price equal to 105.40% of Face Value (plus accrued interest on redeemed Bonds);
-(b) if occurring anytime from and included the Interest Payment Day falling 12 months after the Issue Date to, but not including, the Interest Payment Day falling 24 months after the Issue Date, at a price equal to 104.00% of Face Value (plus accrued interest on redeemed Bonds);
-(c) if occurring anytime from and included the Interest Payment Day falling 24 months after the Issue Date to, but not including, the Interest Payment Day falling 36 months after the Issue Date, at a price equal to 102.70% of Face Value (plus accrued interest on redeemed Bonds); and
-(d) thereafter on the redemption prices set out under the Call Options (plus accrued interest on redeemed Bonds).
-10.4.2
-For the avoidance of doubt, the redemption price shall be determined based on the date the Mandatory Prepayment Event occurred and not based on the date the redemption is carried out.
-10.4.3

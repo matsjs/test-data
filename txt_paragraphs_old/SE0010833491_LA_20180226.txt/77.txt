@@ -1,9 +1,0 @@
-26
-Should the Issuer want to replace the Agent, it may send a communication in accordance
-with Clause 17.1 to each Holder with a copy to the Agent.
-17.3
-A communication pursuant to Clause 17.1 shall include (i) each request for a decision by the
-Holders, (ii) a description of the reasons for each request, (iii) a specification of the Business
-Day on which a Person must be registered as a Holder in order to be entitled to exercise
-voting rights (such Business Day not to fall earlier than the effective date of the
-communication pursuant to Clause 17.1), (iv) instructions and directions on where to receive

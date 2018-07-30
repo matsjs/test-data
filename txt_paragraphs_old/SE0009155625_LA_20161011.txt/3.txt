@@ -1,9 +1,0 @@
-"Affiliate" means any Person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified Person. For the purpose of this definition, "control" when used with respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms "controlling" and "controlled" have meanings correlative to the foregoing.
-"Agent" means Nordic Trustee & Agency AB (publ), Swedish Reg. No. 556882-1879, or another party replacing it, as Agent, in accordance with these Terms and Conditions.
-"Applicable Premium" means the sum of:
-(a) the present value on the relevant record date of 103,625 per cent. of the Nominal Amount as if such payment originally should have taken place on the First Call Date; plus
-(b) the present value on the relevant record date of the remaining coupon payments (assuming that the Interest Rate will be equal to the interpolated SEK mid-swap rate for the remaining term from the record date until the First Call Date plus the Floating Rate Margin), less any accrued but unpaid interest, through and including the First Call Date,
-2
-both calculated by using a discount rate of 50 basis points over the comparable Swedish Government Note Rate (i.e. comparable to the remaining duration of the Bonds until the First Call Date) (plus accrued interest on redeemed amount) and where "relevant record date" shall mean a date agreed upon between the Agent, the CSD and the Issuer in connection with such repayment.
-"Application Form" means the application form for subscription of the Bonds in connection with the issue of the Initial Bonds.
-"Bondholder" means the person who is registered on a Securities Account as direct registered owner (Sw. ägare) or nominee (Sw. förvaltare) with respect to a Bond.

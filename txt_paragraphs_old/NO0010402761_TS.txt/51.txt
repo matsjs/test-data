@@ -1,9 +1,0 @@
-"Parity Value" means, in respect of any dealing day, the U.S. dollar amount calculated as follows:
-Where
-PV = the Parity Value
-OS = MP =
-the number of Ordinary Shares that would fall to be delivered on the exercise of Conversion Rights in respect of a Note in the principal amount of U.S.$100,000, assuming the Conversion Date to be such dealing day
-the closing price for the Ordinary Shares as published by or derived from the Relevant Stock Exchange on such dealing day, provided that if on any such dealing day the Ordinary Shares shall have been quoted cum-Dividend or cum-any other entitlement the closing price on such dealing day shall be deemed to be the amount thereof reduced by an amount equal to the Fair Market Value of any such Dividend or entitlement per Ordinary Share as at the date of first public announcement of such Dividend or entitlement, translated into U.S. dollars at the Prevailing Rate on such dealing day.
-a "person" includes any individual, company, corporation, firm, partnership, joint venture, undertaking, association, organisation, trust, state or agency of a state (in each case whether or not being a separate legal entity).
-"Prevailing Rate" means, in respect of any dealing day, the noon buying rate on that day for cable transfers of Norwegian Kroner as certified for customs purposes by the Federal Reserve Bank of New York or if on such dealing day such rate is not available, such rate prevailing on the immediately preceding day on which such rate is so available.
-"Record Date" has the meaning provided in Condition 8(c). "Register" has the meaning provided in Condition 4(a).

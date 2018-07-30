@@ -1,9 +1,0 @@
-"Put Option" shall have the meaning ascribed to such term in Clause 10.3 (Mandatory repurchase due to a Change o f Control Event).
-"Reference Rate" shall mean NIBOR (Norwegian Interbank Offered Rate), being:
-(a) the interest rate fixed for a period comparable to the relevant Interest Period on Oslo Børs' webpage at approximately 12:15 (Oslo time) on the Interest Quotation Day or, on days on which Oslo Børs has shorter opening hours (New Year's Eve and the Wednesday before Maundy Thursday), the data published at approximately 10:15 (Oslo time) on the Interest Quotation Day shall be used; or
-(b) if no screen rate is available for the relevant Interest Period:
-(i) the linear interpolation between the two closest relevant interest periods, and with the same number of decimals, quoted under paragraph (a) above; or
-(ii) a rate for deposits in the Bond Currency for the relevant Interest Period as supplied to the Bond Trustee at its request quoted by a sufficient number of commercial banks reasonably selected by the Bond Trustee; or
-(c) if no quotation is available under paragraph (b), the interest rate which according to the reasonable assessment of the Bond Trustee and the Issuer best reflects the interest rate for deposits in the Bond Currency offered for the relevant Interest Period.
-In each case, if any such rate is below zero, the Reference Rate will be deemed to be zero.
-"Relevant Jurisdiction" means the country in which the Bonds are issued, being Norway.

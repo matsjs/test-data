@@ -1,9 +1,0 @@
-Interest=
-X
-Floating
-X
-Floating Rate
-Amount
-Value
-Rate
-Day Count Fraction

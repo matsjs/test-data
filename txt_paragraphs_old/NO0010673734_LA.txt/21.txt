@@ -1,9 +1,0 @@
-where:
-Pi = the adjustment factor related to Vessel i (for each Existing Vessel, this factor is set out in Schedule 3, for all other Vessels, this factor is assigned the value 1.0);
-n = the number of Vessels subject to a Mandatory Prepayment;
-N = the number of Vessels currently owned by the Group; and
-B - the aggregate principal amount of Outstanding Bonds.
-"Redomiciliation" means the process by which a Group Company transfer, whilst maintaining the same legal identity and continuing to own the same assets, its domicile from its current jurisdiction to the British Virgin Islands or other jurisdiction reasonably acceptable to the Bond Trustee.
-"Refinance Event" means the event defined in Clause 10.2.6.
-"Relevant Disposal" means when the Issuer or a Shipowning Subsidiary sells, transfers, assigns, or otherwise disposes of, or in any way ceases to exercise direct or indirect control over (i) any of the Vessels; and (ii) the shares in any Shipowning Subsidiary, or in either case agree to do the same, whether by one transaction or separate transactions and whether at any one time or over a period of time, to any person, however not including a transaction which is effected solely between companies in the Group.
-"Second Hand Vessels" means any vessel intended to be used in the Group's business purchased with the proceeds of the Bond Issue by the Group.

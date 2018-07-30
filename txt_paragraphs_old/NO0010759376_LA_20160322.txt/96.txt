@@ -1,9 +1,0 @@
-(a) 1503 73 65782 - Escrow Account NOK Senior: NOK 19 132 750 (b) 1250 08 39684 - Escrow Account SEK Senior: SEK 34 632 250 (c) 1503 73 65790 - Escrow Account NOK Junior: NOK 16 551 800 (d) 1250 08 39692 - Escrow Account SEK Junior: SEK 14 683 200
-1. Transfer of SEK 29 877 250 from Escrow Account SEK Senior is exchanged to NOK and transferred to the Escrow Account NOK Senior;
-2. Transfer of SEK 11 323 200 from Escrow Account SEK Junior is exchanged to NOK and transferred to the Escrow Account NOK Senior;
-3. Transfer of NOK 10 911 800 from Escrow Account NOK Junior transferred to the Escrow Account NOK Senior;
-4. Payment from the Escrow Account NOK Senior of NOK 562 500 to Nordic Trustee ASA, to account no 7056.05.31832;
-5. Payment from the Escrow Account NOK Senior of NOK 22 071 922.35 to DNB Bank ASA, to account no 5201.95.00047;
-6. Payment from the Escrow Account NOK Senior of NOK 24 551 284.44 to Jool Markets AS on behalf of certain investors, to account no 1503.62.40722;
-7. Payment from the Escrow Account NOK Senior of NOK 6 618 295 to Solmunde & Partners on behalf of certain investors, to account no 3624.24.92331;
-8. Transfer of NOK 7 845 000 from the Escrow Account NOK Senior to the Interest Retention Account NOK Senior with account no. 1503.73.65855;

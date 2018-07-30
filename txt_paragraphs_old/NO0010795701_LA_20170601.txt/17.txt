@@ -1,9 +1,0 @@
-7(42)
-"M ake W hole Am ount" means ail amount equal to the sum of:
-(a) the present value on the Call Option Repayment Date of 104 per cent, of the Nominal Amount of the redeemed Bonds as if such payment originally had taken place on the First Call Date; and
-(b) the present value on the Call Option Repayment Date of the remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Cali Option Repayment Date, to the First Call Date,
-where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macauley duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation).
-"M anager" means Arctic Securities AS, P.O. Box 1833 Vika, 0123 Oslo, Norway.
-"M aterial Adverse Effect" means a material adverse effect on:
-(a) the ability of the Issuer and any Group Company to perform and comply with its obligations under any of the Finance Documents; or
-(b) the validity or enforceability of any of the Finance Documents.

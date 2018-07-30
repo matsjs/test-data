@@ -1,9 +1,0 @@
-"Business Day" means any day on which commercial banks are open for general business and can settle foreign currency transactions in Oslo, London and New York.
-3
-so that the relevant Payment Date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day {Modified Following Business Day Convention).
-"Call Option" shall have the meaning set out in Clause 10.2.
-"Calculation Date" means each 30 June and 31 December.
-"Cash and Cash Equivalent" means, on any date the amounts (expressed in USD) on such date of the then current market value of:
-a) cash in hand or amounts standing to the credit of any current and/or on deposit accounts with an acceptable bank;
-b) time deposits with acceptable banks and certificates o f deposit issued, and bills o f exchange accepted, by an acceptable bank; and
-c) other cash equivalents treated as cash and cash equivalent in accordance with IFRS,

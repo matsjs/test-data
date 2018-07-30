@@ -1,9 +1,0 @@
-"Magnolia" means Magnolia Projekt 36 AB, Swedish Reg. No. 559040-7093.
-"Make Whole Amount" means the sum of:
-(a) the present value on the relevant record date of the Outstanding Nominal Amount as if such payment originally should have taken place on the Final Redemption Date; and
-(b) the present value on the relevant record date of the remaining coupon payments (assuming that the Interest Rate for the period from the relevant redemption date to the Final Redemption Date will be equal to the interpolated SEK mid-swap rate for the remaining term from the redemption date until the Final Redemption Date plus the Floating Rate Margin), less any accrued but unpaid interest, through and including the relevant redemption date,
-both calculated by using a discount rate of 50 basis points over the comparable Swedish Government Bond Rate (i.e. comparable to the remaining duration of the Bonds until the mentioned date falling on the Final Redemption Date) and where "relevant record date" shall mean a date agreed upon between the Agent, the CSD and the Issuer in connection with such repayment.
-"Market Loan" means bonds, notes or other debt securities (however defined), which are or are intended to be quoted, listed, traded or otherwise admitted to trading on a Regulated Market or a multilateral trading facility (as defined in Directive 2004/39/EC on markets in financial instruments).
-"Material Adverse Effect" means a material adverse effect on:
-(a) the business, financial condition or operations of the Group taken as a whole;
-(b) the Issuer's ability to perform and comply with:

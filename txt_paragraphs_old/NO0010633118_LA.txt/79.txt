@@ -1,9 +1,0 @@
-Bondholders holding Bonds to be pre-paid, the principal amount of each such
-unpaid interest accrued up to and including the settlement date.
-10.4 Mandatory prepayment - sale or disposal If:
-(a)
-any Vessel is sold or otherwise disposed of; or
-(b)
-the Issuer's shares in any of the Guarantors are sold or disposed of, and
-provided that such disposal set out in paragraphs (a) and/or (b) is not made by transferring the relevant assets to a Guarantor, the Issuer shall, on or about the day the proceeds are received following the relevant disposal, use all the proceeds to redeem Bonds at a price equalling the Call Option prices set out in Clause 10.2 (plus accrued interest on redeemed amount). For avoidance of doubt, if the proceeds exceed the amount of Outstanding Bonds multiplied with the relevant Call Option price, the excess proceeds shall be made available to the Issuer upon redemption of the Bonds.
-10.5 Mandatory prepayment - Total Loss If a Vessel shall suffer a Total Loss, the Issuer shall as soon as insurance proceeds are available but in no event later than the date falling 240 days after the Total Loss Date prepay, redeem and cancel Bonds equalling the amount of insurance proceeds at 100% of par value (plus accrued interest on redeemed amount) on a pro rata basis.

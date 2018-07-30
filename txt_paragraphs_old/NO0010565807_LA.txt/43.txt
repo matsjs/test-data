@@ -1,9 +1,0 @@
-13.8 Notwithstanding any other provision of this Loan Agreement, upon exercise of Conversion Rights by a Bondholder the Borrower may make an election (a "Cash Settlement Election") by giving notice (a "Cash Settlement Election Notice") to the relevant Bondholder by not later than the date (the "Cash Election Date") falling 3 Banking Days after the relevant Conversion Date, to satisfy the exercise of the Conversion Right in respect of the relevant Bonds by making payment to the relevant Bondholder of the Cash Settlement Amount.
-The Borrower will pay the Cash Settlement Amount by not later than 5 Banking Days following the last day of the Cash Settlement Calculation Period by transfer to a euro account In accordance with Instructions contained in the relevant exercise notice delivered pursuant to clause 13.4.
-"Cash Settlement Amount" means, in respect of a Bond, an amount determined in accordance with the following formula:
-16
-CSA=
-N £
---1.
-x S0 x ,,P,,
-nsl N

@@ -1,9 +1,0 @@
-x
-Rate
-Floating Rate Day Count Fraction
-10. MATURITY OF THE BONDS AND REDEMPTION
-10.1 Maturity The Bonds shall be repaid by the Issuer in full on the Maturity Date at a price equivalent to the sum of 100.00% of par value.
-The Issuer shall have the right, at its option, to repay up to 10% of the Initial Loan Amount (or, if there have been any Tap Issues, 10% of the sum of the Initial Loan Amount and the total amounts raised under any Tap Issues) each year (the "Optional Prepayment"). The repayment per Bond shall be the aggregate of (i) 102% of the Face Value to be repaid, and (ii) accrued but unpaid interest on the repaid amount.
-Any unutilized part of the Amortization amount in a calendar year may be subsequently utilised in a later calendar year.
-10.2 Mandatory Redemption In the event that the conditions precedent set out in Clause 6.4 have not been fulfilled within sixty (60) Business Days after Settlement Date, the Issuer shall immediately redeem the Bonds at a price of 101% of par value plus accrued interest (by inter alia applying the funds deposited on the Escrow Accounts).
-10.3 Call Option

@@ -1,9 +1,0 @@
-"Issue Date" means the First Issue Date and any subsequent date when a subsequent Bond Issue takes place.
-"Issuing Agent" means Pareto Securities AB, or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
-"Major Retailers" means Kesko, SOK, ICA, Coop, Axfood, Bergendahls and XXL.
-"Make Whole Amount" means a price equivalent to the sum of:
-(a) the Outstanding Nominal Amount;
-(b) all remaining scheduled Interest Payments (assuming that the Interest Rate for the period from the relevant redemption date to the First Call Date will be equal to the interpolated EUR mid-swap rate for the remaining term from the redemption date until the First Call Date plus the Floating Rate Margin) on the Bonds to, but not including, the First Call Date; and
-(c) accrued (but unpaid) interest on the redeemed amount,
-where (b) above shall be discounted (for the time period starting from the date the relevant Bonds are redeemed to the First Call Date) using a discount rate equal to the German Government Note Rate with a maturity as close as possible to the First Call Date plus 0.50 per cent.
-"Market Loan" means any loan or other indebtedness where an entity issues commercial paper, certificates, subordinated debentures, bonds or any other debt securities (including, for the avoidance of doubt, medium term note programmes and other market funding programmes), provided in each case that such instruments and securities are or can be subject to trade on Nasdaq Stockholm or any other regulated or unregulated recognised market place.

@@ -1,9 +1,0 @@
-"Regulated Market" means any regulated market as defined in Directive 2004/39/EC on markets in financial instruments).
-"Secured Market Loans" means any Market Loan for which the Issuer or any Subsidiary (other than FastPartner) has provided any guarantee or security.
-6
-"Securities Account" means the account for dematerialised securities maintained by the CSD pursuant to the Central Securities Depositories and Financial Instruments Accounts Act in which (i) an owner of such security is directly registered or (ii) an owner's holding of securities is registered in the name of a nominee.
-"SEK" means the lawful currency of Sweden.
-"STIBOR" means:
-(a) the applicable percentage rate per annum displayed on Nasdaq Stockholm's website for STIBOR fixing (or through another website replacing it) as of or around 11.00 a.m. on the Quotation Day for the offering of deposits in SEK and for a period comparable to the relevant Interest Period; or
-(b) if no such rate as set out in paragraph (a) above is available for the relevant Interest Period, the rate calculated by the Issuing Agent (rounded upwards to four decimal places) which results from interpolating on a linear basis between (i) the applicable screen rate for the longest period (for which that screen rate is available) which is less than the Interest Period and (ii) the applicable screen rate for the shortest period (for which that screen rate is available) which exceeds that Interest Period, as of or around 11 a.m. on the Quotation Date; or
-(c) if no rate is available for the relevant Interest Period pursuant to paragraph (a) and/or (b) above, the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the Issuing Agent at its request quoted by leading banks in the Stockholm interbank market reasonably selected by the Issuing Agent, for deposits of SEK 100,000,000 for the relevant period; or

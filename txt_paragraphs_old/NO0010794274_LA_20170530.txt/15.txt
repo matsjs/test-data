@@ -1,9 +1,0 @@
-"Issue Date" means 1 June 2017.
-"Issuer's Bonds" means any Bonds which are owned by the Issuer or any Affiliate of the Issuer.
-9 (46)
-"Liquidity" means the aggregate book value of the Group's free and unrestricted Cash and Cash Equivalents plus any undrawn and available amount under any revolving credit facility.
-"Make Whole Amount" means an amount equal to the sum of:
-(a) the present value on the Call Option Repayment Date of 103 per cent, of the Nominal Amount of the redeemed Bonds as if such payment originally had taken place on the First Call Date; and
-(b) the present value on the Call Option Repayment Date of the remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the First Call Date,
-where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
-"Manager" means DNB Markets, a part of DNB Bank ASA, Dronning Eufemias gate 30, 0191 Oslo, Norway .

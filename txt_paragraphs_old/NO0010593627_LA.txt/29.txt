@@ -1,9 +1,0 @@
-9.3 The relevant interest payable amount shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
-9.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest = Amount
-Face Value
-x Fixed Rate
-x Fixed Rate Day Count Fraction
-10 Maturity of the Bonds, CallOption and Change of Control
-10.1 Maturity The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
-10.2 Call Option 10.2,1 The Issuer may redeem the Outstanding Bonds (all or nothing) (Call Option) at any

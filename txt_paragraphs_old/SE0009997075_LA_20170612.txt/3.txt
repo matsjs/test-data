@@ -1,9 +1,0 @@
-"Agency Agreement" means the agency agreement entered into on or before the First Issue Date, between the Issuer and the Agent, or any replacement agency agreement entered into after the First Issue Date between the Issuer and an agent.
-"Applicable Premium" means the higher of:
-(a) 1.00 per cent. of the Nominal Amount; and
-(b) an amount equal to:
-(i) 103.30 per cent. of the Nominal Amount; plus
-(ii) all remaining scheduled Interest payments (assuming that the Interest Rate for the period from the relevant Redemption Date to the First Call Date will be equal to the interpolated Mid Swap Rate for the remaining term from the relevant Redemption Date until the First Call Date plus the Interest Rate) on the Notes until the First Call Date (but excluding accrued but unpaid Interest up to the relevant Redemption Date),
-(iii) discounted (for the time period starting from the relevant Redemption Date to the First Call Date) using a discount rate equal to the Swedish Government Bond Rate plus 0.50 per cent., minus
-Execution version 2(53)
-(iv) the Nominal Amount.

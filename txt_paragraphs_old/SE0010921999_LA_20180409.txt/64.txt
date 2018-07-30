@@ -1,9 +1,0 @@
-The Debt Incurrence Test shall be applied in connection with the incurrence of Financial Indebtedness if the Acquisition Incurrence Test does not apply to such incurrence pursuant to Clause 13.1.1.
-13.3 Acquisition Incurrence Test The Acquisition Incurrence Test is met if: (a) the Leverage Ratio (in each case calculated in accordance with the Calculation Principles) is equal to or less than: (i) from and including the First Issue Date until the date falling eighteen (18) months thereafter, 4.50:1; and (ii) thereafter, 4.00:1; and (b) no Event of Default is continuing or would occur upon the incurrence
-13.4 Calculation of the Debt Incurrence Test and the Acquisition Incurrence Test
-13.4.1
-The calculation the Leverage Ratio shall be made as per a testing date (the "Testing Date"), determined by the Issuer, falling no more than two (2) months prior to the incurrence of Permitted Debt (that requires the Debt Incurrence Test or Acquisition Incurrence Test to be met).
-13.4.2
-Net Interest Bearing Debt shall be measured on the Testing Date so determined, calculated pro forma including the new Financial Indebtedness provided that such Financial Indebtedness is an interest bearing obligation (however, any cash balance resulting from the incurrence of such new Financial Indebtedness shall not reduce Net Interest Bearing Debt).
-13.4.3
-The figures for EBITDA for the Reference Period ending on the last day of the period covered by the most recent Financial Report (including when necessary, financial statements published before the First Issue Date) shall be used for the Incurrence Test, but adjusted so that (without double counting):

@@ -1,9 +1,0 @@
-"Applicable Premium" means the higher of:
-(b) an amount equal to:
-(i)
-103.75% of par value assuming due on the Call Date; plus
-(ii) all remaining scheduled Interest Payments (assuming that the Floating Rate for the period from the relevant redemption date until the Call Date will be equal to the interpolated NOK mid-swap rate for the remaining term from the redemption date until the Call Date plus the Margin per annum) on the Bonds to and including the Call Date,
-discounted (for the time period starting from the date the relevant Bonds are redeemed until the Call Date) using a discount rate equal to the Norwegian Government Rate plus 0.50%; minus
-(iii) accrued but unpaid interest up to the relevant redemption date; and (iv) 100.00% of par value.
-"Attachment" means each of the attachments to this Bond Agreement.
-"Book Equity" shall have the meaning as set out in Clause 15.1.

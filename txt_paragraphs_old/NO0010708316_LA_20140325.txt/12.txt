@@ -1,9 +1,0 @@
-Interest Payment Date falls in June 2014. 9.3 The relevant interest payable amount shall be calculated based on a period from, and including,
-L_4506015_V1 25.03.14 92656-109 ,
-<!p C
-13/36
-Rate two (2) Business Days preceding the Settlement Date or Interest Payment Date (as the case may be). The Bond Trustee shall immediately, following the determination of the Floating Rate for the relevant period, notify the Bondholders, the Issuer, the Paying Agent and, if the Bonds are listed, the Exchange of the applicable Floating Rate.
-9.6 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest = Face Amount Value
-x Floating Rate
-x Floating Rate Day Count Fraction

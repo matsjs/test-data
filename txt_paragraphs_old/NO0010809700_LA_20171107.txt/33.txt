@@ -1,9 +1,0 @@
-14
-10.4 Material Disposal Event
-10.4.1 Upon a Material Disposal Event occurring, each Bondholder shall have a right of pre-payment (a "Material Disposal Put Option") of the Bonds at a price of 100% of par value (plus accrued interest).
-10.4.2
-For this purpose "Material Disposal Event" shall means an event where the Issuer, as a result of a disposal of shares, no longer owns more than 50 per cent of the shares in Advanzia ("Advanzia Shares") either directly or indirectly through its 100% owned Subsidiaries. If the Issuer's direct or indirect holding of Advanzia Shares has been reduced below 50 per cent in a way which does not constitute a Material Disposal Event, any subsequent disposal of Advanzia Shares by the Issuer or any of its 100% owned Subsidiaries or any disposal by the Issuer of shares in any Subsidiary holding Advanzia Shares, shall constitute a Material Disposal Event.
-No Material Disposal Event shall be triggered by a merger or other consolidation where the Issuer or the relevant Subsidiary disposes of Advanzia Shares for consideration in the form of shares in a Consolidated Entity. In the event the Issuer or the relevant Subsidiary later disposes of any shares in the Consolidated Entity, or the relevant Subsidiary (if applicable) is no longer owned, directly or indirectly, 100% by the Issuer, this shall constitute a Material Disposal Event.
-10.4.3
-The Material Put Option must be exercised within 60 days after the Issuer has given notification to the Bond Trustee of a Material Disposal Event. Such notification shall be given as soon as possible, however, not later than 10 Business Days after a Material Disposal Event has taken place.
-10.4.4

@@ -1,9 +1,0 @@
-"Bund Rate" means the yield to maturity at the time of computation of direct obligations of the Federal Republic of Germany (Ge: Bund or Bimdesanleihen) with a constant maturity (as officially compiled and published in the most recent financial statistics publicly available (or, if such financial statistics are not so published or
-NT/"
-Nordic Trustee ASA
-available, any publicly available source of similar market data selected by the Issuer in good faith)).
-"Business Day" means any day on which commercial banks are open for general business and can settle foreign currency transactions in Oslo, and the EUR settlement system is open.
-"Business Day Convention" means that if the relevant Payment Date originally falls on a day that is not a Norwegian banking day or a day TARGET2 is open for settlement, an adjustment of the Payment Date will be made so that the relevant Payment Date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day {Modified Following Business Day Convention).
-"Call Option" shall have the meaning set out in Clause 10.2.
-"Cash EBITDA" means, in relation to any period, the aggregate of the operating profit of the Group on a consolidated basis (and for the avoidance of doubt taking into account profit sharing agreements to the extent not included as a Financial Indebtedness);
-(a) minus interest income on debt portfolios during such period of the Group on a consolidated basis;

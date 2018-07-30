@@ -1,9 +1,0 @@
-"M ake Whole Amount" means an amount equal to the sum of:
-(b) the present value on the Call Option Repayment Date of the remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the First Call Date,
-where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation).
-"M anagers" means:
-(a) Danske Bank, Norwegian Branch;
-(b) DNB Markets, a part of DNB Bank ASA; (c) Skandinaviska Enskilda Banken AB (publ) Oslo Branch,
-(d) Sparebank 1 Markets AS;
-(e) Stifel Nicolaus Europe Limited; and
-(f) Pareto Securities AS, (each a "M anager").

@@ -1,9 +1,0 @@
-NOK 650,000,000
-11.1 11.1.1
-Change of control
-Upon the occurrence of a Change of Control Event, each Bondholder shall have the right to require that the Issuer redeems its Bonds (a "Put Option") at a price of 101% of par plus accrued interest.
-11.1.2 The Put Option must be exercised within fifteen days after the Issuer has given notification to the Bond Trustee of a Change of Control Event. Such notification shall be given as soon as possible after a Change of Control Event has taken place.
-11.1.3
-The Put Option may be exercised by each Bondholder by giving written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent of the redemption request. The settlement date of the Put Option shall be the third Business Day after the end of the fifteen days exercise period of the Put Option.
-11.1.4
-On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, the principal amount of each such Bond (including any premium pursuant to Clause 11.1.1) and any unpaid interest accrued up to (but not including) the settlement date.

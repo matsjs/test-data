@@ -1,9 +1,0 @@
-Interest = Amount
-x
-Fixed x
-Fixed Rate
-Rate
-Day Count Fraction
-10
-Maturity of the Bonds, Call Option, Change of Control and Mandatory
-Redemption

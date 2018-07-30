@@ -1,9 +1,0 @@
-where "Share Price" is the arithmetic average of the daily volume weighted average price of a Share published by or derived from the Market Place in respect of all trades the last three days shares are quoted including rights and have actually been traded,
-C.2
-In the event of an issue of financial instruments exercisable for or convertible into Shares in which
-existing shareholders of the Issuer have preferential rights under Cyprus Law or the Issuer's
-memorandum and articles of association to subscribe for such financial instruments (the
-"Subscription Rights"),
-(i) if the Shares are listed on a Market Place, a new Exercise Price shall be calculated as follows:
-new Conversion Price -
-Average Subscription Period Price x old Conversion Price Average Subscription Period Price plus

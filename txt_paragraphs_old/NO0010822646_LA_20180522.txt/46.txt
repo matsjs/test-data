@@ -1,9 +1,0 @@
-Day Count Fraction
-11.1 Maturity
-The Bonds shall mature in full on the Maturity Date, and shall be repaid at 100% of the Face Value by the Issuer.
-11.2 Call Option
-11.2.1 Provided that all bonds outstanding under the 2015 Bond Issue have been or will be redeemed on or before the date of redemption of any Bonds by the Issuer hereunder, the Issuer may redeem all but not some only of the Outstanding Bonds (Call Option) on any Business Day from and including:
-(a) the Issue Date to, but not including, the First Call Date at the Make-Whole Amount;
-(b) the First Call Date to, but not including, the date falling 36 months after the Issue Date at a price equal to 102.375% of the Face Value for each redeemed Bond (plus accrued and unpaid interest);
-(c) the Interest Payment Date falling 36 months after the Issue Date to, but not including, the date falling 48 months after the Issue Date at a price equal to 101.1875% of the Face Value for each redeemed Bond (plus accrued and unpaid interest);
-18

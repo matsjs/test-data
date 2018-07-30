@@ -1,9 +1,0 @@
-x S0 x ,,P,,
-where:
-CSA
-is the Cash Settlement Amount;
-s
-is the number of Shares (Including, for this purpose, any
-fraction of a Share but rounded, If necessary, to five decimal
-places, with 0.000005 being rounded up) to which the relevant
-Bondholder would have been entitled upon exercise of the

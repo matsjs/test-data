@@ -1,9 +1,0 @@
-maximum number of new shares that
-rights=
-approving the new issue x (average
-share price minus the price at which the
-_______________ new shares are being issued)__________
-number of shares outstanding prior to
-the resolution authorizing new shares
-If this calculation produces a negative value, the theoretical value of the subscription rights shall be fixed at zero.
-The adjusted Conversion Price calculated and described above shall be set by the Conversion Agent two (2) Business Days following the expiration of the subscription period and shall be applied in any Conversion effected thereafter.

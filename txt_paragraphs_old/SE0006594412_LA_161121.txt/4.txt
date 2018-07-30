@@ -1,9 +1,0 @@
-"Business Day Convention" means the first following day that is a Business Day.
-(a) the Make Whole Amount if the Call Option is exercised before the First Call Date;
-(b) 106.00 per cent. of the Nominal Amount if the call option is exercised on or after the First Call Date up to (but excluding) the date falling thirty (30) months after the Issue Date;
-(c) 104.00 per cent. of the Nominal Amount if the call option is exercised on or after the date falling thirty (30) months after the Issue Date up to (but excluding) the Final Redemption Date.
-"Capital Lease Obligations" means, at the time any determination is to be made, the amount of the liability in respect of a capital lease that would at that time be required to be capitalised on a balance sheet prepared in accordance with the Accounting Principles, and the scheduled maturity date thereof shall be the date of the last payment of rent or any other amount due under such lease prior to the first date upon which such lease may be prepaid by the lessee without payment of a penalty.
-"Capital Stock" means:
-(a) in the case of a corporation, corporate stock;
-(b) in the case of an association or business entity, any and all shares, interests, participations, rights or other equivalents (however designated) of corporate stock;
-(c) in the case of a partnership or limited liability company, partnership interests (whether general or limited) or membership interests; and

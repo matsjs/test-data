@@ -1,9 +1,0 @@
-"Make Whole Amount" means an amount equal to the sum of:
-(b) the present value on the Call Option Repayment Date of the remaining interest payments of the redeemed Bonds, less any accrued and unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the First Call Date,
-where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation).
-"Manager" means each of Arctic Securities AS and DNB Markets, a part of DNB Bank ASA.
-"Mandatory Redemption Event" means an event where material assets pertaining to and relevant for the operations of the Butte facility are sold or disposed of, or the Issuer ceases to be the owner (directly or indirectly) of 100% of the Butte Subsidiary.
-"Mandatory Redemption Repayment Date" means the settlement date for any redemption of Bonds pursuant to Clause 10.6 (Mandatory redemption).
-"Material Adverse Effect" means a material adverse effect on:
-(a) the ability of the Issuer and any Group Company to perform and comply with its obligations under any of the Finance Documents; or
-(b) the validity or enforceability of any of the Finance Documents.

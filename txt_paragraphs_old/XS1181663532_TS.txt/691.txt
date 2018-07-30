@@ -1,9 +1,0 @@
-· the benefit to other parties to the transaction; and
-· Circulating Security interest: this is a security interest granted by the company over certain or all of its ``circulating assets''.
-There are two tests for whether an asset is a circulating asset. Certain assets (such as trade accounts and inventory), will be circulating assets unless the secured party has ``control'' (which is defined under the PPS Act as including control within the ordinary meaning of that term) of the asset and registers that it has control on the PPSR. All other assets will be ``circulating assets'' only where the secured party has given the grantor express or implied authority to transfer the asset in the ordinary course of business free of the security interest.
-Preferred creditor claims (for example, employee entitlements, auditor's fees and administrator's indemnity for costs) will have priority over the holder of a circulating security interest under the Australian Corporations Act.
-A liquidator can apply to set aside a circulating security interest that was granted in the six months leading up to the liquidator's appointment, unless the company establishes that it was solvent immediately after granting the security interest, or that the security interest:
-· secures an advance paid to the company (or interest on such advance), at or after that time and as consideration for the circulating security interest (subject to limited exceptions);
-· secures the amount of a liability under a guarantee or other obligation undertaken at or after that time on behalf of, or for the benefit of, the company; or
-308
-· secures an amount payable for property or services supplied to the company (or interest of such an amount) at or after that time (unless the amount payable exceeds the market value of the property or services when supplied to the company).

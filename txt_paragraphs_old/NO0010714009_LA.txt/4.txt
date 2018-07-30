@@ -1,9 +1,0 @@
-"Bond Reference Rate" means six months NIBOR.
-"Bondholders' Meeting" means a meeting of Bondholders, as set out in Clause 16.
-"Bonds" means the debt instruments issued by the Issuer pursuant to this Bond Agreement.
-t/{
-L_4924657_V1 24.06.14 204956-030
-4/37
-"Business Day" means any day on which Norwegian banks are open for general business and when Norwegian banks can settle foreign currency transactions and the Norwegian Central Bank's Settlement System I open.
-"Business Day Convention" means that if the relevant Payment Date originally falls on a day that is not a Business Day, an adjustment of the Payment Date will be made so that the relevant Payment Date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day (Modified Following Business Day Convention).
-"Call Option" shall have the meaning set out in Clause 10.2.

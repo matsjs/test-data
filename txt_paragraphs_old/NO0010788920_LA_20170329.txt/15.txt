@@ -1,9 +1,0 @@
-(g) any other Group Company (including any of the Restricted Companies), which from time to time, with the prior consent of the Issuer, elects to become a guarantor.
-"Incurrence Event" means any event contemplated by paragraph (a) of the definition of "Permitted Distributions" and/or incurrence of new Financial Indebtedness (by way of a Tap Issue or refinancing of or incurring New Financial Indebtedness under any Existing Facility).
-"Incurrence Test" shall have the meaning ascribed to such term in Clause 13.13 (Incurrence Test).
-"Incurrence Testing Date" shall have the meaning ascribed to such term in Clause 13.13 (Incurrence Test) paragraph (b)(i).
-"Incurrence Test Grid" means, upon the occurrence of an Incurrence Event, an increase of the Margin as set out opposite the relevant "Increase in Leverage Ratio from Incurrence Test" in the table in paragraph (a) below (the "Margin Increase"), and which Margin Increase shall take effect from the preceding Interest Payment Date (the "Margin Adjustment Date") up until the Maturity Date, provided that the Leverage Ratio is in excess of 3.5x on the relevant testing date and within the levels below of "Maximum Incurrence test" for the relevant year as set out in the table in paragraph (b) below.
-(a) Margin increase
-Increase in Leverage Ratio from Incurrence Test
-M argin Increase
-2.00x-1.75x

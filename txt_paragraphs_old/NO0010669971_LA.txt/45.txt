@@ -1,9 +1,0 @@
-8.2 Security The Bonds, including accrued but unpaid interest, costs and expenses, shall
-(ii) after Disbursement of any tranche of the net proceeds from the Bond issue, be secured by the Pre-Disbursement Security Interests and the Post Disbursement Security Interests.
-9. INTEREST
-9.1 Interest rate The Issuer shall pay interest on the par value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate").
-9.2 Interest Payment Dates Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date falling in April 2013.
-9.3 Calculation of interest payments (a) The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date or one Interest Payment Date (as the case may be) to, but excluding, the next following applicable Interest Payment Date.
-(b) The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment being made divided by 360.
-The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period, based on the Bond Reference Rate two Business Days preceding that Interest Payment Date.
-When the interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and the actual number of calendar days up to that date shall immediately be notified to the Bondholders, the Issuer, the Paying Agent, and if the Bonds are listed, the Exchange.

@@ -1,9 +1,0 @@
-is 15, being the number of Dealing Days In the Cash Settlement
-provided that if any Dividend or other entitlement In respect of the Shares is announced on or prior to the relevant Conversion Date In circumstances where the record date or other due date for the establishment of entitlement In respect of such Dividend or other entitlement shall be on or after the relevant Conversion Date and If on such Dealing Day In the Cash Settlement Calculation Period the price determined as provided above is based on a price ex-DIvidend or ex-any other entitlement, then such price shall be Increased by an amount equal to the Fair Market Value of any such Dividend or other entitlement per Share as at the date of the first public announcement of such Dividend or entitlement.
-"Cash Settlement Calculation Period" means the period of 15 consecutive Dealing Days commencing on the third Dealing Day following the Cash Election Date.
-14 Adjustment of the Conversion Price
-Upon the happening of any of the events described below, the Conversion Price shall be adjusted as follows:
-14.1 If and whenever there shall be a consolidation or subdivision of the Shares, the Conversion Price shall be adjusted by multiplying the Conversion Price In force Immediately prior to such consolidation or subdivision by the following fraction:
-A. B
-where:
-A

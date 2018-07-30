@@ -1,9 +1,0 @@
-10.3 If a Change of Control Event has occurred, each Bondholder shall in the Change of Control Conversion Period have the right to (at each Bondholder's discretion):
-and/or
-(b) convert its Bonds, in whole or in part, at the Change of Control Conversion Price, which shall be set out below, but in each case adjusted, if appropriate, under the provisions of Clauses 14 and 15 (provided that no adjustment to the Conversion Price will be made in respect of such Change o f Control Event other than pursuant to this Clause 10.3 in respect of exercise of the conversion right in the Change of Control Conversion Period):
-,, [RPx(N-n)] + [(OCPxn)j N
-where: - NCP means the New Conversion Price, - OCP means the Conversion Price in effect on the relevant Conversion Date (disregarding the application of this provision), - R P is the Reference Price at the time of pricing, converted into USD based on the official reference rate provided by Norges Bank (the
-15
-Norsk Tillifsmumi ASA
-Norwegian Central Bank) at the day the Change o f Control Event was triggered, - n means the number o f days from and including Settlement Date to (but excluding) the date the Change of Control takes place, ~ N means the number of days from (and including) Settlement Date to but excluding the Maturity Date.
-The respective Bondholder must notify the Paying Agent within the Change o f Control Conversion Period o f its election of whether or not to (a) require early redemption, and/or (b) convert the Bonds to Shares.

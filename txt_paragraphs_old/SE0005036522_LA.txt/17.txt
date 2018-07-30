@@ -1,9 +1,0 @@
-"Holder"
-"Interest Determination Date"
-means the day falling 2 Banking Days before each Interest Period;
-"Interest Payment Date" means 7 March, 7 June, 7 September and 7 December each year,
-or, to the extent such day is not a Banking Day, the Banking Day following from an application of the Banking Day Convention (with the first Interest Payment Date on 7 June 2013 and the last Interest Payment Date being the Final Redemption Date);
-"Interest Period"
-means the period of time from but excluding the Issue Date or an Interest Payment Date up to and including the next Interest Payment Date;
-"Interest Rate"
-means interest at a floating rate of STIBOR (3 months) increased with 3.75 per cent p.a.;

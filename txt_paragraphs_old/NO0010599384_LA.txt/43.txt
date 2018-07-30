@@ -1,9 +1,0 @@
-10.3.3 On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be pre-paid, the principal amount of each such Bond and any unpaid interest accrued up to and including the settlement date.
-10.4.1 If:
-(1) any of the Rigs are sold or disposed of to any person not being a wholly owned, directly or indirectly, member of the Group; or
-(2) any of the Issuer's shares in any Rig Owner are sold or disposed of to any person not being a wholly owned, directly or indirectly, member of the Group (together with (1) above, a "Sale Event" ); or
-(3) in the event of a Total Loss of any of the Rigs (a " Total Loss Event" )
-(each a " M andatory Redemption Event" )
-the Issuer shall:
-(A) if a Mandatory Redemption Event occurs in respect of one Rig or one Rig Owner, redeem 50 % of the Outstanding Bonds; and
-(B) if a Mandatory Redemption Event occurs in respect of both Rigs or both Rig Owners (either in a single transaction or a series of transaction), redeem 100 % of the Outstanding Bonds.

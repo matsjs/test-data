@@ -1,9 +1,0 @@
-Day Count Fraction
-10.1 Maturity and instalments
-(a) The Bonds shall be repaid by the Issuer in instalments as follows:
-Payment Date Interest Payment Date in June 2015 Interest Payment Date in December 2015 Interest Payment Date in June 2016 Interest Payment Date in December 2016 Interest Payment Date in June 2017 Interest Payment Date in December 2017 Interest Payment Date in June 2018 Interest Payment Date in December 2018 Maturity Date Sum
-Amount USD 5,000,000 USD 6,000,000 USD 6,000,000 USD 6,000,000 USD 6,000,000 USD 6,000,000 USD 6,000,000 USD 6,000,000 Outstanding Bonds USD 120,000,000
-10.2
-(b) All amortization described in this Clause 10.1 will be at 100% of par value plus accrued interest on the repaid amount. Any amounts on the Accounts pledged in favor of the Bond Trustee on behalf of the Bondholders may be applied for amortization.
-Call Option
-(a) The Issuer may redeem the Bond Issue (in whole or in part of no less than USD 10,000,000 on a pro rata basis) at any time from and including (Call Option):

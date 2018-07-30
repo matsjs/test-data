@@ -1,9 +1,0 @@
-Pn
-the Cash Alternative Amount;
-the number of Subsea Shares (including, for this purpose, any fraction of a Subsea Share) to which the relevant Bondholder would have been entitled to upon exercise of such Exchange Right had a Cash Alternative Election not been made in respect of the relevant exercise or, such lesser number of Subsea Shares, as specified in the relevant Cash Alternative Election Notice;
-the Volume Weighted Average Price of a Subsea Share on the nth dealing day of the Cash Alternative Calculation Period, translated into USD at the Prevailing Rate on such dealing day; and
-20, being the number of dealing days in the Cash Alternative Calculation Period,
-31
-Norsk Tillitsmann ASA
-provided that if any Dividend or other entitlement in respect of the Subsea Shares is announced on or prior to the relevant Exchange Date in circumstances where the record date or other due date for the establishment of entitlement in respect of such Dividend or other entitlement shall be on or after the relevant Exchange Date and if on any dealing day in the Cash Alternative Calculation Period, the Volume Weighted Average Price of a Subsea Share is based on a price ex-Dividend or ex-any other entitlement, then such price shall be increased by an amount equal to the Fair Market Value of such Dividend or entitlement per Subsea Share as at the date of first public announcement of such Dividend or entitlement (translated, if not in USD, into USD at the Prevailing Rate on such date of first public announcement).
-"Cash Alternative Calculation Period" means:

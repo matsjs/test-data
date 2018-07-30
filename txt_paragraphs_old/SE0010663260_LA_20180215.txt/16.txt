@@ -1,9 +1,0 @@
-"Issuing Agent" means Pareto Securities AB or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
-"Leverage Ratio" means the ratio of Net Interest Bearing Debt to EBITDA.
-"Listing Failure Event" means:
-(a) that the Bonds have not been admitted to listing on Nasdaq Stockholm (or another Regulated Market) within twelve (12) months after the First Issue Date;
-(b) any Subsequent Bonds have not been admitted to listing on Nasdaq Stockholm (or another Regulated Market) within twenty (20) days after the issuance of such Subsequent Bonds; or
-(c) in the case of a successful admission to listing, that a period of six (6) months has elapsed since the Bonds ceased to be admitted to listing on Nasdaq Stockholm (or another Regulated Market) without being admitted to trading on another Regulated Market.
-"Make Whole Amount" means a price equivalent to the sum of:
-(a) the present value on the relevant record date of 103 per cent. of the Outstanding Nominal Amount as if such payment originally should have taken place on the First Call Date; and
-(b) the present value on the relevant record date of the remaining coupon payments (assuming that the interest rate for the period from the relevant redemption date to the First Call Date will be equal to the interpolated EUR mid-swap rate for the remaining term from the relevant redemption date until the First Call Date plus the applicable Margin), less any accrued but unpaid interest, through and including the First Call Date,

@@ -1,9 +1,0 @@
-The share price is the average of the weighted average of official daily trading price on the exchange the last three days the shares are quoted including rights.
-14.2 In the event of an issue of financial instruments in accordance with Chapter 11 of the Norwegian Companies Act in which existing shareholders have preferential rights to subscribe for the financial instruments,
-(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
-.
-average price during subscription period
-New exercise Price = --------------------------------------------------------------- - x old Exercise Price
-average price during the subscription period plus
-the averagepriceof the warrants in the same period
-The average price is the average of the weighted average of official daily trading price on the exchange during the subscription period. Days without trading are not included in the calculation.

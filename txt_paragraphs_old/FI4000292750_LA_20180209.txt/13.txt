@@ -1,9 +1,0 @@
-"Issuer Group" means the Issuer and each direct and indirect Subsidiary of the Issuer (each member of the Issuer Group is referred to as an "Issuer Group Company").
-"Issuing and Paying Agent" means the issuing and paying agent (in Finnish liikkeeseenlaskijan asiamies) of the Bonds, being Nordea Bank AB (publ), Finnish Branch, business identity code 1703218-0, Satamaradankatu 5, 00020 NORDEA, Helsinki, Finland, or another party replacing it as Issuing and Paying Agent in accordance with the regulations of the CSD.
-"Joint Bookrunners" means DNB Bank ASA, Sweden Branch and OP Corporate Bank plc.
-"Lease Agreement" means the lease agreement dated 1 November 2017 (including, for the avoidance of doubt, any amendments, supplements and modifications from time to time) and entered into between the Issuer and the Operator in relation to the Properties.
-"Lease Guarantee" means the lease guarantee provided by the Unrestricted Guarantor to the Issuer, pursuant to which the Unrestricted Guarantor unconditionally guarantee to the Issuer by way of secondary guarantee (in Finnish toissijainen takaus) the punctual performance by the Operator of any outstanding Lease Payments to the Issuer.
-"Lease Payment" means all payment obligations of the Operator to the Issuer under the Lease Agreement.
-"Make Whole Amount" means the sum of:
-(a) the present value on the relevant record date of 102.425 per cent. of the Nominal Amount as if such payment originally should have taken place on the First Call Date; and
-(b) the present value on the relevant record date of the remaining coupon payments (assuming that the interest rate for the period from the relevant redemption date to the First Call Date will be equal to the interpolated EUR mid-swap rate for the remaining term from the relevant redemption date until the First Call Date plus the Floating Rate Margin), less any accrued but unpaid interest, through and including the First Call Date,

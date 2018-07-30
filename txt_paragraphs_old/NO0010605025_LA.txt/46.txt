@@ -1,9 +1,0 @@
-Day Count Fraction
-9.2.1 The Issuer shall pay interest on the face value of the FRN Tranche from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate").
-# 2896211/1
-20 (44)
-9.2.2 Interest payments shall be made quarterly in arrear on the Interest Payment Dates, the first Interest Payment Date falling in June 2011.
-9.2.3 The relevant interest amount payable shall be calculated based on a period from, and including, one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
-9.2.4 The day count fraction in respect of the calculation of the payable interest amount shall be "Actual/360", which means that the number of days in the calculation period in which payment is being made divided by 360.
-9.2.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest = Amount

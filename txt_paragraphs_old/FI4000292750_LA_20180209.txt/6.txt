@@ -1,9 +1,0 @@
-"Cure Amount" has the meaning ascribed to such term in Clause 12.3 (Equity Cure).
-"EURIBOR" means:
-(a) the applicable percentage rate displayed on the applicable Screen Rate as of or around 11.00 a.m. (Brussels time) on the Quotation Day for the offering of deposits in Euro and for a period comparable to the relevant Interest Period; or
-(b) if no Screen Rate is available for the relevant Interest Period, the applicable EURIBOR shall be the Reference Bank Rate as of the Quotation Day and for a period equal in length to the relevant Interest Period; or
-(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing and Paying Agent best reflects the interest rate for deposits in Euro offered for the relevant period, and
-if any such rate is below zero, EURIBOR will be deemed to be zero.
-"Event of Default" means an event or circumstance specified in any of the Clauses 14.1 (Non-Payment) to and including Clause 14.11 (Continuation of the Business).
-"Existing Debt" means the existing external debt in an amount of EUR 46,791,728.74 that is to be refinanced in connection with the disbursement of Net Proceeds from the Proceeds Account.
-"Final Maturity Date" means the date falling five (5) years after the Issue Date.

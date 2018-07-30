@@ -1,9 +1,0 @@
-10.5 10.5.1
-'
-Upon the occurrence of a Total Loss, the Issuer shall repay the Outstanding Bonds at a price equal to 100.0% of par value plus accrued and unpaid interest; and
-10.5.2
-If a Mandatory Prepayment Event (other than a Total Loss) takes place prior to but not including the First Call Option Date, the Issuer shall repay any Outstanding Bonds at a price equivalent to the sum of; (i) the present value on the relevant record date of 108% of par value as if such payment originally should have taken place on First Call Option Date; and (ii) the present value on the relevant record date of the remaining coupon payments (less any accrued but unpaid interest) through and including the Interest Payment Date falling on the First Call Option Date, both calculated by using a discount rate of 50 basis points over the comparable U.S. Treasury Rate (i.e. comparable to the remaining duration of the Bonds until the First Call Option Date (plus accrued interest on redeemed amount) and where "relevant record date" shall mean a date agreed upon between the Bond Trustee, the Paying Agent, the Securities Depositry and the Issuer in connection with such repayment.
-10.5.3
-If a Mandatory Prepayment Event (other than a Total Loss) takes place on or after the First Call Option Date, the Issuer shall repay any Outstanding Bonds at a price equal to the applicable call option prices set out in Clause 10.3.1 above.
-10.5.4
-If the Bonds are redeemed according to this Clause 10.5, the entire amount on the Escrow Account and any amount remaining on the Retention Account may be used as partial payment (for Mandatory Prepayment).

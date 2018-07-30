@@ -1,9 +1,0 @@
-(a) the Liquidity shall be reported by the Issuer and the Parent (as relevant) on each Quarter Date in the Compliance Certificate to be delivered to the Bond Trustee in connection with each Interim Accounts on the respective Reporting Dates; and
-46 (68)
-14.23
-Vessel LTV Ratio Covenant Cure (a) If the Issuer fails (or would otherwise fail) to comply with the Vessel LTV Ratio at any
-time and the Issuer prior to the relevant Reporting Date has provided either:
-(i) a Cure Vessel and Security in respect of such Cure Vessel along the security principles applicable to the Vessels, cf. Clause 2.5 (Transaction Security) above, or
-(ii) a Cash Deposit bridging the value shortfall,
-then (A) if a Cure Vessel is provided, the Vessel LTV Ratio shall be recalculated on the basis that the Market Value of such Cure Vessel shall be deemed to increase the total aggregate Market Value of the Vessels for the relevant period to which the (expected) breach relates, and (B) if cash collateral is provided and for as long as such cash collateral remains in place, the Outstanding Bond Amount shall, for the purpose of the Vessel LTV Ratio only, be deemed to be reduced by the amount of the cash collateral so provided (the "Vessel LTV Ratio Covenant Cure").
-(b) If, after the Vessel LTV Ratio is recalculated as set out above, the breach has been prevented or cured, the Vessel LTV Ratio shall be deemed to have been satisfied on the date of the relevant Reporting Date.

@@ -1,9 +1,0 @@
-(b) if a Cure Vessel is provided, the Vessel LTV Ratio shall be recalculated on the basis that the Market Value of such Cure Vessel shall be deemed to increase the total aggregate Market Value of the Vessels for the relevant period to which the (expected) breach relates, and
-#7350443/1
-38 (60)
-If, after the Vessel LTV Ratio is recalculated as set out above, the breach has been prevented or cured, the Vessel LTV Ratio shall be deemed to have been satisfied on the date of the relevant Reporting Date.
-If a Cure Vessel or cash collateral has been provided in accordance with this Vessel LTV Ratio Covenant Cure, the security arrangement or relevant cash deposit amount shall be released by the Bond Trustee at the request of the Issuer, if on the next relevant Reporting Date pertaining to the ensuing semi-annual Vessel LTV Ratio measurement the Vessel LTV Ratio will be fully satisfied following any such release.
-14. EVENTS OF DEFAULT AND ACCELERATION OF THE BONDS 14.1 Events of Default
-Each of the events or circumstances set out in this Clause 14.1 shall constitute an Event of Default:
-(a) Non-payment
-An Obligor fails to pay any amount payable by it under the Finance Documents when such amount is due for payment, unless:

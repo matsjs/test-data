@@ -1,9 +1,0 @@
-9.2 The interest rate on the Loan is reset with effect from each Interest Payment Date on LIBOR plus the Margin. Should LIBOR not be available, after 14 February 2014 the interest rate will be reset based on LIBOR Reference Banks plus the Margin.
-9.3 In the event that the interest rate is fixed in accordance with quotes from LIBOR Reference Banks, the Borrower or Bondholders representing at least 1/10th of the Outstanding Loan may appeal against the interest rate fixing. Such an appeal must be presented in writing to the Loan Trustee within 20 Banicing Days of the Bondholders being informed of the interest rate fixing. The appeal will be dealt with by a committee comprising three members, of which one representative is nominated by the Borrower, one representative is nominated by the Loan Trustee and a chairman agreed by the representatives of the two parties. If the parties cannot agree on a chairman, this person will be nominated by the Lord Chief Justice of the Oslo City Court. The decision of the committee is final.
-21/42
-Bondholders and the Exchange (if applicable) shall receive written notice from the Securities Depository that an appeal has been made against the procedure for fixing the interest rate in accordance with sub-clause 9.3.
-9.4 The interest is calculated on the basis of the actual number of elapsed calendar days from and including the Disbursement date to the following Interest Payment Date, and subsequently from each interest fixing date to the next or the maturity date. The number of days is divided by 360.
-10. Maturity of the Loan, Call Option and Mandatory Redemption
-10.1 The Loan will mature in whole on the Maturity Date and shall be repayable at a price equal to 100% of par value.
-10.2 The Borrower may at all times and at its discretion redeem part of the Loan or the entire Loan (the "Call Option") at the following rates:
-(i) up to and including 18 September 2014, 101% of par value;

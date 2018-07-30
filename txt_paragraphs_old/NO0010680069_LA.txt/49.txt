@@ -1,9 +1,0 @@
-#4049573/1
-10.3.3
-The Put Option may be exercised by each Bondholder by giving written notice of the request to its Account Manager. The Account Manager shall notify the Paying Agent of the redemption request. The settlement date of the Put Option shall be the third Business Day after the end of the sixty (60) days exercise period of the Put Option.
-10.3.4
-On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, the principal amount of each such Bond (including any premium pursuant to Clause 10.3.1) and any unpaid interest accrued up to (but not including) the settlement date.
-10.4 10.4.1
-Mandatory Redemption
-Upon a Mandatory Redemption Event occurring, the Issuer shall (i) no later than on the closing date in respect of the relevant transaction constituting the relevant Mandatory Redemption Event, but (ii) in case of a Total Loss Event, on or about the day the relevant insurance proceeds are paid out, but in no event later than 180 days after the occurrence of the Total Loss Event, redeem:
-(i) 40.00 % of the Outstanding Bonds if related to one Vessel;

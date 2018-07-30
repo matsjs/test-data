@@ -1,9 +1,0 @@
-9.6 The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period, based on the Bond Reference Rate two Business Days preceding that Interest Payment Date.
-9.7 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest = Face
-x
-Amount
-Value
-Floating
-x
-Floating Rate

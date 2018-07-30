@@ -1,9 +1,0 @@
-9.1
-Date at a fixed rate o f 15 per cent pel-annum (the "Fixed Rate").
-9.2 Interest payments shall be made on the Interest Payment Date. Interest shall accrue following the Maturity Date only in the event that the general meeting o f the Issuer does not approve the Default Conversion.
-9.3 The relevant interest payable amount shall be calculated based on a period from, and including, Issue Date to, but excluding, the Maturity Date.
-9.4 The day count fraction in respect of the calculation o f the payable interest amount shall be "30/360", which means that the number o f days in the calculation period in respect o f which payment is being made divided by 360 (the number of days to be calculated on the basis o f a year o f 360 days with twelve 30-days months (unless (i) the last day o f the calculation period is the 31st day o f a month but the first day o f die calculation period is a day other than the 30th or 31st day o f a month, in which case the month that includes that last day shall not be considered to be shortened to a 30day month, or (ii) the last day of the calculation period is the last day of the month o f February, in which case the month o f Februaiy shall not be considered to be lengthened to a 30-day month)).
-9.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest = Amount
-Face Value
-X  Fixed Rate

@@ -1,9 +1,0 @@
-amount less than zero (0).
-8.2 8.3 8.4
-9. 9.1
-9.2
-9.3 9.3.1 9.3.2
-9.4 9.4.1
-Interest accrues during an Interest Period. Payment of Interest in respect of the Bonds shall be made to the Bondholders on each Interest Payment Date for the preceding Interest Period.
-Interest shall be calculated on the basis of the actual number of days in the Interest Period in respect of which payment is being made divided by 360 (Day-count fraction is Act/360-days basis).
-If the Issuer fails to pay any amount payable by it on its due date, default interest shall accrue on the overdue amount from (but excluding) the due date up to (and including) the date of actual payment at a rate which is 200 basis points higher than the Interest Rate. Accrued default interest shall not be capitalised. No default interest shall accrue where the failure to pay was solely attributable to the Agent or the CSD, in which case the Interest Rate shall apply instead.

@@ -1,9 +1,0 @@
-NIBOR, (Norwegian Interbank Offered Rate) being;
-(b) if no screen rate is available for the relevant Interest Period;
-(i) the linear interpolation between the two closest relevant interest periods, and with the same number of decimals, quoted under paragraph (a) above; or
-(ii) a rate for deposits in the Bond Currency for the relevant Interest Period as supplied to the Bond Trustee at its request quoted by a sufficient number of commercial banks reasonably selected by the Bond Trustee; or
-(c) if no quotation is available under paragraph (b), the interest rate which according to the reasonable assessment of the Bond Trustee and the Issuer best reflects the interest rate for deposits in the Bond Currency offered for the relevant Interest Period.
-In each case, if any such rate is below zero, the Reference Rate will be deemed to be zero.
-"Relevant Jurisdiction" means the country in which the Bonds are issued, being Norway.
-L 9740044 V I 03.04.18 92656-148
-13/46

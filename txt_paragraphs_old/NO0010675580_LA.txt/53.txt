@@ -1,9 +1,0 @@
-10.1 Maturity The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) (plus accrued interests on redeemed amount) by the Issuer.
-Call Option
-The issuer mayredeem the Bond Issue, all or nothing, at any time from and including (Call Option):
-(a) the Issue Date to, but not included, the Interest Payment Date in April 2016 at a price equivalent to the sum of:
-(i) the present value of the relevant record date of 105% of par value as if such payment originally should have taken place on the Interest Payment Date in April 2016; and
-(ii) the present value on the relevant record date of the remaining coupon payments (less any accrued but unpaid interest) through and including the interest Payment Date in April 2016,
-both calculated by using a discount rate of 50 basis points over the comparable U.S. Treasury Rate (i.e. comparable to the remaining duration of the Bonds until the mentioned Interest Payment Date in April 2016) (plus accrued interest on redeemed amount) and where "relevant record date" shall mean a date agreed upon between the Bond Trustee, the Paying Agent, VPS and the Issuer in connection with such repayment;
-(b) the Interest Payment Date in April 2016 to, but not included, the Interest Payment Date in April 2017 at a price equal to 105 % of par value plus accrued interest on the redeemed amount; and
-(c) the Interest Payment Date in April 2017 to, but not included, the Maturity Date at a price equal to 102.50% of par value plus accrued Interest on the redeemed amount.

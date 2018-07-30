@@ -1,9 +1,0 @@
-"Call Option Amount" shall mean the amount set forth in paragraphs (a)(ii)-(a)(v) of Clause 11.3 ( Voluntary Total Redemption).
-"Commitment Fee" a commitment fee computed at the rate of 15 per cent, per annum of each Bondholder's share of the Bonds and in a minimum amount equal to 3 per cent, of the amount of the Bonds of each Bondholder.
-"Compliance Certificate" means a certificate, in form and substance satisfactory to the Trustee, signed by the Issuer certifying that (a) it is in compliance with the Maintenance Covenant and (b) insofar as it is aware no Event of Default is continuing or, if it is aware that such event is continuing, specifying the event and steps, if any, being taken to remedy it. If the Compliance Certificate is provided in connection with an Incurrence Test, the certificate shall include calculations and figures in respect of the Equity Ratio.
-"CSD" means the Issuer's central securities depository and registrar in respect of the Bonds, from time to time, initially Euroclear Finland Oy, business identity code 1061446 0, Urho Kekkosen katu 5 C, P.O. Box 1110, 00101 Helsinki.
-"CSD Business Day" means any day on which TARGET2 is open for the settlement of payments in euro.
-"Equity Guarantee" means the equity guarantee issued by the Shareholders pursuant to which the Shareholders undertake to make, or procure the making of, an equity injection into the Issuer in the aggregate minimum amount of EUR 1,500,000.
-"Equity Issue" shall have the meaning set out in Clause 14.8 (Equity Issue).
-"Equity Listing Event" means an initial public offering of shares in the Issuer, after which such shares shall be admitted to trading on a regulated market.
-"Equity Ratio" means the ratio of Adjusted Shareholders' Equity plus PIK Shareholder Loans, to the Adjusted Balance Sheet Total.

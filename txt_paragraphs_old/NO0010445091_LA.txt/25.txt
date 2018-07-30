@@ -1,9 +1,0 @@
-either:
-(b) convert the Bonds at the Change of Control Conversion Price, which shall be set out below, but in each case adjusted, if appropriate, under the provisions of Clauses 14 and 15 (provided that no adjustment to the Conversion Price will be made in respect of such Change of Control Event other than pursuant to this Clause 10.3 in respect of exercise o f the conversion right in the Change of Control Conversion Period):
-COCCP = OCP / (1 + (CP X (c/t))) where: COCCP =Change of Control Conversion Price;
-OCP = Conversion Price;
-CP = means 16 per cent;
-c=
-means the number o f days from and including the date o f the Change of
-Control Event to but excluding the Maturity Date; and
-t=

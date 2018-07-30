@@ -1,9 +1,0 @@
-(c) On the settlement date of the Put Option, the Issuer shall pay to each of the Bondholders holding Bonds to be redeemed, the principal amount of each such Bond (including any premium) and any unpaid interest accrued up to (but not including) the settlement date.
-following the relevant Mandatory Prepayment Event, unless there is an Event of Default in which case it will be promptly, redeem 100% of the Outstanding Bonds at a price as follows:
-(a) if occurring anytime from Issue Date to, but not including, Interest Payment Date in April 2015, at a price equivalent to the sum of:
-(i) the present value on the relevant record date of 105.00 % of par value assuming that the Bonds should have fallen due on the Interest Payment Date in April 2015;
-(ii) the present value on the relevant record date of the remaining coupon payments (less any accrued but unpaid interest) through and including the Interest Payment Date in April 2015; and
-(iii) accrued interest on the redeemed amount;
-both (i) and (ii) above calculated by using a discount rate of 50 basis points over the comparable Norwegian Treasury Rate (i.e. comparable to the remaining duration of the Bonds until the mentioned Interest Payment Date in April 2015) and where "relevant record date" shall mean a date agreed upon between the Trustee, the Paying Agent, VPS and the Issuer in connection with the such repayment;
-(b) if occurring anytime from and included the Interest Payment Date in April 2015 to, hut not including, the Interest Payment Date in April 2016, at a price equal to 104.00% of par value (plus accrued interest on redeemed amount);
-(c)

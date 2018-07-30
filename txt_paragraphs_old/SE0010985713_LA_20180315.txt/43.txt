@@ -1,9 +1,0 @@
-from (but excluding) the First Issue Date up to (and including) the relevant Redemption
-Nominal Amount from (but excluding) the Interest Payment Date falling immediately
-prior to its issuance (or the First Issue Date if there is no such Interest Payment Date) up
-to (and including) the relevant Redemption Date. The Interest Rate applicable to the
-interest paid on the first Interest Payment Date shall be subject to linear interpolation
-between two (2) months STIBOR and three (3) months STIBOR.
-8.2
-Interest accrues during an Interest Period. Payment of Interest in respect of the Notes
-shall be made to the Noteholders on each Interest Payment Date for the preceding

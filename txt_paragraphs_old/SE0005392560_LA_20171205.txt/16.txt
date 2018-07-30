@@ -1,9 +1,0 @@
-(i) the average of the quoted lending rates of Norwegian commercial banks on the interbank market in Oslo or, if only one or no such quotes are provided,
-(c) if any such rate is below zero, NIBOR will be deemed to be zero.
-"NOK Bonds" means a debt instrument for the Nominal Amount of the type set forth in section 2-2(2)(2) of the Norwegian Securities Trading Act and which are governed by and issued under these Terms and Conditions and Norwegian securities law, with ISIN NO0010689342.
-"Nominal Amount" means in respect of each SEK Bond the Initial Nominal Amount, less the aggregate amount by which each such Bond has been partly amortised in accordance with Clause 10 (Amortisation) or partly redeemed in accordance with Clause 9.3 (Voluntary redemption (call option)) or Clause 11 (Cash Sweep) and, in respect of a NOK Bond, NOK 1.
-"Non-Recourse Funding SPVs" means Evolution Future Flow Securities (RF) Ltd, Evolution Future Flow Securities 2 (RF) Ltd, Imonti Future Flow (RF) Ltd, Real People Home Improvement Finance (RF) (Pty) Ltd, Umuzi Finance (RF) Limited, MKA Debt Solutions (Pty) Ltd and any other special purpose vehicle which (i) is owned by a trust; (ii) acquires cashflow producing assets from any member of the Group and/or from the market in the ordinary course of its business; (iii) raises debt which is serviced out of the income produced from such cashflow producing assets; and (iv) has no recourse to or against any member of the Group.
-"Norwegian Kronor" and "NOK" means the lawful currency of Norway.
-"Norwegian Securities Register Act" means the Norwegian Act relating to registration of financial instruments of 5 July 2002 No. 64.
-"Norwegian Securities Trading Act" means the Norwegian Act relating to trading of financial instruments of 29 June 2007 No. 75.
-"Obligor" means the Issuer and any Upstream Guarantor.

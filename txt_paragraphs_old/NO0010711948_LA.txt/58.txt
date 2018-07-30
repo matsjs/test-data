@@ -1,9 +1,0 @@
-Mandatory Prepayment
-(i) any of the Rigs is sold or disposed of from any of the Rig Owners; or
-(ii) the Issuer's ownership share in any of the Rig Owners is reduced below 100%.
-(b) Upon the occurrence of a Mandatory Prepayment Event the Issuer shall, no later than 30 days following the relevant Mandatory Prepayment Event (unless there is an Event of Default in which case it will be promptly), redeem a portion of the outstanding Bonds at a price equal to the Issuer's Call Option levels on such date, as set out in Clause 10.2 (plus accrued interest on the redeemed amount).
-(c) The portion of the Outstanding Bonds to be redeemed is conditional upon the number of Rigs disposed of and shall be determined as a fraction of the Outstanding Bonds where:
-22
-(i) the numerator shall be the number of Rigs that is (directly or indirectly) disposed of by any Rig Owner and therefore triggers the Mandatory Prepayment Event; and
-(ii) the denominator shall be the total number of Rigs which is subject to Security Interests immediately prior the Mandatory Prepayment Event.
-For the avoidance of doubt, if one Rig is sold, and nine Rigs are subject to Security Interests, then 1/9 of the Outstanding Bonds shall be redeemed. If ownership in a Rig Owner owning three Rigs is reduced to below 100%, and nine Rigs are subject to Security Interests, then 3/9 of the Outstanding Bonds shall be redeemed.

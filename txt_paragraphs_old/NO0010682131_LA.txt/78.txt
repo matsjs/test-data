@@ -1,9 +1,0 @@
-Floating Rate Day Count Fraction
-10.1 Maturity The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
-10.2 Call Option
-(a)
-The Issuer may redeem the Bond Issue (all or nothing) as follows (Call Option):
-(i) at any time from and including Issue Date to, but not included, the Interest Payment Date in April 2014 at Make Whole Price,
-(ii) at any time from and including the Interest Payment Date in April 2014 to, but not including, the Interest Payment Date in April 2015 at a price equal to 105.00 % o f par value (plus accrued interest on redeemed amount);
-(iii) at any time from and including the Interest Payment Date in April 2015 to, but not including, the Interest Payment Date in April 2016 at a price equal to 104.00 % of par value (plus accrued interest on redeemed amount);
-(iv) at any time from and including the Interest Payment Date in April 2016 to, but not including, the Interest Payment Date in April 2017 at a price equal to 102.50 % of par value (plus accrued interest on redeemed amount);

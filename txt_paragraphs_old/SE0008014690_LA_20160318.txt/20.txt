@@ -1,9 +1,0 @@
-"Subsequent Bond Issue" has the meaning set forth in Clause 2.2.
-"Subsidiary" means an entity from time to time of which a person:
-(a) has direct or indirect control; or
-(b) owns directly or indirectly more than fifty (50) per cent of the share capital or other right of ownership.
-"Swedish Government Bond Rate" means the yield to maturity at the time of computation of direct obligations of Sweden, acting through the Swedish National Debt Office (a Swedish Government Bond; Sw. statsobligation) with a constant maturity (such yield to be the weekly average yield as officially compiled and published in the most recent financial statistics that has become publicly available at least two Business Days (but not more than five Business Days) prior to the relevant Record Date for the Redemption Date (or, if such financial statistics are not so published or available, any publicly available source of similar market data selected by the Issuer in good faith)) most nearly equal to the period from the Redemption Date to the First Call Date; provided, however, that if the period from the Redemption Date to the First Call Date is not equal to the constant maturity of a direct obligation of Sweden, acting through the Swedish National Debt Office for which a weekly average yield is given, the Swedish Government. Bond Rate shall be obtained by linear interpolation (calculated to the nearest one-twelfth (1/12) o f a year) from the weekly average yields of direct obligations of Sweden, acting through the Swedish National Debt Office, for which such yields are given, except that if the period from such Redemption Date to the First
-9
-1.2 1.2.1
-1.2.2 1.2.3 1.2.4
-Call Date is less than one year, the weekly average yield on actually traded direct obligations of Sweden, acting through the Swedish National Debt Office, adjusted to a constant maturity of one year shall be used.

@@ -1,9 +1,0 @@
-(a) the present value on the Call Option Repayment Date of 100 per cent. of the Nominal Amount of the redeemed Bonds as if such payment originally had taken place on the First Call Date; and
-7 (47)
-where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macauley duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation).
-"Manager" means Pareto Securities, Danmark, Filial af Pareto Securities AS, Norge, CVRno. 34736634 having its address at Sankt Annæ Plads 13, 1250 København K, Denmark.
-"Material Adverse Effect" means a material adverse effect on:
-(a) the ability of the Issuer or the Property Company to perform and comply with its obligations under any of the Finance Documents; or
-(b) the validity or enforceability of any of the Finance Documents.
-"Maturity Date" means the date falling eighteen (18) months after the Issue Date, adjusted according to the Business Day Convention.
-"Nominal Amount" means the Initial Nominal Amount less the aggregate amount by which each Bond has been partially redeemed pursuant to Clause 10 (Redemption and repurchase of Bonds).

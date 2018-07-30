@@ -1,9 +1,0 @@
-10.5.1 The Issuer may redeem all, but not only some, of the outstanding Bonds at any time prior to the First Call Date, at a price equivalent to the sum of:
-21
-(b) the present value on the relevant record date of the remaining interest payments (excluding accrued but unpaid interest up to the relevant redemption date) up to and including the First Call Date,
-both calculated by using a discount rate equal to the comparable Norwegian Government Bond Rate (i. e. comparable to the remaining duration of the Bonds until the First Call Date) + 0.50%, together with accrued but unpaid interest on the redeemed amount up to (but not including) the relevant redemption date, where the interest rate applied shall equal the interpolated NOK mid-swap rate for this period plus the Margin, and where "relevant record date" shall mean a date agreed upon between the Bond Trustee, the Paying Agent, the Securities Depositary and the Issuer in connection with such repayment.
-10.6 Change o f control
-10.6.1 Upon the occurrence of a Change of Control Event, each Bondholder shall have the right to require that the Issuer redeems its Bonds (a "Put Option") at a price of 101% of Face Value plus accrued interest.
-10.6.2
-The Put Option must be exercised within fifteen (15) calendar days after the Issuer has given notification to the Bond Trustee of a Change of Control Event. Such notification shall be given as soon as possible after a Change of Control Event has taken place.
-10.6.3

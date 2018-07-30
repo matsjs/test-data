@@ -1,9 +1,0 @@
-9.1.5 In addition, the Bonds will accrue interest at a rate of 7.50% (seven point five per cent) per annum on the amounts spent by the Issuer pursuant to Clause 13.7(d) from the date of each such expenditure to, but excluding, the date that the amount of the expenditure is repaid in full to the Account from which the relevant amount was withdrawn or paid. On each Interest Payment Date, the holders of the Bonds shall receive, in lieu of cash payment of such additional interest, a Face Amount of Bonds equal to such amount.
-38/96
-days in the calculation period in respect of which payment is being made divided by 360 (the number of days to be calculated on the basis of a year of 360 days with twelve 30day months, unless (i) the last day of the calculation period is the 31st day of a month but the first day of the calculation period is a day other than the 30th or 31st day of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or (ii) the last day of the calculation period is the last day of the month of February, in which case the month of February shall not be considered to be lengthened to a 30-day month).
-9.1.7 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest = Face
-x Fixed
-x Fixed Rate
-Amount
-Value

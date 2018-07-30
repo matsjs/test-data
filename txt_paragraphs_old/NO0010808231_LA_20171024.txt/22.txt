@@ -1,9 +1,0 @@
-(a) the present value on the Call Option Repayment Date of 105 per cent, of the Nominal Amount of the redeemed Bonds as if such payment originally had taken place on the First Call Date; and
-both calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining Macaulay duration of the Bonds from the Call Option Repayment Date until the First Call Date using linear interpolation), provided that if such bond rate is negative it will be set to zero, and where the interest rate applied for the remaining interest payments shall equal the Mid-Swap Rate plus the Margin (however so that the interest rate can never fall below the Margin).
-"Manager" means ABG Sundal Collier ASA, Munkedamsveien 45, 0250 Oslo, Norway.
-"Mandatory Prepayment Event" means:
-(a) a Major Disposal Event;
-(b) a Minor Disposal Event; or
-(c) a Major Total Loss Event.
-"Mandatory Prepayment Event Date" means the settlement date for an early redemption due to a Mandatory Prepayment Event determined pursuant to Clause 10.4 (Early redemption due to a Mandatory Prepayment Event).
-L 9251369JV5 24.10.17 112653-014

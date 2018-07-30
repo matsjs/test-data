@@ -1,9 +1,0 @@
-"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
-"Call Option Amount" means:
-(a) 102 per cent of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the First Call Date to, but not including, the date falling 38 months after the Issue Date;
-(b) 101 per cent of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 38 months after the Issue Date up to, but not including, the date falling 41 months after the Issue Date; and
-(c) 100.40 per cent of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 41 months after the Issue Date up to, but not including, the Final Maturity Date.
-"Change of Control Event" means the occurrence of an event or series of events whereby:
-(a) one or more Persons (other than the Main Shareholder or an Affiliate thereof), acting together, acquire control over the Issuer and where "control" means:
-(i) acquiring or controlling, directly or indirectly, over more than 50.00 per cent of the voting shares rights of the Issuer, or
-4

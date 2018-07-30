@@ -1,9 +1,0 @@
-6
-"Interest Rate" means a floating rate of STIBOR (3 months) + 4.00 per cent, per annum.
-"Issue Date" means 9 May 2014.
-"Issuer" means Orexo AB (publ) (reg. no. 556500-0600, P.O. Box 303, SE-751 05, Uppsala, Sweden).
-"Issuing Agent" means Pareto Securities AB (reg. no. 556206-8956, P.O. Box 7415, SE-103 91 Stockholm, Sweden) or another party replacing it, as Issuing Agent, in accordance with these Terms and Conditions.
-"Make Whole Amount" means an amount equal to the sum of:
-(a) the present value on the relevant Record Date of 102.50 per cent, of the Nominal Amount as if such payment originally should have taken place on the First Call Date; and
-(b) the present value on the relevant Record Rate of the remaining Interest payments (excluding accrued but unpaid Interest up to the relevant Redemption Date) up to and including the First Call Date;
-both calculated by using a discount rate of 50 basis points over the comparable Swedish Government Bond Rate (i.e. comparable to the remaining duration of the Bonds until the First Call Date).

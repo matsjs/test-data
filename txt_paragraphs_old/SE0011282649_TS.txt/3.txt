@@ -1,9 +1,0 @@
-Day-count convention for the coupon is actual/360, adjusted modified following basis.
-If the Issuer fails to pay any amount due under the Finance Documents, the Issuer shall pay default interest on such amount at a rate corresponding to the Interest Rate plus 100 basis points from (but excluding) the date such payment was due up to (and including) the date of actual payment. Accrued default interest shall not be capitalised.
-Price:
-100.00% of the Nominal Amount for Bonds issued in the Initial Bond Issue.
-Nominal Amount:
-The nominal amount of each Bond will be SEK 2,000,000.
-Minimum Investment: The minimum permissible investment in the Initial Bond Issue and any Subsequent Bond Issue is SEK 2,000,000 and integral multiples thereof.
-Purpose of the Bonds:
-The Net Proceeds shall be used for acquisition of the Target and other assets and transactions costs. The net proceeds from any Subsequent Bond Issue shall be used for general corporate purposes and transactions costs.

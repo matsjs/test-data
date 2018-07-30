@@ -1,9 +1,0 @@
-(d) If the Issuer fails to pay any amount payable by it on its due date, default interest shall accrue on the overdue amount from (but excluding) the due date up to (and including) the date of actual payment at a rate which is thirteen hundred (1,300) basis points higher than the Interest Rate. Accrued default interest shall not be capitalised. No default interest shall accrue where the failure to pay was solely attributable to the Agent or the CSD, in which case the Interest Rate shall apply instead.
-9.1 Redemption at maturity
-The Issuer shall redeem all, but not only some, of the outstanding Bonds in full on the Final Maturity Date with an amount per Bond equal to the Nominal Amount together with accrued but unpaid Interest. If the Final Maturity Date is not a Business Day, then the redemption shall occur on the first following Business Day.
-9.2 Issuer's purchase of Bonds
-The Issuer may, subject to applicable law, at any time and at any price purchase Bonds on the market or in any other way. The Bonds held by the Issuer may at the Issuer's discretion be retained, sold or cancelled by the Issuer.
-9.3 Voluntary total redemption (calloption)
-(a) The Issuer may redeem all, but not only some, of the outstanding Bonds prior to the Final Maturity Date at:
-(i) the Make Whole Amount, if the call option is exercised on or after the Issue Date to, but not including, the First Call Date; and
-(ii) 100 per cent. of the Outstanding Nominal Amount, together with accrued but unpaid Interest, if the call option is exercised on or after the First Call Date to, but not including, the Final Redemption Date.

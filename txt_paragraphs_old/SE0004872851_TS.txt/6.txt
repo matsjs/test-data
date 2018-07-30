@@ -1,9 +1,0 @@
-(c) receivables sold or discounted (other than on a non-recourse basis, provided that the requirements for de-recognition are met under the Accounting Principles);
-(e) the marked-to-market value of derivative transactions entered into in connection with protection against or benefit from fluctuation in any rate or price (if any actual amount is due as a result of a termination or a close-out, such amount shall be used instead);
-(f) other transactions, included but not limited to futures, having the commercial effect of a borrowing or otherwise being classified as borrowing under the Accounting Principles;
-(g) counter-indemnity obligations in respect of guarantees or other instruments issued by a bank or financial institution; and
-(h) liabilities under guarantees or indemnities for any of the obligations referred to in paragraphs (a) to (g).
-"Financial Instruments Accounts Act" means the Swedish Financial Instruments Accounts Act (lag (1998:1479) om kontoföring avfinansiella instrument).
-"Financial Net Payable" means for any 12 month period ending on the last day of the period covered by the most recent financial statements delivered pursuant to Clause 11.1 (b), calculated in accordance with the Accounting Principles, the aggregate of all financial expenses for the Group (excluding financial expenses for Shareholder Debt):
-(a) minus all financial income;
-(b) minus/plus unrealised losses/gains on currency fluctuations related to hedges of financial items in balance sheet and/or income statement, derivative instruments and financial instruments, other than any derivative instruments which are

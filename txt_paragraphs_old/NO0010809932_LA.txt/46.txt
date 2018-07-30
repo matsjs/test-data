@@ -1,9 +1,0 @@
-Floating x Floating Rate
-Day Count Fraction
-11 Maturity of the Bonds and Redemption
-11.1 Maturity
-The Bonds shall mature in full on the Maturity Date, and shall be repaid at 100% of the Face Value by the Issuer.
-11.2 Call Option
-11.2.1
-Provided that all bonds outstanding under the 2015 Bond Issue have been or will be redeemed on or before the date of redemption of any Bonds by the Issuer hereunder, the Issuer may redeem all but not some only of the Outstanding Bonds (Call Option) on any Business Day from and including:
-(a) the Issue Date to, but not including, the First Call Date at the Make-Whole Amount;

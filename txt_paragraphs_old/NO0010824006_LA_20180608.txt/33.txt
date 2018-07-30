@@ -1,9 +1,0 @@
-9.
-9.1 Calculation of interest
-(a) Each Outstanding Bond will accrue interest at the Interest Rate on the Nominal Amount for each Interest Period, commencing on and including the first date of the Interest Period, and ending on but excluding the last date of the Interest Period.
-(b) Interest will accrue on the Nominal Amount of any Additional Bond for each Interest Period starting with the Interest Period commencing on the Interest Payment Date immediately prior to the issuance of the Additional Bonds (or, if the date of the issuance is not an Interest Payment Date and there is no Interest Payment Date prior to such date of issuance, starting with the Interest Period commencing on the Issue Date).
-(c) Interest shall be calculated on the basis of the actual number of days in the Interest Period in respect of which payment is being made divided by 360 (actual/360-days
-18
-basis). The Interest Rate will be reset at each Interest Quotation Day by the Bond Trustee, who will notify the Issuer and the Paying Agent and, if the Bonds are listed, the Exchange, of the new Interest Rate and the actual number of calendar days for the next Interest Period.
-9.2 Payment of interest Interest shall fall due on each Interest Payment Date for the corresponding preceding Interest Period and, with respect to accrued interest on the principal amount then due and payable, on each Repayment Date.
-10. REDEMPTION ANDREPURCHASE OF BONDS 10.1 Redemption of Bonds

@@ -1,9 +1,0 @@
-"Liquidity" means the aggregate book value of the Issuer's freely available and unrestricted cash in hand and cash deposits (for the avoidance of doubt, including cash deposits on the Issuer's Pledged Accounts, but excluding cash deposits on the Escrow Account, the Qualified Pledged Account and any Exempted Account).
-"Managers" means ABG Sundal Collier ASA and Pareto Securities AS.
-"Mandatory Prepayment Event" means:
-(a) any Significant Asset Disposal Event;
-(b) a Significant Total Loss Event;
-(c) a Conditions Precedent Long Stop Date Event;
-(d) an Additional Yme Interest Long Stop Date Event; or
-(e) Yme PDO Long Stop Date Event,
-provided that:

@@ -1,9 +1,0 @@
-9.1 Interest rate The Issuer shall pay interest on the par value of the Bonds from, and including, the Issue Date at the Bond Reference Rate plus the Margin (together the "Floating Rate").
-9.3 Calculation of interest payments
-(a)
-The relevant interest payable amount shall be calculated based on a period from, and
-including, the Issue Date or one Interest Payment Date (as the case may be) to, but
-excluding, the next following applicable Interest Payment Date.
-(b)
-The day count fraction ("Floating Rate Day Count Fraction") in respect of the
-calculation of the payable interest amount shall be "Actual/360", which means that the

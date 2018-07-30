@@ -1,9 +1,0 @@
-10.1 Maturity and redemption price
-10.2 Call options
-10.2.1 The Issuer may redeem the Bond Issue in whole or in part as follows (Call Option):
-(a) with settlement date at any time from and included the Interest Payment Date in January 2017 to, but not included, the Interest Payment Date in July 2017 at 127% of par plus accrued interests on redeemed amount,
-(b) with settlement date any time from and included the Interest Payment Date in July 2017 to, but not included, the Interest Payment Date in January 2018 at 135% of par plus accrued interests on redeemed amount,
-(c) with settlement date any time from and included the Interest Payment Date in January 2018 to, but not included, Interest Payment Date in July 2018 at 144% o f par plus accrued interests on redeemed amount, and
-(d) with settlement date any time from and included the Interest Payment Date in July 2018 to, but not included, the Maturity Date at 154% o f par plus accrued interests on redeemed amount.
-The applicable call price above shall be determined on the basis of the settlement date of the Call Option.
-10.2.2 Exercise o f the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least twenty (20) Business Days prior to the settlement date of the Call Option.

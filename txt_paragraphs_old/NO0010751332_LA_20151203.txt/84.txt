@@ -1,9 +1,0 @@
-and including, the Issue Date to, but excluding, the next following applicable
-Date to, but excluding, the next following applicable Interest Payment Date.
-20
-Nordic Trustee ASA
-9.4
-The day count fraction ("Floating Rate Day Count Fraction") in respect of the
-calculation of the payable interest amount shall be "ActuaI/360", which means
-that the number of days in the calculation period in which payment being made
-divided by 360.

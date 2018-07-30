@@ -1,9 +1,0 @@
-"Business Day Convention" means that if the relevant Payment Date originally falls on a day that is not a Business Day, an adjustment of the Payment Date will be made so that the relevant Payment Date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day (Modified Foliowing Business Day Convention).
-"Change of Control Event" means
-(i) prior to a Flotation, the occurrence of either of the foliowing:
-(a) the Sponsors, collectively, cease to own a combined shareholding, directly or indirectly, of more than 50% of the aggregate of the shares in the Issuer; and/or
-(b) the Sponsors, collectively, cease to control, directly or indirectly, more than 50% of the voting rights in respect of the Issuer; and
-(ii) after a Flotation, an event whereby:
-(c) the Sponsors collectively, cease to have a Decisive Influence in the Issuer,
-provided that a change of ownership as a result of a Flotation shall not constitute a Change of Control Event pursuant to Clause (a) or (b) above.
-"Compliance Certificate" means a certificate, materially in the form set out in Attachment i A or Attachment 1 B hereto (as applicable) and otherwise in form and substance reasonably satisfactory to the Bond Trustee, signed by the Issuer certifying (i) ifprovided in connection with its Financial Reports, that so far as it is aware no Event of Default is continuing or, if it is aware that such event is continuing,

@@ -1,9 +1,0 @@
-"Longstop Date" means the date that falls 60 Business Days after the Issue Date.
-(a) the present value on the Call Option Repayment Date of 103% o f the Nominal Amount as if such payment had taken place on the First Call Date; and
-(b) the present value on the Call Option Repayment Date of the remaining interest payments (less any accrued and unpaid interest as of the Call Option Repayment Date) to and including the First Call Date,
-where the present value shall be calculated by using a discount rate of 50 basis points above the comparable Government Bond Rate (i.e. comparable to the remaining duration until the First Call Date using linear interpolation).
-"Make-Whole Calculation Date" means the first Business Day after the day the Issuer has sent notice for exercising of the Call Option.
-"Manager" means ABG Sundal Collier ASA, who act as manager for the Bond Issue.
-"Material Adverse Effect" means a material adverse effect on:
-(a) the Issuer's or any Guarantor's ability to perform and comply with its obligations under any of the Finance Documents, or
-(b) the validity or enforceability of any o f the Finance Documents.

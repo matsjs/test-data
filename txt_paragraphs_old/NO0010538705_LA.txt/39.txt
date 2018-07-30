@@ -1,9 +1,0 @@
-or
-[RP x (N - n)] + [(OCP x n)] COCCP
-N
-where:
-COCCP is the Change of Control Conversion Price;
-RP
-is the Reference Price;
-OCP
-is the current Conversion Price on the relevant Conversion Date;

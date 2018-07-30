@@ -1,9 +1,0 @@
-12.3 Early voluntary redemption by the Issuer (call option)
-(a) any time prior to the First Call Date at the Make Whole Amount;
-(b) any time on or after the First Call Date to, but not including, the date falling six (6) months after the First Call Date (the "Second Call Date"), at a price equivalent to 106.25 per cent, of the Nominal Amount;
-(c) any time from an including the Second Call Date to, but not including, the date falling six (6) months after the Second Call Date (the "Third Call Date") at a price equivalent to 103.125 per cent, of the Nominal Amount; and
-(d) any time from and including the Third Call Date to, but not including, the Final Redemption Date at a price equivalent to 100.00 per cent, of the Nominal Amount, (12.3.1 (b) to (c) constitute the "Call Option Price").
-12.3.2
-Redemption in accordance with Clause 12.3.1 shall be made by the Issuer giving not less than fifteen (15) Business Days' notice to the Holders and the Agent. Any such notice shall state the Redemption Date and the relevant Record Date and is irrevocable but may, at the Issuer's discretion, contain one or more conditions precedent. Upon expiry of such notice and the
-28
-fulfilment of the conditions precedent (if any), the Issuer is bound to redeem the Bonds in full at the applicable amounts.

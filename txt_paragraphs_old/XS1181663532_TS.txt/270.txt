@@ -1,9 +1,0 @@
-Changes in fair value of commodity contracts reflect unrealized gains or losses and are calculated as the difference between market price and contract price discounted to present value. Some commodity contracts are bilateral contracts or embedded derivatives in bilateral contracts, for which there exists no active market. Hence, valuation techniques which use available market information are used as much as possible. In the absence of observable market information, valuation techniques that reflect how the market could be expected to price instruments are used.
-In April 2013, we signed a new long-term energy contract for the supply of electricity for our paper mill in Halden. The new energy contract secures an annual supply of 1.0 terawatt-hours (``TWh'') up to December 2020. The agreement became effective on May 1, 2013. The contract ensures almost full energy coverage for the paper mill in Halden over the contract period. During 2013, we also terminated one of our long-term group energy contracts from 1998 that we used for energy supply in Southern Norway.
-S e nsitivity a na lysis fo r c o m m o d ity c o n tra c ts
-Trading and hedging mandates have been established for energy activity. Financial trading and hedging activities are carried out bilaterally with banks and trading companies. When calculating fair value of
-87
-future and forward contracts, cash flows are by principle assumed to occur in the middle of the period. Currency effects arise when contract values nominated in foreign currencies are translated into the reporting currency.
-Energy p r ic e ............................................................ C u rre n c y ...................................................................
-% Change
-Fair Value at December 31,

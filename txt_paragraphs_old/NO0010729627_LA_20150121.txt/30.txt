@@ -1,9 +1,0 @@
-9.3 The relevant interest payable amount shall be calculated based on a period from, and including, 16 January 2015 to, but excluding, the next following applicable Interest Payment Date, and thereafter from, and including, that Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
-9.5 The Paying Agent shall carry the PIK into effect at the relevant Interest Payment Date. The additional Bonds issued as PIK give the same rights as the other issued Bonds (including with respect to conversion) as of the registration of the increased outstanding amount of the Bonds in the Securities Depository, and shall be deemed to constitute part of the Bonds.
-9.6 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest = Face
-x
-Amount
-Value
-Fixed Rate
-x Fixed Rate Day Count Fraction

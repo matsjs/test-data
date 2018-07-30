@@ -1,9 +1,0 @@
-(i) if the Shares are listed at a Market Place, a new Conversion Price be calculated as follows:
-The "Share Price" is the arithmetic average of the volume weighted average of a Share published by or derived from the Market Place in respect of all trades the last three days Shares are quoted including rights and have actually been traded.
-(ii) if the Shares are not listed, the Conversion Price be reduced with an amount equal to the amount repaid per Share.
-Reduction of the share capital without repayment to the shareholders shall have no influence on the Conversion Price.
-C.4
-In the event of a bonus issue of new Shares (with the exception of shares issued in settlement of a
-merger offer), split or consolidation, the new Conversion Price shall be fixed as follows:
-new Conversion Price = number of Shares prior to bonus issue, split or consolidation x old Conversion Price number of Shares after bonus issue, split or consolidation
-In the event that the shares are split into more than one class of shares, the Conversion Right shall be adjusted so that Bondholders' interest in the separate share classes remains unchanged, regardless of whether the Bondholder elects to convert prior to, or after the date on which the shares are quoted post split.

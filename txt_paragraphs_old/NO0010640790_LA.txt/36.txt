@@ -1,9 +1,0 @@
-10.4 Clean-up call
-10.5 Change o f Control
-If a Change of Control has occurred, each Bondholder shall at any time during the period commencing on the date on which a Change of Control occurs and ending sixty (60) calendar days following such date or, if later, sixty (60) calendar days following the notification of a Change of Control, be entitled (at each Bondholder's sole discretion) to:
-(a) require early redemption of its Bonds (put option) at 100% of par value plus accrued interest; or
-(b) convert its Bonds at the Change of Control Conversion Price, as set out below:
-COCCP = OCP/(l+ (CP x c/t)),
-where
-COCCP = means the Change of Control Conversion Price;
-OCP = means the Conversion Price in effect on the relevant Conversion Date;

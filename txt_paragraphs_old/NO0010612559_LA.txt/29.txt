@@ -1,9 +1,0 @@
-(i)
-(ii) the sum of the remaining coupon payments through and including the Maturity Date.
-Such calculation shall be made by replacing the Floating Rate with the Applicable
-NOK SWAP Rate, whereas the "Applicable NOK SWAP R ate" mean the fixed
-interest rate part of an interest rate swap in NOK quoted at the date of such Share
-Replacement Event, with a maturity equal to the Maturity Date and where the
-counterparty receives NIBOR plus 850 bps and pays a fixed semi-annually interest
-rate.
-9

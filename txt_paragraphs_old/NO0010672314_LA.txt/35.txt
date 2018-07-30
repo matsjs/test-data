@@ -1,9 +1,0 @@
-X
-Day Count
-11 Maturity of the BondsandRedemption
-11.1 Maturity
-The Bonds shallmature in hill on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
-11.2 Call Option
-11.2.1
-The Issuer may in its discretion redeem the entire Bond Issue (but not only a part thereof) with settlement date at any time from and including the date falling two (2) years after the Issue Date to, but not included, the Maturity Date (the "Call Option") at a price (the "Call Option Price") equivalent to the 103% of the Face Value plus accrued but unpaid interest on the redeemed amount.
-11.2.2 Exercise of the Call Option shall be notified by the Issuer in writing to the Bond Trustee and the Bondholders at least thirty Business Days prior to the settlement date of the Call Option.

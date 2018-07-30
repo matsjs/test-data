@@ -1,9 +1,0 @@
-9.4 The day count fraction in respect of the calculation of the payable interest amount shall be "30/360" ("Fixed Rate Day Count Fraction"), which means that the number of days in the calculation period in respect of which payment is being made divided by 360 (the number of days to be calculated on the basis of a year of 360 days with twelve 30-days months (unless (i) the last day of the calculation period is the 31 st day of a month but the first day o f the calculation period is a day other than the 30th or 31 st day of a month, in which case the month that includes that last day shall not be considered to be shortened to a 30-day month, or (ii) the last day of the calculation period is the last day of the month o f February, in which case the month of February shall not be considered to be lengthened to a 30-day month)).
-Interest = Amount Fraction
-Face Value
-x
-Fixed
-Rate
-x
-Fixed Rate
-Day Count

@@ -1,9 +1,0 @@
-The Issuer fails to make a payment in accordance with the Transaction Documents unless its failure to pay is caused by administrative or technical error and payment is made within five (5) Business Days of the due date.
-The Issuer has failed to comply with any of the Portfolio Parameters, and has not remedied such failure (if capable of being remedied) within twenty (20) Business Days' notice thereof.
-14.3 Other Obligations
-The Issuer fails to comply with the Transaction Documents, except as set out under 14.1 and 14.2 above, and has not remedied such failure (if capable of being remedied) within twenty (20) Business Days' notice thereof.
-14.4 Cross-Acceleration
-Any Financial Indebtedness of the Issuer is not paid when due as extended by any originally applicable grace period, or is declared to be due as a result of an event of default (however described), provided that no Event of Default will occur under this Clause 14.4 if the aggregate amount of Financial Indebtedness is less than SEK 3,000,000 (or its equivalent in any other currency).
-14.5 Service Provider Termination Event
-A Service Provider Termination Event (as defined in the Securitisation Framework Agreement) occurs.
-30

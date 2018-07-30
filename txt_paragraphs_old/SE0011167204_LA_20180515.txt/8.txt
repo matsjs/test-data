@@ -1,9 +1,0 @@
-(k) after adding any amounts claimed under loss of profit, business interruption or equivalent insurance, provided that it is reasonably likely (determined in good faith by the management of the Issuer after its best assessment) that the Group will be entitled to receive insurance proceeds under such insurance claims; and
-"Equity Listing Event" means an offering of shares in the Issuer or any of its holding companies whether initial or subsequent to a public offering, resulting in shares allotted becoming quoted, listed, traded or otherwise admitted to trading on a Regulated Market.
-"EURIBOR" means:
-(a) the applicable percentage rate per annum displayed on Reuters screen EURIBOR01 (or through another system or website replacing it) as of or around 11.00 a.m. (Brussels time) on the Quotation Day for the offering of deposits in Euro and for a period comparable to the relevant Interest Period; or
-(b) if no screen rate is available for the relevant Interest Period, the arithmetic mean of the rates (rounded upwards to four decimal places), as supplied to the Issuing Agent at its request quoted by banks reasonably selected by the Issuing Agent, for deposits of EUR 10,000,000 for the relevant period; or
-(c) if no quotation is available pursuant to paragraph (b), the interest rate which according to the reasonable assessment of the Issuing Agent best reflects the interest rate for deposits in Euro offered for the relevant period; and
-if any such rate is below zero, EURIBOR will be deemed to be zero.
-"Euro" and "EUR" means the single currency of the participating member states in accordance with the legislation of the European Community relating to Economic and Monetary Union.
-"Event of Default" means an event or circumstance specified in any of the Clauses 14.1 (Non-Payment) to and including Clause 14.8 (Continuation of the Business).

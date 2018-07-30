@@ -1,9 +1,0 @@
-Fixed Rate
-10. AAATURITY OF THEBONDS ANDREDEMPTION
-10.1 Maturity The Bonds shallmature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
-10.2 10.2.1
-Call Option The Issuer may redeem the Bond Issue in whole at any time from and including (Call Option):
-(a) the Issue Date to, but not including, the date falling 25 months after Settlement Date at a price equivalent to the sum of:
-(i) the present value on the relevant record date of 104.65% of par value as if such payment originally should have taken place on the Interest Payment Date falling 25 months after the Issue Date; and
-(ii) the present value on the relevant record date of the remaining coupon payments (less any accrued but unpaid interest) through and including the date falling 25 months after Issue Date,
-both calculated by using a discount rate of 50 basis points over the comparable U.S. Treasury Rate (i.e. comparable to the remaining duration of the Bonds until the mentioned date falling 25 months after Issue Date) (plus accrued interest on redeemed amount) and where "relevant record date" shall mean a date agreed upon between the Bond Trustee, the Paying Agent, the Securities Depository and the Issuer in connection with such repayment;

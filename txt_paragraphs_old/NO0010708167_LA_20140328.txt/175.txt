@@ -1,9 +1,0 @@
-excluding, the subsequent Interest Payment Date.
-The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation
-o f the payable interest amount shall be "Actual/360", which means that the number of days
-in the calculation period in which payment being made divided by 360.
-(e)
-The applicable Floating Rate on the Bonds is set on the Issue Date for the relevant Bonds
-and reset on each Interest Payment Date by the Bond Trustee, based on the Bond Reference
-Rate two (2) Business Days preceding the relevant Issue Date or Interest Payment Date (as
-the case may be). The Bond Trustee shall immediately, following the determination of the

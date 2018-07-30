@@ -1,9 +1,0 @@
-(a) the present value on the relevant record date of the remaining coupon payments (assuming that the Interest Rate for the period from the relevant redemption date to the First Call Date will be equal to the interpolated SEK mid-swap rate for the remaining term from the redemption date to the First Call Date plus the Floating Rate Margin), less any accrued but unpaid interest, through and including the First Call Date;
-(c) accrued (but unpaid) interest on the redeemed amount,
-(b) and (c) above calculated by using a discount rate of 50 basis points over the comparable Swedish Government Bond Rate (i.e. comparable to the remaining duration of the Bonds until the First Call Date) and where "relevant record date" shall mean a date agreed upon between the Agent, the CSD and the Issuer in connection with such repayment.
-"Market Loans" means any loan or other indebtedness where an entity issues commercial paper, certificates, subordinated debentures, bonds or any other debt securities (including, for the avoidance of doubt, medium term note programmes and other market funding programmes), provided in each case that such instruments and
-7
-securities are or can be subject to trade on NASDAQ Stockholm or any other regulated or unregulated recognised market place.
-"Material Adverse Effect" means a material adverse effect on:
-(a) the business, financial condition or operations of the Group taken as a whole;
-(b) the Group's ability to perform and comply with the Finance Documents; or

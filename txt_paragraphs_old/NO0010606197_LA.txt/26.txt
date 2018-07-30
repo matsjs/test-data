@@ -1,9 +1,0 @@
-9.5 The applicable Floating Rate on each Tranche is set/reset on each Interest Payment Date for the relevant Tranche by the Bond Trustee commencing on the Interest Payment Date for the relevant Tranche at the beginning of the relevant calculation period.
-9.6 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest Amount
-Face Value
-X
-Floating
-X Floating Rate
-Rate
-Day Count Fraction

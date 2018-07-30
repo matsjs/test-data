@@ -1,9 +1,0 @@
-"Business Day Convention" means that if the last day of any Interest Period originally falls on a day that is not a Business Day, the Interest Period will be extended to include the first following Business Day unless that day falls in the next calendar month, in which case the Interest Period will be shortened to the first preceding Business Day {ModifiedFollowing).
-"Call Option Repayment Date" means the settlement date for the Call Option determined by the Issuer pursuant to Clause 10.2 {Voluntary early redemption - Call Option), or a date agreed upon between the Bond Trustee and the Issuer in connection with such redemption of Bonds.
-"CSD" means the central securities depository in which the Bonds are registered, being VPS ASA.
-"Change of Control Event" means:
-(a) at any time prior to an IPO of the Issuer, that any person or group of persons acting in concert (other than either any entity under common control (directly or indirectly) with AI Media Holdings (NMT) LLC, a Delaware company with reg. number 4645801, Access or Rasmussengruppen) gains Decisive Influence over the Issuer; or
-(b) upon and at any time following a successful IPO of the Issuer, any event where (a) any other person or group of persons acting in concert (other than any entity under common control (directly or indirectly) with AI Media Holdings (NMT) LLC, Access
-4 (56)
-or Rasmussengruppen) controls 50 per cent, or more shares or voting rights in the Issuer, or (b) the shares in the Issuer is subject to de-listing from the Exchange.
-"Closing Procedure" shall have the meaning as ascribed to such term in Clause 2.5 (Transaction Security) sub-paragraph (c).

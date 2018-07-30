@@ -1,9 +1,0 @@
-§3
-The Notes carry interest from but excluding the Issue Date up to and including the Maturity Date, as specified below.
-Series 1: The interest on Series 1 Notes is equal to the Fixed Interest Rate and is payable on each Fixed Interest Payment Date. The day count fraction in respect of the calculation of the payable interest amount shall be 30/360.
-If the relevant Fixed Interest Payment Date falls on a day that is not a Banking Day, that Fixed Interest Payment Date will instead fall on the first following Banking Day (following business day convention), subject to the Notes bearing interest only up to and including the Maturity Date.
-Series 2: The interest on Series 2 Notes is equal to the Floating Interest Rate as determined on each Interest Determination Date with respect to the immediately following Interest Period and is payable on each Floating Interest Payment Date. The day count fraction in respect of the calculation of the payable interest amount shall be actual/360.
-If the relevant Floating Interest Payment Date falls on a day that is not a Banking Day, that Floating Interest Payment Date will instead fall on the first following Banking Day, unless that day falls in the next calendar month, in which case that day will be the first preceding day that is a Banking Day (modified following business day convention, adjusted), subject to the Notes bearing interest only up to and including the Maturity Date.
-If the Interest Rate for an Interest Period cannot be calculated due to an obstacle set forth in Clause 22 (Limitations of Liability etc.) or other similar circumstance, the Interest Rate for the preceding Interest Period shall be applied. As soon as the obstacle has ceased, the Interest Rate shall be determined for the current Interest Period and applied from the second Banking Day after the day for determination up to including the next Interest Payment Date.
-25
-§4

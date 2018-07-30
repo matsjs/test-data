@@ -1,9 +1,0 @@
-180
-Each of the following is an "Event of Default":
-(1) default for 30 days in the payment when due of interest or Additional Amounts, if any, with respect to the Notes;
-(2) default in the payment when due (at maturity, upon redemption or otherwise) of the principal of, or premium, if any, on, the Notes;
-(3) failure by the Issuer or relevant Guarantor to comply with the provisions described under the caption " -- Certain co ven ants--M e rg e r, co n so lid a tio n o r sale o f a sse ts";
-(4) failure by the Parent or any Restricted Subsidiary for 60 days after written notice to the Issuer by the Trustee or the holders of at least 25% in aggregate principal amount of the Notes then outstanding voting as a single class to comply with any of the agreements in the Indenture (other than a default in performance, or breach, of a covenant or agreement which is specifically dealt with in clauses (1), (2) or (3) above) or the Notes, the Note Guarantees, any Security Document or the Intercreditor Agreement (or any Additional Intercreditor Agreement entered into pursuant to the terms of the Intercreditor Agreement or the Indenture);
-(5) default under any mortgage, indenture or instrument under which there may be issued or by which there may be secured or evidenced any Indebtedness for money borrowed by the Parent or any Restricted Subsidiary (or the payment of which is guaranteed by the Parent or any Restricted Subsidiary), whether such Indebtedness or guarantee now exists, or is created after the Issue Date, if that default:
-(a) is caused by a failure to pay principal or premium, if any, on such Indebtedness at the Stated Maturity thereof, prior to the expiration of the grace period provided in such Indebtedness on the date of such default (a "Payment Default"); or
-(b) results in the acceleration of such Indebtedness prior to its express maturity,

@@ -1,9 +1,0 @@
-13
-(i) the contractual interest amount due pursuant to sub-clause 9.1; and
-(ii) the greater of (1) the Parity Value (as defined in sub-clause 10.2) on the fifth Banking Day prior to the relevant Interest Payment Date divided by the Conversion Price, and (2) 1.0.
-9.4 The Borrower shall inform the Bondholders (via the Securities Depository), the Loan Trustee and the Paying Agent at latest at 16:00 hours Oslo time on fifteenth Banking Day before the relevant Interest Payment Date in the event that the Borrower elects to make the relevant payment o f interest in cash rather than as Payment-in-Kind.
-The number of additional Bonds to be issued if Payment-in-Kind is elected shall be calculated by dividing the contractual interest amount due pursuant to sub-clause 9.1 by the face value o f the Bonds (i.e. USD 1.0), rounded down to the nearest whole Bond.
-The Paying Agent shall carry the Payment-in-Kind into effect at the relevant Interest Payment Date. The additional Bonds issued upon Payment-in-Kind give the same rights as the other issued Bonds as o f the registration o f the increased outstanding amount o f the Loan in the Securities Depository, and shall be deemed to constitute a part of the Loan.
-10 M aturity of the Loan, Call Option, Change of Control, P u t Option and Forced
-Conversion
-10.1 The Loan will run without installments and mature in whole on the Maturity Date at par (100%).

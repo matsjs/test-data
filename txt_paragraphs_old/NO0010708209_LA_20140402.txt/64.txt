@@ -1,9 +1,0 @@
-9.3
-including, one Interest Payment Date to, but excluding, the next following applicable
-Interest Payment Date.
-9.4
-The day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of
-the payable interest amount shall be "30/360", which means that the number of days in
-the calculation period in respect of which payment is being made divided by 360 (the
-number of days to be calculated on the basis of a year of 360 days with twelve 30-days
-months (unless (i) the last day of the calculation period is the 31st day of a month but the

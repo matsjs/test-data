@@ -1,9 +1,0 @@
-/ I 't \/v_
-from the weekly average yields of direct obligations of Sweden for which such yields are given; and
-(b) if the period from the Redemption Date to the Final Maturity Date is less than one (1) year, the weekly average yield on actually traded direct obligations of Sweden adjusted to a fixed maturity of one year shall be used.
-For the purpose of calculation the Applicable Premium, the "Applicable Mid Swap Rate" means:
-(a) the applicable mid-rate displayed on NASDAQ Stockholm's website for SEK swap fixing as of or around 11.00 a.m. on the Business Day immediately preceding the date on which the relevant notice of redemption is given and for a period of time equal to the period from the relevant Redemption Date to the Final Maturity Date, and if such period is not equal to the tenor of one displayed mid-rate then the mid-rate shall be obtained:
-(i)
-if such period is longer than one year, by linear interpolation from the
-two applicable mid-rates displayed with tenors closest to Final Maturity
-Date; and

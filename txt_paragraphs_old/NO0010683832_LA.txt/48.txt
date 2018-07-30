@@ -1,9 +1,0 @@
-Interest = Face
-Amount
-Value
-Fixed Rate
-x Fixed Rate Day Count Fraction
-10 Maturity of the Bonds and Redemption
-10.1 Maturity
-10.1.1
-The Bonds shall be repaid by the Issuer with an amount of USD 8,750,000 on the Interest Payment Date in January 2015 and on each subsequent Interest Payment Date up to and including the Interest Payment Date in January 2018. The remaining outstanding amount under the Bond Issue shall be repaid at the Maturity Date.

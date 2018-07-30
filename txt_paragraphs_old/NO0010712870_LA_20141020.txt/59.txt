@@ -1,9 +1,0 @@
-10.3 10.3.1
-Upon the occurrence of a Mandatory Prepayment Event, the Issuer shall, not later than 30 days following the relevant Mandatory Prepayment Event, unless there is an Event of Default in which case it will be promptly, redeem 100 per cent, of the Outstanding Bonds at a price as follows:
-(a) if occurring anytime from the Settlement Date to, but not including, the Interest Payment Date 12 months after Settlement Date at a price equal to 105.80 per cent, of par value plus accrued interest up to the settlement date on redeemed Bonds;
-(b) if occurring anytime from and included the Interest Payment Date 12 months after Settlement Date to, but not including, the Interest Payment Date 24 months after Settlement Date, at a price equal to 104.60 per cent, of par value plus accrued interest up to the settlement date on redeemed Bonds;
-(c) if occurring anytime from and included the Interest Payment Date 24 months after Settlement Date to, but not including, the Interest Payment Date 36 months after Settlement Date, at a price equal to 103.50 per cent, of par value plus accrued interest up to the settlement date on redeemed Bonds; and
-(d) if occurring anytime thereafter, at the then applicable call premium as determined in Clause 10.2 (Call Option) plus accrued interest up to the settlement date on redeemed Bonds.
-10.3.2 The redemption price shall be determined based on the date the Mandatory Prepayment Event occurred and not on the date the repayment is carried out.
-10.4 10.4.1
-Total Loss Prepayment

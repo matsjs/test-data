@@ -1,9 +1,0 @@
-places, with 0.000005 being rounded up) to which the relevant
-Conversion Right in the absence of a Cash Settlement Election
-being applicable to such exercise;
-pn
-is the Volume Weighted Average Price of a Share on the nth
-Dealing Day of the Cash Settlement Calculation Period; and
-N
-is 15, being the number of Dealing Days In the Cash Settlement
-Calculation Period,

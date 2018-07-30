@@ -1,9 +1,0 @@
-"Bond Escrow Account" means a blocked CSD escrow account in the name of the Issuer, to which the Roll-Over Bonds will be credited. The Bond Escrow Account shall be pledged to the Bond Trustee on behalf of the holders of Temporary Bonds under the Bond Escrow Account Pledge.
-"Bonds" means the debt instruments issued by the Issuer pursuant to these Bond Terms, including any Temporary Bonds and any Additional Bonds.
-"Business Day" means a day on which both the relevant CSD settlement system and TARGET2 is open for settlement.
-"Business Day Convention" means that if the last day of any Interest Period originally falls on a day that is not a Business Day, the Interest Period will be extended to include the first following Business Day unless that day falls in the next calendar month, in which case the Interest Period will be shortened to the first preceding Business Day (Modified Following).
-"Call Option" has the meaning given to it in Clause 10.2 (Voluntary Redemption - Call Option).
-"Call Option Repayment Date" means the settlement date for the Call Option determined by the Issuer pursuant to Clause 10.2 (Voluntary early redemption - Call Option), or a date agreed upon between the Bond Trustee and the Issuer in connection with such redemption of Bonds.
-"Cash and Cash Equivalents" means, at any time:
-(a) cash at hand or on deposit with a reputable bank (including, in relation to the Initial Bond Issue or a Tap Issue, prior to release of funds from the Escrow Account relating to the Initial Bond Issue or any such Tap Issue, the amounts deposited on such Escrow Account);
-(b) certificates of deposit or marketable debt securities maturing within one (1) year after the relevant date of calculation and issued by a reputable bank;

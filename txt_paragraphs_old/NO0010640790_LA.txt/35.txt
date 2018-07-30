@@ -1,9 +1,0 @@
-16
-Execution Version
-where
-PV = the Parity Value;
-N = the number of Shares determined by dividing USD 1.00 (being the face value of each bond) by the Conversion Price in effect on such trading day; and
-VWAP = the Volume Weighted Average Price of a Share on such trading day (provided that if on any such trading day the Shares shall have been quoted cum-dividend or cumany other entitlement and the Shares to be delivered will not be entitled to same, the Volume Weighted Average Price on such trading day shall be deemed to be the amount thereof reduced by an amount to the fair market value of such dividend or entitlement per share as at the date of first public announcement of such dividend or entitlement (or, if that is not a trading day, the immediate preceding trading day)), translated into USD at the Exchange Rate on such dealing day.
-Notice of forcing conversion must be submitted to Bondholders no less than ten (10) and no more than twenty (20) Business Days prior to the Forced Conversion Date.
-10.4 Clean-up call
-The Issuer may at any time during the term of the Bonds, provided that 90 per cent or more of the Bonds have been redeemed or converted into Shares, with twenty (20) banking days' notice period call the remaining part of the Bond at 100% of par value plus accrued interest. For the sake of clarity; the Bondholder's Conversion Rights may be exercised following such redemption call provided the conversion notice is issued within the said redemption notice period.

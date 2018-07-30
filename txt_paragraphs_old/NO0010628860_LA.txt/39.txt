@@ -1,9 +1,0 @@
-9.5 The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Face Value
-x
-Fixed
-Rate
-x
-Fixed Rate
-Day Count Fraction
-#3190053/8

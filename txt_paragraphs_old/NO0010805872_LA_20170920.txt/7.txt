@@ -1,9 +1,0 @@
-"Call Option" has the meaning given to it in Clause 10.2 (Voluntary Redemption - Call Option).
-"Calculation Date" means a date for calculating the Vessel LTV Ratio (i) falling semi annually on 31 December and 30 June each year for ongoing reporting purposes, and (ii) as may be required to conduct a Tap Issue Test.
-"CSD" means the central securities depository in which the Bonds are registered, being VPS ASA.
-"Change of Control Event" means:
-(A) any person, or group of persons under the same Decisive Influence, or two or more persons acting in concert obtains Decisive Influence over the Parent, other than MPC Group or its Affiliates or other parties acting in concert with MPC Group or its Affiliates; or
-(B) a de-listing of the Parent's shares from the Merkur Market or another internationally recognized stock exchange (if applicable) that does not occur in connection with a listing of the Issuer's shares on another internationally recognized stock exchange,
-PROVIDED that if MPC Group or its Affiliates or other parties acting in concert with MPC Group or its Affiliates acquire Decisive Influence or even 100% of the shares in the Parent, and following such acquisition the shares of the Parent are de-listed as described in b) above, such de-listing shall not constitute a Change of Control Event as long as the Parent is listed on a reputable exchange simultaneously with a Merkur Markets delisting and remains listed until the Final Maturity Date.
-"Compliance Certificate" means a statement substantially in the form as set out in Attachment 1 hereto.
-"Cure Vessel" means an otherwise unencumbered vessel (other than a Vessel) in respect of which a first priority mortgage is provided by the Group in favour of the Bond Trustee as additional security as per Clause 13.4.

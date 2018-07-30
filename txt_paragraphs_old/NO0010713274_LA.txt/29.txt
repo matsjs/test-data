@@ -1,9 +1,0 @@
-Floating x Floating Rate
-Day Count Fraction
-10 Maturity of the Bonds and Redemption
-10.1 Maturity
-The Bonds shall mature in full on the Maturity Date, and shall be repaid at par (100%) by the Issuer.
-10.2 Change o f control
-10.2.1 Upon the occurrence of a Change of Control Event, each Bondholder shall have the right to require that the Issuer redeems its Bonds (a "Put Option") at a price of 100% of par plus accrued interest.
-L_4SG4087_VI 11.06.14 506203-013
-15/33

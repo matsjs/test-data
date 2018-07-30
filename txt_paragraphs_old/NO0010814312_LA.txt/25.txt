@@ -1,9 +1,0 @@
-"Pre-Disbursement Security" means the Security designated as such Clause 2.5 (Transaction Security).
-"Put Option" shall have the meaning ascribed to such term in Clause 10.4 (Mandatory repurchase due to a Put Option Event).
-"Put Option Event" means a Change of Control Event.
-"Put Option Repayment Date" means the settlement date for the Put Option Event pursuant to Clause 10.4 (Mandatory repurchase due to a Put Option Event).
-"Reference Rate" shall mean LIBOR (London Interbank Offered Rate) being
-(a) the interest rate which is published on Reuters Screen LIBOR01 Page (or through another system or on another website replacing the said system or website respectively) approximately 11.00 a.m. (London time) on the Interest Quotation Day and for a period comparable to the relevant Interest Period; or
-14
-(b) if no screen rate is available for the relevant Interest Period;
-(i) the linear interpolation between the two closest relevant interest periods, and with the same number of decimals, quoted under paragraph (a) above; or

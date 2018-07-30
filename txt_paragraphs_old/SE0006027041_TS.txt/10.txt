@@ -1,9 +1,0 @@
-means the day falling two (2) Banking Days prior to the first day of each Interest Period;
-interest Payment Date"
-interest Period" "Interest Rate" "Issue Date" "Issuing Agent" "Listing Failure" "Market Loan"
-"Nominal Amount" "Note" "Qualified Majority" "Record Date"
-"Redemption Date" "Senior Market Loan"
-means 15 January, 15 April, 15 July and 15 October each year, with the first Interest Payment Date falling on 15 October 2014. If an Interest Payment Date falls on a day which is not a Banking Day, the Interest Payment Date will instead be the next following Banking Day unless that day falls in the next calendar month, in which case the Interest Payment Date will be the first preceding day that is a Banking Day (modified following business day convention);
-means the period from (but excluding) (i) the date of the issuance of a Note or (ii) the previous Interest Payment Date (as applicable), up to (and including) (i) the subsequent Interest Payment Date or (ii) the Final Redemption Date (as applicable);
-means STIBOR plus 2.90 per cent, per annum',
-18 June 2014;

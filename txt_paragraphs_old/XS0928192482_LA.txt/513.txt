@@ -1,9 +1,0 @@
--- -- -- -- -168.2
-4.5 70.5 90.8 -25.8 --
-140.0
-The basis for the Group level interest rate risk sensitivity analysis is an aggregate Group level interest rate exposure, composed of interest bearing assets and interest bearing liability which are used to hedge the underlying positions. For all interest bearing debt and assets to be fixed during next 12 months a one percentage point (100 basis points) move upwards or downwards in interest rates with all other variables held constant would have the effects before taxes presented in the table below:
-2012 2011
-Income statement effect............................................................................................................... -/+0.5 -/+1.4
-Commodity risk
-Sanitec may use derivatives to hedge its exposure to commodity price fluctuations where appropriate. As of the end of the year, the Group held no commodity derivative contracts.
-Capital management

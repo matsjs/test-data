@@ -1,9 +1,0 @@
-The Issuer shall comply (or procure the compliance) with these Financial Covenants at all times, and:
-(d) the Vessel LTV Ratio shall be reported by the Issuer semi-annually on the relevant Calculation Date, and certified by the Issuer in a compliance certificate to be delivered to the Bond Trustee no later than 30 days after the relevant Calculation Date.
-13.4
-Vessel LTV Ratio Covenant Cure
-(a) If the Issuer fails (or would otherwise fail) to comply with the Vessel LTV Ratio at any time and the Issuer prior to the relevant Reporting Date has provided either:
-(i) a Cure Vessel and security in respect of such Cure Vessel along the principles applicable to the Vessels (re. "Security" above); or
-(ii) cash collateral deposited on a bank account pledged on first priority and blocked in favour of the Bond Trustee (on behalf of the Bondholders) bridging the value shortfall, then:
-(b) if a Cure Vessel is provided, the Vessel LTV Ratio shall be recalculated on the basis that the Market Value of such Cure Vessel shall be deemed to increase the total aggregate Market Value of the Vessels for the relevant period to which the (expected) breach relates, and
-(c) if cash collateral is provided and for as long as such cash collateral remains in place, the Outstanding Bond Amount shall, for the purpose of the Vessel LTV Ratio only, be deemed to be reduced by the amount of the cash collateral so provided.

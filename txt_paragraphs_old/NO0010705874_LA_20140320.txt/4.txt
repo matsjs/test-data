@@ -1,9 +1,0 @@
-3
-the first preceding day that is a Business Day (Modified Following Business Day Convention).
-"Call Option" shall have the meaning set out in Clause 10.2.
-"Calculation Date" means each 30 June and 31 December.
-"Cash and Cash Equivalent" means, on any date the amounts (expressed in USD) on such date of the then current market value of:
-a) cash in hand or amounts standing to the credit of any current and/or on deposit accounts with an acceptable bank;
-b) time deposits with acceptable banks and certificates of deposit issued, and bills of exchange accepted, by an acceptable bank; and
-c) other cash equivalents treated as cash and cash equivalent in accordance with NGAAP,
-in each case, to which any Group Company is beneficially entitled at that time and to which any such Group Company has free and unrestricted access. Any amount standing to the credit of any pledged (but not blocked) account of the Group (a "Pledged Account") shall be regarded as Cash and Cash Equivalent. However, if there are defaults under any credit facilities with security over a Pledged Account, any amount standing to the credit of such Pledged Account shall not be included in the calculation of Cash and Cash Equivalents. An "acceptable bank" for this purpose is:

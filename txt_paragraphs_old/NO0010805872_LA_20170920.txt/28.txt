@@ -1,9 +1,0 @@
-"Tap Issue" shall have the meaning ascribed to such term in Clause 2.1 (Amount, denomination, ISIN and tenor).
-"Tap Issue Date" shall have the meaning ascribed to such term in Clause 2.1 (Amount, denomination, ISIN and tenor).
-"Tap Issue Test" means
-(A) Tap Issue Test A: The Vessel LTV Ratio is below 50%.
-(B) Tap Issue Test B: The Parent, in connection with the Tap Issue, provides the Issuer Group with cash equity funding in an amount of no less than 1.5 times the aggregate Nominal Amount of the Bonds to be issued through such Tap Issue in connection with Additional Vessel Acquisitions.
-The Tap Issue Test is met if no Event of Default is outstanding and the Issuer meets the requirements of either Tap Issue Test A or Tap Issue Test B.
-#7350443/1
-13 (60)
-The calculation of the Vessel LTV Ratio in accordance with the Tap Issue Test A above shall be made as per a testing date determined by the Issuer, falling no earlier than 10 business days prior to the relevant Tap Issue Date, according to the following principles:

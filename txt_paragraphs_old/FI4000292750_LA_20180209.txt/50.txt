@@ -1,9 +1,0 @@
-12.2 Testing of the Maintenance Test
-12.3 Equity Cure
-(a) If there is a breach of the Maintenance Test, no Event of Default will occur if, within twenty (20) Business Days of a delivery of the relevant Compliance
-30
-Certificate evidencing that breach, the Issuer has received equity injection in cash in the form of a share issue or an unconditional shareholder contribution in an amount sufficient to ensure compliance with the relevant Maintenance Test, as at the relevant test date (the "Cure Amount").
-(b) The calculation of the Net Interest Bearing Debt and/or Minimum Cash (as applicable) shall be adjusted so that the Net Interest Bearing Debt and/or the Minimum Cash (as applicable) for the Reference Period is reduced or increased (as applicable) with an amount equal to the Cure Amount.
-(c) The calculation of the Operator EBITDA shall be adjusted so that Operator EBITDA is for the Reference Period increased with an amount equal to 1/3 of the Cure Amount.
-(d) The calculation of the Interest Coverage Ratio shall be adjusted so that the Issuer Net Finance Charges for the Reference Period is reduced with an amount equal to the Cure Amount, multiplied with the average interest rate paid by the Issuer under the Bonds after taken into account payments and receipt under the hedging arrangements during the previous twelve (12) month period.
-(e) Any Equity Cure counted in any calendar quarter shall be included in the Maintenance Test calculations until such time as that calendar quarter falls outside the Reference Period.

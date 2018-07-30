@@ -1,9 +1,0 @@
-9.2 Interest Payment Dates
-9.3 Calculation of interest payments
-(a) The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date or an Interest Payment Date (as the case may be) to, but excluding, the next following applicable Interest Payment Date.
-(b) The day count fraction ("Floating Rate Day Count Fraction") in respect of the calculation of the payable interest amount shall be "Actual/360", which means the number of days in the calculation period in which a payment is being made divided by 360.
-The applicable Floating Rate on the Bonds is set/reset on each Interest Payment Date by the Bond Trustee commencing on the Interest Payment Date at the beginning of the relevant calculation period, based on the Bond Reference Rate two (2) Business Days preceding that Interest Payment Date.
-When the interest rate is set for the first time and on subsequent interest rate resets, the next Interest Payment Date, the interest rate applicable up to the next Interest Payment Date and the actual number of calendar days up to that date shall immediately be notified to the Bondholders, the Issuer, the Paying Agent, and if the Bonds are listed, the Exchange.
-(c) The payable interest amount per Bond for a relevant calculation period shall be calculated as follows:
-Interest Amount
-Face Value

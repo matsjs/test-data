@@ -1,9 +1,0 @@
-(iii) if a deadline ends on a day which is not a Business Day, the deadline is postponed to the next Business Day.
-(i) An amount sufficient for the payment of principal and interest on the Outstanding Bonds to the Maturity Date (including, to the extent applicable, any premium payable upon exercise of the Call Option), and always subject to paragraph (c) below (the "Defeasance Amount") is credited by the Issuer to an account in a financial institution acceptable to the Bond Trustee (the "Defeasance Account");
-(ii) the Defeasance Account is irrevocably pledged and blocked in favour of the Bond Trustee on such terms as the Bond Trustee shall request (the "Defeasance Pledge"); and
-the Bond Trustee has received such legal opinions and statements reasonably required by it, including (but not necessarily limited to) with respect to the validity and enforceability of the Defeasance Pledge, then the Issuer will be relieved from its obligations under Clause 12.2 (Requirements as to Financial Reports) paragraph (a), Clause 12.3 (Put Option Event), Clause 12.4 (Information: miscellaneous) and Clause 13 (General andfinancial undertakings).
-(b) The Bond Trustee shall be authorised to apply any amount credited to the Defeasance Account towards any amount payable by the Issuer under any Finance Document on the due date for the relevant payment until all obligations of the Issuer and all amounts outstanding under the Finance Documents are repaid and discharged in full.
-(c) The Bond Trustee may, if the Defeasance Amount cannot be finally and conclusively determined, decide the amount to be deposited to the Defeasance Account in its discretion, applying such buffer amount as it deems required.
-A defeasance established according to this Clause 18.4 may not be reversed.
-19. GOVERNING LAW AND JURISDICTION 19.1 Governing law
-These Bond Terms are governed by the laws of the Relevant Jurisdiction, without regard to its conflict of law provisions.

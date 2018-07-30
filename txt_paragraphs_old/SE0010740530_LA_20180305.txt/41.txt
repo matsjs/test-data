@@ -1,9 +1,0 @@
-(a) the Properties are managed properly and maintained in good condition; and
-13. Events of Default and Acceleration of the Bonds
-Each of the events or circumstances set out in this Clause 13 (other than Clause 13.11 (Acceleration of the Bonds)) is an Event of Default.
-13.1 Non-Payment
-The Issuer fails to pay an amount on the date it is due in accordance with the Finance Documents unless its failure to pay is caused by administrative or technical error and payment is made within 5 Business Days of the due date.
-13.2 Maintenance Test
-The Issuer does not comply with the Maintenance Test.
-13.3 Other Obligations
-The Issuer does not comply with the Finance Documents, in any other way than as set out under Clause 13.1 or 13.2 above, provided that the Agent has requested the Issuer in writing to remedy such failure and the Issuer has not remedied the failure within 20 Business Days from such request (if the failure or violation is not capable of being remedied, the Agent may declare the Bonds payable without such prior written request).

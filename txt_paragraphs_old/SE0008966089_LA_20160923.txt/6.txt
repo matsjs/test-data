@@ -1,9 +1,0 @@
-"Applicable Premium" means the higher of:
-(b) an amount equal to:
-i. 100.00 per cent, of the Nominal Amount, plus
-ii. the present value on the relevant record date of all remaining scheduled Interest payments (less any accrued but unpaid interest) on the Bonds until the Final Maturity Date (assuming that the Interest Rate for the period from the relevant Redemption Date to the Final Maturity Date will be equal to the Applicable Mid Swap Rate),
-both sub-paragraphs (i) and (ii) discounted (for the time period starting from the relevant Redemption Date to the Final Maturity Date) using a discount rate equal to the yield to maturity on the Business Day immediately preceding the date on which the applicable notice of redemption is given of the Swedish Bond Rate with a maturity date on or about the Final Maturity Date plus 0.50 per cent.
-For the purpose of calculating the Applicable Premium, the "Swedish Bond Rate" means the direct obligations of Sweden (statsobligationer) with a fixed maturity most nearly equal to the period from the Redemption Date to the Final Maturity Date, provided that:
-(a) if the period from the Redemption Date to the Final Maturity Date is not equal to the fixed maturity of a direct obligation of Sweden for which a weekly average yield is given, the Swedish Bond Rate shall be obtained by linear interpolation
-/ I 't \/v_
-4 (33)

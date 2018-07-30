@@ -1,9 +1,0 @@
-Interest = Amount
-x
-Floating
-x
-Floating Rate
-Rate
-Day Count Fraction
-9.12 All payments, until the Fixed Rate Tranche is equal to NOK 300,000,000 and the FRN Tranche is equal to NOK 100,000,000, o f interest shall be settled by way of issuing additional Bonds ("Payment-in-Kind"). The number of additional Bonds so issued on the relevant Interest Payment Date(s) shall be calculated based on the total number of Bonds outstanding at each such Interest Payment Date, and any additional Bonds so issued shall rank pari passu with the Bonds already issued under this Loan Agreement. On the Interest Payment date on which the two tranches reach NOK 300,000,000 and NOK 100,000,000 respectively, interest shall be settled partially by Payment-in-ICind and partially in cash in such fractions that the Outstanding Bonds under the Fixed Rate Tranche equals NOK 300,000,000 and the Outstanding Bonds under the FRN Tranche equals NOK 100,000,000 on that relevant Interest Payment Date.
-10 M aturity off the Bonds and Redemption

@@ -1,9 +1,0 @@
-Norske Skog makes a credit evaluation of all financial trading counterparties. Based on the evaluation, a limit on credit exposure is established for each counterparty. These limits are monitored continuously in relation to unrealised profit on financial instruments and placements. The maximum credit risk arising from financial instruments is represented by the carrying amount of financial assets in the balance sheet. This includes derivatives with positive market value except for embedded derivatives. Embedded derivatives are not subjected to credit risk, as there are no future cash flows associated with such derivatives.
-Norske Skog's procedures for credit management of European trade receivables, and the authority to approve credit lines to customers of European business units, are regulated by a policy drafted and maintained by a centralised credit management function at the head office. The operational responsibility to act within the guidelines as set out by this policy lies with each business unit. For operations outside of Europe, customer credit management is handled locally.
-9. DERIVATIVES
-Fair value of derivatives
-The table below classifies financial instruments measured in the balance sheet at fair value, by valuation method. The different valuation methods are described as levels and are defined as follows:
-Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities.
-Level 2: Inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
-Level 3: Inputs for the asset or liability are not based on observable market data (i.e. unobservable inputs).
-31.12.2013

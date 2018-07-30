@@ -1,9 +1,0 @@
-which the communication is sent.
-Should the Issuer want to replace the Agent, it may send a communication in accordance
-with Clause 17.1 to each Noteholder with a copy to the Agent.
-17.3
-A communication pursuant to Clause 17.1 shall include (i) each request for a decision by the
-Noteholders, (ii) a description of the reasons for each request, (iii) a specification of the CSD
-Business Day at the end of which a Person must be registered as a Noteholder in order to be
-entitled to exercise voting rights, (iv) instructions and directions on where to receive a form
-for replying to the request (such form to include an option to vote yes or no for each request)

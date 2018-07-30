@@ -1,9 +1,0 @@
-If the share capital increase is not registered in the Company Register at the Exercise Date, the Borrower shall ensure that the shares following exercising shall be temporarily registered in the Securities Depository (with temporary ISIN).
-14 Adjustment of the Exercise Price/Exercise Right
-14.1 In the event of a new issue of Shares in which shareholders have preferential rights to subscribe for the new Shares,
-(i) if the Shares are listed at an exchange, a new Exercise Price shall be calculated as follows:
-(share price x nymber of shares before share issue) + (share issue price x nymber of new shares)
-New Exercise Price = -------------------- n TM
-b e r o f s h ^ e f e ---------------------x oWExercise Price Share Price
-The share price is the average of the weighted average of official daily trading price on the exchange the last three days the shares are quoted including rights.
-(ii) if the Shares are not listed, each Bondholder shall have the same subscription right as the shareholders, as if the Bondholder already had exercised his Exercise Right(s).

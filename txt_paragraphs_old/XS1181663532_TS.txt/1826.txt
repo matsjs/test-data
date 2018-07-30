@@ -1,9 +1,0 @@
-RESULT NET OF TAX CHANGE DOWN
-RESULT NET OF TAX CHANGE UP
-835 26
-S e nsitivity a na lysis fo r e m b e d d e d d eriva tive s
-Em bedded derivatives are common features in physical commodity contracts. The most common em bedded derivatives are price indices, hereunder national consumer price and producer price indices. Some em bedded derivatives have option features. The analysis below combines all indices into one price index. Currency effects will arise when contract values nominated in foreign currencies are translated to NOK.
-EMBEDDED DERIVATIVES
-Currency .......................................... change 10% Price in d e x ........................................ change 2.5%
-FAIR VALUE 31.12.2012
-217 217

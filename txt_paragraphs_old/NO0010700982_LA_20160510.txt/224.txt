@@ -1,9 +1,0 @@
-(In $USD, thousands)
-A ccounts Receivable Detail (w ith VAT)
-1 Beginning Balance of Accounts Receivable Balance 2 (+) Invoicing 3 (-) Cash Collections 4 Ending Balance of Accounts Receivable Balance
-5 Am ount of U nrestricted Cash (Initial - Consolidated)
-6 Collections (with VAT) 7 Access to Restricted Cash
-8 Direct OpEx
-9
-Personnel Outflows
-10 R&M

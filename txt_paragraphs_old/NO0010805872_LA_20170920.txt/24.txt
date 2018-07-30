@@ -1,9 +1,0 @@
-#7350443/1
-Bond Trustee of the interest rate, which in the opinion of the Bond Trustee and the Issuer is equal to what is offered to commercial banks in the New York city interbank market, for the relevant Interest Period. If any such rate is below zero, LIBOR will be deemed to be zero.
-"Redemption Amount" means an amount calculated as follows:
-the higher of the the (i) Market Value and the (it) Transaction Value of the relevant Vessel(s)
-the aggregate Market Value of all the Vessels
-multiplied with the Outstanding Bond Amount.
-In the above calculation of the Redemption Amount, the following principles shall be applied:
-(A) the calculation shall be made as per a calculation date determined by the Issuer, falling no earlier than 5 business days prior to the Issuer giving notice of the relevant Mandatory Prepayment;
-(B) the Market Value of the Vessel(s) disposed shall be the most recent Market Value of such Vessel prior to its Permitted Disposal; and

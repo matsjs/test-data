@@ -1,9 +1,0 @@
-"Exchange" means Oslo Bors (the Oslo Stock Exchange).
-"Finance Documents" means these Bond Terms, the Bond Trustee Fee Agreement, and any other document designated by the Issuer and the Bond Trustee as a Finance Document.
-"Financial Indebtedness" means any indebtedness for or in respect of:
-(a) moneys borrowed (and debit balances at banks or other financial institutions);
-(b) any amount raised by acceptance under any acceptance credit facility or dematerialized equivalent;
-(c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument, including the Bonds;
-(d) the amount of any liability in respect of any lease or hire purchase contract which would, in accordance with IFRS, be treated as a finance or capital lease (meaning that the lease is capitalized as an asset and booked as a corresponding liability in the balance sheet);
-(e) receivables sold or discounted (other than any receivables to the extent they are sold on a non-recourse basis provided that the requirements for de-recognition under IFRS are met);
-(f) any derivative transaction entered into and, when calculating the value of any derivative transaction, only the marked to market value (or, if any actual amount is due as a result of the termination or close-out of that derivative transaction, that amount shall be taken into account);

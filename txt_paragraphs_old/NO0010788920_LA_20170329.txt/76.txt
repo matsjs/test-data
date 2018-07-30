@@ -1,9 +1,0 @@
-39 (62)
-13.13
-Incurrence Test
-(a) Upon the occurrence of an Incurrence Event the Issuer is under an obligation to evidence (i) compliance with the Minimum Liquidity requirement, and (ii) the Leverage Ratio not being greater than 3.50x (or higher as may follow from the Incurrence Test Grid).
-(b) The Issuer shall upon the occurrence of an Incurrence Event deliver to the Bond Trustee a Compliance Certificate with calculations as covenants test on a pro forma basis which shall ensure compliance with the Leverage Ratio and the Minimum Liquidity. The calculations, shall be made by taking into account the following principles:
-(i) the calculation of Leverage Ratio and Minimum Liquidity shall be made as per a testing date determined by the Issuer falling no earlier than thirty-one (31) days prior to carrying out the relevant Incurrence Event (the "Incurrence Testing Date") on apro forma basis as if the relevant Incurrence Event had been carried out;
-(ii) the Total Net Debt shall be measured on the relevant testing date so determined, but include the full undrawn (if any) commitments under new Financial Indebtedness in respect of which the Incurrence Test is applied;
-(iii) any cash balance resulting from the incurrence of such new Financial Indebtedness shall not reduce the Total Net Debt;
-(iv) in respect of any Permitted Distribution and cash subject to Distribution to another person than a Group Company shall be deducted when calculating Total Net Debt and Minimum Liquidity;

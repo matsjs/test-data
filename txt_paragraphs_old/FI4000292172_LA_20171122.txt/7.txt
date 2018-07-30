@@ -1,9 +1,0 @@
-"Book-Entry System Act" means the Finnish Act on Book-Entry System and Clearing Operations (Fin: Laki arvo-osuusjarjestelmdsta ja selvitystoiminnasta 348/2017, as amended).
-"Business Day" means a day on which the deposit banks are generally open for business in Helsinki.
-"Business Day Convention" the first following day that is a CSD Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a CSD Business Day.
-"Call Option Amount" means:
-(a) 103.125 per cent, of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the First Call Date to, but not including, the date falling 30 months after the First Issue Date;
-(b) 102.188 per cent, of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 30 months after the Issue Date to, but not including, the date falling 36 months after the First Issue Date;
-(c) 101.250 per cent, of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 36 months after the issue Date to, but not including, the date falling 42 months after the First Issue Date;
-(d) 100.313 per cent, of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 42 months after the Issue Date to, but not including, the date falling 47 months after the First Issue Date; and
-(e) 100.00 per cent, of the Outstanding Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 47 months after the Issue Date to, and including, the Final Redemption Date.

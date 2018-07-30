@@ -1,9 +1,0 @@
-2
-"Bondholder" means the person who is registered on a Securities Account as direct registered owner (Sw. ägare) or nominee (Sw. förvaltare) with respect to a Bond.
-"Bondholders' Meeting" means a meeting among the Bondholders held in accordance with Clause 18 (Bondholders' Meeting).
-"Business Day" means a day in Sweden other than a Sunday or other public holiday. Saturdays, Midsummer Eve (Sw. midsommarafton), Christmas Eve (Sw. julafton) and New Year's Eve (Sw. nyårsafton) shall for the purpose of this definition be deemed to be public holidays.
-"Business Day Convention" means the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day.
-"Call Option Amount" means:
-(a) an amount per Bond equal to the Make Whole Amount, together with accrued but unpaid interest, if the Call Option is exercised at any time prior to but excluding the First Call Date;
-(b) 104.40 per cent. of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised from and including the First Call Date to, but not including, the first Business Day falling 24 months after the First Issue Date;
-(c) 102.20 per cent. of the Nominal Amount, together with accrued but unpaid interest, if the Call Option is exercised on or after the date falling 24 months after the First Issue Date to, but not including, the date falling 33 months after the First Issue Date; and

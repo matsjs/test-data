@@ -1,9 +1,0 @@
-#4743999/1
-9.3
-The interest shall be capitalised on each Interest Payment Date and paid on the Maturity
-Date. Interest shall accrue on the principal amount outstanding of the Bonds plus interest
-that is capitalised from time to time.
-9.4
-The day count fraction ("Fixed Rate Day Count Fraction") in respect of the calculation of
-the payable interest amount shall be "30/360", which means that the number of days in
-the calculation period in respect of which payment is being made divided by 360 (the

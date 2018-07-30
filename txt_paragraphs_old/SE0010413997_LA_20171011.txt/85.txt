@@ -1,9 +1,0 @@
-15. 15.1
-15.3 15.3.1 15.4 15.4.1
-INCURRENCE TEST
-Incurrence Test
-The Incurrence Test is met if:
-(a) no Event of Default is continuing or would result from the relevant incurrence;
-(b) the Net Interest Bearing Debt to EBITDA (the "Leverage Ratio") is equal to or less than 3.50:1 for the Relevant Period; and
-(c) the Interest Coverage Ratio is greater than 2.00:1 for the Relevant Period.
-Calculation of the Leverage Ratio

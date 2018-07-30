@@ -1,9 +1,0 @@
-Interest = Face
-Amount
-Value
-Fixed Rate
-x Fixed Rate Day Count Fraction
-9.4 Interest payments shall be made in arrears on the Interest Payment Dates each year, the first Interest Payment Date being September 2013.
-9.5 The relevant interest payable amount shall be calculated based on a period from, and including, the Issue Date or one Interest Payment Date to, but excluding, the next following applicable Interest Payment Date.
-10 Maturity of the Bonds and Redemption
-10.1 Maturity and instalments
